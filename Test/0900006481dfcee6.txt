@@ -1,0 +1,69 @@
+
+    [Federal Register Volume 81, Number 6 (Monday, January 11, 2016)]
+    [Rules and Regulations]
+    [Pages 1131-1132]
+    From the Federal Register Online via the Government Publishing Office [[www.gpo.gov](http://www.gpo.gov)]
+    [FR Doc No: 2016-211]
+    
+    
+    =======================================================================
+    -----------------------------------------------------------------------
+    
+    FEDERAL COMMUNICATIONS COMMISSION
+    
+    47 CFR Part 52
+    
+    [WC Docket No. 13-97, 04-36, 07-243, 10-90 and CC Docket No. 95-116, 
+    01-92, and 99-200; FCC 15-70]
+    
+    
+    Numbering Policies for Modern Communications, IP-Enabled 
+    Services, Telephone Number Requirements for IP-Enabled, Services 
+    Providers, Telephone Number Portability et al.
+    
+    AGENCY: Federal Communications Commission.
+    
+    ACTION: Final rule; correction
+    
+    -----------------------------------------------------------------------
+    
+    SUMMARY: The Commission published in the Federal Register of October 
+    29, 2015, a document concerning an (Order) establishing an 
+    authorization process to enable interconnected VoIP providers that 
+    choose direct access to request numbers directly from the Numbering 
+    Administrators. Next, this document sets forth several conditions 
+    designed to minimize number exhaust and preserve the integrity of the 
+    numbering system. Finally, this document modifies Commission's rules in 
+    order to permit VoIP Positioning Center (VPC) providers to obtain 
+    pseudo-Automatic Number Identification (p-ANI) codes directly from the 
+    Numbering Administrators for purposes of providing E911 services. These 
+    relatively modest steps will have lasting, positive impacts for 
+    consumers and the communications industry as we continue to undergo 
+    technology transitions.
+    
+    DATES: Effective January 11, 2016,
+    
+    FOR FURTHER INFORMATION CONTACT: Marilyn Jones, Wireline Competition 
+    Bureau, Competition Policy Division,
+    
+    [[Page 1132]]
+    
+    (202) 418-1580, or send an email to [marilyn.jones@fcc.gov](mailto:marilyn.jones@fcc.gov).
+    
+    SUPPLEMENTARY INFORMATION: The Commission published a document in the 
+    Federal Register of October 29, 2015, (80 FR 66454), amending Sec.  
+    52.5 of the Commission's rules.
+        In Final rule FR Doc. 2015-20900 published on October 29, 2015, (80 
+    FR 66477), make the following correction. On page 66477, in the third 
+    column, paragraph 2 in Sec.  52.5, remove the title ``Central office 
+    code administration'' and revise it to read ``Definitions''.
+    
+    Federal Communications Commission.
+    Sheryl Todd,
+    Deputy Secretary.
+    [FR Doc. 2016-211 Filed 1-8-16; 8:45 am]
+    BILLING CODE 6712-01-P
+    
+    
+    
+

@@ -1,0 +1,458 @@
+
+    [Federal Register Volume 81, Number 6 (Monday, January 11, 2016)]
+    [Rules and Regulations]
+    [Pages 1128-1131]
+    From the Federal Register Online via the Government Publishing Office [[www.gpo.gov](http://www.gpo.gov)]
+    [FR Doc No: 2015-33177]
+    
+    
+    -----------------------------------------------------------------------
+    
+    ENVIRONMENTAL PROTECTION AGENCY
+    
+    40 CFR Part 52
+    
+    [EPA-R10-OAR-2015-0813; FRL-9940-93-Region 10]
+    
+    
+    Approval and Promulgation of Implementation Plans; Washington; 
+    Removal of Obsolete Regulations
+    
+    AGENCY: Environmental Protection Agency (EPA).
+    
+    ACTION: Direct final rule.
+    
+    -----------------------------------------------------------------------
+    
+    SUMMARY: The Environmental Protection Agency (EPA) is taking direct 
+    final action to remove outdated rules in the Code of Federal 
+    Regulations (CFR) for the State of Washington because they are 
+    unnecessary or obsolete. The EPA is also clarifying regulations to 
+    reflect updated citations and more recent air quality monitoring data. 
+    This direct final action makes no substantive changes to the State 
+    Implementation Plan (SIP) and imposes no new requirements.
+    
+    DATES: This rule is effective on March 11, 2016, without further 
+    notice, unless the EPA receives adverse comment by February 10, 2016. 
+    If the EPA receives adverse comment, we will publish a timely 
+    withdrawal in the Federal Register informing the public that the rule 
+    will not take effect.
+    
+    ADDRESSES: Submit your comments, identified by Docket ID No. EPA-R10-
+    OAR-2015-0813, at <http://www.regulations.gov>. Follow the online 
+    instructions for submitting comments. Once submitted, comments cannot 
+    be edited or removed from [Regulations.gov](http://Regulations.gov). The EPA may publish any 
+    comment received to its public docket. Do not submit electronically any 
+    information you consider to be Confidential Business Information (CBI) 
+    or other information whose disclosure is restricted by statute. 
+    Multimedia submissions (audio, video, etc.) must be accompanied by a 
+    written comment. The written comment is considered the official comment 
+    and should include discussion of all points you wish to make. The EPA 
+    will generally not consider comments or comment contents located 
+    outside of the primary submission (i.e. on the web, cloud, or other 
+    file sharing system). For additional submission methods, the full EPA 
+    public comment policy, information about CBI or multimedia submissions, 
+    and general guidance on making effective comments, please visit <http://www2.epa.gov/dockets/commenting-epa-dockets>.
+    
+    FOR FURTHER INFORMATION CONTACT: Jeff Hunt, EPA Region 10, (206) 553-
+    0256, [hunt.jeff@epa.gov](mailto:hunt.jeff@epa.gov).
+    
+    SUPPLEMENTARY INFORMATION: Throughout this document whenever ``we,'' 
+    ``us,'' or ``our'' are used, it is intended to refer to the EPA.
+    
+    I. Introduction
+    
+        This action is being taken pursuant to Executive Order 13563--
+    Improving Regulation and Regulatory Review. It is intended to reduce 
+    the number of pages in the CFR by identifying those rules in 40 CFR 
+    part 52, subpart WW, for the State of Washington that are duplicative, 
+    outdated, or obsolete. These rules no longer have any use or legal 
+    effect because they have been superseded by subsequently approved SIP 
+    revisions. This action also amends certain rules by revising outdated 
+    citations and updating provisions based on more recent ambient air 
+    quality monitoring data. One aspect of the EPA's action removes 
+    historical information found in the ``Original Identification of plan'' 
+    section in 40 CFR 52.2477. This section is no longer necessary because 
+    the EPA promulgated administrative rule actions to replace these 
+    paragraphs with summary tables in 40 CFR 52.2470 (78 FR 17108, March 
+    20, 2013). These summary tables describe the regulations, source-
+    specific actions, and non-regulatory requirements which comprise the 
+    SIP.
+    
+    II. Removal of Obsolete or Unnecessary Rules and Clarifications to 
+    Certain Rules
+    
+        The EPA reviewed the following regulations and found that they 
+    should be removed or revised for the reasons set forth as follows:
+    
+    [[Page 1129]]
+    
+    A. Section 52.2471 Classification of Regions
+    
+        In a submission received on September 22, 2014, included in the 
+    docket for this action, the Washington Department of Ecology (Ecology) 
+    reviewed air quality monitoring data for nitrogen dioxide 
+    (NO2) and ozone with respect to classifying regions under 40 
+    CFR 51.150. That section classifies regions based on air quality 
+    information for purposes of establishing requirements for emergency 
+    episode plans. The air quality information in 40 CFR 52.2471 regarding 
+    classification of regions in the State of Washington was last updated 
+    by the EPA on June 5, 1980 (45 FR 37836). Ecology confirmed that the 
+    classifications in Sec.  52.2471 remain correct for NO2 
+    based on 2012-2014 monitoring data. Ecology also confirmed that the 
+    classifications for ozone remain correct for all Air Quality Control 
+    Regions in Washington, except one. Based on a review of 2012-2014 data, 
+    Ecology noted that the classification for the Washington portion of the 
+    Portland Interstate Air Quality Control Region is out of date. The EPA 
+    reviewed the 2012-2014 data used by Ecology, as well as more recent 
+    2013-2015 data included in the docket for this action. We agree with 
+    Ecology's analysis that the Washington portion of the Portland 
+    Interstate Air Quality Control Region should be reclassified to 
+    Priority III based on more recent air quality monitoring data. The 
+    reclassification of the Washington portion of the Portland Interstate 
+    Air Quality Control Region from Priority I to Priority III will have no 
+    significant impact on the SIP because the current emergency episode 
+    plan covers the entire state and remains unchanged in the SIP since the 
+    EPA's last approval (58 FR 4578, January 15, 1993).
+        The EPA also reviewed air quality monitoring data for carbon 
+    monoxide. Concentrations of carbon monoxide in ambient air have 
+    plummeted in the thirty-five years since the EPA's last update to the 
+    classifications in Sec.  52.2471, primarily due to improved Federal 
+    engine standards for motor vehicles. The highest 8-hour concentration 
+    observed at all monitors in Washington from 2013-2015 was 2.4 parts per 
+    million (ppm), which is well below the 8-hour carbon monoxide National 
+    Ambient Air Quality Standard (NAAQS) of 9 ppm and well below the 
+    Priority I classification level of 12 ppm. Similarly, the highest 1-
+    hour concentration observed at all monitors in Washington from 2013-
+    2015 was 4 ppm, which is well below the 1-hour carbon monoxide NAAQS of 
+    35 ppm and well below the Priority I classification level of 48 ppm. 
+    The EPA is therefore reclassifying all carbon monoxide areas in 
+    Washington as Priority III, the lowest classification level. As 
+    discussed above, this update to the classification levels will have no 
+    significant impact on the SIP because the current emergency episode 
+    plan covering the entire state remains unchanged in the SIP since the 
+    EPA's last approval. At this time, we are not assessing the 
+    classification levels for other pollutants (particulate matter and 
+    sulfur dioxide) because the data analysis required to do so, including 
+    consideration of any potential exceptional events, is beyond the scope 
+    of this action.
+    
+    B. Section 52.2472 Extensions
+    
+        This section extended the attainment date for the Spokane and 
+    Wallula particulate matter (PM10) nonattainment areas until 
+    December 31, 1995 (60 FR 47280, September 12, 1995). In subsequent 
+    actions, the EPA redesignated both of these areas to attainment of the 
+    PM10 NAAQS (70 FR 38029, July 1, 2005 and 70 FR 50212, 
+    August 26, 2005), making this section obsolete. The EPA is therefore 
+    removing this section.
+    
+    C. Section 52.2473 Approval Status
+    
+        This section, last updated February 23, 1982 (47 FR 7840), is out 
+    of date. The second sentence addresses the geographic applicability of 
+    the regulations in the Washington SIP. Applicability is now addressed 
+    in the tables in Sec.  52.2470, and this sentence is out of date and is 
+    being removed (see 79 FR 59653, October 3, 2014). The fourth sentence 
+    describes ozone-related reasonably available control technology (RACT) 
+    requirements under the 1977 Clean Air Act (CAA). This sentence is being 
+    removed because the EPA subsequently approved Washington SIP revisions 
+    for the ozone NAAQS under the requirements of the 1990 CAA (see 40 CFR 
+    52.2470(c) and (e)). Similarly, the fifth sentence in this section is 
+    also out of date and is being removed. It describes the requirements of 
+    the emission offset interpretive rule as it applies to permitting new 
+    sources in a nonattainment area, published January 16, 1979 (44 FR 
+    3274). This concern became obsolete when the EPA approved Washington 
+    Administrative Code (WAC) 173-400-091 ``Voluntary limits on emissions'' 
+    and WAC 173-400-112 ``Requirements for new sources in nonattainment 
+    areas'' (60 FR 28726, June 2, 1995). More recently, the EPA approved 
+    updates to Washington's nonattainment new source review permitting 
+    program as meeting all CAA requirements on November 7, 2014 (79 FR 
+    59653).
+    
+    D. Section 52.2474 General Requirements
+    
+        This section, addressing public availability of emission data, is 
+    out of date (40 FR 55334, November 28, 1975), and is being removed. On 
+    October 3, 2014, the EPA approved WAC 173-400-175 ``Public 
+    Information'' as meeting the requirements of the CAA, including making 
+    ambient air quality data and emission data available to the public (79 
+    FR 59653). For a full discussion, please see the proposed approval of 
+    WAC 173-400-175 (79 FR 39351, 39357, July 10, 2014).
+    
+    E. Section 52.2475 Approval of Plans
+    
+        This section is no longer necessary because the EPA replaced the 
+    historical information contained in this section with summary tables in 
+    Sec.  52.2470 (78 FR 17108, March 20, 2013). These summary tables 
+    describe the regulations, source-specific actions, and non-regulatory 
+    requirements which comprise the SIP, including a history of attainment 
+    plan and visibility protection SIP submittals. The EPA reviewed Sec.  
+    52.2475 to verify that all relevant historical information in this 
+    section is contained in Sec.  52.2470. The EPA is therefore removing 
+    Sec.  52.2475.
+    
+    F. Section 52.2477 Original Identification of Plan Section
+    
+        Paragraphs (b) and (c) of Sec.  52.2477, originally designated as 
+    40 CFR 52.2470(b) and (c), contain historical information about the 
+    EPA's approval actions for the Washington SIP which occurred from 
+    January 28, 1972 until March 20, 2013. On March 20, 2013, the EPA 
+    reorganized the Identification of plan section (Sec.  52.2470) for 
+    subpart WW by listing and summarizing Washington's currently approved 
+    SIP requirements in Sec.  52.2470(a) through (e) (78 FR 17110). 
+    Paragraphs (b) and (c) of Sec.  52.2477 are being removed because the 
+    EPA has determined that it is no longer necessary to codify the 
+    information found in these paragraphs. Paragraph (a) of Sec.  52.2477 
+    is being amended to state that this historical information will 
+    continue to be made available in the CFR annual editions, title 40, 
+    part 52 (years 1996 through 2012). These annual editions are available 
+    on line at the following url address: <http://www.gpo.gov/fdsys/browse/collectionCfr.action?collectionCode=CFR>.
+    
+    [[Page 1130]]
+    
+    G. Section 52.2495 Voluntary Limits on Potential To Emit
+    
+        This section discusses the mechanisms for issuance of voluntary 
+    limits on potential to emit in Washington. In 1995, the EPA approved 
+    this regulation (with a state effective date of September 20, 1993) as 
+    meeting the requirements for Federally-enforceable state operating 
+    permit programs set forth in 54 FR 27274 (June 28, 1989), with respect 
+    to criteria pollutants and pollutants regulated under the PSD program 
+    under section 110 of the CAA (as part of the SIP) and with respect to 
+    hazardous air pollutants under section 112(l) of the CAA (as part of 
+    Ecology's CAA section 112 program and not as part of the SIP). See 60 
+    FR 9805 (proposed action); 60 FR 28726 (final action). Subsequent to 
+    that approval, Ecology made minor changes to WAC 173-400-091. The EPA 
+    approved these minor changes to the Washington SIP in 2014 with respect 
+    to criteria pollutants and pollutants regulated under the PSD program 
+    (referred to as ``regulated NSR pollutants''). See 79 FR 39351, 39354 
+    (July 10, 2014) (proposed action); 79 FR 59653 (final action). The 1993 
+    version of WAC 173-400-091 continues to be the approved version for 
+    purposes of section 112(l). The EPA is amending Sec.  52.2495 to make 
+    it clear that WAC 173-400-091 remains approved under both sections 110 
+    and 112(l) of the CAA, and that the SIP-approved version is identified 
+    in Sec.  52.2470(c). The EPA is also deleting the reference in Sec.  
+    52.2495 to 40 CFR 51.104(e) because that paragraph has been repealed.
+    
+    III. Final Action
+    
+        The EPA has determined that the above referenced rules should be 
+    removed or revised at this time. The EPA is publishing this rule 
+    without prior proposal because the Agency views this as a 
+    noncontroversial action and anticipates no adverse comment. However, in 
+    the ``Proposed Rules'' section of this Federal Register, the EPA is 
+    publishing a separate document that will serve as the proposal to 
+    approve the SIP revision if adverse comments are filed. This rule will 
+    be effective on March 11, 2016 without further notice unless the EPA 
+    receives adverse comment by February 10, 2016. If the EPA receives 
+    adverse comment, the EPA will publish a timely withdrawal in the 
+    Federal Register informing the public that the rule will not take 
+    effect. The EPA will address all public comments in a subsequent final 
+    rule based on the proposed rule. The EPA will not institute a second 
+    comment period on this action. Any parties interested in commenting 
+    must do so at this time. Please note that if the EPA receives adverse 
+    comment on an amendment, paragraph, or section of this rule and if that 
+    provision may be severed from the remainder of the rule, the EPA may 
+    adopt as final those provisions of the rule that are not the subject of 
+    an adverse comment.
+    
+    IV. Statutory and Executive Orders Reviews
+    
+        Under the Clean Air Act, the Administrator is required to approve a 
+    SIP submission that complies with the provisions of the Act and 
+    applicable Federal regulations. 42 U.S.C. 7410(k); 40 CFR 52.02(a). 
+    Thus, in reviewing SIP submissions, the EPA's role is to approve state 
+    choices, provided that they meet the criteria of the Clean Air Act. 
+    Accordingly, this action merely approves state law as meeting Federal 
+    requirements and does not impose additional requirements beyond those 
+    imposed by state law. For that reason, this action:
+         Is not a ``significant regulatory action'' subject to 
+    review by the Office of Management and Budget under Executive Orders 
+    12866 (58 FR 51735, October 4, 1993) and 13563 (76 FR 3821, January 21, 
+    2011);
+         does not impose an information collection burden under the 
+    provisions of the Paperwork Reduction Act (44 U.S.C. 3501 et seq.);
+         is certified as not having a significant economic impact 
+    on a substantial number of small entities under the Regulatory 
+    Flexibility Act (5 U.S.C. 601 et seq.);
+         does not contain any unfunded mandate or significantly or 
+    uniquely affect small governments, as described in the Unfunded 
+    Mandates Reform Act of 1995 (Pub. L. 104-4);
+         does not have Federalism implications as specified in 
+    Executive Order 13132 (64 FR 43255, August 10, 1999);
+         is not an economically significant regulatory action based 
+    on health or safety risks subject to Executive Order 13045 (62 FR 
+    19885, April 23, 1997);
+         is not a significant regulatory action subject to 
+    Executive Order 13211 (66 FR 28355, May 22, 2001);
+         is not subject to requirements of section 12(d) of the 
+    National Technology Transfer and Advancement Act of 1995 (15 U.S.C. 272 
+    note) because application of those requirements would be inconsistent 
+    with the Clean Air Act; and
+         does not provide the EPA with the discretionary authority 
+    to address, as appropriate, disproportionate human health or 
+    environmental effects, using practicable and legally permissible 
+    methods, under Executive Order 12898 (59 FR 7629, February 16, 1994).
+        The SIP is not approved to apply on any Indian reservation land in 
+    Washington except as specifically noted below and is also not approved 
+    to apply in any other area where the EPA or an Indian tribe has 
+    demonstrated that a tribe has jurisdiction. In those areas of Indian 
+    country, the rule does not have tribal implications as specified by 
+    Executive Order 13175 (65 FR 67249, November 9, 2000). Washington's SIP 
+    is approved to apply on non-trust land within the exterior boundaries 
+    of the Puyallup Indian Reservation, also known as the 1873 Survey Area. 
+    Under the Puyallup Tribe of Indians Settlement Act of 1989, 25 U.S.C. 
+    1773, Congress explicitly provided state and local agencies in 
+    Washington authority over activities on non-trust lands within the 1873 
+    Survey Area.
+        The Congressional Review Act, 5 U.S.C. 801 et seq., as added by the 
+    Small Business Regulatory Enforcement Fairness Act of 1996, generally 
+    provides that before a rule may take effect, the agency promulgating 
+    the rule must submit a rule report, which includes a copy of the rule, 
+    to each House of the Congress and to the Comptroller General of the 
+    United States. The EPA will submit a report containing this action and 
+    other required information to the U.S. Senate, the U.S. House of 
+    Representatives, and the Comptroller General of the United States prior 
+    to publication of the rule in the Federal Register. A major rule cannot 
+    take effect until 60 days after it is published in the Federal 
+    Register. This action is not a ``major rule'' as defined by 5 U.S.C. 
+    804(2).
+        Under section 307(b)(1) of the Clean Air Act, petitions for 
+    judicial review of this action must be filed in the United States Court 
+    of Appeals for the appropriate circuit by March 11, 2016. Filing a 
+    petition for reconsideration by the Administrator of this final rule 
+    does not affect the finality of this action for the purposes of 
+    judicial review nor does it extend the time within which a petition for 
+    judicial review may be filed, and shall not postpone the effectiveness 
+    of such rule or action. Parties with objections to this direct final 
+    rule are encouraged to file a comment in response to the parallel 
+    notice of proposed rulemaking for this action published in the proposed 
+    rules section of this Federal Register, rather than file an immediate 
+    petition for judicial review of this direct final rule, so that the EPA 
+    can withdraw this direct final rule and address the comment in the
+    
+    [[Page 1131]]
+    
+    proposed rulemaking. This action may not be challenged later in 
+    proceedings to enforce its requirements. (See section 307(b)(2).)
+    
+    List of Subjects in 40 CFR Part 52
+    
+        Environmental protection, Air pollution control, Incorporate by 
+    reference, Intergovernmental relations, Particulate matter, Reporting 
+    and Recordkeeping requirements.
+    
+        Dated: December 21, 2015.
+    Michelle L. Pirzadeh,
+    Acting Regional Administrator, Region 10.
+    
+        40 CFR part 52 is amended as follows:
+    
+    PART 52--APPROVAL AND PROMULGATION OF IMPLEMENTATION PLANS
+    
+    0
+    1. The authority citation for part 52 continues to read as follows:
+    
+        Authority:  42 U.S.C. 7401 et seq.
+    
+    Subpart WW--Washington
+    
+    0
+    2. Section 52.2471 is revised to read as follows:
+    
+    
+    Sec.  52.2471  Classification of regions.
+    
+        The Washington plan was evaluated on the basis of the following 
+    classifications:
+    
+    ----------------------------------------------------------------------------------------------------------------
+                                                                         Pollutant
+                                     -------------------------------------------------------------------------------
+       Air quality control region       Particulate                      Nitrogen         Carbon
+                                          matter       Sulfur oxides      dioxide        monoxide          Ozone
+    ----------------------------------------------------------------------------------------------------------------
+    Eastern Washington-Northern                    I              IA             III             III             III
+     Idaho Interstate...............
+    Northern Washington Intrastate..              II             III             III             III             III
+    Olympic-Northwest Washington                  II              II             III             III             III
+     Intrastate.....................
+    Portland Interstate.............               I              IA             III             III             III
+    Puget Sound Intrastate..........               I              IA             III             III               I
+    South Central Washington                       I             III             III             III             III
+     Intrastate.....................
+    ----------------------------------------------------------------------------------------------------------------
+    
+    Sec.  52.2472  [Removed and Reserved]
+    
+    0
+    3. Section 52.2472 is removed and reserved.
+    
+    0
+    4. Section 52.2473 is revised to read as follows:
+    
+    
+    Sec.  52.2473  Approval status.
+    
+        With the exceptions set forth in this subpart, the Administrator 
+    approves Washington's plan for the attainment and maintenance of the 
+    national standards under section 110 of the Clean Air Act. Furthermore, 
+    the Administrator finds that the plan satisfies all requirements of 
+    part D, title 1, of the Clean Air Act.
+    
+    
+    Sec. Sec.  52.2474 and 52.2475  [Removed and Reserved]
+    
+    0
+    4. Sections 52.2474 and 52.2475 are removed and reserved
+    
+    0
+    5. Section 52.2477 is revised to read as follows:
+    
+    
+    Sec.  52.2477  Original identification of plan section.
+    
+        (a) This section identified the original ``Air Implementation Plan 
+    for the State of Washington'' and all revisions submitted by Washington 
+    that were Federally approved prior to March 20, 2013. The information 
+    in this section is available in the 40 CFR, part 52, Volume 3 of 3 
+    (Sec. Sec.  52.2020 to End) edition revised as of July 1, 2012.
+        (b) [Reserved]
+        (c) [Reserved]
+    
+    0
+    6. Section 52.2495 is revised to read as follows:
+    
+    
+    Sec.  52.2495  Voluntary limits on potential to emit.
+    
+        (a) Terms and conditions of regulatory orders covering regulated 
+    NSR pollutants (as defined in 40 CFR 52.21(b)), issued pursuant to WAC 
+    173-400-091 ``Voluntary limits on emissions'' and in accordance with 
+    the provisions of WAC 173-400-091, WAC 173-400-105 ``Records, 
+    monitoring, and reporting,'' and WAC 173-400-171 ``Public 
+    involvement,'' shall be applicable requirements of the Federally-
+    approved Washington SIP for the purposes of section 113 of the Clean 
+    Air Act and shall be enforceable by EPA and by any person in the same 
+    manner as other requirements of the SIP. Such regulatory orders issued 
+    pursuant to WAC 173-400-091 are part of the Washington SIP and shall be 
+    submitted to EPA Region 10 in accordance with the requirements of 40 
+    CFR 51.326. The EPA-approved provisions of the WAC are identified in 40 
+    CFR 52.2470(c).
+        (b) Terms and conditions of regulatory orders covering hazardous 
+    air pollutants (as defined in 40 CFR 63.2), issued pursuant to WAC 173-
+    400-091 ``Voluntary limits on emissions,'' as in effect on September 
+    20, 1993, and in accordance with the provisions of WAC 173-400-091, WAC 
+    173-400-105 ``Records, monitoring, and reporting,'' and WAC 173-400-171 
+    ``Public involvement,'' shall be applicable requirements of the 
+    Federally-approved Washington section 112(l) program for the purposes 
+    of section 113 of the Clean Air Act and shall be enforceable by EPA and 
+    by any person in the same manner as other requirements of section 112.
+    
+    [FR Doc. 2015-33177 Filed 1-8-16; 8:45 am]
+     BILLING CODE 6560-50-P
+    
+    
+    
+

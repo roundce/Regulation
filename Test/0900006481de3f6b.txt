@@ -1,0 +1,321 @@
+
+    [Federal Register Volume 81, Number 1 (Monday, January 4, 2016)]
+    [Rules and Regulations]
+    [Pages 3-5]
+    From the Federal Register Online via the Government Publishing Office [[www.gpo.gov](http://www.gpo.gov)]
+    [FR Doc No: 2015-32985]
+    
+    
+    =======================================================================
+    -----------------------------------------------------------------------
+    
+    SECURITIES AND EXCHANGE COMMISSION
+    
+    17 CFR Part 232
+    
+    [Release Nos. 33-9987; 34-76619; 39-2508; IC-31932]
+    
+    
+    Adoption of Updated EDGAR Filer Manual
+    
+    AGENCY: Securities and Exchange Commission.
+    
+    ACTION: Final rule.
+    
+    -----------------------------------------------------------------------
+    
+    SUMMARY: The Securities and Exchange Commission (the Commission) is 
+    adopting revisions to the Electronic Data Gathering, Analysis, and 
+    Retrieval System (EDGAR) Filer Manual and related rules to reflect 
+    updates to the EDGAR system. The updates are being made to add the 
+    submission form types X-17A-5 and X-17A-5/A for broker-dealer annual 
+    reports in electronic format; add the new submission form types C, C-W, 
+    C-U, C-U-W, C/A, C/A-W, C-AR, C-AR-W, C-AR/A, C-AR/A-W, C-TR and C-TR-W 
+    pursuant to Regulation Crowdfunding; add the new submission form types 
+    N-MFP1 and N-MFP1/A for money market mutual funds; disseminate raw and 
+    rendered eXtensible Business Reporting Language (XBRL) submissions; and 
+    update Item 1 of the Regulation A submission form types 1-A, 1-A/A, 1-A 
+    POS, DOA, and DOS/A to accept negative values in the ``Total Assets,'' 
+    ``Total Stockholders' Equity,'' and ``Total Liabilities and Equity'' 
+    fields. The EDGAR system is scheduled to be upgraded to support this 
+    functionality on December 14, 2015. On January 25, 2016, EDGAR will be 
+    updated to add new ``Funding Portal'' applicant type for filers to 
+    select when completing the process to apply for EDGAR access (New) on 
+    the EDGAR Filer Management Web site; and add the new submission form 
+    types CFPORTAL, CFPORTAL/A and CFPORTAL-W pursuant to Regulation 
+    Crowdfunding.
+    
+    DATES: Effective January 4, 2016. The incorporation by reference of the 
+    EDGAR Filer Manual is approved by the Director of the Federal Register 
+    as of January 4, 2016.
+    
+    FOR FURTHER INFORMATION CONTACT: In the Division of Trading and 
+    Markets, for questions concerning Form X-17A-5 and Form Funding Portal, 
+    contact Kathy Bateman at (202) 551-4345; in the Division of Corporation 
+    Finance, for questions concerning Form C and related forms, contact 
+    Heather Mackintosh at (202) 551-8111; in the Division of Investment 
+    Management, for questions concerning Form N-MFP1, contact Heather 
+    Fernandez at 202-551-6708; and in the Division of Economic and Risk 
+    Analysis, for questions concerning eXtensible Business Reporting 
+    Language (XBRL) disseminations, contact Walter Hamscher at (202) 551-
+    5397.
+    
+    SUPPLEMENTARY INFORMATION: We are adopting an updated EDGAR Filer 
+    Manual, Volume I and Volume II. The Filer Manual describes the 
+    technical formatting requirements for the preparation and submission of 
+    electronic filings through the EDGAR system.\1\ It also describes the 
+    requirements for filing using EDGARLink Online and the Online Forms/XML 
+    Web site.
+    ---------------------------------------------------------------------------
+    
+        \1\ We originally adopted the Filer Manual on April 1, 1993, 
+    with an effective date of April 26, 1993. Release No. 33-6986 (April 
+    1, 1993) [58 FR 18638]. We implemented the most recent update to the 
+    Filer Manual on September 15, 2015. See Release No. 34-75918 
+    (October 2, 2015) [80 FR 59578].
+    ---------------------------------------------------------------------------
+    
+        The revisions to the Filer Manual reflect changes within Volume I 
+    entitled EDGAR Filer Manual, Volume I: ``General Information,'' Version 
+    24 (December 2015), and Volume II entitled EDGAR Filer Manual, Volume 
+    II: ``EDGAR Filing,'' Version 35 (December 2015). The updated manual 
+    will be incorporated by reference into the Code of Federal Regulations.
+        The Filer Manual contains all the technical specifications for 
+    filers to submit filings using the EDGAR system. Filers must comply 
+    with the applicable provisions of the Filer Manual in order
+    
+    [[Page 4]]
+    
+    to assure the timely acceptance and processing of filings made in 
+    electronic format.\2\ Filers may consult the Filer Manual in 
+    conjunction with our rules governing mandated electronic filing when 
+    preparing documents for electronic submission.\3\
+    ---------------------------------------------------------------------------
+    
+        \2\ See Rule 301 of Regulation S-T (17 CFR 232.301).
+        \3\ See Release No. 34-75918 in which we implemented EDGAR 
+    Release 15.3. For additional history of Filer Manual rules, please 
+    see the cites therein.
+    ---------------------------------------------------------------------------
+    
+        The EDGAR system will be upgraded to Release 15.4 on December 14, 
+    2015 and will introduce the following changes:
+        Broker-dealers will now be able to submit Form X-17A-5 Part III in 
+    electronic format using the following submission form types:
+    
+     X-17A-5--Annual Reports
+     X-17A-5/A--Amendment to Annual Reports
+    
+        These submission form types can be accessed by clicking the ``File 
+    X-17A-5 Part III'' link on the EDGAR Filing Web site. Additionally, 
+    filers may construct XML submissions for X-17A-5 and X-17A-5/A by 
+    following the ``EDGAR Form X-17A-5 XML Technical Specification'' 
+    document located on the SEC's Public Web site (<http://www.sec.gov/info/edgar.shtml>). Form X-17A-5 Part III will continue to be accepted in 
+    paper format.
+        Submission form types X-17A-5 and X-17A-5/A will include the 
+    ``Request Confidentiality'' check box to allow applicants to request 
+    confidential treatment for each attached document that is not required 
+    to be made public. EDGAR will not disseminate any attached documents 
+    that are designated as confidential.
+        Pursuant to Regulation Crowdfunding, EDGAR will be updated to 
+    include the following new submission form types:
+    
+     C: Offering Statement
+     C-W: Offering Statement Withdrawal
+     C-U: Progress Update
+     C-U-W: Progress Update Withdrawal
+     C/A: Amendment to Offering Statement
+     C/A-W: Amendment to Offering Statement Withdrawal
+     C-AR: Annual Report
+     C-AR-W: Annual Report Withdrawal
+     C-AR/A: Amendment to Annual Report
+     C-AR/A-W: Amendment to Annual Report Withdrawal
+     C-TR: Termination of Reporting
+     C-TR-W: Termination of Reporting Withdrawal
+    
+        Issuers can access these submission form types from the 
+    ``Regulation Crowdfunding'' link on the EDGAR Filing Web site. 
+    Additionally, issuers may construct XML submissions for these 
+    submission form types by following the ``EDGAR Form C XML Technical 
+    Specification'' document located on the SEC's Public Web site (<http://www.sec.gov/info/edgar.shtml>). See Release No. 33-9974 for the 
+    effective date.
+        In connection with amendments to the rules governing money market 
+    mutual funds (or ``money market funds'') under the Investment Company 
+    Act of 1940 the following changes will be made:
+         EDGAR will be updated to include two new submission 
+    types--N-MFP1 and N-MFP1/A--to incorporate the amendments to Form N-MFP 
+    adopted by the Commission on July 23, 2014.\4\
+    ---------------------------------------------------------------------------
+    
+        \4\ See Money Market Fund Reform; Amendments to Form PF, Release 
+    33-9616 (July 23, 2014).
+    ---------------------------------------------------------------------------
+    
+        These two new submission types will be accepted from the EDGAR 
+    Filing Web site via filer-constructed XML submissions, as described in 
+    the Form N-MFP1 XML Technical Specification available on the SEC's 
+    Public Web site (<http://www.sec.gov/info/edgar.shtml>). EDGAR will only 
+    accept TEST submissions for submission form types N-MFP1 and N-MFP1/A 
+    until April 14, 2016. Beginning on April 14, 2016, submission form 
+    types N-MFP1 and N-MFP1/A will be accepted as LIVE submissions. After 
+    that date, filers will be prevented from submitting existing submission 
+    form type N-MFP. In addition, EDGAR will be updated to automatically 
+    disseminate money market fund information upon acceptance of the N-MFP1 
+    and N-MFP1/A submissions.\5\
+    ---------------------------------------------------------------------------
+    
+        \5\ See Release 33-9616 for additional information.
+    ---------------------------------------------------------------------------
+    
+        EDGAR will be updated to disseminate raw and rendered XBRL 
+    documents. The rendered eXtensible Business Reporting Language (XBRL) 
+    documents will be displayed as human-readable documents.
+        Finally, EDGAR will be updated to accept negative values in the 
+    ``Total Assets,'' ``Total Stockholders' Equity,'' and ``Total 
+    Liabilities and Equity'' fields in Item 1 of the submission form types 
+    1-A, 1-A/A, 1-A POS, DOS and DOS/A.
+        On January 25, 2016, EDGAR Release 16.0.1 will introduce the 
+    following changes:
+         Filers will now be able to select the new ``Funding 
+    Portal'' Applicant Type when completing the process to apply for EDGAR 
+    access (New) on the EDGAR Filer Management Web site.
+         Pursuant to Regulation Crowdfunding, Funding Portals will 
+    be able to register with the Commission, amend their registration and 
+    withdraw their registration, using the following new submission form 
+    types:
+        [cir] CFPORTAL--Form Funding Portal: Initial application of funding 
+    portal.
+        [cir] CFPORTAL/A--Form Funding Portal/A: Amendment to registration, 
+    including a successor registration.
+        [cir] CFPORTAL-W--Form Funding Portal-W: Withdrawal of the funding 
+    portal's registration.
+        These submission form types can be accessed by clicking the 
+    ``Regulation Crowdfunding'' link on the EDGAR Filing Web site. 
+    Additionally, filers may construct XML submissions for CFPORTAL, 
+    CFPORTAL/A, and CFPORTAL-W by following the ``EDGAR Form CFPORTAL XML 
+    Technical Specification'' document located on the SEC's Public Web site 
+    (<http://www.sec.gov/info/edgar.shtml>).\6\
+    ---------------------------------------------------------------------------
+    
+        \6\ See Crowdfunding, Release 33-9974 (80 FR 71387, November 16, 
+    2015) for the effective dates for Regulation Crowdfunding.
+    ---------------------------------------------------------------------------
+    
+        Along with the adoption of the Filer Manual, we are amending Rule 
+    301 of Regulation S-T to provide for the incorporation by reference 
+    into the Code of Federal Regulations of today's revisions. This 
+    incorporation by reference was approved by the Director of the Federal 
+    Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51.
+        The updated EDGAR Filer Manual will be available for Web site 
+    viewing and printing; the address for the Filer Manual is <http://www.sec.gov/info/edgar.shtml>. You may also obtain paper copies of the 
+    EDGAR Filer Manual from the following address: Public Reference Room, 
+    U.S. Securities and Exchange Commission, 100 F Street NE., Washington, 
+    DC 20549, on official business days between the hours of 10:00 a.m. and 
+    3:00 p.m.
+        Since the Filer Manual and the corresponding rule changes relate 
+    solely to agency procedures or practice, publication for notice and 
+    comment is not required under the Administrative Procedure Act 
+    (APA).\7\ It follows that the requirements of the Regulatory 
+    Flexibility Act \8\ do not apply.
+    ---------------------------------------------------------------------------
+    
+        \7\ 5 U.S.C. 553(b).
+        \8\ 5 U.S.C. 601-612.
+    ---------------------------------------------------------------------------
+    
+        The effective date for the updated Filer Manual and the rule 
+    amendments is January 4, 2016. In accordance with the APA,\9\ we find 
+    that there is good cause to establish an effective date less than 30 
+    days after publication of these rules. The EDGAR system upgrade to 
+    Release 15.4 is scheduled to become available on December 14, 2015, and 
+    the system upgrade to Release 16.0.1 is
+    
+    [[Page 5]]
+    
+    scheduled to become available on January 25, 2016. The Commission 
+    believes that establishing an effective date less than 30 days after 
+    publication of these rules is necessary to coordinate the effectiveness 
+    of the updated Filer Manual with these system upgrades.
+    ---------------------------------------------------------------------------
+    
+        \9\ 5 U.S.C. 553(d)(3).
+    ---------------------------------------------------------------------------
+    
+    Statutory Basis
+    
+        We are adopting the amendments to Regulation S-T under Sections 6, 
+    7, 8, 10, and 19(a) of the Securities Act of 1933,\10\ Sections 3, 12, 
+    13, 14, 15, 23, and 35A of the Securities Exchange Act of 1934,\11\ 
+    Section 319 of the Trust Indenture Act of 1939,\12\ and Sections 8, 30, 
+    31, and 38 of the Investment Company Act of 1940.\13\
+    ---------------------------------------------------------------------------
+    
+        \10\ 15 U.S.C. 77f, 77g, 77h, 77j, and 77s(a).
+        \11\ 15 U.S.C. 78c, 78l, 78m, 78n, 78o, 78w, and 78ll.
+        \12\ 15 U.S.C. 77sss.
+        \13\ 15 U.S.C. 80a-8, 80a-29, 80a-30, and 80a-37.
+    ---------------------------------------------------------------------------
+    
+    List of Subjects in 17 CFR Part 232
+    
+        Incorporation by reference, Reporting and recordkeeping 
+    requirements, Securities.
+    
+    Text of the Amendment
+    
+        In accordance with the foregoing, Title 17, Chapter II of the Code 
+    of Federal Regulations is amended as follows:
+    
+    PART 232--REGULATION S-T--GENERAL RULES AND REGULATIONS FOR 
+    ELECTRONIC FILINGS
+    
+    0
+    1. The authority citation for Part 232 continues to read in part as 
+    follows:
+    
+        Authority:  15 U.S.C. 77f, 77g, 77h, 77j, 77s(a), 77z-3, 
+    77sss(a), 78c(b), 78l, 78m, 78n, 78o(d), 78w(a), 78ll, 80a-6(c), 
+    80a-8, 80a-29, 80a-30, 80a-37, and 7201 et seq.; and 18 U.S.C. 1350.
+    * * * * *
+    
+    0
+    2. Section 232.301 is revised to read as follows:
+    
+    
+    Sec.  232.301  EDGAR Filer Manual.
+    
+        Filers must prepare electronic filings in the manner prescribed by 
+    the EDGAR Filer Manual, promulgated by the Commission, which sets out 
+    the technical formatting requirements for electronic submissions. The 
+    requirements for becoming an EDGAR Filer and updating company data are 
+    set forth in the updated EDGAR Filer Manual, Volume I: ``General 
+    Information,'' Version 24 (December 2015). The requirements for filing 
+    on EDGAR are set forth in the updated EDGAR Filer Manual, Volume II: 
+    ``EDGAR Filing,'' Version 35 (December 2015). Additional provisions 
+    applicable to Form N-SAR filers are set forth in the EDGAR Filer 
+    Manual, Volume III: ``N-SAR Supplement,'' Version 5 (September 2015). 
+    All of these provisions have been incorporated by reference into the 
+    Code of Federal Regulations, which action was approved by the Director 
+    of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR 
+    part 51. You must comply with these requirements in order for documents 
+    to be timely received and accepted. The EDGAR Filer Manual is available 
+    for Web site viewing and printing; the address for the Filer Manual is 
+    <http://www.sec.gov/info/edgar.shtml>. You can obtain paper copies of the 
+    EDGAR Filer Manual from the following address: Public Reference Room, 
+    U.S. Securities and Exchange Commission, 100 F Street NE., Washington, 
+    DC 20549, on official business days between the hours of 10:00 a.m. and 
+    3:00 p.m. You can also inspect the document at the National Archives 
+    and Records Administration (NARA). For information on the availability 
+    of this material at NARA, call 202-741-6030, or go to: <http://www.archives.gov/federal_register/code_of_federal_regulations/ibr_locations.html>.
+    
+        Dated: December 11, 2015.
+    
+        By the Commission.
+    Brent J. Fields,
+    Secretary.
+    [FR Doc. 2015-32985 Filed 12-31-15; 8:45 am]
+     BILLING CODE 8011-01-P
+    
+    
+    
+

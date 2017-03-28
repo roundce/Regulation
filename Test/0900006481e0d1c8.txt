@@ -1,0 +1,332 @@
+
+    [Federal Register Volume 81, Number 9 (Thursday, January 14, 2016)]
+    [Rules and Regulations]
+    [Pages 1884-1887]
+    From the Federal Register Online via the Government Publishing Office [[www.gpo.gov](http://www.gpo.gov)]
+    [FR Doc No: 2016-00559]
+    
+    
+    -----------------------------------------------------------------------
+    
+    ENVIRONMENTAL PROTECTION AGENCY
+    
+    40 CFR Part 52
+    
+    [EPA-R06-OAR-2015-0647; FRL-9941-21-Region 6]
+    
+    
+    Approval and Promulgation of Implementation Plans; Arkansas; 
+    Crittenden County Base Year Emission Inventory
+    
+    AGENCY: Environmental Protection Agency (EPA).
+    
+    ACTION: Direct final rule.
+    
+    -----------------------------------------------------------------------
+    
+    SUMMARY: The Environmental Protection Agency (EPA) is approving a 
+    revision to the Arkansas State Implementation Plan (SIP) submitted to 
+    meet the Clean Air Act (CAA) emissions inventory (EI) requirement for 
+    the Crittenden County ozone nonattainment area. EPA is approving the 
+    SIP revision because it
+    
+    [[Page 1885]]
+    
+    satisfies the CAA EI requirement for Crittenden County under the 2008 
+    8-hour ozone National Ambient Air Quality Standards (NAAQS). The 
+    inventory includes emissions data for Nitrogen Oxides (NOX) 
+    and Volatile Organic Compounds (VOCs). EPA is approving the revisions 
+    pursuant to section 110 and part D of the CAA and EPA's regulations.
+    
+    DATES: This rule is effective on March 14, 2016 without further notice, 
+    unless the EPA receives relevant adverse comment by March 14, 2016. If 
+    the EPA receives such comment, the EPA will publish a timely withdrawal 
+    in the Federal Register informing the public that this rule will not 
+    take effect.
+    
+    ADDRESSES: Submit your comments, identified by Docket No. EPA-R06-OAR-
+    2015-0647, at <http://www.regulations.gov> or via email to 
+    [Schwartz.Colin@epa.gov](mailto:Schwartz.Colin@epa.gov). Follow the online instructions for submitting 
+    comments. Once submitted, comments cannot be edited or removed from 
+    [Regulations.gov](http://Regulations.gov). The EPA may publish any comment received to its public 
+    docket. Do not submit electronically any information you consider to be 
+    Confidential Business Information (CBI) or other information whose 
+    disclosure is restricted by statute. Multimedia submissions (audio, 
+    video, etc.) must be accompanied by a written comment. The written 
+    comment is considered the official comment and should include 
+    discussion of all points you wish to make. The EPA will generally not 
+    consider comments or comment contents located outside of the primary 
+    submission (i.e. on the web, cloud, or other file sharing system). For 
+    additional submission methods, please contact Mr. Colin Schwartz, 214-
+    665-7262, [Schwartz.Colin@epa.gov](mailto:Schwartz.Colin@epa.gov). For the full EPA public comment 
+    policy, information about CBI or multimedia submissions, and general 
+    guidance on making effective comments, please visit <http://www2.epa.gov/dockets/commenting-epa-dockets>.
+        Docket: The index to the docket for this action is available 
+    electronically at [www.regulations.gov](http://www.regulations.gov) and in hard copy at EPA Region 6, 
+    1445 Ross Avenue, Suite 700, Dallas, Texas. While all documents in the 
+    docket are listed in the index, some information may be publicly 
+    available only at the hard copy location (e.g., copyrighted material), 
+    and some may not be publicly available at either location (e.g., CBI).
+    
+    FOR FURTHER INFORMATION CONTACT: Mr. Colin Schwartz, 214-665-7262, 
+    [Schwartz.Colin@epa.gov](mailto:Schwartz.Colin@epa.gov). To inspect the hard copy materials, please 
+    schedule an appointment with Mr. Schwartz or Mr. Bill Deese at 214-665-
+    7253.
+    
+    SUPPLEMENTARY INFORMATION: Throughout this document ``we,'' ``us,'' and 
+    ``our'' means the EPA.
+    
+    I. Background
+    
+    A. The 2008 Ozone NAAQS and Emissions Inventory Requirement
+    
+        On March 12, 2008, the EPA revised the eight-hour ozone NAAQS from 
+    0.08 parts per million (ppm) to 0.075 ppm. (73 FR 16436, March 27, 
+    2008). The EPA designated Crittenden County as a nonattainment area for 
+    the 2008 ozone NAAQS (77 FR 30088, May 21, 2012).\1\
+    ---------------------------------------------------------------------------
+    
+        \1\ On October 1, 2015, the EPA strengthened the ozone standard 
+    to 0.070 ppm (80 FR 65292, October 26, 2015). The EPA has not made 
+    designations under this new standard and the emission inventory 
+    under evaluation in this rulemaking does not address that standard.
+    ---------------------------------------------------------------------------
+    
+        CAA sections 172(c)(3) and 182(a)(1) require states to develop and 
+    submit as a SIP revision an emissions inventory for all areas 
+    designated as nonattainment for the ozone NAAQS. 42 U.S.C. 172(c) and 
+    182(a). An emissions inventory is an estimation of actual emissions of 
+    air pollutants in an area. Ground-level ozone, O3, is a gas 
+    that is formed by the reaction of VOCs and NOX in the 
+    atmosphere in the presence of sunlight. These precursor emissions are 
+    emitted by many types of pollution sources, including power plants and 
+    industrial emissions sources, on-road and non-road motor vehicles and 
+    engines, and smaller sources, collectively referred to as area sources. 
+    The EIs provide data for a variety of air quality planning tasks 
+    including establishing baseline emission levels, calculating federally 
+    required emission reduction targets, emission inputs into air quality 
+    simulation models, and tracking emissions over time. The total EI of 
+    VOC and NOX for an area are summarized from the estimates 
+    developed for four general categories of emissions sources: Point, 
+    area, mobile, and biogenic. The EPA's 2008 ozone standard SIP 
+    requirements rule recommends that states use 2011 as a base year to 
+    address EI requirements (80 FR 12264, 34190, March 6, 2015).
+    
+    B. Arkansas' Submittal
+    
+        On August 28, 2015, Arkansas submitted to the EPA the SIP revision 
+    addressing the emissions inventory requirement for Crittenden County 
+    under the 2008 ozone NAAQS. The inventory includes estimates of 2011 
+    NOX and VOC emissions in tons per year. The 2011 Base Year 
+    Inventory is the starting point for calculating the reductions 
+    necessary to meet the requirements of the CAA. Sections 172 (c)(3) and 
+    182(b)(1) of the CAA require that nonattainment plan provisions include 
+    an inventory of actual emissions from all sources of relevant 
+    pollutants in the nonattainment area. The inventory includes all area, 
+    point, non-road mobile, and on-road mobile source emissions in the 
+    Crittenden County ozone nonattainment area. The inventory also includes 
+    a description of the methods used to estimate emissions. A copy of the 
+    submittal is available in the electronic docket for this action.
+    
+    C. What criteria must be met for the EPA to approve this SIP revision?
+    
+        Section 182(a)(1) of the CAA requires states with nonattainment 
+    areas to submit a comprehensive and accurate inventory of ozone 
+    precursor emissions from all sources within two years of the effective 
+    date of designation, which was July 20, 2012. Also, Section 172(c)(3) 
+    requires that such an inventory shall include a comprehensive accurate, 
+    current inventory of actual emissions from all sources of the relevant 
+    pollutant or pollutants in such area, including such periodic revisions 
+    as the Administrator may determine necessary to assure that the 
+    requirements of this part are met.
+    
+    II. The EPA's Evaluation
+    
+        EPA reviewed the revision for consistency with the requirements of 
+    EPA regulations. A summary of EPA's analysis is provided below. For a 
+    full discussion of our evaluation, please see our Technical Support 
+    Document (TSD).
+        Sections 172(c)(3) and 182(a)(1) of the CAA require an inventory of 
+    actual emissions from all sources of relevant pollutants in the 
+    nonattainment area. The 2011 base year emission inventory data include 
+    all point, area, and non-road and on-road mobile sources in Crittenden 
+    County. Point source emissions were entered through the State and Local 
+    Emissions Inventory System (SLEIS) and area sources were developed in 
+    accordance with the federal Air Emissions Reporting Requirements (AERR) 
+    rule. Non-road mobile sources utilized the National Mobile Inventory 
+    Model (NMIM) while the on-road sources used the Motor Vehicle Emissions 
+    Simulator (MOVES2010b). The EPA has determined that the inventory was 
+    developed in accordance with CAA guidelines and that the revised 2011 
+    base year emission inventory is approvable. The submittal meets the 
+    goal of reaching attainment by reducing O3 forming 
+    precursors. Table 1 lists the emissions inventory for the Crittenden 
+    County area. For more detail on how the
+    
+    [[Page 1886]]
+    
+    emissions inventories were estimated and evaluated, see the TSD.
+    
+                                                        Table 1--Base Year Emissions Inventory, 2011 Data
+    --------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                               Ozone season                    Ozone season                    Ozone season
+                            Category                             daily NOX      Annual NOX       daily VOC      Annual VOC       daily CO        Annual CO
+    Units                                                           Tons/day       Tons/year        Tons/day       Tons/year        Tons/day       Tons/year
+    --------------------------------------------------------------------------------------------------------------------------------------------------------
+    Point...................................................          0.0017            .063            .051          186.84           0.004            1.58
+    Area....................................................            8.70        3,165.17           24.90        8,868.94           20.32        7,375.56
+    Non-road Mobile.........................................            2.11          582.63            3.66          881.35           13.78        3,476.63
+    On-road Mobile..........................................            6.80           2,542            2.42             845           23.13           9,051
+                                                             -----------------------------------------------------------------------------------------------
+        Total...............................................           17.61        6,290.43           31.49       10,782.13          57.234       19,904.77
+    --------------------------------------------------------------------------------------------------------------------------------------------------------
+    
+    III. Final Action
+    
+        We are approving revisions to the Arkansas SIP that pertain to the 
+    2008 ozone SIP emissions inventory for Crittenden County, as are listed 
+    in Table 1.
+        The EPA is publishing this rule without prior proposal because we 
+    view this as a non-controversial amendment and anticipate no adverse 
+    comments. However, in the proposed rules section of this Federal 
+    Register publication, we are publishing a separate document that will 
+    serve as the proposal to approve the SIP revision if relevant adverse 
+    comments are received. This rule will be effective on March 14, 2016 
+    without further notice unless we receive relevant adverse comment by 
+    February 16, 2016. If we receive relevant adverse comments, we will 
+    publish a timely withdrawal in the Federal Register informing the 
+    public that the rule will not take effect. We will address all public 
+    comments in a subsequent final rule based on the proposed rule. We will 
+    not institute a second comment period on this action. Any parties 
+    interested in commenting must do so now. Please note that if we receive 
+    relevant adverse comment on an amendment, paragraph, or section of this 
+    rule and if that provision may be severed from the remainder of the 
+    rule, we may adopt as final those provisions of the rule that are not 
+    the subject of an adverse comment.
+    
+    IV. Statutory and Executive Order Reviews
+    
+        Under the CAA, the Administrator is required to approve a SIP 
+    submission that complies with the provisions of the Act and applicable 
+    Federal regulations. 42 U.S.C. 7410(k); 40 CFR 52.02(a). Thus, in 
+    reviewing SIP submissions, the EPA's role is to approve state choices, 
+    provided that they meet the criteria of the CAA. Accordingly, this 
+    action merely approves state law as meeting Federal requirements and 
+    does not impose additional requirements beyond those imposed by state 
+    law. For that reason, this action:
+         Is not a ``significant regulatory action'' subject to 
+    review by the Office of Management and Budget under Executive Orders 
+    12866 (58 FR 51735, October 4, 1993) and 13563 (76 FR 3821, January 21, 
+    2011);
+         Does not impose an information collection burden under the 
+    provisions of the Paperwork Reduction Act (44 U.S.C. 3501 et seq.);
+         Is certified as not having a significant economic impact 
+    on a substantial number of small entities under the Regulatory 
+    Flexibility Act (5 U.S.C. 601 et seq.);
+         Does not contain any unfunded mandate or significantly or 
+    uniquely affect small governments, described in the Unfunded Mandates 
+    Reform Act of 1995 (Pub. L. 104-4);
+         Does not have Federalism implications as specified in 
+    Executive Order 13132 (64 FR 43255, August 10, 1999);
+         Is not an economically significant regulatory action based 
+    on health or safety risks subject to Executive Order 13045 (62 FR 
+    19885, April 23, 1997);
+         Is not a significant regulatory action subject to 
+    Executive Order 13211 (66 FR 28355, May 22, 2001);
+         Is not subject to requirements of section 12(d) of the 
+    National Technology Transfer and Advancement Act of 1995 (15 U.S.C. 272 
+    note) because application of those requirements would be inconsistent 
+    with the CAA; and
+         Does not provide EPA with the discretionary authority to 
+    address, as appropriate, disproportionate human health or environmental 
+    effects, using practicable and legally permissible methods, under 
+    Executive Order 12898 (59 FR 7629, February 16, 1994).
+    
+    In addition, the SIP is not approved to apply on any Indian reservation 
+    land or in any other area where EPA or an Indian tribe has demonstrated 
+    that a tribe has jurisdiction. In those areas of Indian country, the 
+    rule does not have tribal implications and will not impose substantial 
+    direct costs on tribal governments or preempt tribal law as specified 
+    by Executive Order 13175 (65 FR 67249, November 9, 2000).
+        The Congressional Review Act, 5 U.S.C. 801 et seq., as added by the 
+    Small Business Regulatory Enforcement Fairness Act of 1996, generally 
+    provides that before a rule may take effect, the agency promulgating 
+    the rule must submit a rule report, which includes a copy of the rule, 
+    to each House of the Congress and to the Comptroller General of the 
+    United States. The EPA will submit a report containing this rule and 
+    other required information to the U.S. Senate, the U.S. House of 
+    Representatives, and the Comptroller General of the United States prior 
+    to publication of the rule in the Federal Register. A major rule cannot 
+    take effect until 60 days after it is published in the Federal 
+    Register. This action is not a ``major rule'' as defined by 5 U.S.C. 
+    804(2).
+        Under section 307(b)(1) of the CAA, petitions for judicial review 
+    of this action must be filed in the United States Court of Appeals for 
+    the appropriate circuit by March 14, 2016. Filing a petition for 
+    reconsideration by the Administrator of this final rule does not affect 
+    the finality of this rule for the purposes of judicial review nor does 
+    it extend the time within which a petition for judicial review may be 
+    filed, and shall not postpone the effectiveness of such rule or action. 
+    This action may not be challenged later in proceedings to enforce its 
+    requirements. (See section 307(b)(2).)
+        Samuel Coleman was designated the Acting Regional Administrator on 
+    December 30, 2015 through the order of succession outlined in Regional 
+    Order R6-1110.1, a copy of which is included in the docket for this 
+    action.
+    
+    List of Subjects in 40 CFR Part 52
+    
+        Environmental protection, Air pollution control, Incorporation by
+    
+    [[Page 1887]]
+    
+    reference, Ozone, Reporting and recordkeeping requirements, Volatile 
+    Organic Compounds.
+    
+        Dated: December 30, 2015.
+    Samuel Coleman,
+    Acting Regional Administrator, Region 6.
+    
+        40 CFR part 52 is amended as follows:
+    
+    PART 52--APPROVAL AND PROMULGATION OF IMPLEMENTATION PLANS
+    
+    0
+    1. The authority citation for part 52 continues to read as follows:
+    
+        Authority:  42 U.S.C. 7401 et seq.
+    
+    Subpart E--Arkansas
+    
+    0
+    2. In Sec.  52.170(e), the third table titled ``EPA-Approved 
+    Nonregulatory Provisions and Quasi-Regulatory Measures'' is amended by 
+    adding an entry for ``Crittenden County Base Year Emission Inventory 
+    for the 2008 Ozone Standard'' to the end of the table.
+        The addition reads as follows:
+    
+    
+    Sec.  52.170  Identification of plan.
+    
+    * * * * *
+        (e) * * *
+    
+                 EPA-Approved Nonregulatory Provisions and Quasi-Regulatory Measures in the Arkansas SIP
+    ----------------------------------------------------------------------------------------------------------------
+                                         Applicable        State
+                                       geographic or     submittal/
+         Name of SIP provision         nonattainment     effective   EPA approval date           Explanation
+                                            area            date
+    ----------------------------------------------------------------------------------------------------------------
+     
+                                                      * * * * * * *
+    Crittenden County Base Year      Crittenden County    8/28/2015  1/13/2016 [Insert  ............................
+     Emission Inventory for the                                       Federal Register
+     2008 Ozone Standard.                                             citation].
+    ----------------------------------------------------------------------------------------------------------------
+    
+    [FR Doc. 2016-00559 Filed 1-13-16; 8:45 am]
+     BILLING CODE 6560-50-P
+    
+    
+    
+

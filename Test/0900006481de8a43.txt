@@ -1,0 +1,2886 @@
+
+    [Federal Register Volume 81, Number 2 (Tuesday, January 5, 2016)]
+    [Rules and Regulations]
+    [Pages 150-173]
+    From the Federal Register Online via the Government Publishing Office [[www.gpo.gov](http://www.gpo.gov)]
+    [FR Doc No: 2015-33096]
+    
+    
+    =======================================================================
+    -----------------------------------------------------------------------
+    
+    DEPARTMENT OF COMMERCE
+    
+    National Oceanic and Atmospheric Administration
+    
+    15 CFR Part 902
+    
+    50 CFR Part 679
+    
+    [Docket No. 140304192-5999-02]
+    RIN 0648-BE05
+    
+    
+    Fisheries of the Exclusive Economic Zone Off Alaska; Bering Sea 
+    and Aleutian Islands Management Area; New Cost Recovery Fee Programs
+    
+    AGENCY: National Marine Fisheries Service (NMFS), National Oceanic and 
+    Atmospheric Administration (NOAA), Commerce.
+    
+    ACTION: Final rule.
+    
+    -----------------------------------------------------------------------
+    
+    SUMMARY: NMFS publishes regulations to implement cost recovery fee 
+    programs for the Western Alaska Community Development Quota (CDQ) 
+    Program for groundfish and halibut, and three limited access privilege 
+    programs: The American Fisheries Act (AFA), Aleutian Islands Pollock, 
+    and Amendment 80 Programs. The Magnuson-Stevens Fishery Conservation 
+    and Management Act (Magnuson-Stevens Act) authorizes and requires the 
+    collection of cost recovery fees for the CDQ Program and limited access 
+    privilege programs. Cost recovery fees recover the actual costs 
+    directly related to the management, data collection, and enforcement of 
+    the programs. The Magnuson-Stevens Act mandates that cost recovery fees 
+    not exceed 3 percent of the annual ex-vessel value of fish harvested by 
+    a program subject to a cost recovery fee. This action is intended to 
+    promote the goals and objectives of the Magnuson-Stevens Act, the 
+    Fishery Management Plan for Groundfish of the Bering Sea and Aleutian 
+    Islands Management Area (FMP), and other applicable laws.
+    
+    DATES: Effective February 4, 2016.
+    
+    ADDRESSES: Electronic copies of the Regulatory Impact Review (the 
+    Analysis) and the Categorical Exclusion prepared for this action may be 
+    obtained from <http://www.regulations.gov> or from the NMFS Alaska Region 
+    Web site at <http://alaskafisheries.noaa.gov>.
+        Written comments regarding the burden-hour estimates or other 
+    aspects of the collection of information requirements contained in this 
+    final rule may be submitted by mail to NMFS, Alaska Region, P.O. Box 
+    21668, Juneau, AK 99802-1668, Attn: Ellen Sebastian, Records Officer; 
+    in person at NMFS, Alaska Region, 709 West 9th Street, Room 420A, 
+    Juneau, AK; or by email to [OIRA_submission@omb.eop.gov](mailto:OIRA_submission@omb.eop.gov) or fax to (202) 
+    395-5806.
+    
+    FOR FURTHER INFORMATION CONTACT: Glenn Merrill, (907) 586-7228.
+    
+    SUPPLEMENTARY INFORMATION: NMFS manages the groundfish fisheries in the 
+    Federal exclusive economic zone of the Bering Sea and Aleutian Islands 
+    Management Area (BSAI) under the FMP. The North Pacific Fishery 
+    Management Council (Council) prepared the FMP under the authority of 
+    the Magnuson-Stevens Act, 16 U.S.C. 1801 et seq. Regulations governing 
+    U.S. fisheries and implementing this FMP appear at 50 CFR parts 600 and 
+    679.
+        The International Pacific Halibut Commission (IPHC) and NMFS manage 
+    fishing for Pacific halibut through regulations established under the 
+    authority of the Northern Pacific Halibut Act of 1982 (Halibut Act). 
+    The IPHC promulgates regulations governing the halibut fishery under 
+    the Convention between the United States and Canada for the 
+    Preservation of the Halibut Fishery of the Northern Pacific Ocean and 
+    Bering Sea (Convention). The IPHC's regulations are subject to approval 
+    by the Secretary of State with the concurrence of the Secretary of 
+    Commerce (Secretary). NMFS publishes the IPHC's regulations as annual 
+    management measures pursuant to 50 CFR 300.62. The Halibut Act, at 
+    sections 773c(a) and (b), provides the Secretary with general 
+    responsibility to carry out the Convention and the Halibut Act.
+    
+    Statutory Authority
+    
+        The primary statutory authority for this action is section 304(d) 
+    of the Magnuson-Stevens Act. Section 304(d)(2)(A) of the Magnuson-
+    Stevens Act specifies that the Secretary is authorized and shall 
+    collect a fee to recover the actual costs directly related to the 
+    management, data collection, and enforcement of any limited access 
+    privilege (LAP) program and community development quota (CDQ) program 
+    that
+    
+    [[Page 151]]
+    
+    allocates a percentage of the total allowable catch (TAC) of a fishery 
+    to such program. Section 304(d)(2)(B) specifies that such fee shall not 
+    exceed 3 percent of the ex-vessel value of fish harvested under any 
+    such program.
+        Section 304(d)(2)(A)(i) of the Magnuson-Stevens Act authorizes and 
+    requires the Secretary to collect fees to recover costs from any LAP 
+    program. Section 3 of the Magnuson-Stevens Act defines a ``limited 
+    access privilege'' as including ``an individual fishing quota.'' 
+    Section 3 of the Magnuson-Stevens Act defines ``individual fishing 
+    quota'' as ``a Federal permit under a limited access system to harvest 
+    a quantity of fish, expressed by a unit or units representing a 
+    percentage of the total allowable catch of a fishery that may be 
+    received or held for exclusive use by a person. Such term does not 
+    include community development quotas as described in section 305(i).'' 
+    The Magnuson-Stevens Act and Federal regulations further define the 
+    terms ``permit,'' ``limited access system,'' ``total allowable catch,'' 
+    and ``person.'' These terms will be discussed in detail below.
+        Section 304(d)(2)(A)(ii) of the Magnuson-Stevens Act authorizes and 
+    requires the Secretary to collect fees to recover costs from the CDQ 
+    Program for fisheries in which a percentage of the TAC of a fishery is 
+    allocated to the CDQ Program. Section 305(i) of the Magnuson-Stevens 
+    Act authorizes the CDQ Program and specifies the annual percentage of 
+    the TAC allocated to the CDQ Program in each directed fishery of the 
+    BSAI. Section 305(i) also specifies the method for further apportioning 
+    the TAC allocated to the CDQ Program to specific entities, called CDQ 
+    groups. NMFS previously implemented cost recovery fees for the amount 
+    of BSAI crab fishery TACs allocated to the CDQ Program under 
+    regulations implementing the Crab Rationalization Program (70 FR 10174, 
+    March 2, 2005, see regulations at Sec.  680.44) under the authority of 
+    section 304(d)(2) of the Magnuson-Stevens Act. This final rule 
+    implements cost recovery fees under the authority of section 304(d)(2) 
+    of the Magnuson-Stevens Act for BSAI groundfish and halibut TACs 
+    allocated to the CDQ Program.
+        A more detailed description of the statutory authority can be found 
+    in the preamble of the proposed rule (80 FR 936, January 7, 2015), as 
+    well as in Section 1.1 of the Analysis prepared for this action.
+    
+    Cost Recovery Fee Programs
+    
+        Cost recovery is the process by which NMFS recovers the actual 
+    costs associated with the management, data collection, and enforcement 
+    (also referred to as program costs) of a LAP or CDQ program. NMFS 
+    determines the costs based on the costs described in section 304(d) of 
+    the Magnuson-Stevens Act, consistent with NOAA policy on cost recovery. 
+    LAP and CDQ Program costs are recovered annually through a fee paid by 
+    persons who hold a permit granting an exclusive harvesting privilege 
+    for a portion of the TAC in a fishery subject to cost recovery.
+        The cost recovery fees assessed cannot exceed the statutory 
+    limitation of 3 percent of the ex-vessel value of the fish subject to a 
+    cost recovery fee as specified in section 304(d) of the Magnuson-
+    Stevens Act. Section 1.8 of the Analysis and the preamble to this 
+    proposed rule (80 FR 936, January 7, 2015) contain additional 
+    information on the costs that are subject to a cost recovery fee and 
+    current NOAA policy on the collection of cost recovery fees.
+        With this final rule, NMFS is implementing cost recovery fee 
+    programs for the AFA, Aleutian Islands Pollock, and Amendment 80 LAP 
+    Programs, and the CDQ Program. An effective cost recovery fee program 
+    requires calculating species ex-vessel values, using a standardized 
+    methodology to assess Program costs, assigning the appropriate fee to 
+    each person holding a permit, and ensuring that fees are submitted in 
+    full and on time. Below is a summary of the primary components of each 
+    cost recovery fee program (Tables 1 through 4). Each of these 
+    components is discussed in detail in the preamble to the proposed rule 
+    (80 FR 936, January 7, 2015), as well as the Analysis prepared for this 
+    action.
+    
+    Cost Recovery Fees
+    
+        Each calendar year, NMFS will determine the cost recovery fee that 
+    each Program must pay. The cost recovery fee for each Program will be 
+    based on costs incurred during the previous Federal fiscal year (from 
+    October 1 of the previous calendar year through September 30 of the 
+    current calendar year), and the ex-vessel value of the fish that are 
+    subject to a cost recovery fee during the current calendar year (from 
+    January 1 through December 31). The incurred costs that can be 
+    recovered under a cost recovery program are described in Section 1.8.3 
+    of the Analysis and the preamble to the proposed rule.
+        NMFS will calculate cost recovery fees only for fish that are 
+    landed and deducted from the TAC in the fisheries subject to cost 
+    recovery under the action. NMFS will not calculate cost recovery fees 
+    for any portion of a permit holder's exclusive harvest privilege that 
+    was not landed and deducted from the TAC. The permit holder refers to 
+    the person who holds the exclusive harvest privilege in the specific 
+    fishery. These methods for assessing cost recovery fees on landed catch 
+    and the designation of the permit holder are consistent with the cost 
+    recovery fee programs already implemented and NOAA policy guidance.
+        NMFS will calculate the cost recovery fee as a percentage of the 
+    ex-vessel value of allocated fish species harvested by the participants 
+    in each program. The use of a standard ex-vessel price will provide a 
+    consistent methodology to assess fees on all fishery participants and 
+    reduce administrative costs that would be incurred by collecting ex-
+    vessel data from each fishery participant. The methods used to 
+    determine a standard ex-vessel price vary depending on the specific 
+    program subject to a cost recovery fee. NMFS will use existing data 
+    sources to determine a standard ex-vessel price for pollock (the 
+    Commercial Operators Annual Report), and halibut and sablefish (IFQ 
+    Buyer Report). NMFS will require a new report from processors who 
+    receive Pacific cod to determine a standard ex-vessel price for Pacific 
+    cod (Pacific Cod Ex-vessel Volume and Value Report). NMFS will also 
+    require a new report from Amendment 80 vessel operators to determine 
+    standard ex-vessel prices from a range of other species subject to cost 
+    recovery (First Wholesale Volume and Value Report). These two new 
+    volume and value reports are due by November 10 of each year.
+        NMFS will determine a cost recovery fee percentage applicable to 
+    the species subject to cost recovery for each LAP and the CDQ Program. 
+    The cost recovery fee percentage is the percentage of the ex-vessel 
+    value of species used to determine a cost recovery fee that must be 
+    paid to NMFS. NMFS will publish the cost recovery fee percentage for 
+    each program in a Federal Register notice each year by December 1. NMFS 
+    will also send a fee liability notice to each designated representative 
+    of the person liable for a cost recovery fee by December 1 of each 
+    year. The cost recovery fee liability notice will include the total 
+    estimated fees due to NMFS from the person liable for the fee for that 
+    calendar year. The cost recovery fee will be due by December 31 of each 
+    year.
+        For the first year of fee collection, NMFS will begin assessing 
+    costs for these cost recovery programs starting on the effective date 
+    of this final rule. The costs assessed under the first year of
+    
+    [[Page 152]]
+    
+    cost recovery fee program will be based on costs incurred by NMFS from 
+    the final rule effective date through September 30, 2016. NMFS will 
+    base the ex-vessel value of the fish used to determine the cost 
+    recovery fee on actual and estimated harvests from January 1, 2016, 
+    through December 31, 2016. NMFS will publish the cost recovery fee 
+    percentage for each Program in a Federal Register notice by December 1, 
+    2016. NMFS will send each designated representative a fee liability 
+    notice by December 1, 2016. The cost recovery fee will be due on 
+    December 31, 2016.
+        Additional detail on how NMFS will calculate ex-vessel values, cost 
+    recovery fees, and the fee schedule is provided in Sections 1.7 and 
+    1.10 of the Analysis and the preamble to the proposed rule (80 FR 936, 
+    January 7, 2015) and is not repeated here.
+    
+    AFA Cost Recovery Fee Program
+    
+        The Bering Sea pollock fishery is managed under the American 
+    Fisheries Act (AFA) (16 U.S.C. 1851 note) and the Magnuson-Stevens Act. 
+    The AFA limits entry by vessels and processors into all sectors of the 
+    pollock fishery by identifying the vessels and processors eligible to 
+    participate in the fishery and allocating pollock among those eligible 
+    participants. The AFA defines the various sectors of the Bering Sea 
+    pollock fishery, determines what vessels and processors are eligible to 
+    participate in each sector, establishes allocations of Bering Sea 
+    pollock total TAC to each sector as directed fishing allowances, and 
+    establishes excessive share limits for harvesting pollock. The 
+    provisions of the AFA were incorporated into the FMP and its 
+    implementing regulations under authority of the Magnuson-Stevens Act. 
+    The AFA cost recovery fee program will apply to participants in the AFA 
+    pollock fishery.
+        As required by section 206(b) of the AFA, NMFS allocates a 
+    specified percentage of the Bering Sea directed pollock fishery TAC to 
+    each of the three AFA fishery sectors: (1) 50 percent to catcher 
+    vessels delivering to inshore processors, called the ``inshore 
+    sector''; (2) 40 percent to catcher/processors and catcher vessels 
+    delivering to those catcher/processors, called the ``catcher/processor 
+    sector''; and (3) 10 percent to catcher vessels harvesting pollock for 
+    processing by motherships, called the ``mothership sector.''
+        Section 208 of the AFA specifies the vessels and processors that 
+    are eligible to participate in the inshore sector, the catcher/
+    processor sector, and the mothership sector. Section 210 of the AFA 
+    authorizes the formation of fishery cooperatives in all sectors of the 
+    Bering Sea pollock fishery and provides flexibility to the Council and 
+    NMFS to govern the formation and operation of fishery cooperatives.
+        Under section 210(b), the AFA establishes additional qualifying 
+    criteria and operational restrictions on the formation and operation of 
+    cooperatives for the inshore sector. The AFA establishes a specific 
+    formula for making allocations of pollock to qualified inshore 
+    cooperatives. A catcher vessel with an AFA inshore endorsement may join 
+    an AFA inshore cooperative associated with an AFA inshore processor 
+    (AFA section 210(b); 50 CFR 679.4(l)(6)). For 2015, seven inshore 
+    cooperatives were formed by AFA eligible inshore catcher vessels and 
+    their partner inshore processors (<http://alaskafisheries.noaa.gov/sustainablefisheries/afa/15bsaicoopallocations.pdf>). Each inshore 
+    cooperative will be responsible for the payment of that cooperative's 
+    fee.
+        The catcher/processor sector has formed two cooperatives for 
+    managing the exclusive harvest allocation mandated for the catcher/
+    processor sector under section 206(b) of the AFA--one cooperative for 
+    the catcher/processors and one cooperative for the catcher vessels 
+    harvesting pollock for processing by catcher/processors. These two 
+    cooperatives are associated through a joint agreement called the 
+    ``Cooperative Agreement between Offshore Pollock Catchers' Cooperative 
+    and Pollock Conservation Cooperative'' to facilitate efficient harvest 
+    management and accurate harvest accounting between the participants in 
+    the catcher/processor sector. These two cooperatives jointly submit an 
+    annual cooperative report to the Council (see Cooperative Reports, NMFS 
+    Alaska Region Web site, <http://alaskafisheries.noaa.gov/sustainablefisheries/afa/afa_sf.htm>). The catcher/processor sector also 
+    formed one entity to represent the catcher/processor sector for the 
+    purposes of receiving and managing their transferable Chinook salmon 
+    prohibited species catch (PSC) allocation under a program to minimize 
+    Chinook salmon bycatch in the pollock fishery (see the final rule 
+    implementing Amendment 91 to the FMP, 75 FR 53026, August 30, 2010). 
+    This entity will be responsible for submitting the payment of the AFA 
+    catcher/processor fee under this rule.
+        All participants that harvest pollock allocated to the catcher/
+    processor sector are members of the two cooperatives, except for one 
+    participant. Section 208(e)(21) of the AFA expressly limits the amount 
+    of harvest by the one participant in the catcher/processor sector who 
+    is not a member of a cooperative to 0.5 percent of the TAC apportioned 
+    to the catcher/processor sector, thereby providing an exclusive harvest 
+    privilege to all catcher/processor cooperative members. The participant 
+    that is not a member of a cooperative will not be subject to a cost 
+    recovery fee for its harvest of Bering Sea pollock under this rule 
+    because that vessel is not given an explicit allocation of pollock and 
+    is already subject to cost recovery fees under the Amendment 80 
+    Program. Section 1.5.3 of the Analysis provides additional detail on 
+    allocations to the AFA catcher/processor sector.
+        The owners of all 19 catcher vessels eligible to deliver to a 
+    mothership in the Bering Sea pollock fishery have joined a single 
+    cooperative under section 208(c) of the AFA to coordinate harvests, the 
+    AFA Mothership Fleet Cooperative. This cooperative harvests the 
+    exclusive pollock allocation mandated for the mothership sector under 
+    section 206(b) of the AFA. The AFA Mothership Fleet Cooperative will be 
+    responsible for the payment of the AFA mothership cooperative fee.
+        NMFS recognizes that each AFA sector has slightly different 
+    management costs. This final rule establishes that NMFS will calculate 
+    fee percentage and fee liability separately for the catcher/processor 
+    sector, mothership sector, and inshore sector. NMFS estimates that 
+    annual fee liabilities for each sector will range from 0.23 percent to 
+    0.72 percent of the ex-vessel value of Bering Sea pollock.
+    
+         Table 1--Summary of the AFA Cost Recovery Fee Program Elements
+    ------------------------------------------------------------------------
+     
+    ------------------------------------------------------------------------
+    What species are subject to a cost  Bering Sea pollock.
+     recovery fee?
+    How is the standard price           NMFS will calculate a standard price
+     determined?                         based on data from the Commercial
+                                         Operators Annual Report (COAR) from
+                                         the previous calendar year.
+    
+    [[Page 153]]
+    
+     
+    Are there any additional reporting  No.
+     requirements for AFA cooperatives
+     to determine the standard price?
+    How will NMFS determine the         NMFS will add total reported
+     Standard Ex-vessel Value?           landings of Bering Sea pollock from
+                                         January 1 through November 30, and
+                                         estimate total landings in each
+                                         year (beginning in 2016) from
+                                         December 1 through December 31, if
+                                         any, for each AFA cooperative or
+                                         sector and multiply that amount by
+                                         the standard price determined by
+                                         COAR data to calculate a standard
+                                         ex-vessel value for each AFA
+                                         cooperative or sector.
+    Who is responsible for submission   AFA Catcher/Processor Sector (1):
+     of the fee payment and (how many    The designated entity
+     cooperatives are estimated to       representative for the catcher/
+     receive a fee liability notice)?    processor sector under Sec.
+                                         679.21(f)(8)(i)(C).
+                                        AFA Mothership Sector (1): The
+                                         designated representative for the
+                                         AFA Mothership Fleet Cooperative.
+                                        AFA Inshore Sector (7): The
+                                         designated representative on each
+                                         AFA Inshore Catcher Vessel
+                                         Cooperative Permit application.
+    When are the standard prices        The standard prices are published in
+     published in the Federal Register   the Federal Register by December 1
+     and when are the fee liability      of each calendar year, and the fee
+     notices sent?                       liability notices will be sent to
+                                         each designated representative by
+                                         December 1 of each year (beginning
+                                         December 1, 2016).
+    When are fee payments due and how   Fee payments are due by December 31
+     are they submitted?                 of each year (beginning December
+                                         31, 2016), and must be submitted
+                                         online. Submittal forms are
+                                         available online at: <http://www.alaskafisheries.noaa.gov>.
+    ------------------------------------------------------------------------
+    
+    Aleutian Islands Pollock Cost Recovery Fee Program
+    
+        This cost recovery fee program will apply to participants in the 
+    Aleutian Islands pollock fishery. The Aleutian Islands Pollock Program 
+    allocates the Aleutian Islands directed pollock fishery TAC to the 
+    Aleut Corporation, consistent with the Consolidated Appropriations Act 
+    of 2004 (Pub. L. 108-109), and its implementing regulations. Annually, 
+    prior to the start of the pollock season, the Aleut Corporation 
+    provides NMFS with the identity of their designated representative. 
+    This person will be responsible for the submission of all cost recovery 
+    fees. The Aleutian Islands pollock fishing regulations are at Sec.  
+    679.20(a)(5)(iii).
+        Prior to 2015, Aleutian Islands pollock was not harvested due to 
+    restrictions imposed by Steller sea lion protection measures. 
+    Therefore, prior to 2015, NMFS reallocated the Aleutian Islands pollock 
+    allocation to the AFA Program in the Bering Sea. Changes in Steller sea 
+    lion protection measures effective in 2015 allow for a directed pollock 
+    fishery to occur in the Aleutian Islands (79 FR 70286, November 25, 
+    2014). However, NMFS does not know whether participants will be able to 
+    successfully harvest the Aleutian Islands pollock because there has not 
+    been an Aleutian Islands pollock fishery since 1999. NMFS will 
+    reallocate any Aleutian Islands pollock not harvested in the Aleutian 
+    Islands to the AFA Program in the Bering Sea. Any pollock that NMFS 
+    reallocates from the Aleutian Islands Pollock Program to the AFA 
+    Program will be subject to cost recovery fees under the provisions of 
+    the AFA Program.
+        NMFS estimates that the cost recovery fee percentage applicable to 
+    Aleutian Islands pollock will be the same percentage applicable to 
+    Bering Sea pollock harvested by the AFA Program (Section 1.8.6.5 of the 
+    Analysis). Based on the information in the Analysis, NMFS assumes that 
+    the Aleutian Islands Pollock and the AFA Programs have similar 
+    management costs and ex-vessel values. NMFS will assess and determine a 
+    fee percentage specifically for Aleutian Islands pollock if management 
+    requirements differ between the Aleutian Islands Pollock Program and 
+    the AFA Program. Estimates of recoverable costs will be determined once 
+    additional information on the management costs for the Aleutian Islands 
+    pollock fishery is available.
+    
+       Table 2--Summary of the Aleutian Islands Pollock Cost Recovery Fee
+                                Program Elements
+    ------------------------------------------------------------------------
+     
+    ------------------------------------------------------------------------
+    What species are subject to a cost  Aleutian Islands pollock.
+     recovery fee?
+    How is the standard price           NMFS will calculate a standard price
+     determined?                         based on data from the COAR from
+                                         the previous calendar year. The
+                                         standard price will be applied to
+                                         all landings during a calendar
+                                         year.
+    Are there any additional reporting  No.
+     requirements for the Aleut
+     Corporation to determine the
+     standard price?
+    How will NMFS determine the         NMFS will add total reported
+     Standard Ex-vessel Value?           landings of Aleutian Islands
+                                         pollock from January 1 through
+                                         November 30, and estimate total
+                                         landings in each year (beginning in
+                                         2016) from December 1 through
+                                         December 31, if any, and multiply
+                                         that amount by the standard price
+                                         determined by COAR data to
+                                         calculate a standard ex-vessel
+                                         value for the Aleut Corporation.
+    Who is responsible for fee payment  Aleut Corporation (1).
+     and (how many cooperatives are
+     estimated to receive a fee
+     liability notice)?
+    When are the standard prices        The standard prices are published in
+     published in the Federal Register   the Federal Register by December 1
+     and when are fee liability          of each calendar year, and the fee
+     notices sent?                       liability notices will be sent to
+                                         each designated representative by
+                                         December 1 of each year (beginning
+                                         December 1, 2016).
+    When are fee payments due and how   Fee payments are due by December 31
+     are they submitted?                 of each year (beginning December
+                                         31, 2016), and must be submitted
+                                         online. Submittal forms are
+                                         available online at: <http://www.alaskafisheries.noaa.gov>.
+    ------------------------------------------------------------------------
+    
+    
+    [[Page 154]]
+    
+    Amendment 80 Cost Recovery Fee Program
+    
+        This cost recovery fee program will apply to participants in the 
+    Amendment 80 fisheries. The Amendment 80 Program allocates groundfish 
+    fisheries TAC, other than Bering Sea pollock, to identified trawl 
+    catcher/processors in the BSAI. The Amendment 80 Program allocates a 
+    portion of the BSAI TACs of six species: Atka mackerel, Pacific cod, 
+    flathead sole, rock sole, yellowfin sole, and Aleutian Islands Pacific 
+    ocean perch. Amendment 80 vessel owners can harvest these species in 
+    cooperatives that receive an exclusive harvest privilege, or in an 
+    ``open access'' fishery that will not be subject to a cost recovery fee 
+    requirement.
+        All 27 vessels currently participating in the Amendment 80 Program 
+    and their vessel owners are members of cooperatives and are subject to 
+    a cost recovery fee. Each Amendment 80 cooperative is responsible for 
+    payment of any cost recovery fee, and each Amendment 80 cooperative 
+    will designate a person responsible for submitting its fee and provide 
+    NMFS with the identity of that person. NMFS estimates that annual fee 
+    liabilities for Amendment 80 cooperatives will range from 1.22 to 1.77 
+    percent of the ex-vessel value of allocated species (Section 1.8.4.6 of 
+    the Analysis).
+    
+     Table 3--Summary of the Amendment 80 Cost Recovery Fee Program Elements
+    ------------------------------------------------------------------------
+     
+    ------------------------------------------------------------------------
+    What species are subject to a cost  Amendment 80 species: BSAI Atka
+     recovery fee?                       mackerel, BSAI flathead sole, BSAI
+                                         Pacific cod, Aleutian Islands
+                                         Pacific ocean perch, BSAI rock
+                                         sole, and BSAI yellowfin sole.
+    How is the standard price           NMFS will calculate a standard price
+     determined?                         for BSAI Pacific cod based on data
+                                         from the Pacific Cod Ex-vessel
+                                         Volume and Value Report. The
+                                         standard price will be applied to
+                                         all landings during a calendar
+                                         year.
+                                        NMFS will calculate a standard price
+                                         for all other species other than
+                                         Pacific cod from the First
+                                         Wholesale Volume and Value Report.
+                                         The standard price will be applied
+                                         to all landings during a calendar
+                                         year, except for BSAI rock sole.
+                                         For BSAI rock sole, NMFS will
+                                         calculate one standard price for
+                                         landings made from January 1
+                                         through March 31, and a separate
+                                         standard price for landings made
+                                         from April 1 through December 31 of
+                                         each year.
+    Are there any additional reporting  Yes. Each Amendment 80 vessel owner
+     requirements to determine the       that lands Amendment 80 species
+     standard price?                     during a calendar year is required
+                                         to submit a First Wholesale Volume
+                                         and Value Report.
+    How will NMFS determine the         NMFS will add total reported
+     Standard Ex-vessel Value?           landings of Amendment 80 species
+                                         from January 1 through November 30,
+                                         and estimate total landings in each
+                                         year (beginning in 2016) from
+                                         December 1 through December 31, if
+                                         any, and multiply that amount by
+                                         the standard price determined by
+                                         the applicable volume and value
+                                         report to calculate a standard ex-
+                                         vessel value for each Amendment 80
+                                         cooperative.
+    Who is responsible for fee payment  Each Amendment 80 cooperative's
+     and (how many cooperatives are      designated representative listed on
+     estimated to receive a fee          the Cooperative Quota (CQ)
+     liability notice)?                  application (2).
+    When are the standard prices        The standard prices are published in
+     published in the Federal            the Federal Register by December 1
+     Register, and when are fee          of each calendar year, and the fee
+     liability notices sent?             liability notices will be sent to
+                                         each designated representative by
+                                         December 1 of each year (beginning
+                                         December 1, 2016).
+    When are fee payments due and how   Fee payments are due by December 31
+     are they submitted?                 of each year (beginning December 31
+                                         2016), and must be submitted
+                                         online. Submittal forms are
+                                         available online at: <http://www.alaskafisheries.noaa.gov>.
+    ------------------------------------------------------------------------
+    
+    CDQ Cost Recovery Fee Program
+    
+        This cost recovery fee program will apply to CDQ groups. The CDQ 
+    Program was implemented in 1992 to provide access to BSAI fishery 
+    resources to villages located in Western Alaska. Since the 
+    implementation of the CDQ Program, Congress has amended the Magnuson-
+    Stevens Act to define specific provisions of the CDQ Program. Section 
+    305(i) of the Magnuson-Stevens Act identifies 65 villages eligible to 
+    participate in the CDQ Program and the six CDQ groups to represent 
+    these villages. CDQ groups receive exclusive harvesting privileges of 
+    the TACs for a broad range of crab species, groundfish species, and 
+    halibut. This final rule establishes a cost recovery fee program only 
+    for groundfish and halibut because CDQ crab cost recovery fees are 
+    already collected under existing regulations. Each CDQ group will be 
+    subject to cost recovery fee requirements, and the designated 
+    representative of each CDQ group will be responsible for submitting 
+    payment for its CDQ group. This is consistent with the method NMFS uses 
+    to collect fees for the crab CDQ cost recovery program. NMFS estimates 
+    that annual fee liabilities for a CDQ group will range from 0.73 to 
+    1.33 percent of the harvested ex-vessel value of CDQ groundfish and 
+    halibut.
+    
+         Table 4--Summary of the CDQ Cost Recovery Fee Program Elements
+    ------------------------------------------------------------------------
+     
+    ------------------------------------------------------------------------
+    What species are subject to a cost  BSAI halibut and groundfish species
+     recovery fee?                       allocated to the CDQ Program: BSAI
+                                         Arrowtooth Flounder, BSAI Atka
+                                         mackerel, BSAI flathead sole,
+                                         Bering Sea Greenland turbot, BSAI
+                                         Pacific cod, Aleutian Islands
+                                         Pacific ocean perch, BSAI pollock,
+                                         BSAI rock sole, BSAI sablefish, and
+                                         BSAI yellowfin sole.
+    How is the standard price           NMFS will calculate a standard price
+     determined?                         for BSAI Pacific cod based on data
+                                         from the Pacific Cod Ex-vessel
+                                         Volume and Value Report. The
+                                         standard price will be applied to
+                                         all landings during a calendar
+                                         year.
+                                        NMFS will calculate a standard price
+                                         for all other species other than
+                                         BSAI pollock, BSAI Pacific cod,
+                                         BSAI sablefish, and BSAI halibut
+                                         from the First Wholesale Volume and
+                                         Value Report. The standard price
+                                         will be applied to all landings
+                                         during a calendar year, except for
+                                         BSAI rock sole. For BSAI rock sole,
+                                         NMFS will calculate one standard
+                                         price for landings made from
+                                         January 1 through March 31, and a
+                                         separate standard price for
+                                         landings made from April 1 through
+                                         December 31 of each year.
+                                        NMFS will calculate a standard price
+                                         for BSAI pollock based on data from
+                                         the COAR from the previous calendar
+                                         year. The standard price will be
+                                         applied to all landings during a
+                                         calendar year.
+                                        NMFS will calculate a standard price
+                                         for BSAI sablefish and BSAI halibut
+                                         from the IFQ Buyer Report. The
+                                         standard price will be applied to
+                                         all landings during a calendar
+                                         year.
+    
+    [[Page 155]]
+    
+     
+    Are there any additional reporting  No.
+     requirements from CDQ groups to
+     determine the standard price?
+    How will NMFS determine the         NMFS will add total reported
+     Standard Ex-vessel Value?           landings of species subject to a
+                                         CDQ cost recovery fee from January
+                                         1 through November 30, and estimate
+                                         total landings in each year
+                                         (beginning in 2016) from December 1
+                                         through December 31, if any, and
+                                         multiply that amount by the
+                                         standard price determined by the
+                                         volume and value report, COAR
+                                         Report, or IFQ Buyer Report
+                                         applicable to that species to
+                                         calculate a standard ex-vessel
+                                         value for each CDQ group.
+    Who is responsible for fee payment  Each CDQ group's designated
+     and (how many cooperatives are      representative (6).
+     estimated to receive a fee
+     liability notice)?
+    When are the standard prices        The standard prices are published in
+     published in the Federal Register   the Federal Register by December 1
+     and when are the fee liability      of each calendar year, and the fee
+     notices sent?                       liability notices will be sent to
+                                         each designated representative by
+                                         December 1 of each year (beginning
+                                         December 1, 2016).
+    When are fee payments due and how   Fee payments are due by December 31
+     are they submitted?                 of each year (beginning December
+                                         31, 2016), and must be submitted
+                                         online. Submittal forms are
+                                         available online at: <http://www.alaskafisheries.noaa.gov>.
+    ------------------------------------------------------------------------
+    
+    Response to Comments
+    
+        NMFS published a proposed rule that describes in detail the 
+    statutory authority to implement cost recovery fee programs, the 
+    Programs affected by the implementation of a cost recovery fee program, 
+    and how NMFS will implement the new cost recovery fee programs, in the 
+    Federal Register on January 7, 2015 (80 FR 936). The 30-day comment 
+    period on the proposed rule ended February 6, 2015. NMFS received a 
+    total of three comment letters from three unique persons representing 
+    participants in programs that are subject to cost recovery under this 
+    final rule. The comment letters contained 24 substantive comments. A 
+    summary of the comments received and NMFS' responses follow.
+    
+    Comments on NMFS' Costs Subject to Recovery
+    
+        Comment 1: NMFS received several comments regarding the process for 
+    calculating costs subject to cost recovery. The issues raised in the 
+    comments include the following:
+         Base fee liabilities on the incremental costs associated 
+    with management and enforcement of the specific LAP or CDQ Program.
+         Do not assess costs attributed to the general management 
+    of the fisheries that cannot be directly attributed to the specific LAP 
+    or CDQ Program.
+         Appropriately apportion costs among LAP and CDQ programs 
+    to ensure that costs applicable to one program are not attributed to 
+    another program.
+         Do not include costs associated with deploying and 
+    debriefing observers in the cost recovery fee calculations since 
+    observer deployment and debriefing would have been implemented without 
+    the implementation of the LAP or CDQ programs.
+         Provide detailed cost breakouts for each LAP and CDQ 
+    Program.
+        Response: Section 304(d)(2)(A) of the Magnuson-Stevens Act states 
+    that the Secretary is authorized and shall collect a fee to recover the 
+    actual costs directly related to the management, data collection, and 
+    enforcement of any limited access privilege program and community 
+    development quota program that allocates a percentage of the total 
+    allowable catch of a fishery to such program.
+        As stated in the preamble to the proposed rule, NMFS intends to 
+    employ the same accounting methods for the cost recovery fee programs 
+    established by this rule as NMFS has consistently used in cost recovery 
+    fee programs in the Alaska Region (Halibut and Sablefish Individual 
+    Fishing Quota (IFQ) Program, Crab Rationalization Program, and the 
+    Central Gulf of Alaska Rockfish Program). This methodology to assess 
+    cost recovery fees is consistent with the Magnuson-Stevens Act and 
+    current NOAA policy (NOAA Technical Memorandum NMFS-F/SPO-86, November 
+    2007). The costs described in Section 1.8.3 of the Analysis and the 
+    preamble to the proposed rule provide the best available description of 
+    the costs subject to cost recovery for each LAP program and the CDQ 
+    Program. As explained in in Section 1.8.3 of the Analysis, NMFS will 
+    only assess costs that can be directly attributed to the specific LAP 
+    or CDQ Program.
+        NMFS agrees that costs should be accurately attributed to each CDQ 
+    and LAP program. As noted in the preamble to the proposed rule, NMFS 
+    will capture the incremental costs of managing the fisheries of each 
+    CDQ or LAP program through an established accounting system that allows 
+    NMFS to track labor, travel, and procurement specific to that program. 
+    This process is described in Section 1.8.3 of the Analysis. This 
+    accounting system will allow NMFS to properly apportion costs among the 
+    CDQ and LAP programs.
+        NMFS agrees that certain categories of observer costs should not be 
+    included in the fee calculation. For example, many catcher/processors 
+    operating in the directed pollock and non-pollock fisheries in the BSAI 
+    were required to carry an observer prior to the implementation of the 
+    AFA or the Amendment 80 Programs. Costs associated with the debriefing 
+    and training of one observer will not be assessed or included in the 
+    fee calculation. However, NMFS required additional observer coverage 
+    for implementation of the AFA and the Amendment 80 Programs (Section 
+    1.8 of the Analysis). These LAP programs required the deployment of two 
+    observers on board each AFA catcher/processor or Amendment 80 vessel. 
+    NMFS will assess fees for costs necessary to debrief and train the 
+    second observer because those costs are incurred as a direct result of 
+    the implementation of those LAP programs.
+        NMFS agrees that information on the costs used to determine the fee 
+    should be disclosed annually. NMFS will make publically available an 
+    annual report that provides information on how the cost recovery fee 
+    was estimated for that year. This report will be structured like the 
+    cost recovery fee reports that are currently generated for the Halibut 
+    and Sablefish IFQ Program and Crab Rationalization Program. An example 
+    of the Halibut and Sablefish Cost Recovery Fee report for 2013 is 
+    available at <https://alaskafisheries.noaa.gov/ram/fees/feerpt2013.pdf>.
+        Comment 2: The cost recovery regulations should be revised to more
+    
+    [[Page 156]]
+    
+    clearly incorporate the Magnuson-Stevens Act's limitations on costs 
+    that may be recovered. To focus on truly recoverable costs, revise the 
+    regulations to incorporate the definition of ``direct program costs'' 
+    provided under the cost recovery rule established for certain Pacific 
+    Coast groundfish fisheries (78 FR 75269, December 11, 2013).
+        Response: This final rule already incorporates the section 
+    304(d)(2)(B) Magnuson-Stevens Act limitation on the costs that may be 
+    recovered and clearly states that the fee percentage amount must not 
+    exceed 3 percent of the ex-vessel value of the species harvested under 
+    the Program. In this final rule at Sec.  679.2, the definition of the 
+    fee percentage for each program limits the fee percentage to no greater 
+    than 3 percent. Additionally, the cost recovery regulations specific to 
+    each program state that the fee amounts must not exceed 3 percent, see 
+    this final rule at Sec. Sec.  679.33(c)(1), 679.66(c)(1), 679.67(c)(1), 
+    and 679.95(c)(1).
+        NMFS' recoverable costs are limited by the Magnuson-Stevens Act. 
+    Section 304(d) of the Magnuson-Stevens Act states that the recoverable 
+    costs must be the actual costs directly related to the management, data 
+    collection, and enforcement of the CDQ or LAP programs. NMFS will use 
+    the accounting methods that have been developed for all other cost 
+    recovery programs in the North Pacific to determine the ``direct 
+    program costs'' that are recoverable, as described in the preamble to 
+    the proposed rule. NMFS made no changes to this final rule at 
+    Sec. Sec.  679.33(c)(2)(ii), 679.66(c)(2)(ii), 679.67(c)(2)(ii), or 
+    679.95(c)(2)(ii) because the direct program cost language is consistent 
+    with the Magnuson-Stevens Act, regulations implementing the other North 
+    Pacific cost recovery fee programs, and NOAA policy.
+        Comment 3: Explain the cause of the rapid increase in the Gulf of 
+    Alaska Rockfish Program cost recovery fee to 3 percent of its ex-vessel 
+    value. Ensure that a similar rapid and unanticipated increase in the 
+    fee percentage will not happen to the cost recovery fees for these CDQ 
+    and LAP programs.
+        Response: The preamble to the final rule that implemented the Gulf 
+    of Alaska Rockfish Program (Amendment 88 to the Fishery Management Plan 
+    for Groundfish of the Gulf of Alaska) stated that, given the relatively 
+    small value of the Rockfish Program relative to anticipated 
+    administrative costs, cost would likely exceed 3 percent of the ex-
+    vessel value of the Rockfish Program, therefore, it would be likely 
+    that the costs recovery fee for the Rockfish Program would be 3 
+    percent, the statutory limit established by the Magnuson-Stevens Act 
+    (76 FR 81263, December 27, 2011). Cost recovery fee percentages in the 
+    Rockfish Program have ranged from 1.4 percent in 2012 (the year the 
+    Rockfish Program cost recovery fee was implemented), to 3 percent in 
+    2015 (the most recent year for which a cost recovery fee was assessed). 
+    NMFS attributes the increase in the fee percentage in 2015 primarily to 
+    a decrease in the ex-vessel value of rockfish, and to a lesser extent, 
+    an increase in NMFS' management and enforcement costs (80 FR 6053, 
+    February 4, 2015).
+        As stated in Section 1.8.4.6 (Amendment 80), Section 1.8.6.5 (AFA/
+    Aleutian Islands pollock), and Section 1.8.5.5 (CDQ) of the Analysis, 
+    NMFS does not anticipate that the factors that led to the increase in 
+    the Rockfish Program cost recovery fee percentage are likely to exist 
+    in the CDQ and LAP programs subject to cost recovery under this rule. 
+    The referenced sections of the Analysis show that the CDQ and LAP 
+    Program fisheries have substantially higher ex-vessel values than the 
+    ex-vessel value of the Rockfish Program fishery. The Rockfish Program 
+    fishery ex-vessel value fell from about $14.3 million in 2012 to about 
+    $6.3 million in 2014. Section 1.8.4.6 (Amendment 80), Section 1.8.6.5 
+    (AFA/Aleutian Islands pollock), and Section 1.8.5.5 (CDQ) of the 
+    Analysis state that NMFS does not expect future ex-vessel values or 
+    anticipated costs subject to cost recovery to change in a way that 
+    would result in a 3 percent cost recovery fee for these Programs.
+        Section 1.8.1 of the Analysis states that the Crab Rationalization 
+    Program has not experienced an increase in its fee percentage, but the 
+    Halibut and Sablefish IFQ Program has had an increase in its fee 
+    percentage over time. In the Crab Rationalization Program, the fee 
+    percentage declined over time due to a variety of factors, including 
+    (1) increasing TACs for various crab species, (2) increasing ex-vessel 
+    prices for various crab species, and (3) decreasing management costs. 
+    In the Halibut and Sablefish IFQ Program, the fee percentage has 
+    increased due to costs remaining fairly constant and ex-vessel value 
+    decreasing due to reduced harvests that have not been off-set by 
+    increases in ex-vessel prices.
+    
+    Comments on the CDQ Cost Recovery Fee Program
+    
+        Comment 4: NMFS' definition of a ``person'' as each CDQ group that 
+    is issued an annual CDQ allocation is consistent with the way that each 
+    CDQ group manages its allocations individually for all other purposes.
+        Response: NMFS agrees. Regulations at Sec.  679.2 define a CDQ 
+    group as ``an entity identified as eligible for the CDQ Program under 
+    16 U.S.C. 1855(i)(1)(D).'' The six eligible CDQ groups are listed in 
+    Table 7 to 50 CFR part 679. Each CDQ group is responsible for a fee 
+    payment, and each CDQ group must designate a representative who is 
+    responsible for submitting a fee payment for that CDQ group (see 
+    regulations at Sec.  679.33(a)).
+    
+    Comments on the AFA Cost Recovery Fee Program
+    
+        Comment 5: The Bering Sea pollock directed fishing allowance does 
+    not meet the Magnuson-Stevens Act's definition of individual fishing 
+    quota because it is not a permit. The directed fishing allowance does 
+    not allow any person ``to harvest a quantity of fish'' for that 
+    person's ``exclusive use.'' The directed fishing allowance is the 
+    amount of fish available to be harvested with a permit and therefore is 
+    a management restriction on a group of vessels rather than a permit. 
+    That is exactly how NMFS' regulation at Sec.  679.20(a) describes the 
+    pollock directed fishing allowance.
+        Response: Section 3 of the Magnuson-Stevens Act defines an 
+    individual fishing quota as ``a Federal permit under a limited access 
+    system to harvest a quantity of fish, expressed by a unit or units 
+    representing a percentage of the total allowable catch of a fishery 
+    that may be received or held for exclusive use by a person.'' According 
+    to Sec.  679.2, a permit means documentation granting permission to 
+    fish.
+        The harvest specifications, with the AFA directed fishing allowance 
+    entitling the catcher/processor sector to harvest a quantity of fish 
+    for its exclusive use, is the individual fishing quota and 
+    documentation granting permission to fish. NMFS publishes harvest 
+    specifications each year in the Federal Register that allocate a 
+    specific percentage of the pollock TAC to the AFA sectors, called the 
+    directed fishing allowance, for exclusive use by eligible AFA permit 
+    holders (see the most recent example at Table 4, 80 FR 11919, March 5, 
+    2015; corrected 80 FR 13787, March 17, 2015). The harvest 
+    specifications with the directed fishing allowance is a permit that 
+    authorizes the AFA sectors to harvest a portion of the pollock TAC each 
+    year.
+        Federal regulations at Sec.  679.20(a)(5)(i)(A)(4) specify that the 
+    catcher/processor sector allocation is 40 percent of the directed 
+    fishing allowance that is allocated to AFA catcher/processors and AFA 
+    catcher
+    
+    [[Page 157]]
+    
+    vessels that deliver to catcher/processors. The AFA catcher/processor 
+    sector has exclusive use of its directed fishing allowance because the 
+    catcher/processors that are eligible to participate are specified in 
+    the AFA, FMP, and associated regulations. The exclusive quantity of 
+    fish allocated to the AFA catcher processor sector is then harvested by 
+    those specified in the FMP and regulations according to contractual 
+    arrangement among the members of that sector.
+        Comment 6: The Cooperative Agreement between Offshore Pollock 
+    Catchers' Cooperative and Pollock Conservation Cooperative (Cooperative 
+    Agreement) does not constitute a ``person.''
+        Response: Based on this public comment, NMFS realizes that the 
+    proposed rule was not sufficiently specific in explaining who the 
+    person is that receives the individual fishing quota and is therefore 
+    responsible for the cost recovery fee for the AFA catcher/processor 
+    sector.
+        Regulations at Sec.  679.2 define a person as ``any individual 
+    (whether or not a citizen or national of the United States), any 
+    corporation, partnership, association, or other non-individual entity 
+    (whether or not organized, or existing under the laws of any state), 
+    and any Federal, state, local, or foreign government or any entity of 
+    any such aforementioned governments.'' A similar definition of a 
+    ``person'' is in section 3 of the Magnuson-Stevens Act.
+        As explained in response to Comment 5, the directed fishing 
+    allowance is an individual fishing quota. NMFS allocates the directed 
+    fishing allowance to the AFA catcher/processor sector. NMFS considers 
+    the AFA catcher/processor sector an entity and therefore a person under 
+    the Magnuson-Stevens Act. The AFA catcher/processor sector also (1) 
+    shares common ownership of vessels, (2) enters into contracts that 
+    allow the catcher/processors to harvest the catcher vessel allocation, 
+    (3) participates in incentive plan agreements to avoid Chinook salmon, 
+    and (4) submits one salmon avoidance report and one annual cooperative 
+    report for the AFA catcher/processor sector each year. The contracts 
+    establishing these relationships among members describe and provide for 
+    allocations of pollock and salmon to specific vessel owners and 
+    operators. Section 1.6.3.3 of the Analysis describes the harvest of 
+    catch in the AFA catcher/processor sector in greater detail, and the 
+    ability of the AFA catcher/processor sector members to precisely 
+    harvest the sector's exclusive pollock allocation.
+        Under Amendment 91 to the FMP, members of the AFA catcher/processor 
+    sector also formed one entity to represent the AFA catcher/processor 
+    sector for the purposes of receiving and managing their transferable 
+    Chinook salmon PSC allocation under the regulations at Sec.  
+    679.21(f)(8)(i)(C). The members of the AFA catcher/processor sector 
+    created a contract that, among other things, lists the vessel owners 
+    represented by the entity, and submitted an application to NMFS under 
+    Sec.  679.21(f)(8)(ii). NMFS has approved the application for the 
+    entity representing the AFA catcher/processor sector. The contract also 
+    designates an entity representative and an agent for service of 
+    process. Currently, all eligible members of the AFA catcher/processor 
+    sector are represented by the entity. Entity participants cannot change 
+    during a fishing year. To make additions or deletions to the vessel 
+    owners represented by the entity for the next year, the entity 
+    representative must submit a complete application, as described in 
+    Sec.  679.21(f)(8)(ii)(F), by December 1.
+        NMFS has modified this final rule to clarify that the entity 
+    representative under Sec.  679.21(f)(8) will be the designated 
+    representative responsible for submitting the cost recovery fee payment 
+    for the AFA catcher/processor sector. See Changes from the Proposed 
+    Rule, below, for a complete description of the changes NMFS made to 
+    this final rule in response to comments on the AFA catcher/process 
+    sector.
+        Comment 7: The pollock directed fishing allowance is allocated to 
+    AFA catcher/processor vessels rather than to the Cooperative Agreement. 
+    Even if the pollock directed fishing allowance qualifies as a 
+    ``permit'' and the catcher/processor sector's Cooperative Agreement 
+    constitutes a ``person,'' the asserted permit is not held by the 
+    alleged person.
+        Response: Each year, NMFS allocates the pollock directed fishing 
+    allowance to the AFA catcher/processor sector under Federal regulations 
+    Sec.  679.20(a)(5)(i)(A)(4), as required by section 206(b)(2) of the 
+    AFA. Each year, NMFS also allocates Chinook salmon PSC to the AFA 
+    catcher/processor sector under Amendment 91 to the FMP and Sec.  
+    679.21(f). Once the catcher/processor sector receives the sector's 
+    pollock directed fishing allowance for exclusive harvest and the 
+    sector's Chinook salmon PSC allocation, the AFA catcher/processor 
+    sector members divide these allocations among themselves.
+        As explained in the response to Comment 5, the annual harvest 
+    specifications with the directed fishing allowance is an IFQ to the AFA 
+    catcher/processor sector. As explained in the response to Comment 6, 
+    the ``person'' who receives the exclusive harvest privilege for the 
+    purposes of cost recovery is the catcher/processor sector that is 
+    eligible to harvest pollock from that sector's directed fishing 
+    allowance defined in section 206(b)(2) of the AFA.
+        Comment 8: The Bering Sea pollock directed fishing allowance 
+    provided to the AFA sectors was not created under a limited access 
+    system and could not have been created under such a system because it 
+    went into effect during the moratorium on individual fishing quotas.
+        Response: In 2007, Congress adopted the Magnuson-Stevens Fishery 
+    Conservation and Management Reauthorization Act (MSRA, Pub. L. 109-479) 
+    to amend the Magnuson-Stevens Act. In the MSRA, Congress amended the 
+    Magnuson-Stevens Act to include language applicable to limited access 
+    systems and limited access programs.
+        In section 3(27) of the Magnuson-Stevens Act, Congress defined 
+    ``limited access system'' as ``a system that limits participation in a 
+    fishery to those satisfying certain eligibility criteria or 
+    requirements contained in a fishery management plan or associated 
+    regulation.'' Although the AFA was adopted and implemented through the 
+    FMP before 2007, the AFA Program meets this definition of a limited 
+    access system. The AFA Program is a system that limits participation in 
+    the Bering Sea pollock fishery to those satisfying certain eligibility 
+    criteria or requirements contained in a fishery management plan or 
+    associated regulations. The AFA specified sector allocations and 
+    eligibility criteria for vessels to harvest pollock in each of the 
+    specified sectors (section 206 and section 208 of the AFA, 16 U.S.C. 
+    1851 statutory note). The eligibility criteria and requirements in the 
+    AFA were incorporated into the FMP, the Fishery Management Plan for 
+    Groundfish of the Gulf of Alaska, the Fishery Management Plan for 
+    Bering Sea and Aleutian Islands King and Tanner Crab, and the Fishery 
+    Management Plan for the Scallop Fishery Off Alaska (Amendments 61/61/
+    13/8, respectively). NMFS manages the AFA Program through the FMPs and 
+    their implementing regulations (67 FR 79692, December 30, 2002).
+        NMFS is implementing the cost recovery program for the AFA under 
+    authority of section 304(d) of the Magnuson-Stevens Act. Section 
+    304(d)(2)(A) of the Magnuson-Stevens Act, which was adopted as part of 
+    the MSRA, authorizes and requires the
+    
+    [[Page 158]]
+    
+    Secretary to collect a cost recovery fee for limited access privilege 
+    programs. In section 3(26) of Magnuson-Stevens Act, Congress defined 
+    the term ``limited access privilege'' and specifically included 
+    ``individual fishing quota.''
+        The AFA Program is a limited access privilege program because (1) 
+    NMFS issues a permit as part of a limited access system established by 
+    the AFA Program, (2) this permit allows the harvest of a quantity of 
+    pollock representing a portion of the TAC managed under the AFA 
+    Program, and (3) this permit is issued for exclusive use by a person, 
+    the AFA catcher/processor sector. Therefore, NMFS is implementing cost 
+    recovery fees for the AFA catcher/processor sector as authorized and 
+    required in section 304(d)(2) of the Magnuson-Stevens Act.
+        Further, the AFA does not prohibit the Secretary from imposing cost 
+    recovery requirements on participants in the AFA catcher/processor 
+    sector. Section 213(b) of the AFA states that, except for the measures 
+    required by this subtitle [subtitle II, Bering Sea Pollock Fishery], 
+    nothing in the subtitle shall be construed to limit the authority of 
+    the Council or the Secretary under the Magnuson-Stevens Act to approve 
+    conservation and management measures as part of a fishery management 
+    plan and to give effect to measures in those plans. Therefore, NMFS may 
+    implement the requirements of section 304(d) of the Magnuson-Stevens 
+    Act and establish a cost recovery program for participants in the AFA 
+    Program, including the AFA catcher/processor sector.
+        As for the moratorium on IFQ programs, section 303(d)(1)(A) of the 
+    1996 Magnuson-Stevens Act (Section 108(e) of the Sustainable Fisheries 
+    Act, Pub. L. 104-297) prohibited the Council from submitting and the 
+    Secretary from approving or implementing before October 1, 2000, any 
+    plan amendment or regulations that created a new individual fishing 
+    quota program. On December 21, 2000, Congress extended the moratorium 
+    until October 1, 2002, in the Consolidated Appropriations Act of 2001 
+    (Section 144(a), Pub. L. 106-554). The moratorium ended on October 1, 
+    2002, and was not extended again by Congress.
+        During the moratorium on IFQ Programs, on October 21, 1998, 
+    Congress adopted the AFA and explicitly directed the Council and NMFS 
+    to implement, by January 1, 1999, the provisions of the AFA allocating 
+    a portion of the TAC of BSAI pollock to the catcher/processor sector 
+    (Section 206 of the AFA, Pub. L. 105-277, 16 USCA 1851 note). In the 
+    Consolidated Appropriations Act of 2001, the same Act where Congress 
+    extended the moratorium on IFQ programs, Congress also mandated that 
+    all BSAI groundfish management measures, which included the AFA 
+    management measures, in effect as of July 15, 2000, be extended through 
+    the end of 2001 (Section 209(c)(3), Pub. L. 106-554). On November 28, 
+    2001, Congress made key provisions of the AFA permanent, including the 
+    pollock allocation to the catcher/processor sector, in section 211 of 
+    the Department of Commerce and Related Agencies Appropriation Act of 
+    2002 (Pub. L. 107-77).
+        While the permanent AFA management program was under analysis and 
+    development, NMFS met the statutory deadlines in the AFA on an interim 
+    basis through several emergency interim rules starting in January 1999 
+    (64 FR 3435, January 22, 1999) that were extended through the end of 
+    2002 (67 FR 34860, May 16, 2002). The Secretary approved the FMP 
+    amendments implementing the AFA on February 27, 2002, and NMFS 
+    published final implementing regulations for the AFA on December 30, 
+    2002, after the moratorium ended (67 FR 79692). The Administrator, 
+    Alaska Region, NMFS, determined that the FMP amendments were necessary 
+    for the conservation and management of the groundfish, crab, and 
+    scallop fisheries off Alaska and that they are consistent with the 
+    Magnuson-Stevens Act and other applicable laws (67 FR 79692, December 
+    30, 2002).
+        By adopting the AFA in 1998, by mandating its implementation in 
+    1999, and by making it permanent in 2001, Congress in effect adopted an 
+    exception to the moratorium on IFQ programs for the AFA. Further, NMFS 
+    did not adopt permanent regulations implementing the AFA until after 
+    the IFQ moratorium ended.
+        Comment 9: Imposing cost recovery on vessel owners in the AFA 
+    catcher/processor sector who voluntarily end ``a race for fish'' 
+    creates a disincentive to rationalize through private cooperation.
+        Response: The AFA, not the vessel owners in the AFA catcher/
+    processor sector, ended the ``race for fish.'' As explained in response 
+    to Comment 8, the AFA, and the implementing FMP amendments and 
+    regulations, created a limited access privilege program. The AFA 
+    Program required a fixed allocation of pollock to specific vessels that 
+    are eligible to participate in the fishery. The AFA allocated 40 
+    percent of the annual pollock TAC to catcher/processors and catcher 
+    vessels that harvest pollock for processing by catcher/processors and 
+    the AFA named the specific vessels that are eligible to harvest that 
+    allocation. Additionally, ending the race for fish resulted in 
+    substantial economic benefits to fishery participants (Section 1.5.3.1 
+    of the Analysis).
+        Comment 10: If the Pacific whiting catcher/processor sector that 
+    currently operates off the west coast in the waters under the 
+    jurisdiction of the Pacific Fishery Management Council was not 
+    considered to be a LAP program prior to 2011, then why is the AFA 
+    catcher/processor sector considered a LAP program? NMFS should identify 
+    any material differences in management of the AFA catcher/processor 
+    sector today and the Pacific whiting catcher/processor sector prior to 
+    2011.
+        Response: The primary material difference between the Pacific 
+    whiting fishery and the AFA catcher/processor sector is that the 
+    Pacific whiting fishery is not managed under the AFA. The AFA Program 
+    is a limited access privilege program because the AFA mandated 
+    allocations and specifically named eligible participants. The AFA and 
+    Federal regulations at Sec.  679.20(a)(5)(i)(A)(4) allocate 40 percent 
+    of the directed fishing allowance to the AFA catcher/processor sector 
+    and AFA catcher vessels delivering to the catcher/processors. The AFA 
+    catcher/processor sector has exclusive use of its directed fishing 
+    allowance because the catcher/processors that are eligible to 
+    participate are specified in section 208(e) of the AFA and Federal 
+    regulations at Sec.  679.4(l)(2), and the catcher vessels that are 
+    eligible to deliver to those catcher/processors are specified in 
+    section 208(b) of the AFA and Federal regulations at Sec.  
+    679.4(l)(3)(i)(A). The AFA catcher/processor sector manages its 
+    exclusive directed fishing allocation for the benefit of its members.
+        For a description of the management of the Pacific whiting catcher/
+    processor sector that operates off the west coast in the waters under 
+    the jurisdiction of the Pacific Fishery Management Council, please see 
+    the proposed rule to establish a trawl rationalization program for the 
+    Pacific Coast groundfish fishery (75 FR 32994, June 10, 2010).
+        Comment 11: NMFS defines the person responsible for paying the cost 
+    recovery fee applicable to the AFA catcher/processor sector in the 
+    proposed rule at Sec.  679.66(a)(1)(ii). This regulation should be 
+    revised to read ``the person designated as the representative of the 
+    Cooperative Agreement between Offshore Pollock Catchers' Cooperative 
+    and Pollock Conservation Cooperative.''
+        Response: Based on this and similar comments from the same 
+    commenter, regarding the person responsible for paying the cost 
+    recovery fee, NMFS has
+    
+    [[Page 159]]
+    
+    modified this final rule to specify the AFA catcher/processor sector's 
+    designated representative responsible for paying the cost recovery fee. 
+    Under the Amendment 91 implementing regulations, the AFA catcher/
+    processor sector has already designated an entity for the management of 
+    the Chinook salmon PSC that represents all the participants in the 
+    sector. Use of the entity representative resolves the confusion over 
+    who the designated representative is for the AFA catcher/processor 
+    sector that is responsible for submitting the cost recovery fee 
+    payment. NMFS has modified this final rule at Sec.  679.66(a)(1)(ii) to 
+    clarify that the entity representative under Sec.  679.21(f)(8)(i)(C) 
+    will be the designated representative responsible for submitting the 
+    cost recovery fee payment. See response to Comment 6 for additional 
+    information.
+        For the AFA catcher/processor sector, the proposed rule specified 
+    that the representative responsible for submitting the cost recovery 
+    payment for all Bering Sea pollock landings made under the authority of 
+    their cooperative is the person designated as the representative of the 
+    listed AFA catcher/processors and catcher vessels that deliver to them. 
+    However, the proposed rule did not include a mechanism for designating 
+    this representative to NMFS. Since public comments expressed concern 
+    with the appropriate representative for the AFA catcher/processor 
+    sector, NMFS modified this final rule to provide clarity. With this 
+    change, the AFA catcher/processor sector will use its existing entity 
+    and entity representative that the AFA catcher/processor sector has 
+    already designated with NMFS under the implementing regulations for 
+    Amendment 91 to submit the fee.
+        Comment 12: In the proposed rule at Sec. Sec.  679.66(c)(2), 
+    679.66(c)(2)(iii)(B), 679.66(c)(3)(i), and 679.66(c)(5)(iii), the 
+    references to a cooperative of listed AFA catcher/processors and 
+    catcher vessels delivering to catcher/processors should be revised to 
+    read ``the Cooperative Agreement between Offshore Pollock Catchers' 
+    Cooperative and Pollock Conservation Cooperative'' or, where 
+    appropriate, to the representative of that agreement. References to 
+    ``an AFA cooperative,'' ``an AFA cooperative representative,'' and 
+    ``cooperative'' in the proposed rule at Sec.  679.66(c)(4) and (5)(i) 
+    should also include references to the Cooperative Agreement or, where 
+    appropriate, the agreement's representative.
+        Response: This final rule at Sec.  679.66(c) governs the 
+    calculation of the AFA catcher/processor sector fee percentage and fee 
+    liability determination. In the proposed rule, NMFS had used 
+    cooperative as a general term applicable to the three AFA sectors. 
+    However, the use of the term cooperative for the AFA catcher/processor 
+    sector generated concern, as reflected in this public comment. Based on 
+    this and similar comments from the same commenter, NMFS has modified 
+    this final rule to specify that NMFS will calculate the AFA fee 
+    percentage for the AFA catcher/processor sector. NMFS changed 
+    Sec. Sec.  679.66(c)(2) introductory text, 679.66(c)(2)(iii)(B), 
+    679.66(c)(3)(i), 679.66(c)(4), and 679.66(c)(5)(i) and (iii) to add 
+    language specifying the entity representative for the AFA catcher/
+    processor sector and stating that these paragraphs are applicable to 
+    the AFA catcher/processor sector. See response to Comments 6 and 11 for 
+    additional information on the entity representative for the AFA 
+    catcher/processor sector.
+        Comment 13: The definition of ``AFA fee liability'' at Sec.  679.2 
+    should be revised to mean ``the amount of money . . . owed to NMFS by 
+    an AFA cooperative or the Cooperative Agreement between Offshore 
+    Pollock Catchers' Cooperative and Pollock Conservation Cooperative . . 
+    . .''
+        Response: NMFS has changed the definition of ``AFA fee liability'' 
+    at Sec.  679.2 in this final rule to clarify that the AFA fee liability 
+    means the amount of money for Bering Sea pollock cost recovery, in U.S. 
+    dollars, owed to NMFS by an AFA cooperative or AFA sector as determined 
+    by multiplying the appropriate AFA standard ex-vessel value of landed 
+    Bering Sea pollock by the appropriate AFA fee percentage. For 
+    consistency, NMFS also changed the definition of ``AFA fee percentage'' 
+    at Sec.  679.2 in this final rule to clarify that the AFA fee liability 
+    applies to an AFA cooperative or AFA sector. See response to Comment 11 
+    for additional detail.
+        Comment 14: Change the proposed rule at Sec.  679.66(d) to add the 
+    representative of the Cooperative Agreement between Offshore Pollock 
+    Catchers' Cooperative and Pollock Conservation Cooperative as the 
+    designated representative for the AFA catcher/processor sector. Make 
+    this change at Sec. Sec.  679.66(d)(3), 679.66(d)(3)(i), 
+    679.66(d)(3)(ii), 679.66(d)(4), 679.66(d)(5), and 679.66(d)(6).
+        Response: This final rule at Sec.  679.66(d) governs the 
+    underpayment of the cost recovery fee liability. In the proposed rule, 
+    NMFS used cooperative as a general term applicable to the three AFA 
+    sectors and their unique associations. However, the use of the term 
+    cooperative for the AFA catcher/processor sector generated a number of 
+    public comments from one commenter. NMFS agrees that the proposed rule 
+    language Sec.  679.66(d) should be more specific regarding the 
+    designated representative for the AFA catcher/processor sector. 
+    However, NMFS disagrees that the appropriate designated representative 
+    for the AFA catcher/processor sector is the representative of the 
+    Cooperative Agreement.
+        Based on this and Comments 6, 11, 12, and 13, NMFS has modified 
+    this final rule to specify that the designated representative for the 
+    AFA catcher/processor sector is the entity representative defined at 
+    Sec.  679.21(f)(8)(i)(C). NMFS changed this final rule at Sec. Sec.  
+    679.66(d)(3), 679.66(d)(3)(i), 679.66(d)(3)(ii), 679.66(d)(4), 
+    679.66(d)(5), and 679.66(d)(6) to add language specifying the entity 
+    representative for the AFA catcher/processor sector and that these 
+    paragraphs are applicable to the AFA catcher/processor sector.
+        Comment 15: References to ``an AFA cooperative,'' ``an AFA 
+    cooperative representative,'' and ``cooperative'' in the proposed rule 
+    at Sec. Sec.  679.66(e) and 679.66(f) should also include references to 
+    ``the Cooperative Agreement between Offshore Pollock Catchers' 
+    Cooperative and Pollock Conservation Cooperative'' or, where 
+    appropriate, the agreement's representative.
+        Response: This final rule at Sec.  679.66(e) and (f) governs over 
+    payment and appeals, respectively. NMFS disagrees that the Cooperative 
+    Agreement is the appropriate entity for the AFA catcher/processor 
+    sector for reasons explained in the response to Comment 11. However, 
+    NMFS changed this final rule at Sec.  679.66(e) and (f) to clarify that 
+    the designated representative is the appropriate person for activities 
+    regulated by Sec.  679.66(e) and (f).
+        Comment 16: In Sec.  679.66(g) Administrative Fees, the reference 
+    to the account drawn on to pay the ``CDQ fee liability'' should refer 
+    to the ``AFA fee liability.''
+        Response: NMFS removed paragraph (g) Administrative Fees from each 
+    cost recovery program at Sec. Sec.  679.33, 679.66, 679.67, and 679.95. 
+    These paragraphs addressed administrative fees if the account drawn on 
+    to pay the cost recovery fee liability has insufficient funds to cover 
+    the transaction or if the account becomes delinquent. These paragraphs 
+    are not necessary because the Debt Collection Improvement Act of 1996, 
+    as explained in the Treasury Financial Manual Part 4, Chapter 4000, 
+    generally requires Federal agencies to
+    
+    [[Page 160]]
+    
+    transfer any nontax debt to U.S. Department of the Treasury's Bureau of 
+    the Fiscal Service (Fiscal Service) for debt collection services. After 
+    transfer, Fiscal Service takes appropriate action to service, collect, 
+    compromise, or suspend or terminate collection action on the debt. NMFS 
+    then renumbered paragraph (h) as paragraph (g) Annual report.
+        Comment 17: The regulations should clarify that the person 
+    designated as the representative of the Cooperative Agreement between 
+    Offshore Pollock Catchers' Cooperative and Pollock Conservation 
+    Cooperative is a representative of that agreement solely for purposes 
+    of payment of cost recovery fees.
+        Response: In this final rule at Sec.  679.66(a)(1)(ii), the person 
+    responsible for submitting the cost recovery fee is the person 
+    designated as the representative of the entity representing the AFA 
+    catcher/processor sector under Sec.  679.21(f)(8)(i)(C).
+    
+    Comments on the Amendment 80 Cost Recovery Fee Program
+    
+        Comment 18: Use the Commercial Operator's Annual Report (COAR) to 
+    determine the standard ex-vessel price for Amendment 80 species and 
+    remove the requirement that Amendment 80 cooperatives submit the First 
+    Wholesale Volume and Value Report. The new reporting requirement is 
+    burdensome, redundant, and will require additional costs for NMFS. 
+    These additional costs will result in additional fee liabilities for 
+    the Amendment 80 cooperatives. COAR data are adequate for determining 
+    the standard price for species covered by the First Wholesale Volume 
+    and Value Report and can be obtained with less cost.
+        Response: NMFS considered using COAR for all species and all CDQ 
+    and LAP programs that would be subject to the new cost recovery 
+    regulations (see Section 1.7.2.1 of the Analysis). NMFS selected using 
+    COAR data only for the AFA and Aleutian Islands Pollock Programs 
+    because these are single species fisheries. As noted in Section 
+    1.7.2.2.1 of the Analysis, there is not substantial variation in the 
+    pollock ex-vessel price from year to year. Therefore, the standard ex-
+    vessel price is unlikely to impact the cost recovery fee that any 
+    person would be required to pay. Also, because a single price is set 
+    for all Bering Sea AFA pollock landed and only pollock is used to 
+    determine the cost recovery fee, the amount of the pollock each person 
+    harvests determines the percentage of the cost recovery fee each AFA 
+    person must pay.
+        In contrast, the Amendment 80 and CDQ Programs are multispecies 
+    programs and the variation in the ex-vessel price of a species and the 
+    proportion of species harvested by an Amendment 80 cooperative or CDQ 
+    group can affect the total fee liability due. Section 1.7.2 of the RIR/
+    FRFA and the preamble to the proposed rule show that the ex-vessel 
+    price of species covered by the Pacific Cod Ex-vessel Volume and Value 
+    Report and the First Wholesale Volume and Value Report can vary 
+    substantially from year to year, and this variation would have an 
+    impact on the fees that each person in these programs would be liable 
+    to pay. Using COAR data from the previous year may not reflect the ex-
+    vessel prices that exist in the year that the catch subject to cost 
+    recovery occurs. Therefore, NMFS is requiring that Amendment 80 
+    cooperatives submit a First Wholesale Volume and Value Report for 
+    species subject to a cost recovery fee for species other than BSAI 
+    halibut, BSAI Pacific cod, BSAI pollock, and BSAI sablefish. NMFS 
+    collects data on BSAI halibut and BSAI sablefish through existing data 
+    collection methods that provide more timely data than that provided by 
+    the COAR. NMFS will collect data for BSAI Pacific cod using a separate 
+    Pacific Cod Ex-vessel Volume and Value Report.
+        The First Wholesale Volume and Value Report allows NMFS to collect 
+    price and quantity data for the current year's fishery (as required 
+    under the Magnuson-Stevens Act) to determine the portion of the total 
+    cost recovery fee that each person is required to pay. NMFS must have 
+    this information to fulfill its obligation in assessing each person the 
+    required fee. The data collected from the First Wholesale Volume and 
+    Value Report is the minimum amount of information needed to determine 
+    each person's fee liability for Amendment 80 species and species other 
+    than BSAI halibut, BSAI Pacific cod, BSAI pollock, and BSAI sablefish.
+        NMFS agrees that collecting these data through the First Wholesale 
+    Volume and Value Report will increase the Amendment 80 sector cost 
+    recovery fee and increase the reporting burden on industry. NMFS 
+    considered implementing monthly reporting requirements for the First 
+    Wholesale Volume and Value Report similar to the IFQ program's Volume 
+    and Value Reports. However, to reduce the reporting burden and reduce 
+    the overall costs to the Amendment 80 participants, NMFS determined 
+    that an annual First Wholesale Volume and Value Report would provide 
+    sufficient information to collect the cost recovery fees and reduce 
+    administrative costs relative to a monthly reporting requirement. 
+    Overall, the cost that NMFS is likely to incur to maintain and process 
+    the First Volume Wholesale Volume and Value Report is only a small 
+    proportion of NMFS' total costs to manage the Amendment 80 and CDQ 
+    Programs.
+        Comment 19: There is no need to collect data to determine a 
+    standard ex-vessel price for rock sole harvests during the first 
+    quarter (January 1 through March 31), and a separate standard ex-vessel 
+    price for harvests for the remainder of the year. The intra-annual ex-
+    vessel price fluctuations for rock sole have been limited in recent 
+    years due to the decline in the rock sole and roe market. The average 
+    annual rock sole prices are sufficient for the Amendment 80 sector to 
+    determine the standard ex-vessel price.
+        Response: Table 1-26 of the Analysis provides a summary of the 
+    estimated monthly rock sole ex-vessel prices. Table 1-26 shows that the 
+    difference in rock sole ex-vessel prices from the first quarter of a 
+    year relative to the rest of the year have declined. However, there is 
+    still a substantial difference in the estimated ex-vessel prices during 
+    the first quarter and the remainder of the year. Even in the most 
+    recent year of complete ex-vessel price data (2013), there was still a 
+    20 percent variation in price between the first quarter of the year and 
+    the remainder of the year. Because this difference continues to 
+    persist, NMFS intends to collect ex-vessel data for rock sole for the 
+    first quarter and for all remaining quarters, as described in proposed 
+    rule.
+        If the price premium for rock sole in the first quarter of the year 
+    continues to decline, NMFS could consider modifying the First Wholesale 
+    Volume and Value Report in the future. The information collected in the 
+    First Wholesale Volume and Value Report will allow NMFS to monitor the 
+    rock sole ex-vessel prices and determine if a change in reporting is 
+    appropriate.
+        Comment 20: Clarify in this final rule the term harvested fish for 
+    Amendment 80 vessels. NMFS should only assess fees against fish that 
+    were retained and offloaded from the vessel.
+        Response: Section 304(d)(2)(B) of the Magnuson-Stevens Act states 
+    that a cost recovery fee ``shall not exceed 3 percent of the ex-vessel 
+    value of fish harvested under any such program.'' This rule defines the 
+    fish harvested and subject to a cost recovery fee as all AFA Program, 
+    Aleutian Islands Pollock Program, Amendment 80 Program, or CDQ Program 
+    landings debited against that AFA cooperative or sector, Aleut 
+    Corporation, Amendment 80
+    
+    [[Page 161]]
+    
+    cooperative, or CDQ group's allocations, respectively (see regulations 
+    at Sec. Sec.  679.66(c)(5)(i) for AFA, 679.67(c)(5)(i) for Aleutian 
+    Islands pollock, 679.95(c)(5)(i) for Amendment 80, and 679.33(c)(5)(i) 
+    for CDQ).
+        For catcher/processor vessels that harvest fish subject to a cost 
+    recovery fee, NMFS uses information currently collected from at-sea 
+    scales and onboard observers to determine the amount and species 
+    composition of fish landed and debited from the applicable CDQ or LAP 
+    program allocation. Catcher/processors are not currently required to 
+    submit information on the weight and species composition of fish 
+    retained and offloaded. Establishing an offload reporting requirement 
+    and subsequent monitoring requirements would result in additional costs 
+    to NMFS. These costs would be included in the calculation of the cost 
+    recovery fee for the applicable CDQ or LAP program because NMFS would 
+    be requiring an offload report and monitoring requirement solely to 
+    monitor compliance with regulations necessary for CDQ or LAP program 
+    cost recovery. These additional costs are not necessary because 
+    information currently collected from at-sea scales and onboard 
+    observers provides a less costly independent source of information on 
+    the amount and species composition of fish harvested that are subject 
+    to a cost recovery fee. For catcher vessels, NMFS uses data from the 
+    processor receiving the fish (i.e., a fish ticket) to determine the 
+    amount and species composition of fish subject to a cost recovery fee.
+        Comment 21: Grant the Amendment 80 Program the same exception to 
+    the requirement to pay the fee liability in full by December 31 as 
+    granted to the AFA catcher/processor sector. The Amendment 80 Program 
+    should receive a proportion of its quota that matches the proportion of 
+    fees paid by the deadline (i.e., if an Amendment 80 cooperative pays 
+    only 80 percent of its fee liability, then NMFS would issue only 80 
+    percent of the cooperative quota allocation to that cooperative). It 
+    would be appropriate and fair to grant this same exception because of 
+    difficulties associated with the timing of internal fee collection and 
+    unplanned increases in fees or decreases in fish values that may result 
+    in insufficient inseason fee collections from cooperative members.
+        Response: This final rule at Sec.  679.66(d)(3)(ii) provides that 
+    if the AFA catcher/processor sector pays only a portion of its AFA fee 
+    liability, the Regional Administrator may release a portion of the 
+    Bering Sea pollock allocation equal to the portion of the fee liability 
+    paid.
+        Section 1.10.1.1, Section 1.10.3.1, and the Executive Summary of 
+    the Analysis and the preamble to the proposed rule explain that NMFS 
+    can release a percentage of the allocation of catch that is equal to 
+    the percentage of the cost recovery fee only for single species LAP 
+    programs. The Amendment 80 LAP Program is a multi-species LAP program. 
+    Withholding a portion of the allocation for an Amendment 80 cooperative 
+    would be complicated by the fact that each Amendment 80 species has a 
+    different ex-vessel value and members within the cooperative are 
+    allocated different amounts of Amendment 80 quota share. These 
+    allocations yield different amounts of Amendment 80 cooperative quota 
+    (CQ) when the Amendment 80 quota share is assigned to an Amendment 80 
+    cooperative. Therefore, NMFS could not conclusively determine how much 
+    of a specific Amendment 80 species CQ allocation should be withheld.
+        For example, if an Amendment 80 cooperative paid only 90 percent of 
+    its fee liability, it is not clear what portion of the Amendment 80 CQ 
+    would match the percentage of the cost recovery fee paid. Making this 
+    determination would require assumptions and would risk NMFS withholding 
+    species that do not match the cooperative allocations associated with 
+    the unpaid cost recovery fee. Because of this uncertainty, NMFS will 
+    require full payment of the cost recovery fee for the Amendment 80 
+    sector prior to releasing any of the cooperative's annual CQ. The 
+    cooperative contract should address the payment of the cost recovery 
+    fee and persons that do not meet the terms of the contract should be 
+    subject to penalties outlined in the contract.
+        Comment 22: The Analysis prepared for this action should be revised 
+    to include some additional information on how potential reductions to 
+    halibut PSC limits would affect the overall revenues and the potential 
+    cost recovery fee percent a CDQ or LAP program would have to pay in the 
+    future. Specifically, the Analysis prepared for this action should 
+    describe the potential impact of halibut PSC reductions on the cost 
+    recovery fee percentage paid by the Amendment 80 Program.
+        Response: Section 1.11 of the Analysis acknowledges that management 
+    actions recommended by the Council and implemented by NMFS could affect 
+    the total amount harvested by these LAP and CDQ programs. Future 
+    management measures applicable to LAP and CDQ programs could increase 
+    or reduce costs, or increase or reduce the ex-vessel value of fisheries 
+    subject to cost recovery. These future management actions could result 
+    in either an increase or a decrease in the cost recovery fee percentage 
+    applicable to LAP or CDQ programs.
+        The Council has recommended and NMFS is reviewing reduced halibut 
+    PSC limits applicable to the vessels participating in the LAP and CDQ 
+    programs covered by this action. On November 16, 2015, NMFS published a 
+    proposed rule to reduce halibut PSC limits (80 FR 71650). NMFS and the 
+    Council prepared a draft Environmental Assessment/Regulatory Impact 
+    Review/Initial Regulatory Flexibility Analysis (EA/RIR/IRFA) to 
+    consider the impacts of that action. The draft EA/RIR/IRFA states that 
+    halibut PSC limit reductions could result in an increase in the cost 
+    recovery fee percentage due to the decreased harvests that may occur if 
+    halibut PSC limits constrain the ability of vessels to fish. We refer 
+    the reader to that EA/RIR/IRFA for additional details, see the NMFS 
+    Alaska Region Web site at <http://alaskafisheries.noaa.gov>.
+        As the commenter states, changes in the halibut PSC limits 
+    applicable to Amendment 80 cooperatives could reduce the amount of the 
+    TAC harvested in these fisheries, and therefore would affect the fee 
+    percentage that Amendment 80 vessels would pay. Reduced catch could be 
+    partially offset by an increase in prices, but the world market for 
+    these fish and the wide availability of substitute products indicate 
+    that an increase in price due to reduced supply is unlikely. Given the 
+    estimated cost recovery fee of 1.62 percent for the Amendment 80 
+    Program, the value of the fishery would need to decrease by about 50 
+    percent, assuming the agency costs remain constant, before the maximum 
+    3 percent cost recovery fee limit is reached.
+        Comment 23: Clarify regulations at Sec.  679.95(b)(2)(iii) and 
+    Sec.  679.95(c)(5)(iii) to specify who will calculate the fee liability 
+    for each Amendment 80 cooperative, NMFS or the Amendment 80 cooperative 
+    representative. Regulations at Sec.  679.95(b)(2)(iii) state that the 
+    Amendment 80 cooperative representative determines the fee liability. 
+    Regulations at Sec.  679.95(c)(5)(iii) state that NMFS will determine 
+    the fee liability.
+        Response: NMFS determines the fee liability owed under each LAP or 
+    CDQ program. NMFS also determines the standard prices for landings 
+    under each program. Regulations at Sec.  679.95(b) pertain to NMFS' 
+    determination of the Amendment 80 standard ex-vessel value. The comment 
+    is correct that the proposed rule at Sec.  679.95(b)(2)(iii) 
+    incorrectly explained that an Amendment 80 cooperative
+    
+    [[Page 162]]
+    
+    representative determines the Amendment 80 fee liability. The fee 
+    liability determination is in the regulations at Sec.  679.95(c). These 
+    regulations explain that NMFS determines the fee liability. In response 
+    to this comment, NMFS changed this final rule at Sec.  
+    679.95(b)(2)(iii) to remove language pertaining to the fee liability 
+    and to clarify that this paragraph applies to NMFS' determination of 
+    the Amendment 80 standard ex-vessel prices.
+        NMFS noticed this same error in the proposed rule at Sec.  
+    679.33(b)(2)(iii) that applies to the determination of the CDQ standard 
+    prices. NMFS changed this final rule at Sec.  679.33(b)(2)(iii) to 
+    remove language pertaining to the fee liability and to clarify that 
+    this paragraph applies to NMFS's determination of the CDQ standard 
+    prices.
+        Comment 24: Regulations at Sec.  679.95(g) incorrectly contain a 
+    reference to pay the ``CDQ fee liability'' because this regulation 
+    applies to the Amendment 80 Program.
+        Response: NMFS removed paragraph (g) Administrative Fees from each 
+    cost recovery program at Sec. Sec.  679.33, 679.66, 679.67, and 679.95. 
+    See response to Comment 16.
+    
+    Changes From the Proposed Rule
+    
+        This final rule includes changes to particular sections of the 
+    regulatory text and amendatory instructions published in the proposed 
+    rule.
+        NMFS removed paragraph (g) Administrative fees from each cost 
+    recovery program at Sec. Sec.  679.33, 679.66, 679.67, and 679.95. 
+    These paragraphs addressed administrative fees if the account drawn on 
+    to pay the cost recovery fee liability has insufficient funds to cover 
+    the transaction or if the account becomes delinquent. These paragraphs 
+    are not necessary because the Debt Collection Improvement Act of 1996, 
+    as explained in the Treasury Financial Manual Part 4, Chapter 4000, 
+    generally requires Federal agencies to transfer any nontax debt to U.S. 
+    Department of the Treasury's Bureau of the Fiscal Service (Fiscal 
+    Service) for debt collection services. After transfer, Fiscal Service 
+    takes appropriate action to service, collect, compromise, or suspend or 
+    terminate collection action on the debt. NMFS then renumbered paragraph 
+    (h) as paragraph (g) Annual report.
+        NMFS removed from paragraph (e), in Sec. Sec.  679.33, 679.66, 
+    679.67, and 679.95, the sentence that NMFS may deduct payment 
+    processing fees from any fees returned due to over payment. This 
+    additional sentence is not necessary because processing costs due to 
+    over payment are nominal with improvements in methods to collect fees.
+        In addition to these two changes, NMFS also made some non-
+    substantive minor technical corrections to the regulatory text.
+        NMFS made substantive changes to this final rule in response to 
+    public comments. These changes improve the functioning of the cost 
+    recovery programs implemented with this final rule. All the specific 
+    regulation changes, and the reasons for making these changes, are 
+    contained under Response to Comments, above. This section provides a 
+    summary of the changes made to this final rule in response to public 
+    comment.
+    
+    CDQ Cost Recovery Changes
+    
+         In this final rule at Sec.  679.33(b)(2)(iii), NMFS 
+    corrected this paragraph to remove language pertaining to the fee 
+    liability and to clarify that this paragraph applies to NMFS' 
+    determination of the CDQ standard prices in response to Comment 23.
+    
+    AFA Cost Recovery Changes
+    
+         In this final rule at Sec.  679.2, NMFS modified the 
+    definitions of AFA fee liability and AFA fee percentage to clarify that 
+    these terms apply to an AFA cooperative or AFA sector in response to 
+    Comment 13.
+         In this final rule at Sec.  679.66(a)(1)(ii), NMFS 
+    clarified that the entity representative under Sec.  679.21(f)(8)(i)(C) 
+    will be the AFA catcher/processor sector's designated representative 
+    for submission of the cost recovery fee in response to Comment 11.
+         In this final rule at Sec.  679.66(d)(3), NMFS clarified 
+    that the AFA catcher/processor sector receives the Bering Sea pollock 
+    allocation and that the AFA catcher/processor sector entity 
+    representative under Sec.  679.21(f)(8)(i)(C) submits the fee payment 
+    in response to Comment 14.
+         To match the changes to Sec.  679.66(a)(1)(ii), NMFS also 
+    changed this final rule as follows. These changes are discussed in 
+    detail in the responses to Comments 11, 12, 13, 14, and 15.
+        [cir] Sec. Sec.  679.66(a)(2), (a)(3), (a)(4), (b)(1), (c)(4), 
+    (c)(5)(v), (d)(4), (d)(5), and (d)(6), (e), and (f) were changed to 
+    replace ``cooperative representative'' with ``designated 
+    representative;''
+        [cir] Sec.  679.66(b)(2)(i), (c)(5)(i), (d)(5), (d)(6) and (e) were 
+    changed to add ``or AFA sector;'' and
+        [cir] Sec.  679.66(c)(2) introductory text, (c)(2)(iii)(B), 
+    (c)(3)(i) and (c)(5)(iii) were changed to replace references to listed 
+    AFA catcher/processors and high seas catcher vessels that deliver to 
+    them with ``AFA catcher/processor sector.''
+    
+    Amendment 80 Cost Recovery Changes
+    
+         In this final rule at Sec.  679.95(b)(2)(iii), NMFS 
+    corrected this paragraph to remove language pertaining to the fee 
+    liability and to clarify that this paragraph applies to NMFS' 
+    determination of the Amendment 80 standard ex-vessel prices in response 
+    to Comment 23.
+    
+    OMB Revisions to Paperwork Reduction Act References in 15 CFR 902.1(b)
+    
+        Section 3507(c)(B)(i) of the PRA requires that agencies inventory 
+    and display a current control number assigned by the Director, OMB, for 
+    each agency information collection. Section 902.1(b) identifies the 
+    location of NOAA regulations for which OMB approval numbers have been 
+    issued. Because this final rule revises and adds data elements within a 
+    collection-of-information for recordkeeping and reporting requirements, 
+    15 CFR 902.1(b) is revised to reference correctly the sections 
+    resulting from this final rule.
+    
+    Classification
+    
+        Pursuant to section 304(b)(1)(A) of the Magnuson-Stevens Act, the 
+    Administrator, Alaska Region, NMFS, has determined that this final rule 
+    is necessary for the conservation and management of the groundfish and 
+    halibut fisheries and that it is consistent with the FMP, the National 
+    Standards, other provisions of the Magnuson-Stevens Act, and other 
+    applicable laws. This final rule has been determined to be not 
+    significant for purposes of Executive Order 12866.
+    
+    Final Regulatory Flexibility Analysis
+    
+        This final regulatory flexibility analysis (FRFA) incorporates the 
+    Initial Regulatory Flexibility Analysis (IRFA), a summary of the 
+    significant issues raised by the public comments in response to the 
+    IRFA, and NMFS' responses to those comments, and a summary of the 
+    analyses completed to support the action.
+        Section 604 of the Regulatory Flexibility Act requires that, when 
+    an agency promulgates a final rule under section 553 of Title 5 of the 
+    United States Code, after being required by that section, or any other 
+    law, to publish a general notice of proposed rulemaking, the agency 
+    shall prepare a final regulatory flexibility analysis.
+        Section 604 describes the required contents of a FRFA: (1) A 
+    statement of the need for, and objectives of, the rule; (2) a statement 
+    of the significant issues raised by the public comments in
+    
+    [[Page 163]]
+    
+    response to the IRFA, a statement of the assessment of the agency of 
+    such issues, and a statement of any changes made in the proposed rule 
+    as a result of such comments; (3) the response of the agency to any 
+    comments filed by the Chief Counsel for Advocacy of the Small Business 
+    Administration (SBA) in response to the proposed rule, and a detailed 
+    statement of any change made to the proposed rule in this final rule as 
+    a result of the comments; (4) a description of and an estimate of the 
+    number of small entities to which the rule will apply or an explanation 
+    of why no such estimate is available; (5) a description of the 
+    projected reporting, recordkeeping and other compliance requirements of 
+    the rule, including an estimate of the classes of small entities which 
+    will be subject to the requirement and the type of professional skills 
+    necessary for preparation of the report or record; and (6) a 
+    description of the steps the agency has taken to minimize the 
+    significant economic impact on small entities consistent with the 
+    stated objectives of applicable statutes, including a statement of the 
+    factual, policy, and legal reasons for selecting the alternative 
+    adopted in this final rule and why each one of the other significant 
+    alternatives to the rule considered by the agency which affect the 
+    impact on small entities was rejected.
+    
+    Need for and Objectives of the Rule
+    
+        A statement of the need for, and objectives of, the rule is 
+    contained in the preamble to this final rule and is not repeated here.
+    
+    Public and Chief Counsel for Advocacy Comments on the Proposed Rule
+    
+        NMFS published a proposed rule on January 7, 2015 (80 FR 936). An 
+    IRFA was prepared and summarized in the ``Classification'' section of 
+    the preamble to the proposed rule. The comment period closed on 
+    February 6, 2015. NMFS received three public comment letters, 
+    containing 23 separate comments on the proposed rule. These comments 
+    did not address the IRFA. The economic impacts of the rule were 
+    addressed in the comments by requesting that NMFS clearly define the 
+    costs that are subject to the rule. One comment specifically requested 
+    information on how BSAI halibut PSC reductions being considered by the 
+    Council and Secretary would impact the overall profitability of the 
+    Amendment 80 vessels, which are not considered small entities under the 
+    Small Business Administration Guidelines. The Chief Counsel for 
+    Advocacy of the SBA did not file any comments on the proposed rule.
+    
+    Number and Description of Small Entities Regulated by the Action
+    
+        This analysis considers the active fleet in 2013, which is the most 
+    recent year for which size, revenue, and affiliation data were all 
+    available. The only small entities directly regulated by this rule are 
+    the six CDQ groups--the Aleutian Pribilof Island Community Development 
+    Association, the Bristol Bay Economic Development Corporation, the 
+    Central Bering Sea Fishermen's Association, the Coastal Villages Region 
+    Fund, the Norton Sound Economic Development Corporation, and the Yukon 
+    Delta Fisheries Development Association. Through the CDQ Program, the 
+    Council and NMFS allocate a portion of the BSAI groundfish TACs, 
+    halibut quota, and halibut and crab PSC limits, to these six CDQ 
+    groups. These groups represent 65 villages and maintain a non-profit 
+    status. Each of the CDQ groups is organized as an independently owned 
+    and operated not-for-profit entity and none is dominant in its field; 
+    consequently, each is a ``small entity'' under the Small Business 
+    Administration's definition for ``small organization.'' The proceeds 
+    from the CDQ allocations must be used to start or support activities 
+    that will result in ongoing, regionally based, commercial fishery or 
+    related businesses. Section 2.6 of the Analysis prepared for the 
+    proposed rule provides more information on these entities (80 FR 936, 
+    January 7, 2015).
+        All other entities that are directly regulated through this rule 
+    are not small entities under the SBA definitions. This action would 
+    regulate Amendment 80, AFA cooperatives, and AFA sectors, and the 
+    vessels that are harvesting exclusive harvest privileges under the 
+    Amendment 80 and AFA Programs; The Aleut Corporation; and processors 
+    and motherships that receive CDQ Pacific cod deliveries and trawl-
+    caught Pacific cod. The SBA defines a small commercial finfish fishing 
+    entity as one that has annual gross receipts, from all activities of 
+    all affiliates, of less than $20.5 million (79 FR 33647, June 12, 
+    2014). None of these entities are considered to be small entities based 
+    on the SBA's size standard.
+    
+    Recordkeeping and Reporting Requirements
+    
+        This action modifies recordkeeping or reporting requirements so 
+    that sufficient data are available to determine the cost recovery fee 
+    and standardized prices in the time frame required under the Magnuson-
+    Stevens Act. No small entity is subject to additional reporting 
+    requirements. Shorebased processors will be required to submit ex-
+    vessel Volume and Value Reports for all CDQ groundfish landings and all 
+    BSAI Pacific cod trawl landings. Each Amendment 80 catcher/processor 
+    will be required to submit a First Wholesale Volume and Value Report 
+    for all groundfish species, except Pacific cod, harvested under the 
+    Amendment 80 and CDQ programs. The information to be collected is 
+    described in Section 1.7.2.1 of the Analysis.
+        The only additional recordkeeping requirements for small entities 
+    are the bookkeeping skills necessary for the six CDQ groups to submit 
+    payment for their cost recovery fees. NMFS will calculate the fee 
+    amount that each CDQ group owes. The designated representative of each 
+    group is then required to ensure the timely submission of the fee 
+    payment.
+    
+    Description of Significant Alternatives to the Final Action That 
+    Minimize Adverse Impacts on Small Entities
+    
+        A FRFA must the outline steps the agency has taken to minimize the 
+    significant economic impact on small entities consistent with the 
+    stated objectives of applicable statutes, including a statement of the 
+    factual, policy, and legal reasons for selecting the alternative 
+    adopted in the final rule and why each one of the other significant 
+    alternatives to the rule considered by the agency which affect the 
+    impact on small entities was rejected. The action is the implementation 
+    of the Magnuson-Stevens Act's mandatory cost recovery fees for LAP and 
+    CDQ programs.
+        No alternatives or options were identified that would have 
+    accomplished the action's objectives while reducing the potential 
+    economic impact on small entities relative to the preferred 
+    alternative. NMFS has determined that the minimum amount of data 
+    necessary to calculate the cost recover fees as mandated under the 
+    Magnuson-Stevens Act would be collected through volume and value 
+    reports. Collecting the minimum amount of data necessary from the 
+    fewest persons possible is beneficial to all entities.
+        The economic impact on directly regulated small entities is the 
+    implementation of a cost recovery fee mandated under the Magnuson-
+    Stevens Act. The Magnuson-Stevens Act requires that participants in 
+    limited access privilege programs and the CDQ Program pay up to 3 
+    percent of the ex-vessel value of the fish they are
+    
+    [[Page 164]]
+    
+    allocated to recover the actual costs that are directly related to the 
+    management, data collection, and enforcement of the programs specific 
+    costs that are incurred by the management agencies. Given the specific 
+    requirements of the Magnuson-Stevens Act to implement a cost recovery 
+    fee, no other alternatives would accomplish the stated objective. Each 
+    CDQ group is required to submit its own fee payment using a payment 
+    system approved by NMFS.
+        For all directly regulated entities NMFS considered and analyzed a 
+    range of specific options to determine standard prices for calculating 
+    standard ex-vessel value data, dates for volume and value report and 
+    fee submission, and other details of the fee collection process 
+    described in the Analysis. NMFS selected those options that would 
+    minimize the reporting burden and costs on small entities consistent 
+    with the stated objective when possible.
+        Specifically, NMFS considered options to use COAR data to determine 
+    standard prices and standard ex-vessel values for all species subject 
+    to cost recovery, but did not select that option for species other than 
+    BSAI pollock because it could impact the fee liability each person 
+    would be required to pay. NMFS did select options that minimized 
+    reporting requirements on small entities by using existing data sources 
+    (e.g., COAR for BSAI pollock, and the IFQ buyer report for BSAI 
+    sablefish and BSAI halibut). NMFS also selected dates for the 
+    submission of reports that provided the most current data available to 
+    allow fee liabilities to be calculated on a timely basis. These dates 
+    would minimize the potential impact on small entities relative to other 
+    dates considered. NMFS will provide annual reports to the persons 
+    subject to the cost recovery fee and other interested stakeholders to 
+    help provide transparency in the fee liability determination.
+    
+    Small Entity Compliance Guide
+    
+        Section 212 of the Small Business Regulatory Enforcement Fairness 
+    Act of 1996 states that, for each rule or group of related rules for 
+    which an agency is required to prepare a FRFA, the agency shall publish 
+    one or more guides to assist small entities in complying with the rule, 
+    and shall designate such publications as ``small entity compliance 
+    guides.'' The agency shall explain the actions a small entity is 
+    required to take to comply with a rule or group of rules.
+        NMFS has posted a small entity compliance guide on the NMFS Alaska 
+    Region Web site (<http://alaskafisheries.noaa.gov>) as a plain language 
+    guide to assist small entities in complying with this rule. Contact 
+    NMFS to request a hard copy of the guide (see ADDRESSES).
+    
+    Collection-of-Information Requirements
+    
+        This rule contains collection-of-information requirements subject 
+    to the Paperwork Reduction Act (PRA) and which have been approved under 
+    the following OMB control numbers.
+    OMB Control No. 0648-0318
+        With this action, the payment and observer fee submittal (15 
+    minutes) is removed from this collection and added to the new fee 
+    collection.
+    OMB Control No. 0648-0398
+        With this action, this IFQ Cost Recovery collection is removed and 
+    superseded by the new cost recovery collection.
+    OMB Control No. 0648-0401
+        Public reporting burden per response is estimated to average eight 
+    hours for Cooperative Contract. This information collection is revised 
+    by adding to the Cooperative Contract the obligation of AFA cooperative 
+    members to ensure full payment of cost recovery fees.
+    OMB Contract No. 0648-0545
+        With this action, two forms--the Rockfish Volume and Value Report 
+    (two hours per response) and the payment and fee submittal (10 minutes 
+    per response) are removed from this collection.
+    OMB Control No. 0648-0565
+        Public reporting burden per response is estimated to average two 
+    hours for Application for Amendment 80 Cooperative Quota; the 
+    Cooperative Agreement is an attachment to this application. This 
+    information collection is revised by adding to the Cooperative 
+    Agreement the obligation of AFA cooperative members to ensure full 
+    payment of cost recovery fees.
+    OMB Control No. 0648-0570
+        With this action, the Crab Rationalization Program Cost Recovery 
+    collection is removed and superseded by the new cost recovery 
+    collection.
+    OMB Control No. 0648-0711
+        This new information collection is created by combining all 
+    existing Alaska Region fee information collections with the observer 
+    fee submission. Public reporting burden per response is estimated to 
+    average one minute for cost recovery fee or observer fee submission; 
+    five minutes for value and volume report; and four hours for appeal of 
+    an incomplete payment of a cost recovery fee or observer fee.
+        Estimates for public reporting burden include the time for 
+    reviewing instructions, searching existing data sources, gathering and 
+    maintaining the data needed, and completing and reviewing the 
+    collection of information.
+        Send comments regarding these burden estimates or any other aspect 
+    of this data collection, including suggestions for reducing the burden, 
+    to NMFS (see ADDRESSES) and by email to OIRA_Submission@omb.eop.gov, or 
+    fax to 202-395-5806.
+        Notwithstanding any other provision of the law, no person is 
+    required to respond to, nor shall any person be subject to penalty for 
+    failure to comply with, a collection of information subject to the 
+    requirements of the PRA, unless that collection of information displays 
+    a currently valid OMB control number. All currently approved NOAA 
+    collections of information may be viewed at: <http://www.cio.noaa.gov/services_programs/prasubs.html>.
+    
+    List of Subjects
+    
+    15 CFR Part 902
+    
+        Reporting and recordkeeping requirements.
+    
+    50 CFR Part 679
+    
+        Alaska, Fisheries, Reporting and recordkeeping requirements.
+    
+        Dated: December 29, 2015.
+    Samuel D. Rauch III,
+    Deputy Assistant Administrator for Regulatory Programs, National Marine 
+    Fisheries Service.
+    
+        For the reasons set out in the preamble, NMFS amends 15 CFR part 
+    902 and 50 CFR part 679 as follows:
+    
+    Title 15--Commerce and Foreign Trade
+    
+    PART 902--NOAA INFORMATION COLLECTION REQUIREMENTS UNDER THE 
+    PAPERWORK REDUCTION ACT: OMB CONTROL NUMBERS
+    
+    0
+    1. The authority citation for part 902 continues to read as follows:
+    
+        Authority:  44 U.S.C. 3501 et seq.
+    
+    
+    0
+    2. In Sec.  902.1, in the table in paragraph (b), under the entry ``50 
+    CFR'':
+    0
+    a. Revise entries for ``679.5(a)''; ``679.5(c), (e), and (f)''; 
+    ``679.5(d)''; and ``679.5(l)(7);
+    0
+    b. Add entries in alphanumeric order for ``679.5(u)'' and ``679.33'';
+    0
+    c. Revise entries for ``679.43''; ``679.45''; ``679.55''; and 
+    ``679.65'';
+    0
+    d. Add entries in alphanumeric order for ``679.66''; ``679.67''; 
+    ``679.85''; and ``679.95'';
+    
+    [[Page 165]]
+    
+    0
+    e. Remove the entries for ``680.5(f)''; ``680.5(g)''; and ``680.5(m)'';
+    0
+    f. Add an entry in alphanumeric order for ``680.5(f), (g), and (m)''.
+        The revisions and additions read as follows:
+    
+    
+    Sec.  902.1  OMB control numbers assigned pursuant to the Paperwork 
+    Reduction Act.
+    
+    * * * * *
+        (b) * * *
+    
+     
+    ------------------------------------------------------------------------
+       CFR part or section where the
+    information collection  requirement     Current OMB control No.  (all
+                 is located                   numbers begin with 0648-)
+    ------------------------------------------------------------------------
+     
+                                  * * * * * * *
+    50 CFR:............................  ...................................
+     
+                                  * * * * * * *
+    679.5(a)...........................  -0213, -0269, and -0272.
+     
+                                  * * * * * * *
+    679.5(c), (e), and (f).............  -0213, -0272, -0330, -0513, and -
+                                          0515.
+    679.5(d)...........................  -0213 and -0515.
+     
+                                  * * * * * * *
+    679.5(l)(7)........................  -0711.
+     
+                                  * * * * * * *
+    679.5(u)...........................  -0206 and -0711.
+     
+                                  * * * * * * *
+    679.33.............................  -0711.
+     
+                                  * * * * * * *
+    679.43.............................  -0272, -0318, -0334, -0401, -0545,
+                                          0565, -0569, and -0711.
+    679.45.............................  -0272, -0592, and -0711.
+     
+                                  * * * * * * *
+    679.55.............................  -0206, -0272, and -0711.
+     
+                                  * * * * * * *
+    679.65.............................  -0213, -0515, and -0633.
+    679.66.............................  -0711.
+    679.67.............................  -0711.
+     
+                                  * * * * * * *
+    679.85.............................  -0545.
+     
+                                  * * * * * * *
+    679.95.............................  -0711.
+     
+                                  * * * * * * *
+    680.5(f), (g), (m).................  -0711.
+     
+                                  * * * * * * *
+    ------------------------------------------------------------------------
+    
+    Title 50--Wildlife and Fisheries
+    
+    PART 679--FISHERIES OF THE EXCLUSIVE ECONOMIC ZONE OFF ALASKA
+    
+    0
+    3. The authority citation for part 679 continues to read as follows:
+    
+        Authority:  16 U.S.C. 773 et seq.; 1801 et seq.; 3631 et seq.; 
+    Pub. L. 108-447; Pub. L. 111-281.
+    
+    
+    0
+    4. In Sec.  679.2, add definitions for ``AFA fee liability''; ``AFA fee 
+    percentage''; ``AFA pollock equivalent pounds''; ``AFA standard ex-
+    vessel value''; ``AFA standard price''; ``Aleutian Islands pollock 
+    equivalent pounds''; ``Aleutian Islands pollock fee liability''; 
+    ``Aleutian Islands pollock fee percentage''; ``Aleutian Islands pollock 
+    standard ex-vessel value''; ``Aleutian Islands pollock standard 
+    price''; ``Amendment 80 equivalent pounds''; ``Amendment 80 fee 
+    liability''; ``Amendment 80 fee percentage''; ``Amendment 80 standard 
+    ex-vessel value''; ``Amendment 80 standard price''; ``CDQ equivalent 
+    pounds''; ``CDQ fee liability''; ``CDQ fee percentage''; ``CDQ standard 
+    ex-vessel value''; and ``CDQ standard price'' in alphabetical order to 
+    read as follows:
+    
+    
+    Sec.  679.2  Definitions.
+    
+    * * * * *
+        AFA fee liability means the amount of money for Bering Sea pollock 
+    cost recovery, in U.S. dollars, owed to NMFS by an AFA cooperative or 
+    AFA sector as determined by multiplying the appropriate AFA standard 
+    ex-vessel value of landed Bering Sea pollock by the appropriate AFA fee 
+    percentage.
+        AFA fee percentage means that positive number no greater than 3 
+    percent (0.03) determined by the Regional Administrator and established 
+    for use in calculating the AFA fee liability for an AFA cooperative or 
+    AFA sector.
+    * * * * *
+        AFA pollock equivalent pounds means the weight recorded in pounds 
+    for landed AFA pollock and calculated as round weight.
+        AFA standard ex-vessel value means the total U.S. dollar amount of 
+    landed
+    
+    [[Page 166]]
+    
+    Bering Sea pollock as calculated by multiplying the number of landed 
+    pounds of Bering Sea pollock by the appropriate AFA standard price 
+    determined by the Regional Administrator.
+        AFA standard price means the price, in U.S. dollars, for landed 
+    Bering Sea pollock, in AFA pollock equivalent pounds, as determined by 
+    the Regional Administrator.
+    * * * * *
+        Aleutian Islands pollock equivalent pounds means the weight 
+    recorded in pounds for landed Aleutian Islands pollock and calculated 
+    as round weight.
+        Aleutian Islands pollock fee liability means the amount of money 
+    for Aleutian Islands directed pollock cost recovery, in U.S. dollars, 
+    owed to NMFS by the Aleut Corporation as determined by multiplying the 
+    appropriate standard ex-vessel value of its landed Aleutian Islands 
+    pollock by the appropriate Aleutian Islands pollock fee percentage.
+        Aleutian Islands pollock fee percentage means that positive number 
+    no greater than 3 percent (0.03) determined by the Regional 
+    Administrator and established for use in calculating the Aleutian 
+    Islands pollock fee liability for the Aleut Corporation.
+        Aleutian Islands pollock standard ex-vessel value means the total 
+    U.S. dollar amount of landed Aleutian Islands pollock as calculated by 
+    multiplying the number of landed pounds of Aleutian Islands pollock by 
+    the appropriate Aleutian Islands pollock standard price determined by 
+    the Regional Administrator.
+        Aleutian Islands pollock standard price means the price, in U.S. 
+    dollars, for landed Aleutian Islands pollock, in Aleutian Islands 
+    pollock equivalent pounds, as determined by the Regional Administrator.
+    * * * * *
+        Amendment 80 equivalent pounds means the weight recorded in pounds 
+    for landed Amendment 80 species CQ and calculated as round weight.
+        Amendment 80 fee liability means the amount of money for Amendment 
+    80 cost recovery, in U.S. dollars, owed to NMFS by an Amendment 80 CQ 
+    permit holder as determined by multiplying the appropriate standard ex-
+    vessel value of landed Amendment 80 species CQ by the appropriate 
+    Amendment 80 fee percentage.
+        Amendment 80 fee percentage means that positive number no greater 
+    than 3 percent (0.03) determined by the Regional Administrator and 
+    established for use in calculating the Amendment 80 fee liability for 
+    an Amendment 80 CQ permit holder.
+    * * * * *
+        Amendment 80 standard ex-vessel value means the total U.S. dollar 
+    amount of landed Amendment 80 species CQ as calculated by multiplying 
+    the number of landed Amendment 80 equivalent pounds by the appropriate 
+    Amendment 80 standard price determined by the Regional Administrator.
+        Amendment 80 standard price means the price, in U.S. dollars, for 
+    landed Amendment 80 species, in Amendment 80 equivalent pounds, as 
+    determined by the Regional Administrator.
+    * * * * *
+        CDQ equivalent pounds means the weight recorded in pounds, for 
+    landed CDQ groundfish and halibut, and calculated as round weight.
+        CDQ fee liability means the amount of money for CDQ groundfish and 
+    halibut cost recovery, in U.S. dollars, owed to NMFS by a CDQ group as 
+    determined by multiplying the appropriate standard ex-vessel value of 
+    landed CDQ groundfish and halibut by the appropriate CDQ fee 
+    percentage.
+        CDQ fee percentage means that positive number no greater than 3 
+    percent (0.03) determined by the Regional Administrator and established 
+    for use in calculating the CDQ groundfish and halibut fee liability for 
+    a CDQ group.
+    * * * * *
+        CDQ standard ex-vessel value means the total U.S. dollar amount of 
+    landed CDQ groundfish and halibut as calculated by multiplying the 
+    number of landed CDQ equivalent pounds by the appropriate CDQ standard 
+    price determined by the Regional Administrator.
+        CDQ standard price means the price, in U.S. dollars, for landed CDQ 
+    groundfish and halibut, in CDQ equivalent pounds, as determined by the 
+    Regional Administrator.
+    * * * * *
+    
+    0
+    5. In Sec.  679.5, add paragraph (u) to read as follows:
+    
+    
+    Sec.  679.5  Recordkeeping and reporting (R&R;).
+    
+    * * * * *
+        (u) BSAI Cost Recovery Volume and Value Reports--(1) Pacific Cod 
+    Ex-vessel Volume and Value Report--(i) Applicability. A shoreside 
+    processor designated on an FPP, or a mothership designated on an FFP, 
+    that processes landings of either CDQ Pacific cod or BSAI Pacific cod 
+    harvested by a vessel using trawl gear must submit annually to NMFS a 
+    complete Pacific Cod Ex-vessel Volume and Value Report, as described in 
+    this paragraph (u)(1), for each reporting period for which the 
+    shorebased processor or mothership receives this Pacific cod.
+        (ii) Reporting period. The reporting period of the Pacific Cod Ex-
+    vessel Volume and Value Report shall extend from January 1 to October 
+    31 of the year in which the landings were made.
+        (iii) Due date. A complete Pacific Cod Ex-vessel Volume and Value 
+    Report must be received by NMFS no later than November 10 of the year 
+    in which the processor or mothership received the Pacific cod.
+        (iv) Information required. (A) The submitter must log in using his 
+    or her password and NMFS person ID to submit a Pacific Cod Ex-vessel 
+    Volume and Value Report. The User must review any auto-filled cells to 
+    ensure that they are accurate. A completed report must have all 
+    applicable fields accurately filled-in.
+        (B) Certification. By using the NMFS person ID and password and 
+    submitting the report, the submitter certifies that all information is 
+    true, correct, and complete to the best of his or her knowledge and 
+    belief.
+        (v) Submittal. The submitter must complete and submit online to 
+    NMFS the Pacific Cod Ex-vessel Volume and Value Report available at 
+    <https://alaskafisheries.noaa.gov>.
+        (2) First Wholesale Volume and Value Report--(i) Applicability. An 
+    Amendment 80 vessel owner that harvests groundfish species, other than 
+    Pacific cod, must submit annually to NMFS a complete First Wholesale 
+    Volume and Value Report, as described in this paragraph (u)(2), for 
+    each reporting period for which the Amendment 80 vessel harvests 
+    groundfish species, other than Pacific cod.
+        (ii) Reporting period. (A) The reporting period of the First 
+    Wholesale Volume and Value Report for all species except rock sole 
+    shall extend from January 1 to October 31 of the year in which the 
+    landings were made.
+        (B) The first reporting period of the First Wholesale Volume and 
+    Value Report for rock sole shall extend from January 1 to March 31, and 
+    the second reporting period shall extend from April 1 to October 31.
+        (iii) Due date. A complete First Wholesale Volume and Value Report 
+    must be received by NMFS no later than November 10 of the year in which 
+    the Amendment 80 vessel received the groundfish species, other than 
+    Pacific cod.
+        (iv) Information required. (A) The Amendment 80 vessel owner must 
+    log
+    
+    [[Page 167]]
+    
+    in using his or her password and NMFS person ID to submit a First 
+    Wholesale Volume and Value Report. The vessel owner must review any 
+    auto-filled cells to ensure that they are accurate. A completed report 
+    must have all applicable fields accurately filled-in.
+        (B) Certification. By using the NMFS person ID and password and 
+    submitting the report, the Amendment 80 vessel owner certifies that all 
+    information is true, correct, and complete to the best of his or her 
+    knowledge and belief.
+        (v) Submittal. The Amendment 80 vessel owner must complete and 
+    submit online to NMFS the First Wholesale Volume and Value Report 
+    available at <https://alaskafisheries.noaa.gov>.
+    
+    0
+    6. In Sec.  679.7, add paragraphs (c)(6), (d)(8), (k)(9), (l)(6), 
+    (o)(4)(vii), and (o)(9) to read as follows:
+    
+    
+    Sec.  679.7  Prohibitions.
+    
+    * * * * *
+        (c) * * *
+        (6) For a shoreside processor designated on an FPP, or a mothership 
+    designated on an FFP, that processes landings of either CDQ Pacific cod 
+    or BSAI Pacific cod harvested by a vessel using trawl gear to fail to 
+    submit a timely and complete Pacific Cod Ex-vessel Volume and Value 
+    Report as required under Sec.  679.5(u)(1).
+        (d) * * *
+        (8) Fail to submit a timely and complete CDQ cost recovery fee 
+    submission form and fee as required under Sec.  679.33.
+    * * * * *
+        (k) * * *
+        (9) Fail to submit a timely and complete AFA cost recovery fee 
+    submission form and fee as required under Sec.  679.66.
+        (l) * * *
+        (6) Fail to submit a timely and complete Aleutian Islands pollock 
+    cost recovery fee submission form and fee as required under Sec.  
+    679.67.
+    * * * * *
+        (o) * * *
+        (4) * * *
+        (vii) Fail to submit a timely and complete Amendment 80 cost 
+    recovery fee submission form and fee as required under Sec.  679.95.
+    * * * * *
+        (9) First Wholesale Volume and Value Report. For an Amendment 80 
+    vessel owner to fail to submit a timely and complete First Wholesale 
+    Volume and Value Report as required under Sec.  679.5(u)(2).
+    * * * * *
+    
+    0
+    7. Add Sec.  679.33 to subpart C to read as follows:
+    
+    
+    Sec.  679.33  CDQ cost recovery.
+    
+        (a) Cost Recovery Fee Program for CDQ groundfish and halibut--(1) 
+    Who is Responsible? The person documented with NMFS as the CDQ group 
+    representative at the time of a CDQ landing.
+        (i) Subsequent transfer, under Sec.  679.31(c), of a CDQ allocation 
+    by a CDQ group does not affect the CDQ group representative's liability 
+    for noncompliance with this section.
+        (ii) Changes in amount of a CDQ allocation to a CDQ group do not 
+    affect the CDQ group representative's liability for noncompliance with 
+    this section.
+        (2) Fee collection. Each CDQ group that receives a CDQ allocation 
+    of groundfish and halibut is responsible for submitting the cost 
+    recovery payment for all CDQ landings debited against that CDQ group's 
+    allocations.
+        (3) Payment--(i) Payment due date. A CDQ group representative must 
+    submit all CDQ fee payment(s) to NMFS at the address provided in 
+    paragraph (a)(3)(iii) of this section no later than December 31 of the 
+    calendar year in which the CDQ groundfish and halibut landings were 
+    made.
+        (ii) Payment recipient. Make electronic payment payable to NMFS.
+        (iii) Payment address. Submit payment and related documents as 
+    instructed on the fee submission form. Payments must be made 
+    electronically through the NMFS Alaska Region Web site at <http://alaskafisheries.noaa.gov>. Instructions for electronic payment will be 
+    made available on both the payment Web site and a fee liability summary 
+    letter mailed to the CDQ group representative.
+        (iv) Payment method. Payment must be made electronically in U.S. 
+    dollars by automated clearing house, credit card, or electronic check 
+    drawn on a U.S. bank account.
+        (b) CDQ standard ex-vessel value determination and use--(1) 
+    General. A CDQ group representative must use the CDQ standard prices 
+    determined by NMFS under paragraph (b)(2) of this section.
+        (2) CDQ standard prices--(i) General. Each year the Regional 
+    Administrator will publish CDQ standard prices for groundfish and 
+    halibut in the Federal Register by December 1 of the year in which the 
+    CDQ groundfish and halibut landings were made. The CDQ standard prices 
+    will be described in U.S. dollars per CDQ equivalent pound for CDQ 
+    groundfish and halibut landings made during the current calendar year.
+        (ii) Effective duration. The CDQ standard prices published by NMFS 
+    shall apply to all CDQ groundfish and halibut landings made during the 
+    current calendar year.
+        (iii) Determination. NMFS will calculate the CDQ standard prices 
+    for each CDQ fishery as follows:
+        (A) CDQ halibut and CDQ fixed gear sablefish. NMFS will calculate 
+    the CDQ standard prices for CDQ halibut and CDQ fixed gear sablefish to 
+    reflect, as closely as possible by port or port-group, the variations 
+    in the actual ex-vessel values of CDQ halibut and fixed-gear sablefish 
+    based on information provided in the IFQ Registered Buyer Ex-vessel 
+    Volume and Value Report described at Sec.  679.5(l)(7). The Regional 
+    Administrator will base CDQ standard prices on the following 
+    information:
+        (1) Landed pounds of IFQ halibut and sablefish and CDQ halibut in 
+    the Bering Sea port-group;
+        (2) Total ex-vessel value of IFQ halibut and sablefish and CDQ 
+    halibut in the Bering Sea port-group; and
+        (3) Price adjustments, including retroactive payments.
+        (B) CDQ Pacific cod. NMFS will use the standard prices calculated 
+    for Pacific cod based on information provided in the Pacific Cod Ex-
+    vessel Volume and Value Report described at Sec.  679.5(u)(1) for CDQ 
+    Pacific cod.
+        (C) CDQ pollock. NMFS will use the standard prices calculated for 
+    AFA pollock described at Sec.  679.66(b) for CDQ pollock.
+        (D) Other CDQ groundfish including sablefish caught with trawl 
+    gear. (1) NMFS will base all CDQ standard prices for all other CDQ 
+    groundfish species on the First Wholesale Volume and Value reports 
+    specified in Sec.  679.5(u)(2).
+        (2) NMFS will establish CDQ standard prices for all other CDQ 
+    groundfish species on an annual basis; except the Regional 
+    Administrator will establish a first CDQ standard price for rock sole 
+    for all landings from January 1 through March 31, and a second CDQ 
+    standard price for rock sole for all landings from April 1 through 
+    December 31.
+        (3) The average first wholesale product prices reported will be 
+    multiplied by 0.4 to obtain a proxy for the ex-vessel prices of those 
+    CDQ groundfish species.
+        (c) CDQ fee percentage--(1) Established percentage. The CDQ fee 
+    percentage for CDQ groundfish and halibut is the amount as determined 
+    by the factors and methodology described in paragraph (c)(2) of this 
+    section. This amount will be announced by publication in the Federal 
+    Register in accordance with paragraph (c)(3) of this section. This 
+    amount must not exceed 3.0 percent pursuant to 16 U.S.C. 1854(d)(2)(B).
+    
+    [[Page 168]]
+    
+        (2) Calculating fee percentage value. Each year NMFS will calculate 
+    and publish the CDQ fee percentage according to the following factors 
+    and methodology:
+        (i) Factors. NMFS will use the following factors to determine the 
+    fee percentage:
+        (A) The catch to which the CDQ groundfish and halibut cost recovery 
+    fee will apply;
+        (B) The ex-vessel value of that catch; and
+        (C) The costs directly related to the management, data collection, 
+    and enforcement of the CDQ Program for groundfish and halibut.
+        (ii) Methodology. NMFS will use the following equations to 
+    determine the fee percentage: 100 x DPC/V, where:
+        (A) DPC = the direct program costs for the CDQ Program for 
+    groundfish and halibut for the most recent Federal fiscal year (October 
+    1 through September 30) with any adjustments to the account from 
+    payments received in the previous year.
+        (B) V = total of the CDQ standard ex-vessel value of the catch 
+    subject to the CDQ fee liability for the current year.
+        (3) Publication--(i) General. NMFS will calculate and announce the 
+    CDQ fee percentage in a Federal Register notice by December 1 of the 
+    year in which the CDQ groundfish and halibut landings were made. NMFS 
+    will calculate the CDQ fee percentage based on the calculations 
+    described in paragraph (c)(2) of this section.
+        (ii) Effective period. NMFS will apply the calculated CDQ fee 
+    percentage to CDQ groundfish and halibut landings made between January 
+    1 and December 31 of the same year.
+        (4) Applicable percentage. The CDQ group representative must use 
+    the CDQ fee percentage applicable at the time a CDQ groundfish and 
+    halibut landing is debited from a CDQ group's allocation to calculate 
+    the CDQ fee liability for any retroactive payments for that CDQ 
+    species.
+        (5) Fee liability determination for a CDQ group. (i) Each CDQ group 
+    will be subject to a CDQ fee for any CDQ groundfish and halibut debited 
+    from that CDQ group's allocation during a calendar year.
+        (ii) The CDQ fee assessed to a CDQ group will be based on the 
+    proportion of the standard ex-vessel value of CDQ groundfish and 
+    halibut debited from a CDQ group's allocation relative to all CDQ 
+    groups during a calendar year as determined by NMFS.
+        (iii) NMFS will provide a CDQ fee liability summary letter to each 
+    CDQ group representative by December 1 of each year. The summary will 
+    explain the CDQ fee liability determination including the current fee 
+    percentage, and details of CDQ pounds debited from the CDQ group 
+    allocations by permit, species, date, and prices.
+        (d) Underpayment of fee liability--(1) No CDQ group will receive 
+    its allocations of CDQ groundfish or halibut until the CDQ group 
+    representative submits full payment of that CDQ group's complete CDQ 
+    fee liability.
+        (2) If a CDQ group representative fails to submit full payment for 
+    its CDQ fee liability by the date described in paragraph (a)(3) of this 
+    section, the Regional Administrator may:
+        (i) At any time thereafter send an IAD to the CDQ group 
+    representative stating that the CDQ group's estimated fee liability, as 
+    indicated by his or her own submitted information, is the CDQ fee 
+    liability due from the CDQ group.
+        (ii) Disapprove any application to transfer CDQ to or from the CDQ 
+    group in accordance with Sec.  679.31(c).
+        (3) If a CDQ group fails to submit full payment by December 31 of 
+    each year, the Regional Administrator will not issue allocations of CDQ 
+    groundfish and halibut to that CDQ group for the following calendar 
+    year.
+        (4) Upon final agency action determining that a CDQ group 
+    representative has not paid the CDQ fee liability due for that CDQ 
+    group, the Regional Administrator may continue to not issue allocations 
+    of CDQ groundfish and halibut for that CDQ group for any subsequent 
+    calendar years until NMFS receives the unpaid fees. If payment is not 
+    received by the 30th day after the final agency action, the agency may 
+    pursue collection of the unpaid fees.
+        (e) Over payment. Upon issuance of final agency action, payment 
+    submitted to NMFS in excess of the CDQ fee liability determined to be 
+    due by the final agency action will be returned to the CDQ group 
+    representative unless the CDQ group representative requests the agency 
+    to credit the excess amount against the CDQ group's future CDQ fee 
+    liability.
+        (f) Appeals. A CDQ group representative who receives an IAD for 
+    incomplete payment of a CDQ fee liability may appeal under the appeals 
+    procedures set out at 15 CFR part 906.
+        (g) Annual report. Each year, NMFS will publish a report describing 
+    the CDQ Cost Recovery Fee Program for groundfish and halibut.
+    
+    0
+    8. In Sec.  679.61,:
+    0
+    a. Revise paragraph (c)(1); and
+    0
+    b. Add paragraph (e)(1)(vi) to read as follows:
+    
+    
+    Sec.  679.61  Formation and operation of fishery cooperatives.
+    
+    * * * * *
+        (c) * * *
+        (1) What is a designated representative? The designated 
+    representative is the primary contact person for NMFS on issues 
+    relating to the operation of the cooperative. Any cooperative formed 
+    under this section must appoint a designated representative to fulfill 
+    regulatory requirements on behalf of the cooperative including, but not 
+    limited to, filing of cooperative contracts, filing of annual reports, 
+    submitting all cost recovery fees, and in the case of inshore sector 
+    catcher vessel cooperatives, signing cooperative fishing permit 
+    applications and completing and submitting inshore catcher vessel 
+    pollock cooperative catch reports.
+    * * * * *
+        (e) * * *
+        (1) * * *
+        (vi) List the obligations of members of a cooperative, governed by 
+    this section, to ensure the full payment of all AFA fee liabilities 
+    that may be due.
+    * * * * *
+    
+    0
+    9. Add Sec.  679.66 to subpart F to read as follows:
+    
+    
+    Sec.  679.66  AFA cost recovery.
+    
+        (a) Cost recovery fee program for AFA--(1) Who is responsible for 
+    submitting the fee? (i) The person designated on the AFA inshore 
+    cooperative permit as the designated representative at the time of a 
+    Bering Sea pollock landing.
+        (ii) The person designated as the representative of the entity 
+    representing the AFA catcher/processor sector under Sec.  
+    679.21(f)(8)(i)(C) at the time of a Bering Sea pollock landing.
+        (iii) The person designated as the representative of the AFA 
+    mothership cooperative at the time of a Bering Sea pollock landing.
+        (2) Responsibility. (i) Subsequent transfer of AFA permits held by 
+    cooperative members does not affect the designated representative's 
+    liability for noncompliance with this section.
+        (ii) Changes in the membership in a cooperative, such as members 
+    joining or departing during the relevant year, or changes in the 
+    holdings of AFA permits of those members do not affect the designated 
+    representative's liability for noncompliance with this section.
+        (3) Fee collection. Each designated representative (as identified 
+    under paragraph (a)(1) of this section) is responsible for submitting 
+    the cost recovery payment for all Bering Sea pollock landings debited 
+    against the
+    
+    [[Page 169]]
+    
+    AFA cooperative's or AFA sector's AFA pollock fishery allocation.
+        (4) Payment--(i) Payment due date. The designated representative 
+    (as identified under paragraph (a)(1) of this section) must submit all 
+    AFA fee payment(s) to NMFS at the address provided in paragraph 
+    (a)(4)(iii) of this section no later than December 31 of the calendar 
+    year in which the Bering Sea pollock landings were made.
+        (ii) Payment recipient. Make electronic payment payable to NMFS.
+        (iii) Payment address. Submit payment and related documents as 
+    instructed on the fee submission form. Payments must be made 
+    electronically through the NMFS Alaska Region Web site at <http://alaskafisheries.noaa.gov>. Instructions for electronic payment will be 
+    made available on both the payment Web site and a fee liability summary 
+    letter mailed to each designated representative.
+        (iv) Payment method. Payment must be made electronically in U.S. 
+    dollars by automated clearing house, credit card, or electronic check 
+    drawn on a U.S. bank account.
+        (b) AFA standard ex-vessel value determination and use--(1) 
+    General. A designated representative must use the AFA standard price 
+    determined by NMFS under paragraph (b)(2) of this section.
+        (2) AFA standard price--(i) General. Each year the Regional 
+    Administrator will publish the AFA standard price in the Federal 
+    Register by December 1 of the year in which the landings were made. The 
+    AFA standard price will be described in U.S. dollars per AFA pollock 
+    equivalent pound for Bering Sea pollock landings made by AFA 
+    cooperative or AFA sector members during the current calendar year.
+        (ii) Effective duration. The AFA standard price published by NMFS 
+    shall apply to all Bering Sea pollock landings made by an AFA 
+    cooperative or AFA sector member during the current calendar year.
+        (iii) Determination. NMFS will calculate the AFA standard price to 
+    reflect, as closely as possible, the standard price of Bering Sea 
+    pollock landings based on information provided in the COAR for the 
+    previous year, as described in Sec.  679.5(p). The Regional 
+    Administrator will base the AFA standard price on the following 
+    information:
+        (A) Landed pounds of Bering Sea pollock;
+        (B) Total ex-vessel value of Bering Sea pollock; and
+        (C) Price adjustments, including retroactive payments.
+        (c) AFA fee percentages--(1) Established percentages. The AFA fee 
+    percentages are the amounts as determined by the factors and 
+    methodology described in paragraph (c)(2) of this section. These 
+    amounts will be announced by publication in the Federal Register in 
+    accordance with paragraph (c)(3) of this section. These amounts must 
+    not exceed 3.0 percent pursuant to 16 U.S.C. 1854(d)(2)(B).
+        (2) Calculating fee percentage value. Each year NMFS will calculate 
+    and publish AFA fee percentages for AFA inshore cooperatives, the AFA 
+    catcher/processor sector, and the AFA mothership cooperative according 
+    to the following factors and methodology:
+        (i) Factors. NMFS will use the following factors to determine the 
+    fee percentages:
+        (A) The catch to which the AFA pollock cost recovery fee will 
+    apply;
+        (B) The ex-vessel value of that catch; and
+        (C) The costs directly related to the management, data collection, 
+    and enforcement of the AFA directed pollock fisheries.
+        (ii) Methodology. NMFS will use the following equations to 
+    determine the AFA fee percentage: 100 x DPC/V, where:
+        (A) DPC = the direct program costs for the directed AFA pollock 
+    fisheries for the most recent fiscal year (October 1 through September 
+    30) with any adjustments to the account from payments received in the 
+    previous year.
+        (B) V = total of the standard ex-vessel value of the catch subject 
+    to the AFA fee liability for the current year.
+        (iii) Direct program costs will be calculated separately for:
+        (A) AFA inshore cooperatives;
+        (B) The AFA catcher/processor sector; and
+        (C) The AFA mothership cooperative.
+        (3) Publication--(i) General. NMFS will calculate and announce the 
+    AFA fee percentages in a Federal Register notice by December 1 of the 
+    year in which the Bering Sea pollock landings were made. AFA fee 
+    percentages will be calculated separately for the AFA inshore 
+    cooperatives, the AFA catcher/processor sector, and the AFA mothership 
+    cooperative. NMFS will calculate the AFA fee percentages based on the 
+    calculations described in paragraph (c)(2) of this section.
+        (ii) Effective period. NMFS will apply the calculated AFA fee 
+    percentages to all Bering Sea directed pollock landings made between 
+    January 1 and December 31 of the current year.
+        (4) Applicable percentage. A designated representative must use the 
+    AFA fee percentage applicable at the time a Bering Sea directed pollock 
+    landing is debited from an AFA pollock fishery allocation to calculate 
+    the AFA fee liability for any retroactive payments for that landing.
+        (5) Fee liability determination. (i) Each AFA inshore cooperative, 
+    the AFA mothership cooperative, and the AFA catcher/processor sector 
+    will be subject to an AFA fee liability for any Bering Sea pollock 
+    debited from its AFA pollock fishery allocation during a calendar year.
+        (ii) The AFA fee liability assessed to an AFA inshore cooperative 
+    will be based on the proportion of the AFA fee liability of Bering Sea 
+    pollock debited from that AFA inshore cooperative's AFA pollock fishery 
+    allocation relative to all AFA inshore cooperatives during a calendar 
+    year as determined by NMFS.
+        (iii) The AFA fee liability assessed to the AFA catcher/processor 
+    sector will be based on the standard ex-vessel value of Bering Sea 
+    pollock debited from the sector's AFA pollock fishery allocation during 
+    a calendar year as determined by NMFS.
+        (iv) The AFA fee liability assessed to the AFA mothership 
+    cooperative will be based on the proportion of the standard ex-vessel 
+    value of Bering Sea pollock debited from the cooperative's AFA pollock 
+    fishery allocation during a calendar year as determined by NMFS.
+        (v) NMFS will provide a fee liability summary letter to each 
+    designated representative by December 1 of each year. The summary will 
+    explain the AFA fee liability determination including the current fee 
+    percentage and details of Bering Sea pollock pounds debited from the 
+    AFA pollock fishery allocation by permit, species, date, and prices.
+        (d) Underpayment of fee liability--(1) No AFA inshore cooperative 
+    will receive its AFA pollock fishery allocation until the cooperative's 
+    designated representative submits full payment of the cooperative's AFA 
+    fee liability.
+        (2) The AFA mothership cooperative will not receive its AFA pollock 
+    fishery allocation until the cooperative's designated representative 
+    submits full payment of that cooperative's AFA fee liability.
+        (3) The AFA catcher/processor sector will not receive its Bering 
+    Sea pollock allocation until the entity's designated representative 
+    defined at Sec.  679.21(f)(8)(i)(C) submits full payment of the AFA fee 
+    liability at the time of a Bering Sea pollock landing, except the 
+    Regional Administrator may release to the AFA catcher/processor sector 
+    a portion of the AFA catcher/processor sector's Bering Sea pollock 
+    allocation
+    
+    [[Page 170]]
+    
+    that is equal to the portion of the fee liability submitted by the 
+    entity's designated representative.
+        (4) If the designated representative fails to submit full payment 
+    for the AFA fee liability by the date described in paragraph (a)(4) of 
+    this section, the Regional Administrator, at any time thereafter, may 
+    send an IAD to the designated representative stating that the estimated 
+    fee liability, based on the information submitted by the designated 
+    representative, is the AFA fee liability due from the designated 
+    representative.
+        (5) If the designated representative fails to submit full payment 
+    for the AFA fee liability by the date described at paragraph (a)(4) of 
+    this section, the Regional Administrator will not issue a Bering Sea 
+    pollock allocation to that AFA cooperative or AFA sector for the 
+    following calendar year, except as provided in paragraph (d)(3) of this 
+    section.
+        (6) Upon final agency action determining that the designated 
+    representative has not submitted the AFA fee liability payment, the 
+    Regional Administrator may continue to not issue a Bering Sea pollock 
+    allocation for that AFA cooperative or AFA sector for any subsequent 
+    calendar years until NMFS receives the unpaid fees. If payment is not 
+    received by the 30th day after the final agency action, the agency may 
+    pursue collection of the unpaid fees.
+        (e) Over payment. Upon issuance of final agency action, payment 
+    submitted to NMFS in excess of the AFA fee liability determined to be 
+    due by the final agency action will be returned to the designated 
+    representative unless the designated representative requests the agency 
+    to credit the excess amount against a cooperative's or sector's future 
+    AFA fee liability.
+        (f) Appeals. The designated representative who receives an IAD for 
+    incomplete payment of an AFA fee liability may appeal under the appeals 
+    procedures set out at 15 CFR part 906.
+        (g) Annual report. Each year, NMFS will publish a report describing 
+    the AFA Cost Recovery Fee Program.
+    
+    0
+    10. Add Sec.  679.67 to subpart F to read as follows:
+    
+    
+    Sec.  679.67  Aleutian Islands pollock cost recovery.
+    
+        (a) Cost recovery fee program for Aleutian Islands pollock--(1) 
+    Representative. The person identified as the representative, designated 
+    by the Aleut Corporation, at the time of an Aleutian Islands pollock 
+    landing is responsible for submitting all cost recovery fees.
+        (2) Fee collection. The designated representative (as identified 
+    under paragraph (a)(1) of this section) is responsible for submitting 
+    the cost recovery payment for all Aleutian Islands pollock landings 
+    made under the authority of Aleut Corporation.
+        (3) Payment. (i) Payment due date. The designated representative 
+    (as identified under paragraph (a)(1) of this section) must submit all 
+    cost recovery fee payment(s) to NMFS at the address provided in 
+    paragraph (a)(3)(iii) of this section no later than December 31 of the 
+    calendar year in which the Aleutian Islands pollock landings were made.
+        (ii) Payment recipient. Make electronic payment payable to NMFS.
+        (iii) Payment address. Submit payment and related documents as 
+    instructed on the fee submission form. Payments must be made 
+    electronically through the NMFS Alaska Region Web site at <http://alaskafisheries.noaa.gov>. Instructions for electronic payment will be 
+    made available on both the payment Web site and a fee liability summary 
+    letter mailed to the designated representative of the Aleut 
+    Corporation.
+        (iv) Payment method. Payment must be made electronically in U.S. 
+    dollars by automated clearing house, credit card, or electronic check 
+    drawn on a U.S. bank account.
+        (b) Aleutian Islands pollock standard ex-vessel value determination 
+    and use--(1) General. The designated representative of the Aleut 
+    Corporation must use the Aleutian Islands pollock standard price 
+    determined by NMFS under paragraph (b)(2) of this section.
+        (2) Aleutian Islands pollock standard price--(i) General. Each year 
+    the Regional Administrator will publish the Aleutian Islands pollock 
+    standard price in the Federal Register by December 1 of the year in 
+    which the landings were made. The Aleutian Islands pollock standard 
+    price will be described in U.S. dollars per Aleutian Islands pollock 
+    equivalent pound for Aleutian Islands pollock landings during the 
+    current calendar year.
+        (ii) Effective duration. The Aleutian Islands pollock standard 
+    price published by NMFS shall apply to all Aleutian Islands pollock 
+    landings during the current calendar year.
+        (iii) Determination. NMFS will calculate the Aleutian Islands 
+    pollock standard price to reflect, as closely as possible, the standard 
+    price of Aleutian Islands pollock landings based on information 
+    provided in the COAR for the previous year, as described in Sec.  
+    679.5(p). The Regional Administrator will base Aleutian Islands pollock 
+    standard price on the following information:
+        (A) Landed pounds of Aleutian Islands pollock;
+        (B) Total ex-vessel value of Aleutian Islands pollock; and
+        (C) Price adjustments, including retroactive payments.
+        (c) Aleutian Islands pollock fee percentage--(1) Established 
+    percentage. The Aleutian Islands pollock fee percentage is the amount 
+    as determined by the factors and methodology described in paragraph 
+    (c)(2) of this section. This amount will be announced by publication in 
+    the Federal Register in accordance with paragraph (c)(3) of this 
+    section. This amount must not exceed 3.0 percent pursuant to 16 U.S.C. 
+    1854(d)(2)(B).
+        (2) Calculating fee percentage value. Each year NMFS will calculate 
+    and publish the fee percentage according to the following factors and 
+    methodology:
+        (i) Factors. NMFS will use the following factors to determine the 
+    fee percentage:
+        (A) The catch to which the Aleutian Islands pollock cost recovery 
+    fee will apply;
+        (B) The ex-vessel value of that catch; and
+        (C) The costs directly related to the management, data collection, 
+    and enforcement of the Aleutian Islands directed pollock fishery.
+        (ii) Methodology. NMFS will use the following equations to 
+    determine the fee percentage: 100 x DPC/V, where:
+        (A) DPC = the direct program costs for the Aleutian Islands 
+    directed pollock fishery for the most recent fiscal year (October 1 
+    through September 30) with any adjustments to the account from payments 
+    received in the previous year.
+        (B) V = total of the standard ex-vessel value of the catch subject 
+    to the Aleutian Islands pollock fee liability for the current year.
+        (3) Publication--(i) General. NMFS will calculate and announce the 
+    fee percentage in a Federal Register notice by December 1 of the year 
+    in which the Aleutian Islands pollock landings were made. NMFS will 
+    calculate the Aleutian Islands pollock fee percentage based on the 
+    calculations described in paragraph (c)(2) of this section.
+        (ii) Effective period. NMFS will apply the calculated Aleutian 
+    Islands pollock fee percentage to all Aleutian Islands pollock landings 
+    made between January 1 and December 31 of the current year.
+        (4) Applicable percentage. The designated representative must use 
+    the Aleutian Islands pollock fee percentage applicable at the time an 
+    Aleutian Islands pollock landing is debited from the Aleutian Islands 
+    directed pollock fishery allocation to calculate the Aleutian Islands 
+    pollock fee liability for any retroactive payments for that pollock.
+    
+    [[Page 171]]
+    
+        (5) Fee liability determination. (i) The Aleut Corporation will be 
+    subject to a fee for any Aleutian Islands pollock debited from the 
+    Aleutian Islands directed pollock fishery allocation during a calendar 
+    year.
+        (ii) NMFS will provide a fee liability summary letter to the Aleut 
+    Corporation by December 1 of each year. The summary will explain the 
+    fee liability determination including the current fee percentage, and 
+    details of Aleutian Islands pollock pounds debited from the Aleutian 
+    Islands directed pollock fishery allocation by permit, species, date, 
+    and prices.
+        (d) Underpayment of fee liability--(1) The Aleut Corporation will 
+    not receive its Aleutian Islands directed pollock fishery allocation 
+    until the Aleut Corporation's designated representative submits full 
+    payment of the Aleut Corporation's cost recovery fee liability.
+        (2) If the Aleut Corporation's designated representative fails to 
+    submit full payment for Aleutian Islands pollock fee liability by the 
+    date described in paragraph (a)(3) of this section, the Regional 
+    Administrator may at any time thereafter send an IAD to the Aleut 
+    Corporation's designated representative stating that the estimated fee 
+    liability, based on the information submitted by the designated 
+    representative, is the Aleutian Islands pollock fee liability due from 
+    the Aleut Corporation.
+        (3) If the Aleut Corporation's designated representative fails to 
+    submit full payment by the Aleutian Islands pollock fee liability 
+    payment deadline described at paragraph (a)(3) of this section, the 
+    Regional Administrator will not issue the Aleutian Islands directed 
+    pollock fishery allocation to the Aleut Corporation for that calendar 
+    year.
+        (4) Upon final agency action determining that the Aleut Corporation 
+    has not paid its Aleutian Islands pollock fee liability, the Regional 
+    Administrator may continue to not issue the Aleutian Islands directed 
+    pollock fishery allocation for any subsequent calendar years until NMFS 
+    receives the unpaid fees. If payment is not received by the 30th day 
+    after the final agency action, the agency may pursue collection of the 
+    unpaid fees.
+        (e) Over payment. Upon issuance of final agency action, payment 
+    submitted to NMFS in excess of the Aleutian Islands pollock fee 
+    liability determined to be due by the final agency action will be 
+    returned to the Aleut Corporation unless its designated representative 
+    requests the agency to credit the excess amount against the 
+    cooperative's future Aleutian Islands pollock fee liability.
+        (f) Appeals. A representative of the Aleut Corporation who receives 
+    an IAD for incomplete payment of an Aleutian Islands pollock fee may 
+    appeal under the appeals procedures set out at 15 CFR part 906.
+        (g) Annual report. Each year, NMFS will publish a report describing 
+    the Aleutian Islands Pollock Cost Recovery Fee Program.
+    
+    0
+    11. In Sec.  679.91:
+    0
+    a. Revise paragraphs (b)(4)(vii) and (h)(3)(xiv); and
+    0
+    b. Add paragraph (h)(3)(xx) to read as follows:
+    
+    
+    Sec.  679.91  Amendment 80 Program annual harvester privileges.
+    
+    * * * * *
+        (b) * * *
+        (4) * * *
+        (vii) Copy of membership agreement or contract. Attach a copy of 
+    the membership agreement or contract that includes terms that list:
+        (A) How the Amendment 80 cooperative intends to catch its CQ; and
+        (B) The obligations of Amendment 80 QS holders who are members of 
+    an Amendment 80 cooperative to ensure the full payment of Amendment 80 
+    fee liabilities that may be due.
+    * * * * *
+        (h) * * *
+        (3) * * *
+    
+    ------------------------------------------------------------------------
+     
+    ------------------------------------------------------------------------
+     
+                                  * * * * * * *
+    (xiv) Does an Amendment 80          Yes, an Amendment 80 cooperative
+     cooperative need a membership       must have a membership agreement or
+     agreement or contract?              contract. A copy of this agreement
+                                         or contract must be submitted to
+                                         NMFS with the application for CQ.
+                                         The membership agreement or
+                                         contract must specify:
+                                        (A) How the Amendment 80 cooperative
+                                         intends to catch its CQ; and
+                                        (B) The obligations of Amendment 80
+                                         QS holders, who are members of an
+                                         Amendment 80 cooperative, to ensure
+                                         the full payment of Amendment 80
+                                         fee liabilities that may be due.
+     
+                                  * * * * * * *
+    (xx) Is there a requirement that    Yes, see Sec.   679.95 for the
+     an Amendment 80 cooperative pay     provisions that apply.
+     Amendment 80 cost recovery fees?
+    ------------------------------------------------------------------------
+    
+    * * * * *
+    
+    0
+    12. Add Sec.  679.95 to subpart H to read as follows:
+    
+    
+    Sec.  679.95  Amendment 80 Program cost recovery.
+    
+        (a) Cost recovery fee program for Amendment 80--(1) Who is 
+    responsible? The person designated as the Amendment 80 cooperative 
+    representative at the time of an Amendment 80 CQ landing must comply 
+    with the requirements of this section, notwithstanding:
+        (i) Subsequent transfer of Amendment 80 CQ or Amendment 80 QS held 
+    by Amendment 80 cooperative members;
+        (ii) Non-renewal of an Amendment 80 CQ permit; or
+        (iii) Changes in the membership in an Amendment 80 cooperative, 
+    such as members joining or departing during the relevant year, or 
+    changes in the amount of Amendment 80 QS holdings of those members.
+        (2) Fee collection. Each Amendment 80 cooperative representative is 
+    responsible for submitting the cost recovery payment for Amendment 80 
+    CQ landings made under the authority of its Amendment 80 CQ permit.
+        (3) Payment--(i) Payment due date. An Amendment 80 cooperative 
+    representative must submit all Amendment 80 fee liability payment(s) to 
+    NMFS at the address provided in paragraph (a)(3)(iii) of this section 
+    no later than December 31 of the calendar year in which the Amendment 
+    80 CQ landings were made.
+        (ii) Payment recipient. Make electronic payment payable to NMFS.
+        (iii) Payment address. Submit payment and related documents as 
+    instructed on the fee submission form. Payments must be made 
+    electronically through the NMFS Alaska Region Web site at <http://alaskafisheries.noaa.gov>. Instructions for electronic payment will be 
+    made available on both the payment Web site and a fee liability summary 
+    letter mailed to the Amendment 80 CQ permit holder.
+    
+    [[Page 172]]
+    
+        (iv) Payment method. Payment must be made electronically in U.S. 
+    dollars by automated clearing house, credit card, or electronic check 
+    drawn on a U.S. bank account.
+        (b) Amendment 80 standard ex-vessel value determination and use--
+    (1) General. An Amendment 80 cooperative representative must use the 
+    Amendment 80 standard prices determined by NMFS under paragraph (b)(2) 
+    of this section.
+        (2) Amendment 80 standard prices--(i) General. Each year the 
+    Regional Administrator will publish Amendment 80 standard prices in the 
+    Federal Register by December 1 of the year in which the Amendment 80 
+    species landings were made. The standard prices will be described in 
+    U.S. dollars per Amendment 80 equivalent pound for Amendment 80 species 
+    landings made by Amendment 80 CQ permit holders during the current 
+    calendar year.
+        (ii) Effective duration. The Amendment 80 standard prices published 
+    by NMFS will apply to all Amendment 80 species landings made by an 
+    Amendment 80 CQ permit holder during that calendar year.
+        (iii) Determination. NMFS will calculate the Amendment 80 standard 
+    prices for Amendment 80 species based on the following information:
+        (A) Pacific cod. NMFS will use the standard prices calculated for 
+    Pacific cod based on information provided in the Pacific Cod Ex-vessel 
+    Volume and Value Report described at Sec.  679.5(u)(1).
+        (B) Amendment 80 species other than Pacific cod. (1) The Regional 
+    Administrator will base Amendment 80 standard prices for all Amendment 
+    80 species other than Pacific cod on the First Wholesale Volume and 
+    Value reports specified in Sec.  679.5(u)(2).
+        (2) The Regional Administrator will establish Amendment 80 standard 
+    prices for all Amendment 80 species other than Pacific cod on an annual 
+    basis; except the Regional Administrator will establish a first 
+    Amendment 80 standard price for rock sole for all landings from January 
+    1 through March 31, and a second Amendment 80 standard price for rock 
+    sole for all landings from April 1 through December 31.
+        (3) The average first wholesale product prices reported on the 
+    First Wholesale Volume and Value reports, specified in Sec.  
+    679.5(u)(2), will be multiplied by 0.4 to obtain a proxy for the ex-
+    vessel prices of Amendment 80 species other than Pacific cod.
+        (c) Amendment 80 fee percentage--(1) Established percentage. The 
+    Amendment 80 fee percentage is the amount as determined by the factors 
+    and methodology described in paragraph (c)(2) of this section. This 
+    amount will be announced by publication in the Federal Register in 
+    accordance with paragraph (c)(3) of this section. This amount must not 
+    exceed 3.0 percent pursuant to 16 U.S.C. 1854(d)(2)(B).
+        (2) Calculating fee percentage value. Each year NMFS will calculate 
+    and publish the fee percentage according to the following factors and 
+    methodology:
+        (i) Factors. NMFS will use the following factors to determine the 
+    fee percentage:
+        (A) The catch to which the Amendment 80 cost recovery fee will 
+    apply;
+        (B) The ex-vessel value of that catch; and
+        (C) The costs directly related to the management, data collection, 
+    and enforcement of the Amendment 80 Program.
+        (ii) Methodology. NMFS will use the following equations to 
+    determine the fee percentage: 100 x DPC/V, where:
+        (A) DPC = the direct program costs for the Amendment 80 Program for 
+    the most recent fiscal year (October 1 through September 30) with any 
+    adjustments to the account from payments received in the previous year.
+        (B) V = total of the standard ex-vessel value of the landings 
+    subject to the Amendment 80 fee liability for the current year.
+        (3) Publication--(i) General. NMFS will calculate and announce the 
+    Amendment 80 fee percentage in a Federal Register notice by December 1 
+    of the year in which the Amendment 80 landings were made. NMFS will 
+    calculate the Amendment 80 fee percentage based on the calculations 
+    described in paragraph (c)(2) of this section.
+        (ii) Effective period. NMFS will apply the calculated Amendment 80 
+    fee percentage to Amendment 80 CQ landings made between January 1 and 
+    December 31 of the same year.
+        (4) Applicable percentage. The Amendment 80 CQ permit holder must 
+    use the Amendment 80 fee percentage applicable at the time an Amendment 
+    80 species landing is debited from an Amendment 80 CQ allocation to 
+    calculate the Amendment 80 fee liability for any retroactive payments 
+    for that Amendment 80 species.
+        (5) Fee liability determination for an Amendment 80 CQ permit 
+    holder. (i) Each Amendment 80 CQ permit holder will be subject to a fee 
+    liability for any Amendment 80 species CQ debited from an Amendment 80 
+    CQ allocation between January 1 and December 31 of the current year.
+        (ii) The Amendment 80 fee liability assessed to an Amendment 80 CQ 
+    permit holder will be based on the proportion of the standard ex-vessel 
+    value of Amendment 80 species debited from an Amendment 80 CQ permit 
+    holder relative to all Amendment 80 CQ permit holders during a calendar 
+    year as determined by NMFS.
+        (iii) NMFS will provide a fee liability summary letter to each 
+    Amendment 80 CQ permit holder by December 1 of each year. The summary 
+    will explain the fee liability determination including the current fee 
+    percentage, and details of Amendment 80 species CQ pounds debited from 
+    Amendment 80 CQ allocations by permit, species, date, and prices.
+        (d) Underpayment of fee liability--(1) No Amendment 80 cooperative 
+    will receive its Amendment 80 CQ until the Amendment 80 CQ permit 
+    holder submits full payment of an applicant's complete Amendment 80 fee 
+    liability.
+        (2) If an Amendment 80 CQ permit holder fails to submit full 
+    payment for its Amendment 80 fee by the date described in paragraph 
+    (a)(3) of this section, the Regional Administrator may:
+        (i) At any time thereafter send an IAD to the Amendment 80 
+    cooperative's representative stating that the Amendment 80 CQ permit 
+    holder's estimated fee liability, based on information submitted by the 
+    Amendment 80 cooperative's representative, is the Amendment 80 fee 
+    liability due from the Amendment 80 CQ permit holder.
+        (ii) Disapprove any application to transfer Amendment 80 CQ to or 
+    from the Amendment 80 CQ permit holder in accordance with Sec.  
+    679.91(g).
+        (3) If an Amendment 80 cooperative representative fails to submit 
+    full payment by the Amendment 80 fee payment deadline described at 
+    paragraph (a)(3) of this section:
+        (i) The Regional Administrator will not issue a Amendment 80 CQ 
+    permit to that Amendment 80 cooperative for the following calendar 
+    year; and
+        (ii) The Regional Administrator will not issue Amendment 80 CQ 
+    based on the Amendment 80 QS held by the members of that Amendment 80 
+    cooperative to any other CQ permit for that calendar year.
+        (4) Upon final agency action determining that an Amendment 80 CQ 
+    permit holder has not paid his or her Amendment 80 fee, the Regional 
+    Administrator may continue to not issue an Amendment 80 CQ permit for 
+    any subsequent calendar years until NMFS receives the unpaid fees. If 
+    payment is not received by the 30th day after the
+    
+    [[Page 173]]
+    
+    final agency action, the agency may pursue collection of the unpaid 
+    fees.
+        (e) Over payment. Upon issuance of final agency action, payment 
+    submitted to NMFS in excess of the Amendment 80 fee determined to be 
+    due by the final agency action will be returned to the Amendment 80 
+    cooperative unless the Amendment 80 cooperative's representative 
+    requests the agency to credit the excess amount against the Amendment 
+    80 CQ permit holder's future Amendment 80 fee.
+        (f) Appeals. An Amendment 80 cooperative representative who 
+    receives an IAD for incomplete payment of an Amendment 80 fee may 
+    appeal under the appeals procedures set out a 15 CFR part 906.
+        (g) Annual report. Each year, NMFS will publish a report describing 
+    the Amendment 80 Cost Recovery Fee Program.
+    
+    [FR Doc. 2015-33096 Filed 1-4-16; 8:45 am]
+     BILLING CODE 3510-22-P
+    
+    
+    
+

@@ -1,0 +1,330 @@
+
+    [Federal Register Volume 81, Number 1 (Monday, January 4, 2016)]
+    [Rules and Regulations]
+    [Pages 19-21]
+    From the Federal Register Online via the Government Publishing Office [[www.gpo.gov](http://www.gpo.gov)]
+    [FR Doc No: 2015-32288]
+    
+    
+    =======================================================================
+    -----------------------------------------------------------------------
+    
+    DEPARTMENT OF COMMERCE
+    
+    National Oceanic and Atmospheric Administration
+    
+    50 CFR Part 635
+    
+    [Docket Nos. 120328229-4949-02 and 150121066-5717-02]
+    RIN 0648-XE346
+    
+    
+    Atlantic Highly Migratory Species; Atlantic Bluefin Tuna 
+    Fisheries
+    
+    AGENCY: National Marine Fisheries Service (NMFS), National Oceanic and 
+    Atmospheric Administration (NOAA), Commerce.
+    
+    ACTION: Temporary rule; annual adjustment of Atlantic bluefin tuna 
+    Purse Seine and Reserve category quotas; inseason quota transfer from 
+    the Reserve category to the Longline category.
+    
+    -----------------------------------------------------------------------
+    
+    SUMMARY: NMFS is adjusting the Atlantic bluefin tuna (BFT) Purse Seine 
+    and Reserve category quotas for 2016, based on regulations implementing 
+    Amendment 7 to the 2006 Consolidated Highly Migratory Species Fishery 
+    Management Plan. NMFS also is transferring inseason 34 metric tons (mt) 
+    of BFT quota from the Reserve category to the Longline category. This 
+    action is based on consideration of the regulatory determination 
+    criteria regarding inseason adjustments. The transfer to the Longline 
+    category is applied to eligible Atlantic Tunas Longline category 
+    permitted vessels with Individual Bluefin Quota (IBQ) shares, and as a 
+    result of this transfer, current IBQ vessel accounts will be 
+    distributed 0.25 mt of IBQ allocation each.
+    
+    DATES: Effective January 1, 2016, through December 31, 2016.
+    
+    FOR FURTHER INFORMATION CONTACT: Sarah McLaughlin, Tom Warren, or Brad 
+    McHale, 978-281-9260.
+    
+    SUPPLEMENTARY INFORMATION: Regulations implemented under the authority 
+    of the Atlantic Tunas Convention Act (ATCA; 16 U.S.C. 971 et seq.) and 
+    the Magnuson-Stevens Fishery Conservation and Management Act (Magnuson-
+    Stevens Act; 16 U.S.C. 1801 et seq.) governing the harvest of BFT by 
+    persons and vessels subject to U.S. jurisdiction are found at 50 CFR 
+    part 635. Section 635.27 subdivides the U.S. BFT quota recommended by 
+    the International Commission for the Conservation of Atlantic Tunas 
+    (ICCAT) among the various domestic fishing categories, per the 
+    allocations established in the 2006 Consolidated Highly Migratory 
+    Species Fishery Management Plan (2006 Consolidated HMS FMP) (71 FR 
+    58058, October 2, 2006), as amended by Amendment 7 to the 2006 
+    Consolidated HMS FMP (Amendment 7) (79 FR 71510, December 2, 2014). 
+    NMFS is required under ATCA and the Magnuson-Stevens Act to provide 
+    U.S. fishing vessels with a reasonable opportunity to harvest the 
+    ICCAT-recommended quota.
+    
+    Annual Adjustment of the BFT Purse Seine and Reserve Category Quotas
+    
+        In 2015, NMFS implemented a final rule that increased the U.S. BFT 
+    quota and subquotas per ICCAT Recommendation 14-05 (80 FR 52198, August 
+    28, 2015). As a result, based on the currently codified U.S. quota of 
+    1,058.79 mt (not including the 25 mt allocated by ICCAT to the United 
+    States to account for bycatch of BFT in pelagic longline fisheries in 
+    the Northeast Distant Gear Restricted Area), the baseline Purse Seine, 
+    Longline, and Reserve category quotas are codified as 184.3 mt, 148.3 
+    mt, and 24.8 mt, respectively. See Sec.  635.27(a).
+        Pursuant to Sec.  635.27(a)(4), NMFS has determined the amount of 
+    quota available to individual Atlantic Tunas Purse Seine category 
+    participants in 2016, based on their BFT catch (landings and dead 
+    discards) in 2015. Specifically, NMFS is making available to each Purse 
+    Seine category participant 100 percent, 75 percent, 50 percent, or 25 
+    percent of the individual baseline quota allocations based on 2015 
+    catch, as described in Sec.  635.27(a)(4)(ii), and is reallocating the 
+    remainder to the Reserve category for 2016. NMFS has calculated the 
+    amounts of quota available to individual Purse Seine fishery 
+    participants based on their individual catch levels in 2015 and the 
+    codified process adopted in Amendment 7. Total Purse Seine category BFT 
+    catches were 38.8 mt (33.9 mt of landings and 4.9 mt of dead discards) 
+    in 2015. Consistent with Sec.  635.27(a)(4)(v)(C), NMFS will notify 
+    Atlantic Tunas Purse Seine fishery participants of the amount of quota 
+    available for their use this year through the Individual Bluefin Quota 
+    electronic system established under Sec.  635.15 and in writing.
+        Based on the procedures described above and by summing the 
+    individual available allocations, NMFS has determined the 2016 Purse 
+    Seine category quota available to Purse Seine fishery participants is 
+    82.9 mt. Thus, the amount of Purse Seine category quota to be 
+    reallocated to the Reserve category is 101.4 mt. This reallocation 
+    would result in a 2016 Reserve category quota of 126.2 mt (24.8 mt + 
+    101.4 mt). However, NMFS also is taking action, as described
+    
+    [[Page 20]]
+    
+    in the Quota Transfer section below, to transfer 34 mt from the Reserve 
+    category to the Longline category such that the 2016 Reserve category 
+    quota as adjusted by this action as a whole would be 92.2 mt. 
+    Consistent with the quota regulations, NMFS may allocate any portion of 
+    the Reserve category quota for inseason or annual adjustments to any 
+    fishing category quota pursuant to regulatory determination criteria 
+    described at 50 CFR 635.27(a)(8), in addition to using the Reserve 
+    category quota for scientific research collection of BFT.
+        NMFS anticipates that it will announce additional BFT quota 
+    adjustments during 2016. For example, when complete 2015 BFT catch 
+    information is available and finalized, NMFS may augment the Reserve 
+    further by carrying forward underharvest, if any, from 2015, consistent 
+    with ICCAT limits. Subsequent notices will be published in the Federal 
+    Register. In addition, fishermen may call the Atlantic Tunas 
+    Information Line at (978) 281-9260, or access [hmspermits.noaa.gov](http://hmspermits.noaa.gov), for 
+    updates.
+    
+    Quota Transfer
+    
+        Under Sec.  635.15(b)(5)(ii), as implemented through Amendment 7, 
+    additional IBQ may be allocated to eligible vessels with IBQ shares, 
+    after the initial annual allocations if the U.S. baseline quota 
+    increases as a result of an ICCAT recommendation or as a result of a 
+    transfer of quota from the Reserve category to the Longline category, 
+    pursuant to criteria for quota adjustments.
+        Under Sec.  635.27(a)(9), NMFS has the authority to transfer quota 
+    among fishing categories or subcategories, after considering 
+    determination criteria provided under Sec.  635.27(a)(8), which are: 
+    The usefulness of information obtained from catches in the particular 
+    category for biological sampling and monitoring of the status of the 
+    stock; the catches of the particular category quota to date and the 
+    likelihood of closure of that segment of the fishery if no adjustment 
+    is made; the projected ability of the vessels fishing under the 
+    particular category quota to harvest the additional amount of BFT 
+    before the end of the fishing year; the estimated amounts by which 
+    quotas for other gear categories of the fishery might be exceeded; 
+    effects of the adjustment on BFT rebuilding and overfishing; effects of 
+    the adjustment on accomplishing the objectives of the fishery 
+    management plan; variations in seasonal distribution, abundance, or 
+    migration patterns of BFT; effects of catch rates in one area 
+    precluding vessels in another area from having a reasonable opportunity 
+    to harvest a portion of the category's quota; review of dealer reports, 
+    daily landing trends, and the availability of the BFT on the fishing 
+    grounds; optimizing fishing opportunity; accounting for dead discards, 
+    facilitating quota monitoring, supporting other fishing monitoring 
+    programs through quota allocations and/or generation of revenue; and 
+    support of research through quota allocations and/or generation of 
+    revenue.
+        NMFS has considered the determination criteria regarding inseason 
+    adjustments and their applicability to the Longline category fishery 
+    and have determined that a quota transfer is warranted, as explained 
+    below. Consistent with the criteria for quota adjustments, this 
+    transfer is intended to increase the amount of quota available to 
+    pelagic longline permitted vessels with IBQ, and therefore help vessel 
+    owners account for BFT landings and dead discards while fostering 
+    conditions in which permit holders become more willing to lease IBQ. As 
+    described below, the amount of quota available to individual pelagic 
+    longline vessels will be particularly important beginning in 2016. The 
+    revised Longline category quota would support the broader objectives of 
+    Amendment 7, which include reducing BFT interactions and dead discards 
+    while maintaining an economically viable swordfish and yellowfin tuna 
+    directed fishery.
+        Under Amendment 7, a vessel must have IBQ to account for its BFT 
+    landings and dead discards. If a vessel has insufficient IBQ to account 
+    for such landings and dead discards, it goes into ``quota debt.'' 
+    Starting in 2016, a Longline category permitted vessel will not be 
+    allowed to fish with pelagic longline gear if it has outstanding quota 
+    debt or does not have the minimum amount of quota to fish (i.e., 0.125 
+    mt (276 lb) to depart on a fishing trip in the Atlantic and 0.25 mt 
+    (551 lb) to depart on a fishing trip in the Gulf of Mexico. 
+    Furthermore, vessels that had a quota debt remaining at the end of 2015 
+    will be responsible for accounting for that quota debt using 2016 IBQ 
+    allocation before they may fish in 2016.
+        Approximately one-fifth of active pelagic longline vessels had 
+    outstanding quota debt late in 2015, and quota leasing among fishery 
+    participants was limited. NMFS believes the reason for the limited 
+    quota leasing was due to the leasing program being so new, and 
+    shareholders may have been unwilling to lease quota to other 
+    shareholders because they did not know if they would have sufficient 
+    quota to account for any BFT they may catch.
+        With respect to the effects of the adjustment on BFT rebuilding and 
+    overfishing and accomplishing the objectives of the fishery management 
+    plan, this action would be taken consistent with the previously 
+    implemented and analyzed quotas, and it is not expected to negatively 
+    impact stock health or otherwise affect the stock in ways not 
+    previously analyzed. The transfer of 34 mt of BFT quota from the 
+    Reserve category to the Longline category will result in an adjusted 
+    Longline quota of 182.3 mt, which remains within the ICCAT quota and is 
+    less than the historical average of landings and dead discards in the 
+    fishery (239 mt). This action is consistent with the rebuilding goals 
+    of the 2006 Consolidated HMS FMP as amended because NMFS does not 
+    anticipate that the overall U.S. BFT quota will be exceeded.
+        Regarding the determination criteria ``optimizing fishing 
+    opportunity,'' the ability of pelagic longline vessel owners to account 
+    for BFT with allocated quota or lease IBQ at an affordable price is key 
+    to the success of the IBQ program. An inseason transfer of quota to the 
+    Longline category would facilitate accomplishing the objectives of the 
+    2006 Consolidated HMS FMP by optimizing fishing opportunity, 
+    contributing to full accounting for landings and dead discards, and 
+    reducing uncertainty in the fishery as a whole. Additional quota should 
+    reduce situations where fishing opportunity for target species is 
+    constrained by BFT quota debt or a low IBQ balance. It will also reduce 
+    vessel owner uncertainty about whether a vessel owner will have 
+    sufficient quota to account for BFT they may catch in the future. 
+    Without this inseason quota transfer, it is more likely that permit 
+    holders will have difficulty leasing quota to account for BFT catch or 
+    reduce quota debt, permit holders may have a reduced ability to make 
+    business plans for the future, and a higher number of permitted vessels 
+    may be prohibited from fishing during 2016 as a result of quota debt 
+    accrued during 2015.
+        Regarding the determination criteria about accounting for dead 
+    discards and variations in seasonal distribution or abundance, a quota 
+    transfer from the Reserve category to the Longline category would 
+    contribute toward full accounting of BFT catch by vessels that have 
+    quota debt (i.e., reduce quota debt), enhance the likelihood that 
+    shareholders will make the decision to lease IBQ to others, and reduce 
+    the uncertainty in the fishery as a whole. A quota transfer effective 
+    in early January 2016 helps to address the diversity of
+    
+    [[Page 21]]
+    
+    the fishery with respect to the timing of fishing activities in 
+    different geographic areas. A quota transfer later in the year may 
+    disadvantage those fishing early in the year.
+        Based on the considerations above, NMFS is transferring 34 mt of 
+    Reserve category quota, which is adjusted through the annual 
+    reallocation from the Purse Seine category to the Reserve category 
+    described above, to the Longline category. As a result of this quota 
+    transfer, the adjusted 2016 Reserve category quota is 92.2 mt, and the 
+    adjusted 2016 Longline category quota is 182.3 mt. This inseason quota 
+    transfer does not preclude future inseason quota transfers to any of 
+    the quota categories. As a result of this quota transfer, 0.25 mt (551 
+    lb) of IBQ is being distributed to each of the 136 permit holders with 
+    IBQ shares, provided the permit is associated with a vessel. For those 
+    permits that qualified for IBQ shares and are not associated with a 
+    vessel at the time of the quota transfer, the IBQ will not be usable by 
+    the permit holder (i.e., may not be leased or used to account for BFT) 
+    unless and until the eligible permit is associated with a vessel. 
+    Eligible permits will be allocated either Gulf of Mexico (GOM) IBQ, 
+    Atlantic (ATL) IBQ, or both GOM and ATL IBQ, according to the eligible 
+    permit initial share's regional designations (and totaling 0.25 mt). 
+    This action is supported by the Amendment 7 Final Environmental Impact 
+    Statement and final rule, which analyzed and anticipated such an 
+    action.
+    
+    Monitoring and Reporting
+    
+        NMFS will continue to monitor the BFT fisheries, including the 
+    pelagic longline fishery, closely through the mandatory landings and 
+    catch reports. Dealers are required to submit landing reports within 24 
+    hours of a dealer receiving BFT. Pelagic longline vessels are required 
+    to report BFT catch through Vessel Monitoring System, as well as 
+    through the online IBQ system.
+        Longline category permit holders are reminded that all BFT 
+    discarded dead must be reported through the Vessel Monitoring System, 
+    and accounted for in the on-line IBQ system, consistent with 
+    requirements at Sec.  635.15(a).
+        If needed, subsequent adjustments will be published in the Federal 
+    Register. In addition, fishermen may call the Atlantic Tunas 
+    Information Line at (978) 281-9260, or access [hmspermits.noaa.gov](http://hmspermits.noaa.gov) for 
+    updates on quota monitoring and inseason adjustments.
+    
+    Classification
+    
+        The Assistant Administrator for NMFS (AA) finds that it is 
+    impracticable and contrary to the public interest to provide prior 
+    notice of, and an opportunity for public comment on, the transfer from 
+    the Reserve category to the Longline category for the following 
+    reasons:
+        The regulations implementing the 2006 Consolidated HMS FMP, as 
+    amended, provide for inseason adjustments to quotas and other aspects 
+    of BFT fishery management, to respond to the diverse range of factors 
+    which may affect BFT fisheries, including ecological (e.g., rebuilding, 
+    or the migratory nature of HMS) and commercial (e.g., optimizing 
+    fishing opportunity, or reducing bycatch). Specifically, Amendment 7 
+    stated that NMFS may need to consider providing additional quota to the 
+    Longline category as a whole in order to increase the amount of quota 
+    available to eligible permitted vessels via the IBQ program, and 
+    balance the need to have an operational directed pelagic longline 
+    fishery with the need to reduce BFT bycatch.
+        NMFS has determined that adjustments to the Reserve and Longline 
+    category BFT quotas are warranted. Analysis of available data shows 
+    that adjustment to the Longline category quota from the initial level 
+    would result in minimal risks of exceeding the ICCAT-allocated quota. 
+    The regulations implementing the 2006 Consolidated HMS FMP, as amended, 
+    provide the flexibility to provide additional quota to the Longline 
+    category in order to optimize fishing opportunity, account for dead 
+    discards, and accomplish the objectives of the fishery management plan. 
+    A quota transfer effective in early January 2016 helps to address the 
+    diversity of the fishery with respect to the timing of fishing 
+    activities in different geographic areas. A quota transfer later in the 
+    year may disadvantage those fishing early in the year.
+        Affording prior notice and opportunity for public comment to 
+    implement the quota transfer is impracticable, as NMFS needed to 
+    consider and respond to updated data and information from the 2015 
+    fishery in deciding to transfer 34 mt of quota from the Reserve 
+    category to the Longline category. If NMFS were to offer a public 
+    comment period now, after having appropriately considered that data, it 
+    may unnecessarily preclude fishing opportunities for some vessel 
+    operators, particularly those that fish early in the fishing season.
+        Delays in adjusting the Reserve and Longline category quotas would 
+    adversely affect those Longline category vessels that would otherwise 
+    have an opportunity to reduce or resolve quota debt, lease quota to 
+    other vessels, as well as delay potential beneficial effects on the 
+    ability for vessel operators to make business plans for their future. 
+    NMFS is trying to balance providing opportunity to the pelagic longline 
+    fishery, with the reduction of BFT bycatch, and delaying this action 
+    would be contrary to the public interest. Therefore, the AA finds good 
+    cause under 5 U.S.C. 553(b)(B) to waive prior notice and the 
+    opportunity for public comment. For all of the above reasons, there is 
+    good cause under 5 U.S.C. 553(d) to waive the 30-day delay in 
+    effectiveness.
+        This action is being taken under Sec. Sec.  635.15(b)(5)(ii), 
+    635.15(f), 635.27(a)(8) and (9), and 635.27(a)(4) and (a)(7), and is 
+    exempt from review under Executive Order 12866.
+    
+        Authority: 16 U.S.C. 971 et seq. and 1801 et seq.
+    
+        Dated: December 18, 2015.
+    Alan D. Risenhoover,
+    Director, Office of Sustainable Fisheries, National Marine Fisheries 
+    Service.
+    [FR Doc. 2015-32288 Filed 12-31-15; 8:45 am]
+     BILLING CODE 3510-22-P
+    
+    
+    
+

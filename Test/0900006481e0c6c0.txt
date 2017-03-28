@@ -1,0 +1,363 @@
+
+    [Federal Register Volume 81, Number 9 (Thursday, January 14, 2016)]
+    [Rules and Regulations]
+    [Pages 1887-1890]
+    From the Federal Register Online via the Government Publishing Office [[www.gpo.gov](http://www.gpo.gov)]
+    [FR Doc No: 2016-00428]
+    
+    
+    -----------------------------------------------------------------------
+    
+    ENVIRONMENTAL PROTECTION AGENCY
+    
+    40 CFR Part 52
+    
+    [EPA-R07-OAR-2015-0587; FRL 9941-01-Region 7]
+    
+    
+    Approval of Missouri's Air Quality Implementation Plans; Early 
+    Progress Plan of the St. Louis Nonattainment Area for the 2008 Ozone 
+    National Ambient Air Quality Standard
+    
+    AGENCY: Environmental Protection Agency (EPA).
+    
+    ACTION: Direct final rule.
+    
+    -----------------------------------------------------------------------
+    
+    SUMMARY: The Environmental Protection Agency (EPA) is taking direct 
+    final action to approve revisions to the State Implementation Plan 
+    (SIP) submitted by the State of Missouri consisting of the Early 
+    Progress Plan and motor vehicle emissions budgets (MVEBs) for volatile 
+    organic compounds (VOCs) and oxides of nitrogen (NOX) for 
+    the St. Louis Nonattainment area under the 2008 8-hour National Ambient 
+    Air Quality Standard (NAAQS). On August 26, 2013, EPA received from the 
+    Missouri Department of Natural Resources (MDNR) an Early Progress Plan 
+    for the St. Louis area showing progress toward attainment under the 
+    2008 Ozone NAAQS. This submittal was developed to establish MVEBs for 
+    the St. Louis 8-hour ozone nonattainment area. This approval of the 
+    Early Progress Plan for the St. Louis 8-hour ozone nonattainment area 
+    fulfills EPA's requirement to act on the MDNR SIP submission and to 
+    formalize that the MVEB is approved, and when considered with the 
+    emissions from all sources, demonstrates progress toward attainment 
+    from the 2008 base year through a 2015 target year. EPA found these 
+    MVEBs adequate for transportation conformity purposes in an earlier 
+    action on March 5, 2014.
+    
+    DATES: This direct final rule will be effective March 14, 2016, without 
+    further notice, unless EPA receives adverse comment by February 16, 
+    2016. If EPA receives adverse comment, we will publish a timely 
+    withdrawal of the direct final rule in the Federal Register informing 
+    the public that the rule will not take effect.
+    
+    ADDRESSES: Submit your comments, identified by Docket ID No. EPA-R07-
+    OAR-2015-0587, to <http://www.regulations.gov>. Follow the online 
+    instructions for submitting comments. Once submitted, comments cannot 
+    be edited or removed from [Regulations.gov](http://Regulations.gov). EPA may publish any comment 
+    received to its public docket. Do not submit electronically any 
+    information you consider to be Confidential Business Information (CBI) 
+    or other information whose disclosure is restricted by statute. 
+    Multimedia submissions (audio, video, etc.) must be accompanied by a 
+    written comment. The written comment is considered the official comment 
+    and should include discussion of all points you wish to make. EPA will 
+    generally not consider comments or comment contents located outside of 
+    the primary submission (i.e. on the web, cloud, or other file sharing 
+    system). For additional submission methods, the full EPA public comment 
+    policy, information about CBI or multimedia submissions, and general 
+    guidance on making effective comments, please visit <http://www2.epa.gov/dockets/commenting-epa-dockets>.
+    
+    FOR FURTHER INFORMATION CONTACT: Steven Brown, Environmental Protection 
+    Agency, Air Planning and Development Branch, 11201 Renner Boulevard, 
+    Lenexa, Kansas 66219 at 913-551-7718 or by email at 
+    [brown.steven@epa.gov](mailto:brown.steven@epa.gov).
+    
+    SUPPLEMENTARY INFORMATION: Throughout this document ``we,'' ``us,'' or 
+    ``our'' refer to EPA. This section provides additional information by 
+    addressing the following:
+    
+    I. What is the background for this action?
+    II. What are the criteria for early progress plans?
+    III. What is EPA's analysis of the request?
+    IV. What are the MVEB's for the St. Louis 8-hour ozone area?
+    V. What action is EPA taking?
+    
+    I. What is the background for this action?
+    
+        EPA's final rule designating nonattainment areas and associated 
+    classifications for the 2008 ozone National Ambient Air Quality 
+    Standards (NAAQS) was published in the Federal Register on May 21, 2012 
+    (77 FR 30088). The St. Louis area was designated as marginal 
+    nonattainment. The St. Louis ozone area had previously been designated 
+    nonattainment for the 1-hour ozone standard and had 1-hour motor 
+    vehicle emissions budgets (MVEBs) for NOX and VOC 
+    established in the St. Louis 1-hour maintenance plan SIP (66 FR 33996). 
+    The 1-hour MVEBs were the only approved MVEBs for St. Louis and were 
+    based on EPA's MOBILE6.2
+    
+    [[Page 1888]]
+    
+    emissions model. Consequently, the transportation partners in St. Louis 
+    were required to use the 1-hour MVEB test to demonstrate transportation 
+    conformity for the 8-hour ozone standard until new MVEBs were approved 
+    or found adequate, as required by the transportation conformity rule at 
+    40 CFR 93.109(c)(2)(i). Missouri submitted this plan to establish new 8 
+    hour MVEBs developed with EPA's current MOVES2014 model.
+        EPA allows for the establishment of MVEBs for the 8-hour ozone 
+    standard prior to a state submitting its first required 8-hour ozone 
+    SIP that would include new MVEBs. Although voluntary, these ``early'' 
+    MVEBs must be established through a plan, known as the ``Early Progress 
+    Plan,'' that meets all the requirements of a SIP submittal. The 
+    preamble of the July 1, 2004, final transportation conformity rule 
+    (see, 69 FR 40019) reads as follows:
+        ``The first 8-hour ozone SIP could be a control strategy SIP 
+    required by the Clean Air Act (e.g., rate-of-progress SIP or attainment 
+    demonstration) or a maintenance plan. However, 8-hour ozone 
+    nonattainment areas are free to establish, through the SIP process, a 
+    motor vehicle emissions budget or budgets that addresses the new NAAQS 
+    in advance of a complete SIP attainment demonstration. That is, a state 
+    could submit a motor vehicle emission budget that does not demonstrate 
+    attainment but is consistent with projections and commitments to 
+    control measures and achieves some progress toward attainment (August 
+    15, 1997, 62 FR 43799). A SIP submitted earlier than otherwise required 
+    can demonstrate a significant level of emissions reductions from 
+    current level of emissions, instead of a specific percentage required 
+    by the Clean Air Act for moderate and above ozone areas.''
+    
+    II. What are the criteria for early progress plans?
+    
+        The Early Progress Plan must demonstrate that the SIP revision 
+    containing the MVEBs, when considered with emissions from all sources, 
+    and when projected from the base year to a future year, shows some 
+    progress toward attainment. EPA has previously indicated that a 5 
+    percent to 10 percent reduction in emissions from all sources could 
+    represent a significant level of emissions reductions from current 
+    levels (69 FR 40019). This allowance is provided so that areas have an 
+    opportunity to use the budget test to demonstrate conformity as opposed 
+    to the interim conformity tests (i.e., 2002 baseline test and/or action 
+    versus baseline test). The budget test with an adequate or approved 
+    MVEB budget is generally more protective of air quality and provides a 
+    more relevant basis for conformity determinations than the interim 
+    emissions test. (69 FR 40026).
+        It should also be noted that the Early Progress Plan is not a 
+    required plan and does not substitute for required submissions such as 
+    an attainment demonstration or rate-of-progress plan, if such plans 
+    become required for the St. Louis 8-hour ozone area.
+    
+    III. What is EPA's analysis of the request?
+    
+        In August 2013, the State submitted to EPA an Early Progress Plan 
+    for the purpose of establishing MVEBs for the St. Louis 8-hour ozone 
+    area. The submittal utilizes a base year of 2008, and a projected year 
+    of 2015 to establish NOX and VOC MVEBs. The planning 
+    assumptions used to develop the MVEBs were discussed and agreed to by 
+    the St. Louis interagency consultation group, East West Gateway (EWG), 
+    which consists of the transportation and air quality partners in the 
+    St. Louis 8-hour ozone nonattainment area. Tables 1 and 2 below show 
+    the differences by source categories between the 2008 base year and 
+    2015 forecast year. The NOX and VOC emissions in tons per 
+    day (tpd) within the St. Louis nonattainment area are expected to 
+    decrease significantly, 31 percent and 12 percent, respectively, 
+    between 2008 and 2015. These emission trends demonstrate that progress 
+    will be made towards attainment of the 2008 8-hour ozone NAAQS.
+    
+    ------------------------------------------------------------------------
+                                                 2008 NOX        2015 NOX
+                     Source                        (tpd)           (tpd)
+    ------------------------------------------------------------------------
+    Point...................................           88.84           86.32
+    Area....................................            6.52            6.64
+    On-road.................................          161.25           76.70
+    Non-road................................           65.18           53.72
+                                             -------------------------------
+        Total...............................          321.79          223.38
+                                             -------------------------------
+            Total Percent Reduction.........                31%
+    ------------------------------------------------------------------------
+    
+    
+    ------------------------------------------------------------------------
+                                                 2008 VOC        2015 VOC
+                     Source                        (tpd)           (tpd)
+    ------------------------------------------------------------------------
+    Point...................................           18.01           21.60
+    Area....................................           99.47          111.73
+    On-road.................................           60.86           32.70
+    Non-road................................           45.08           30.67
+                                             -------------------------------
+        Total...............................          223.42          196.70
+                                             -------------------------------
+            Total Percent Reduction.........                12%
+    ------------------------------------------------------------------------
+    
+        The state submission has met the public notice requirements for SIP 
+    submissions in accordance with 40 CFR 51.102. The submission also 
+    satisfied the completeness criteria of 40 CFR part 51, appendix V. In 
+    addition, the revision meets the substantive SIP requirements of the 
+    CAA, including Section 110 and implementing regulations.
+    
+    IV. What are the MVEB's for the St. Louis 8-hour ozone area?
+    
+        Through this rulemaking, EPA is approving the 2015 regional MVEBs 
+    for NOX and VOC for the St. Louis 8-hour ozone area. EPA has 
+    determined that the MVEBs contained in the Early Progress Plan SIP 
+    revision are consistent with emission reductions from all sources 
+    within the nonattainment area and are showing progress toward 
+    attainment.
+    
+    [[Page 1889]]
+    
+    The 2015 MVEBs in tpd for VOCs and NOX for the St. Louis, 
+    Missouri area are as follows:
+    
+    ------------------------------------------------------------------------
+                                            2015 NOX  (tons  2015 VOC  (tons
+                                                per day)         per day)
+    ------------------------------------------------------------------------
+    St. Louis Area MVEB...................           76.70            32.70
+    ------------------------------------------------------------------------
+    
+        EPA found these MVEBs adequate for transportation conformity 
+    purposes in an earlier action (March 5, 2014, 79 FR 12504). As of March 
+    19, 2014, the effective date of EPA's adequacy finding for these MVEBs, 
+    conformity determinations in St. Louis must meet the budget test using 
+    these 8-hour MVEBs, instead of the 1-hour ozone MVEBs. It should be 
+    noted that the previous adequacy finding does not relate to the merits 
+    of the SIP submittal, nor does it indicate whether the submittal meets 
+    the requirements for approval. This EPA rulemaking action takes formal 
+    action on the Early Progress Plan SIP revision.
+    
+    V. What action is EPA taking?
+    
+        EPA is taking direct final action to approve this SIP revision. We 
+    are publishing this rule without a prior proposed rule because we view 
+    this as a noncontroversial action and anticipate no adverse comment. 
+    However, in the ``Proposed Rules'' section of this Federal Register, we 
+    are publishing a separate document that will serve as the proposed rule 
+    to approve this SIP revision, if adverse comments are received on this 
+    direct final rule. We will not institute a second comment period on 
+    this action. Any parties interested in commenting must do so at this 
+    time. For further information about commenting on this rule, see the 
+    ADDRESSES section of this document. If EPA receives adverse comment, we 
+    will publish a timely withdrawal in the Federal Register informing the 
+    public that this direct final rule will not take effect. We will 
+    address all public comments in any subsequent final rule based on the 
+    proposed rule.
+    
+    Statutory and Executive Order Reviews
+    
+        Under the CAA, the Administrator is required to approve a SIP 
+    submission that complies with the provisions of the Act and applicable 
+    Federal regulations. 42 U.S.C. 7410(k); 40 CFR 52.02(a). Thus, in 
+    reviewing SIP submissions, EPA's role is to approve state choices, 
+    provided that they meet the criteria of the CAA. Accordingly, this 
+    action merely approves state law as meeting Federal requirements and 
+    does not impose additional requirements beyond those imposed by state 
+    law. For that reason, this action:
+         Is not a significant regulatory action subject to review 
+    by the Office of Management and Budget under Executive Orders 12866 (58 
+    FR 51735, October 4, 1993) and 13563 (76 FR 3821, January 21, 2011);
+         Does not impose an information collection burden under the 
+    provisions of the Paperwork Reduction Act (44 U.S.C. 3501 et seq.);
+         Is certified as not having a significant economic impact 
+    on a substantial number of small entities under the Regulatory 
+    Flexibility Act (5 U.S.C. 601 et seq.);
+         Does not contain any unfunded mandate or significantly or 
+    uniquely affect small governments, as described in the Unfunded 
+    Mandates Reform Act of 1995 (Pub. L. 104-4);
+         Does not have Federalism implications as specified in 
+    Executive Order 13132 (64 FR 43255, August 10, 1999);
+         Is not an economically significant regulatory action based 
+    on health or safety risks subject to Executive Order 13045 (62 FR 
+    19885, April 23, 1997);
+         Is not a significant regulatory action subject to 
+    Executive Order 13211 (66 FR 28355, May 22, 2001);
+         Is not subject to requirements of Section 12(d) of the 
+    National Technology Transfer and Advancement Act of 1995 (15 U.S.C. 272 
+    note) because application of those requirements would be inconsistent 
+    with the Clean Air Act; and
+         Does not provide EPA with the discretionary authority to 
+    address, as appropriate, disproportionate human health or environmental 
+    effects, using practicable and legally permissible methods, under 
+    Executive Order 12898 (59 FR 7629, February 16, 1994).
+        The SIP is not approved to apply on any Indian reservation land or 
+    in any other area where EPA or an Indian tribe has demonstrated that a 
+    tribe has jurisdiction. In those areas of Indian country, the rule does 
+    not have tribal implications and will not impose substantial direct 
+    costs on tribal governments or preempt tribal law as specified by 
+    Executive Order 13175 (65 FR 67249, November 9, 2000).
+        The Congressional Review Act, 5 U.S.C. 801 et seq., as added by the 
+    Small Business Regulatory Enforcement Fairness Act of 1996, generally 
+    provides that before a rule may take effect, the agency promulgating 
+    the rule must submit a rule report, which includes a copy of the rule, 
+    to each House of the Congress and to the Comptroller General of the 
+    United States. EPA will submit a report containing this action and 
+    other required information to the U.S. Senate, the U.S. House of 
+    Representatives, and the Comptroller General of the United States prior 
+    to publication of the rule in the Federal Register. A major rule cannot 
+    take effect until 60 days after it is published in the Federal 
+    Register. This action is not a ``major rule'' as defined by 5 U.S.C. 
+    804(2).
+        Under section 307(b)(1) of the CAA, petitions for judicial review 
+    of this action must be filed in the United States Court of Appeals for 
+    the appropriate circuit by March 14, 2016. Filing a petition for 
+    reconsideration by the Administrator of this final rule does not affect 
+    the finality of this action for the purposes of judicial review nor 
+    does it extend the time within which a petition for judicial review may 
+    be filed, and shall not postpone the effectiveness of such rule or 
+    action. This action may not be challenged later in proceedings to 
+    enforce its requirements. (See section 307(b)(2).)
+    
+    List of Subjects in 40 CFR Part 52
+    
+        Environmental protection, Air pollution control, Carbon monoxide, 
+    Incorporation by reference, Intergovernmental relations, Lead, Nitrogen 
+    dioxide, Ozone, Particulate matter, Reporting and recordkeeping 
+    requirements, Sulfur oxides, Volatile organic compounds.
+    
+        Dated: December 23, 2015.
+    Mark Hague,
+    Regional Administrator, Region 7.
+    
+        For the reasons stated in the preamble, EPA amends 40 CFR part 52 
+    as set forth below:
+    
+    PART 52--APPROVAL AND PROMULGATION OF IMPLEMENTATION PLANS
+    
+    0
+    1. The authority citation for part 52 continues to read as follows:
+    
+        Authority: 42 U.S.C. 7401 et seq.
+    
+    [[Page 1890]]
+    
+    Subpart AA--Missouri
+    
+    0
+    2. Section 52.1320(e) is amended by adding new entry (68) at the end of 
+    the table to read as follows:
+    
+    
+    Sec.  52.1320  Identification of plan.
+    
+    * * * * *
+        (e) * * *
+    
+                                   Epa-Approved Missouri Nonregulatory SIP Provisions
+    ----------------------------------------------------------------------------------------------------------------
+                                            Applicable
+        Name of nonregulatory SIP         geographic or          State       EPA approval date       Explanation
+                provision               nonattainment area  submittal date
+    ----------------------------------------------------------------------------------------------------------------
+     
+                                                      * * * * * * *
+    (68) Missouri Early Progress Plan  St. Louis..........         8/26/13  1/14/16 [Insert      [EPA-R07-OAR-2015-0
+                                                                             Federal Register     587; FRL-9941-01-
+                                                                             citation].           Region 7].
+    ----------------------------------------------------------------------------------------------------------------
+    
+    [FR Doc. 2016-00428 Filed 1-13-16; 8:45 am]
+     BILLING CODE 6560-50-P
+    
+    
+    
+

@@ -1,0 +1,1890 @@
+
+    [Federal Register Volume 81, Number 3 (Wednesday, January 6, 2016)]
+    [Rules and Regulations]
+    [Pages 382-396]
+    From the Federal Register Online via the Government Publishing Office [[www.gpo.gov](http://www.gpo.gov)]
+    [FR Doc No: 2015-33181]
+    
+    
+    =======================================================================
+    -----------------------------------------------------------------------
+    
+    DEPARTMENT OF HEALTH AND HUMAN SERVICES
+    
+    Office of the Secretary
+    
+    45 CFR Part 164
+    
+    
+    Health Insurance Portability and Accountability Act (HIPAA) 
+    Privacy Rule and the National Instant Criminal Background Check System 
+    (NICS)
+    
+    AGENCY: Office for Civil Rights, Department of Health and Human 
+    Services.
+    
+    ACTION: Final rule.
+    
+    -----------------------------------------------------------------------
+    
+    SUMMARY: The Department of Health and Human Services (HHS or ``the 
+    Department'') is issuing this final rule to modify the Health Insurance 
+    Portability and Accountability Act of 1996 (HIPAA) Privacy Rule to 
+    expressly permit certain HIPAA covered entities to disclose to the 
+    National Instant Criminal Background Check System (NICS) the identities 
+    of individuals who are subject to a Federal ``mental health 
+    prohibitor'' that disqualifies them from shipping, transporting, 
+    possessing, or receiving a firearm. The NICS is a national system 
+    maintained by the Federal Bureau of Investigation (FBI) to conduct 
+    background checks on persons who may be disqualified from receiving 
+    firearms based on Federally prohibited categories or State law. Among 
+    the persons subject to the Federal mental health prohibitor established 
+    under the Gun Control Act of 1968 and implementing regulations issued 
+    by the Department of Justice (DOJ) are individuals who have been 
+    involuntarily committed to a mental institution; found incompetent to 
+    stand trial or not guilty by reason of insanity; or otherwise have been 
+    determined by a court, board, commission, or other lawful authority to 
+    be a danger to themselves or others or to lack the mental capacity to 
+    contract or manage their own affairs, as a result of marked subnormal 
+    intelligence or mental illness, incompetency, condition, or disease. 
+    Under this final rule, only covered entities with lawful authority to 
+    make the adjudications or commitment decisions that make individuals 
+    subject to the Federal mental health prohibitor, or that serve as 
+    repositories of information for NICS reporting purposes, are permitted 
+    to disclose the information needed for these purposes. The disclosure 
+    is restricted to limited demographic and certain other information 
+    needed for NICS purposes. The rule specifically prohibits the 
+    disclosure of diagnostic or clinical information, from medical records 
+    or other sources, and any mental health information beyond the 
+    indication that the individual is subject to the Federal mental health 
+    prohibitor.
+    
+    DATES: Effective date: This final rule is effective on February 5, 
+    2016.
+    
+    FOR FURTHER INFORMATION CONTACT: Andra Wicks, 202-205-2292.
+    
+    SUPPLEMENTARY INFORMATION:
+    
+    I. Background
+    
+        On January 16, 2013, President Barack Obama announced 23 executive 
+    actions aimed at curbing gun violence across the nation. Those actions 
+    include efforts by the Federal government to strengthen the national 
+    background check system, and a specific commitment to ``[a]ddress 
+    unnecessary legal barriers, particularly relating to the Health 
+    Insurance Portability and Accountability Act, that may prevent States 
+    from making information available to the background check system.'' The 
+    National Instant Criminal Background Check System (NICS) is the system 
+    used to determine whether a potential firearms recipient is statutorily 
+    prohibited from possessing or receiving a firearm. The Department 
+    proposed, and now finalizes, a modification to the HIPAA Privacy Rule 
+    to permit certain covered entities to disclose to the NICS the 
+    identities of persons who are not allowed to possess or receive a 
+    firearm because they are subject to the Federal mental health 
+    prohibitor.
+    
+    The National Instant Criminal Background Check System (NICS)
+    
+        The Brady Handgun Violence Prevention Act of 1993, Public Law 103-
+    159 (Brady Gun Law), and its implementing regulations, are designed to 
+    prevent the transfer of firearms by licensed dealers to individuals who 
+    are not allowed to possess or receive them as a result of restrictions 
+    contained in either the Gun Control Act of 1968, as amended (Title 18, 
+    United States Code, Chapter 44), or State law. The Gun Control Act 
+    identifies several categories (known as ``prohibitors'') of individuals 
+    \1\ who are prohibited from engaging in the shipment, transport, 
+    receipt, or possession of firearms, including convicted felons and 
+    fugitives. Most relevant for the purposes of this rule is the Federal 
+    mental health prohibitor, which, pursuant to Department of Justice 
+    (DOJ) regulations, applies to individuals who have been involuntarily 
+    committed to a mental institution, for reasons such as mental illness 
+    or drug use; \2\ found incompetent to stand trial or not guilty by 
+    reason of insanity; or otherwise determined by a court, board, 
+    commission, or other lawful authority to be a danger to themselves or 
+    others or unable to manage their own affairs, as a result of marked 
+    subnormal intelligence, or mental illness, incompetency, condition, or 
+    disease.3 4
+    ---------------------------------------------------------------------------
+    
+        \1\ See 18 U.S.C. 922(g) and (n) and implementing regulations at 
+    27 CFR 478.11 and 27 CFR 478.32.
+        \2\ The regulation, at 27 CFR 478.11, defines ``Committed to a 
+    mental institution'' as a formal commitment to the institution by a 
+    court or other lawful authority. The term does not apply to a person 
+    voluntarily admitted to a mental institution or in a mental 
+    institution merely for observation.
+        \3\ The term used in the statute is ``adjudicated as a mental 
+    defective. The term includes a finding of insanity in a criminal 
+    case, and a finding of incompetence to stand trial or a finding of 
+    not guilty by reason of lack of mental responsibility pursuant to 
+    the Uniform Code of Military Justice. 27 CFR 478.11.
+        \4\ This rule refers to the involuntary commitments and other 
+    applicable adjudications as, collectively, ``adjudications that make 
+    an individual subject to the Federal mental health prohibitor.''
+    ---------------------------------------------------------------------------
+    
+        The Brady Gun Law established the NICS to help enforce these 
+    prohibitions, as well as State law prohibitions on the possession or 
+    receipt of firearms.\5\ The NICS Index, a database administered by the 
+    Federal Bureau of Investigation (FBI), collects and maintains certain 
+    identifying information about individuals who are subject to one or 
+    more Federal prohibitors and thus who are ineligible to purchase 
+    firearms. As of 2012, the NICS Index also contains information on 
+    persons who are subject to State law prohibitions on the possession or 
+    receipt of firearms.\6\ The
+    
+    [[Page 383]]
+    
+    minimum information required in a NICS Index record consists of: The 
+    name of the ineligible individual; the date of birth; sex; and codes 
+    indicating the applicable prohibitor, the submitting entity, and the 
+    agency record supporting the prohibition (e.g., an order for 
+    involuntary commitment). For individuals subject to the Federal mental 
+    health prohibitor, only the fact that the individual is subject to that 
+    prohibitor is submitted to the NICS; underlying diagnoses, treatment 
+    records, and other identifiable health information are not provided to 
+    or maintained by the NICS. A NICS background check queries the NICS 
+    Index and certain other national databases \7\ to determine whether a 
+    prospective buyer's identifying information matches any prohibiting 
+    records contained in the databases. The NICS Index can be accessed only 
+    for the limited purposes authorized by regulation (see 28 CFR 25.6(j)) 
+    and cannot be used for other purposes, including general law 
+    enforcement activities.
+    ---------------------------------------------------------------------------
+    
+        \5\ See Public Law 103-159, 18 U.S.C. 921-925, and implementing 
+    regulations at 28 CFR 25.1 through 25.11 (establishing NICS 
+    information system specifications and processes) and 27 CFR part 478 
+    (establishing requirements and prohibitions for commerce in firearms 
+    and ammunition, including requirements related to conducting NICS 
+    background checks); and 42 U.S.C. 3759(b) (allocating a percentage 
+    of certain DOJ funds for State reporting of NICS data).
+        \6\ See Statement Before the Senate Judiciary Committee, 
+    Subcommittee on Crime and Terrorism at a hearing entitled, ``THE FIX 
+    GUN CHECKS ACT: BETTER STATE AND FEDERAL COMPLIANCE, SMARTER 
+    ENFORCEMENT'' (November 15, 2011), by David Cuthbertson, Assistant 
+    Director, Criminal Justice Information Services Division, Federal 
+    Bureau of Investigation. Testimony available at: <http://www.justice.gov/ola/testimony/112-1/11-15-11-fbi-cuthbertson-testimony-re-the-fix-gun-checks-act.pdf>. We note also that State law 
+    may be more restrictive than Federal law in some cases.
+        \7\ The other databases include the Interstate Identification 
+    Index, which contains criminal history record information; and the 
+    National Crime Information Center, which includes, e.g., information 
+    on persons subject to civil protection orders and arrest warrants. 
+    Additional information is available at, <http://www.fbi.gov/about-us/cjis/nics/general-information/nics-overview>.
+    ---------------------------------------------------------------------------
+    
+        The potential transfer of a firearm from a Federal Firearms 
+    Licensee (FFL) to a prospective buyer proceeds as follows: First, the 
+    prospective buyer is required to provide personal information on a 
+    Firearms Transaction Record (ATF Form 4473). Unless the prospective 
+    buyer has documentation that he or she qualifies for an exception to 
+    the NICS background check requirement under 18 U.S.C. 922(t)(3),\8\ the 
+    FFL contacts the NICS--electronically, by telephone, or through a State 
+    level point of contact--and provides certain identifying information 
+    about the prospective buyer from ATF Form 4473.\9\
+    ---------------------------------------------------------------------------
+    
+        \8\ These exceptions are listed in the Bureau of Alcohol, 
+    Tobacco, Firearms and Explosives (ATF) regulation at 27 CFR 
+    478.102(d). For example, a NICS check would not be required where 
+    the potential recipient of a firearm has presented a valid State 
+    permit or license, provided conditions at 27 CFR 478.102(d)(1) are 
+    met.
+        \9\ The form collects the prospective buyer's name; demographic 
+    information such as address, place and date of birth, gender, 
+    citizenship, race and ethnicity; and ``yes'' or ``no'' answers to 
+    questions about the person's criminal history and other potential 
+    prohibitors. The form is available at <http://www.atf.gov/forms/download/atf-f-4473-1.pdf>.
+    ---------------------------------------------------------------------------
+    
+        The FFL then receives a response that the prospective firearm 
+    transfer may proceed or is delayed. The transfer is delayed if the 
+    prospective buyer's information matches a record contained in one of 
+    the databases reviewed. If there is a match, a NICS examiner reviews 
+    the record to determine whether the information it contains is, in 
+    fact, prohibiting, and then either: (1) If the record does not contain 
+    prohibiting information, advises the FFL to proceed with the 
+    transaction; (2) if the record does contain prohibiting information, 
+    denies the transaction (due to ineligibility); or (3) if it is unclear 
+    based solely on the existing information in the record whether it is 
+    prohibiting, delays the transaction pending further research.\10\ The 
+    NICS examiner does not disclose the reason for the determination to the 
+    FFL (e.g., the FFL would not learn that the individual was ineligible 
+    due to the Federal mental health prohibitor). In case of a delay, if 
+    the NICS examiner does not provide a final instruction to the FFL 
+    within three business days of the initial background check request, the 
+    FFL may proceed with the transaction.\11\
+    ---------------------------------------------------------------------------
+    
+        \10\ For example, a ``delay'' response may mean that further 
+    research is required because potentially prohibitive criteria exist, 
+    but the matched records are incomplete, See Federal Bureau of 
+    Investigation (FBI) Fact Sheet at: [www.fbi.gov/about-us/cjis/nice/general-information/fact-sheet](http://www.fbi.gov/about-us/cjis/nice/general-information/fact-sheet).
+        \11\ Some States have waiting periods that also must be complied 
+    with before a firearm may be transferred, regardless of whether a 
+    proceed response from NICS is received by the FFL within three 
+    business days.
+    ---------------------------------------------------------------------------
+    
+        Although FFLs are required in most cases to request a background 
+    check through the NICS before transferring a firearm to a prospective 
+    buyer,\12\ Federal law does not require State agencies to report to the 
+    NICS the identities of individuals who are prohibited from purchasing 
+    firearms under either Federal or State prohibitors, and not all States 
+    report complete information to the NICS or the databases checked by it. 
+    Following the shooting at Virginia Tech University in 2007, and other 
+    tragedies involving the illegal use of firearms, Congress enacted the 
+    NICS Improvement Amendments Act (NIAA) of 2007, Public Law 110-180. 
+    Among other provisions, the NIAA requires Federal agencies to make 
+    accessible to the NICS the identities of individuals known by the 
+    agencies to be subject to one or more prohibitors, and it authorizes 
+    incentive grants for States to provide such information when it is in 
+    their possession.\13\ In addition, some States have enacted legislation 
+    requiring the reporting of the identities of ineligible individuals to 
+    databases accessible to the NICS or to a State level repository 
+    responsible for submitting information to the relevant databases.
+    ---------------------------------------------------------------------------
+    
+        \12\ See 27 CFR 478.102. Exceptions to this requirement are 
+    referenced in FN 8 above, and listed in the regulation at 27 CFR 
+    478.102(d).
+        \13\ Eligibility for these grants is limited to States that have 
+    implemented a ``relief from disabilities'' program for individuals 
+    who are prohibited from possessing or receiving firearms for mental 
+    health reasons. Such programs must provide that a State court, 
+    board, commission, or other lawful authority shall grant the relief 
+    if, based on the circumstances regarding the disabilities and the 
+    person's record and reputation, the person is not likely to pose a 
+    danger to public safety, and granting the relief would not be 
+    contrary to the public interest. See Public Law 110-180, Section 
+    105.
+    ---------------------------------------------------------------------------
+    
+        States generally report criminal history information to the other 
+    relevant databases that are checked by the NICS; however, many States 
+    continue to report little if any information concerning individuals 
+    subject to the Federal mental health prohibitor (or the other Federal 
+    prohibitors) to the NICS Index.\14\ As a result, the NICS does not have 
+    access to complete information about all individuals who are subject to 
+    one or more of the Federal prohibited categories or who are prohibited 
+    from possessing or receiving firearms under State law.
+    ---------------------------------------------------------------------------
+    
+        \14\ Federal law does not require States to submit reports to 
+    any of the three databases (the NICS Index, the III, and NCIC) 
+    accessed during a NICS Check.
+    ---------------------------------------------------------------------------
+    
+    The HIPAA Privacy Rule and NICS Reporting
+    
+        The Privacy Rule, promulgated under the Health Insurance 
+    Portability and Accountability Act of 1996 (HIPAA), Title II, Subtitle 
+    F--Administrative Simplification, Public Law 104-191, establishes 
+    federal protections to ensure the privacy and security of protected 
+    health information (PHI) and establishes an array of individual rights 
+    with respect to one's own health information. HIPAA applies to covered 
+    entities, which include health plans, health care clearinghouses, and 
+    health care providers that conduct certain standard transactions (such 
+    as billing insurance) electronically. HIPAA covered entities may only 
+    use and disclose PHI with the individual's written authorization, or as 
+    otherwise expressly permitted or required by the HIPAA Privacy Rule.
+        The Privacy Rule seeks to balance individuals' privacy interests 
+    with important public policy goals including public health and safety. 
+    In doing so, the Privacy Rule allows, subject to certain conditions and 
+    limitations, uses and disclosures of PHI without individuals' 
+    authorization for certain law enforcement purposes, to avert a serious 
+    threat to health or safety, and where required by State or other law, 
+    among other purposes.\15\
+    ---------------------------------------------------------------------------
+    
+        \15\ See 45 CFR 164.512.
+    
+    ---------------------------------------------------------------------------
+    
+    [[Page 384]]
+    
+        As stated above, individuals who are subject to the Federal mental 
+    health prohibitor are ineligible to purchase a firearm because they 
+    have been ``committed to a mental institution'' or ``adjudicated as a 
+    mental defective.'' \16\ DOJ regulations define these categories to 
+    include persons who have been involuntarily committed to a mental 
+    institution for reasons such as mental illness or drug use; have been 
+    found incompetent to stand trial or not guilty by reason of insanity; 
+    or otherwise have been determined by a court, board, commission, or 
+    other lawful authority to be a danger to themselves or others or unable 
+    to manage their own affairs, as a result of marked subnormal 
+    intelligence, or mental illness, incompetency, condition, or disease. 
+    In many cases, these records are not subject to HIPAA. Records of 
+    individuals adjudicated as incompetent to stand trial, or not guilty by 
+    reason of insanity, originate with entities in the criminal justice 
+    system, and these entities are not HIPAA covered entities. Likewise, 
+    involuntary civil commitments usually are made by court order, and 
+    thus, records of such formal commitments typically originate with 
+    entities in the justice system. In addition, many adjudications 
+    determining that individuals are a danger to themselves or others, or 
+    are incapable of managing their own affairs, occur through a legal 
+    process in the court system.
+    ---------------------------------------------------------------------------
+    
+        \16\ See 18 U.S.C. 922(g)(4).
+    ---------------------------------------------------------------------------
+    
+        However, because of the variety of State laws, there may be State 
+    agencies, boards, commissions, or other lawful authorities outside the 
+    court system that are involved in some involuntary commitments or 
+    mental health adjudications that make an individual subject to the 
+    Federal mental health prohibitor. Moreover, we understand that some 
+    States have designated repositories to collect and report to the NICS 
+    the identities of individuals subject to the Federal mental health 
+    prohibitor. We believe that certain of these lawful authorities or 
+    repositories also may be HIPAA covered entities (e.g., a State health 
+    agency may be a covered entity).
+        As we described in the NPRM, where the record of an involuntary 
+    commitment or mental health adjudication originates with a HIPAA 
+    covered entity, or the HIPAA covered entity is the State repository for 
+    such records, there are two ways in which covered entities can 
+    currently report to the NICS (without the individual's authorization). 
+    First, a covered entity can disclose the relevant information to the 
+    NICS where a State has enacted a law that requires (and does not merely 
+    authorize) such reporting.\17\ Second, where a State has not enacted 
+    such a law, a HIPAA covered entity that performs both health care and 
+    non-health care functions (e.g., NICS reporting) could become a hybrid 
+    entity under HIPAA so that the Privacy Rule applies only to its health 
+    care functions. A covered entity can achieve hybrid entity status by 
+    designating its health care components as separate from other 
+    components, documenting the designation, and implementing policies and 
+    procedures to prevent unauthorized access to PHI by the entity's non-
+    covered components.\18\ Under these circumstances, the covered entity 
+    can report prohibitor information through its non-HIPAA covered NICS 
+    reporting unit without restriction under the Privacy Rule. These 
+    provisions remain in effect and are not altered by the amendments to 
+    the Privacy Rule that we issue today.
+    ---------------------------------------------------------------------------
+    
+        \17\ See 45 CFR 164.512(a). Note that disclosures for NICS 
+    purposes would not fall under the Privacy Rule's provisions 
+    permitting disclosures for law enforcement purposes (which apply to 
+    specific law enforcement inquiries) or to avert a serious threat to 
+    health or safety (which require an imminent threat of harm). See 45 
+    CFR 164.512(f) and (j).
+        \18\ See 45 CFR 164.103, 164.105; 67 FR 53182 (8/14/2002).
+    ---------------------------------------------------------------------------
+    
+        However, despite these avenues for disclosure, many States still 
+    were not reporting to the NICS essential information on persons 
+    prohibited from possessing firearms for reasons related to mental 
+    health; concerns were raised that the HIPAA Privacy Rule's restrictions 
+    on covered entities' disclosures of PHI might be preventing certain 
+    States from reporting the relevant information to the NICS.
+        In addition, in July 2012, the U.S. Government Accountability 
+    Office (GAO) reported to Congress on the results of a survey of six 
+    States that it had assessed as part of a performance audit of the 
+    progress made by DOJ and the States in implementing the NIAA.\19\ In 
+    the report, the GAO wrote that ``officials from 3 of the 6 States we 
+    reviewed said that the absence of explicit State-level statutory 
+    authority to share mental health records was an impediment to making 
+    such records available to NICS.'' \20\ The report also stated that, 
+    although the number of records provided by the States to the NICS had 
+    increased by 800 percent between 2004 and 2011, this increase was 
+    largely due to efforts by only 12 States. The report raised the 
+    possibility that States that do not report to the NICS the identities 
+    of individuals who are prohibited from possessing firearms for reasons 
+    related to mental health may experience challenges to reporting related 
+    to the HIPAA Privacy Rule.
+    ---------------------------------------------------------------------------
+    
+        \19\ See GAO-12-684, Gun Control: Sharing Promising Practices 
+    and Assessing Incentives Could Better Position Justice to Assist 
+    States in Providing Records for Background Checks.
+        \20\ We note that the GAO Report uses the term ``mental health 
+    records'' to refer to identifying information on individuals who are 
+    subject to the Federal mental health prohibitor. To avoid implying 
+    that mental health records are collected by NICS, the Department 
+    uses the terms ``identities,'' ``information,'' or ``data'' in place 
+    of ``mental health records.'' GAO-12-684, p. 12.
+    ---------------------------------------------------------------------------
+    
+    II. The ANPRM
+    
+    Background
+    
+        On April 23, 2013, the Department published an Advance Notice of 
+    Proposed Rulemaking (ANPRM) requesting public input on these issues (78 
+    FR 23872). The ANPRM explained that the Department was considering 
+    creating an express permission in the HIPAA Privacy Rule for reporting 
+    information relevant to the Federal mental health prohibitor to the 
+    NICS by those HIPAA covered entities that (a) are responsible for the 
+    involuntary commitments or other adjudications that make individuals 
+    subject to the Federal mental health prohibitor, or (b) are designated 
+    by a State to report to the NICS. In the ANPRM, the Department 
+    indicated that such an amendment might produce clarity regarding the 
+    Privacy Rule and help make it simpler for States to report the 
+    identities of such individuals to the NICS.
+        To inform our efforts to address any issues in this area, we 
+    requested comments on a series of questions concerning the nature and 
+    scope of the problem of underreporting and whether a modification to 
+    the Privacy Rule would help address these issues. We also requested 
+    comments on any implications of a modification to the Privacy Rule for 
+    the mental health community or for the treatment of individuals, and 
+    how the Department might address any unintended consequences of such a 
+    modification. We received over 2,050 comments in response from 
+    individuals, State agencies, health care providers, associations of 
+    health care professionals, consumer advocacy groups, and other 
+    stakeholders.
+        A number of commenters supported creating an express permission as 
+    a way to remove a potential barrier to an important and necessary 
+    public safety measure, which could help keep firearms out of the hands 
+    of individuals who should not have them by strengthening the background 
+    check system. Many others generally expressed concern that the NICS, 
+    the Federal mental health prohibitor, and
+    
+    [[Page 385]]
+    
+    the contemplated HIPAA permission would infringe on their Second 
+    Amendment right to bear arms and the right to be afforded due process 
+    of law under the U.S. Constitution. In addition, many individual 
+    commenters, as well as health care providers, organizations 
+    representing providers, and consumer advocacy groups, emphasized the 
+    importance of protecting individuals' health information privacy. These 
+    commenters raised concerns regarding the possible adverse consequences 
+    an express permission to report certain information could have on the 
+    patient-provider treatment relationship and individuals' willingness to 
+    seek needed mental health care.\21\
+    ---------------------------------------------------------------------------
+    
+        \21\ Please see the ANPRM for a more thorough discussion of 
+    public comments and responses. 78 FR 23872 (April 23, 2013).
+    ---------------------------------------------------------------------------
+    
+    III. Summary of the NPRM
+    
+        After considering the public comments received on the ANPRM, we 
+    published a Notice of Proposed Rulemaking (NPRM) on January 7, 
+    2014,\22\ proposing to use the Department's broad authority under HIPAA 
+    to specify the permitted uses and disclosures of PHI by HIPAA covered 
+    entities. The NPRM proposed to revise 45 CFR 164.512 of the Privacy 
+    Rule by adding a new category of permitted disclosures to 45 CFR 
+    164.512(k), which addresses uses and disclosures for specialized 
+    government functions. The NPRM proposed new provisions at (k)(7) that 
+    would permit certain covered entities to disclose the limited 
+    demographic and certain other information needed for NICS reporting 
+    purposes.
+    ---------------------------------------------------------------------------
+    
+        \22\ See 79 FR 784 (January 7, 2014).
+    ---------------------------------------------------------------------------
+    
+        We indicated in the NPRM that there is a strong public safety need 
+    for this information to be accessible to the NICS and that some States 
+    are currently under-reporting or not reporting this information at all. 
+    Further, although most of the information relevant to the Federal 
+    mental health prohibitor is held by entities that are not covered by 
+    HIPAA, for those few HIPAA covered entities that may be involved in the 
+    relevant commitments or adjudications, the Privacy Rule's existing 
+    paths for disclosure did not appear to be sufficient. We explained 
+    that, to the extent that some covered entities perform adjudicatory or 
+    repository functions in States that have not enacted laws requiring 
+    reporting to the NICS, and that a subset of those may be unable to 
+    achieve hybrid entity status due to administrative challenges or other 
+    reasons, an express permission would provide clarity and remove a 
+    barrier to their reporting.
+        However, to address concerns regarding an express permission's 
+    potential to harm the patient-provider relationship or deterring 
+    individuals from seeking needed mental health care, we proposed to 
+    narrowly tailor the permission to report information on individuals 
+    subject to the Federal mental health prohibitor in a number of ways. 
+    Specifically, we proposed to limit: (1) Which covered entities could 
+    use or disclose PHI for NICS reporting purposes, (2) to whom the PHI 
+    could be disclosed, and (3) the scope of the information that could be 
+    used or disclosed.
+        First, the NPRM proposed a new paragraph at 164.512(k)(7)(i) to 
+    permit certain NICS disclosures only by those covered entities that 
+    function as repositories of information relevant to the Federal mental 
+    health prohibitor on behalf of a State or that are responsible for 
+    ordering the involuntary commitments or other adjudications that make 
+    an individual subject to the Federal mental health prohibitor. The 
+    Federal prohibitor regulations define an involuntary commitment as a 
+    formal commitment of a person to a mental institution by a court, 
+    board, commission, or other lawful authority. The other applicable 
+    adjudications include determinations by a court, board, commission, or 
+    other lawful authority that persons are a danger to themselves or 
+    others, or lack the mental capacity to contract or manage their own 
+    affairs, as a result of marked subnormal intelligence, or mental 
+    illness, incompetency, condition, or disease.\23\ The prohibitor does 
+    not apply to individuals in a psychiatric facility for observation or 
+    who have been admitted voluntarily; thus, the proposed rule would not 
+    have permitted disclosures with respect to those individuals.
+    ---------------------------------------------------------------------------
+    
+        \23\ See 27 CFR 478.11 (Definitions).
+    ---------------------------------------------------------------------------
+    
+        With respect to repositories of Federal mental health prohibitor 
+    information, we explained further that we did not intend to require 
+    States to formally designate the entities responsible for NICS 
+    reporting, but that we would expect States to be able to identify the 
+    relevant entities.
+        We noted in the NPRM that our understanding was that lawful 
+    authority for performing such adjudications and repository functions 
+    rests, for the most part, with entities that operate outside the scope 
+    of HIPAA. However, in the interest of public safety, we wanted to 
+    ensure that relevant adjudications could be reported in the subset of 
+    States in which HIPAA covered entities may make, or collect and report 
+    records of, these determinations.
+        We explained further that, in permitting only entities involved in 
+    these adjudicatory or repository/reporting functions to use or disclose 
+    Federal mental health prohibitor information for NICS purposes, the 
+    proposal would not create a permission for most treating providers to 
+    disclose PHI about their own patients for these purposes. We agreed 
+    with the commenters on the ANPRM who argued that encouraging voluntary 
+    treatment is critical to ensuring positive outcomes for individuals' 
+    health as well as the public's safety, and explained that the NPRM was 
+    designed to balance that goal and the public safety interests served by 
+    the NICS. We also agreed that non-health care entities bear primary 
+    responsibility for collection and reporting of information relevant to 
+    the Federal mental health prohibitor in most States. However, where a 
+    HIPAA covered entity is a board, commission, or other lawful authority 
+    that makes involuntary commitments or other adjudications that result 
+    in individuals being subject to the Federal mental health prohibitor, 
+    we believed those entities too were likely to hold records of the 
+    relevant commitments and adjudications.
+        We requested public comment on the extent to which some States may 
+    have vested responsibility for Federal mental health prohibitor 
+    reporting in HIPAA covered entities, to what extent records needed for 
+    NICS reporting are created or maintained by covered entities, and 
+    whether there are circumstances in which health care providers would 
+    need to report the identity of an individual subject to the Federal 
+    mental health prohibitor to a State designated records repository or 
+    directly to the NICS. We also requested comment on the types of 
+    additional guidance from OCR and/or the NICS that would be helpful for 
+    understanding to which covered entities, and under what circumstances, 
+    the proposed permission would apply.
+        Second, we proposed a new paragraph at (k)(7)(ii) providing that a 
+    covered entity identified in (k)(7)(i) may use or disclose Federal 
+    mental health prohibitor information for NICS purposes only directly to 
+    the NICS or to an entity designated by the State as a repository of 
+    data for purposes of reporting to the NICS. By clearly delimiting the 
+    permitted recipients of such disclosures, we explained that the rule 
+    would ensure that covered entities do not exceed the intended scope of 
+    the permission by disclosing information relevant to the Federal mental 
+    health
+    
+    [[Page 386]]
+    
+    prohibitor to, for example, law enforcement agencies that do not 
+    operate as repositories of data for purposes of reporting to the 
+    NICS.\24\ We requested comment on whether there are States in which a 
+    type of entity not described in this proposed paragraph is responsible 
+    for NICS reporting and thus, should be able to receive NICS data from a 
+    HIPAA covered entity.
+    ---------------------------------------------------------------------------
+    
+        \24\ We did not propose to change the Privacy Rule's existing 
+    permissions to use or disclose PHI for specific law enforcement 
+    investigations, as provided in 45 CFR 164.512(f).
+    ---------------------------------------------------------------------------
+    
+        Third, we proposed a new paragraph at (k)(7)(iii) to limit the 
+    information permitted to be used or disclosed to what is needed for 
+    purposes of reporting to the NICS. This is consistent with the Privacy 
+    Rule provision that generally requires covered entities to make 
+    reasonable efforts to limit the PHI used or disclosed to the minimum 
+    necessary to accomplish the intended purpose. Specifically, in the 
+    proposed regulation text, we made clear that only the limited 
+    demographic and certain other information needed for purposes of 
+    reporting to the NICS could be reported under the permission. We 
+    indicated that, at the time, we believed that the necessary information 
+    would be the data elements needed to create a NICS Index record: (1) 
+    Name of the individual; (2) date of birth; (3) sex; (4) a code or 
+    notation indicating that the individual is subject to the Federal 
+    mental health prohibitor; (5) a code or notation representing the 
+    reporting entity; and (6) a code identifying the agency record 
+    supporting the prohibition. The proposed regulation text expressly 
+    provided that the proposed modification would not permit the use or 
+    disclosure of clinical or diagnostic information for NICS reporting 
+    purposes. We requested comment on whether, and in what circumstances, 
+    HIPAA covered entities or other entities, such as courts, currently 
+    report to a records repository or directly to the NICS information that 
+    was not listed in the proposed paragraph.
+        In addition, we explained that we were also considering permitting 
+    the disclosure of some or all the following additional data elements, 
+    which are optional fields for a NICS Index entry, for NICS reporting 
+    purposes: Social Security number, place of birth, State of residence, 
+    height, weight, eye color, hair color, and race. As we noted in the 
+    NPRM, from what we understand, these elements are not included in every 
+    NICS record, but often are used to confirm that a prospective firearm 
+    recipient matches a record searched by the NICS or to eliminate ``false 
+    positive'' background check results. We requested public comment on 
+    this issue.
+        We also proposed to limit the permission to uses and disclosures 
+    about individuals who are subject to the Federal mental health 
+    prohibitor and not to apply it to disclosures about individuals subject 
+    only to State mental health prohibitors. However, we requested comment 
+    on this aspect of the scope of the permission, specifically with regard 
+    to whether the permission should be broadened to allow covered entities 
+    to also disclose the identities of individuals who are prohibited by 
+    State law from possessing or receiving firearms for reasons related to 
+    mental health.
+        Finally, we also explained that the proposed permission would apply 
+    only with respect to the PHI of individuals subject to the Federal 
+    mental health prohibitor and not to the PHI of those persons who may be 
+    subject to the other Federal prohibitors listed at 18 U.S.C. 922(g). 
+    The lack of an express HIPAA permission for reporting information 
+    relevant to the Federal mental health prohibitor was a limited problem 
+    and we had not heard that there was a similar issue with respect to the 
+    other prohibitors. Thus, for example, a covered entity would not be 
+    able to use the proposed permission to use or disclose information 
+    about an individual who is an unlawful user of or addicted to any 
+    controlled substance (18 U.S.C. 922(g)(3)), except to the extent the 
+    individual was also subject to the Federal mental health prohibitor. We 
+    also noted that other laws could impact disclosures related to the 
+    other Federal prohibitors, including 18 U.S.C. 922(g)(3).\25\
+    ---------------------------------------------------------------------------
+    
+        \25\ The ability of certain entities to report individuals who 
+    are subject to the Federal prohibitor at 18 U.S.C. 922(g)(3) may be 
+    affected by the Confidentiality of Alcohol and Drug Abuse Patient 
+    Records Regulations, 42 CFR part 2, administered by the Substance 
+    Abuse and Mental Health Services Administration (SAMHSA).
+    ---------------------------------------------------------------------------
+    
+    IV. Provisions of the Final Regulation
+    
+        This final rule adopts the modifications to the HIPAA Privacy Rule 
+    as proposed. After considering the comments we received, we continue to 
+    believe that the creation of a limited express permission in the HIPAA 
+    Privacy Rule to use or disclose certain information relevant to the 
+    Federal mental health prohibitor for NICS purposes is necessary to 
+    address barriers related to HIPAA and to ensure that relevant 
+    information can be reported for this important public safety purpose. 
+    Furthermore, this narrowly tailored rule appropriately balances public 
+    safety goals with important patient privacy interests to ensure that 
+    individuals are not discouraged from seeking voluntary treatment.
+        Under this final rule, covered entities that order involuntary 
+    commitments or make other adjudications that subject individuals to the 
+    Federal mental health prohibitor, or that serve as repositories of the 
+    relevant data, are permitted to use or disclose the information needed 
+    for NICS reporting of such individuals either directly to the NICS or 
+    to a State repository of NICS data. Thus, if a covered health care 
+    entity also has a role in the relevant mental health adjudications or 
+    serves as a State data repository, it now may disclose the relevant 
+    information for NICS reporting purposes under this new permission even 
+    if it is not designated as a HIPAA hybrid entity or required by State 
+    law to report. This final rule does not create an express permission 
+    for covered entities to disclose for NICS reporting purposes the PHI of 
+    individuals who are subject to State-only mental health prohibitors.
+        The Department's rationale for adopting the provisions in this 
+    final rule, along with further clarifications and interpretations of 
+    the provisions, is explained below in the responses to the public 
+    comments on the NPRM.
+    
+    V. Analysis of and Responses to Public Comments
+    
+        We received more than 430 public comments in response to the NPRM, 
+    including from advocacy organizations, associations of health care and 
+    mental health professionals, a state mental health agency, and 
+    individual members of the public. A summary of the comments we received 
+    on the proposed rule and our responses follow.
+    
+    A. Comments Regarding Creating an Express Permission for NICS Reporting 
+    in the HIPAA Privacy Rule
+    
+        Comments: A number of commenters expressed general support for 
+    including an express permission in the HIPAA Privacy Rule for reporting 
+    certain information to the NICS, stating that the rule change would 
+    help increase the reporting of information to the NICS, reduce the 
+    ability of individuals with serious mental health problems to obtain 
+    firearms, and ultimately lessen the risk of harm to the individuals 
+    themselves, law enforcement, and the public.
+        Several advocacy organizations involved in gun violence prevention 
+    agreed with our statements in the NPRM that the HIPAA Privacy Rule and, 
+    in some cases, perceptions of the Privacy Rule, may create a barrier to 
+    certain entities reporting to the NICS, and that the proposed 
+    modification would
+    
+    [[Page 387]]
+    
+    address this problem. For example, the comment submitted by Mayors 
+    Against Illegal Guns (MAIG) indicated that mental health treatment 
+    facilities in seven States currently are required by State law to 
+    report Federal mental health prohibitor information either directly to 
+    the NICS or to State agencies that report to the NICS, which indicates 
+    that mental health facilities do in some cases hold the relevant 
+    records. MAIG inferred from this information that there likely are 
+    other States in which HIPAA covered entities have information that 
+    should be reported to the NICS, but that the entities may not be 
+    reporting due to concerns about the HIPAA Privacy Rule's restrictions 
+    on disclosures. MAIG also cited statements from interviews its 
+    researchers conducted with State officials about issues related to NICS 
+    reporting and noted that officials from nine States and the District of 
+    Columbia had expressed concern that HIPAA, or other privacy 
+    requirements, generally prohibited sending records to the NICS, and 
+    thus that reporting would violate such requirements. MAIG asserted that 
+    whether these cited concerns were based on real or perceived barriers, 
+    its research indicated that making clear the ability to report without 
+    violating privacy laws tended to greatly improve state reporting rates, 
+    and that the proposed modifications to the Privacy Rule similarly would 
+    help states improve their record submissions.\26\
+    ---------------------------------------------------------------------------
+    
+        \26\ MAIG, Fatal Gaps, How Missing Records in the Federal 
+    Background Check System Put Guns in the Hands of Killers (Nov. 
+    2011).
+    ---------------------------------------------------------------------------
+    
+        A number of commenters asserted that increasing reporting to the 
+    NICS could, in turn, help to decrease rates of gun violence. One of 
+    these commenters cited research indicating that, in one State, having a 
+    mental health adjudication record in the NICS database appeared to 
+    reduce the chance of a person committing a first violent crime.\27\
+    ---------------------------------------------------------------------------
+    
+        \27\ The commenter cited Jeffrey Swanson, Preventing Gun 
+    Violence Involving People with Serious Mental Illness in REDUCING 
+    GUN VIOLENCE IN AMERICA, INFORMING POLICY WITH EVIDENCE AND ANALYSIS 
+    (eds. Daniel W. Webster and Jon S. Vernick, 2013). The study authors 
+    note that, ``[c]onsidering separately the subgroup of people with 
+    serious mental illness who do not have criminal records, our data 
+    seem to suggest that the Brady Law background checks can have some 
+    positive effect, if enforced. In those with a gun-disqualifying 
+    mental health record, risk of violent criminal offending declined 
+    significantly after Connecticut began reporting gun-disqualifying 
+    mental health records to the NICS.'' The authors also describe the 
+    limitations of the study and add, ``[t]hese findings do not prove a 
+    causal relationship between the background check system and reduced 
+    violent crime.''
+    ---------------------------------------------------------------------------
+    
+        In addition, a number of commenters, including the American Medical 
+    Association (AMA), and the American Psychiatric Association (APA), 
+    expressed appreciation that the proposed rule would appropriately 
+    balance protecting public safety and preserving the patient-physician 
+    relationship by narrowly defining the scope of the permission. The AMA 
+    stated that its view on the issue of reporting patient information to 
+    the NICS is governed by the association's Code of Medical Ethics and 
+    policies adopted by the AMA's policy making body. The AMA indicated 
+    that the Code of Ethics supports strong protections for patient privacy 
+    and, in most cases, requires physicians to keep patient medical records 
+    strictly confidential. If there must be a breach in confidentiality, 
+    such as for public health or safety reasons, the disclosures must be as 
+    narrow in scope as possible. In light of these considerations, the AMA 
+    expressed support for the Department's approach.
+        In contrast, many commenters did not support adding an express 
+    permission in the HIPAA Privacy Rule for reporting certain information 
+    about persons subject to the Federal mental health prohibitor for NICS 
+    purposes. Several commenters asserted that there are only ``perceived 
+    barriers'' related to HIPAA, not real ones, so changing HIPAA would be 
+    unlikely to increase the reporting of mental health prohibitor 
+    information for NICS purposes. One commenter suggested that, rather 
+    than facing obstacles to reporting, States may be choosing not to 
+    report on certain categories of prohibited individuals for reasons 
+    unrelated to HIPAA--for example, because the States do not believe the 
+    individuals pose a danger.
+        Other comments, some of which highlighted the importance of early 
+    and appropriate mental health intervention as the most effective way to 
+    prevent violence related to mental illness, expressed concern that the 
+    proposed permission would discourage individuals from seeking needed 
+    treatment. For example, the National Association of Psychiatric Health 
+    Systems (NAPHS) predicted that the public perception of the proposed 
+    rule would be that, if an individual disclosed information to a 
+    therapist, the therapist would be required to ``report'' the patient. 
+    This commenter argued that, as a result, the proposed rule would create 
+    a chilling effect on individuals' willingness to discuss issues in 
+    treatment that could lead to positive resolution rather than violence 
+    directed toward themselves or others. A number of commenters also 
+    expressed concern that the proposed rule would unfairly target persons 
+    with mental illness and perpetuate unfounded and damaging stereotypes 
+    about persons with mental illness by sending a message to the public 
+    that the Department perceives mental illness as inextricably linked 
+    with violence.
+        Some commenters expressed general concern regarding the effects of 
+    the proposed rule on individuals' privacy interests. A number of these 
+    commenters argued that communications between patients and their health 
+    care providers should be kept confidential under all circumstances.
+        Response: After considering the comments, we continue to believe 
+    that the creation of a limited express permission in the HIPAA Privacy 
+    Rule to disclose information relevant to the Federal mental prohibitor 
+    for NICS purposes is necessary to address barriers to reporting. In 
+    particular, to the extent that some States do not require reporting by 
+    law, and reporting entities in those States may face administrative or 
+    other challenges in creating a hybrid entity, the HIPAA Privacy Rule 
+    may create impediments to reporting that cannot be cured through mere 
+    guidance. Therefore, we believe such an express permission will serve 
+    an important public safety interest by removing a barrier to reporting 
+    that may exist in certain circumstances and thereby potentially 
+    increase reporting by States that historically have reported little or 
+    no Federal mental health prohibitor data to the NICS due to concerns 
+    about violating the Privacy Rule.
+        Further, we believe that the limitations contained in the narrowly 
+    tailored express permission we adopt appropriately respond to 
+    commenters' important concerns about discouraging individuals who need 
+    mental health treatment from seeking care. First, we limit the 
+    permission to only those covered entities that order the involuntary 
+    commitments or make the other adjudications that cause individuals to 
+    be subject to the Federal mental health prohibitor, or that serve as 
+    repositories of such information for NICS reporting purposes. Thus, the 
+    rule does not affect most treating providers or create a permission for 
+    them to disclose PHI about their own patients for these purposes. 
+    Second, we permit such entities to disclose NICS data only to 
+    designated repositories or the NICS. Third, we limit the information 
+    that may be disclosed to certain demographic or other information that 
+    is necessary for NICS reporting. Finally, we do not expand the 
+    permission to encompass State law prohibitor information. These aspects 
+    of the provision are discussed more fully below. By limiting the 
+    permission in
+    
+    [[Page 388]]
+    
+    these ways, we protect the patient-provider relationship. Further, we 
+    believe these limitations carefully balance an individual's privacy 
+    interests with the public safety interest in reporting certain 
+    information to the NICS.
+        In response to concerns that the rule unfairly singles out 
+    individuals with mental illness, we emphasize, as we did in the 
+    proposed rule, that a mental health diagnosis does not, in itself, make 
+    an individual subject to the Federal mental health prohibitor, which 
+    requires an involuntary commitment or adjudication that the individual 
+    poses a danger to self or others or lacks the mental capacity to 
+    contract or manage his or her own affairs.
+        In addition, the Department continues to support efforts by the 
+    Administration to dispel negative attitudes and misperceptions relating 
+    to mental illness and to encourage individuals to seek voluntary mental 
+    health treatment. With the implementation of the Affordable Care Act, 
+    millions of Americans who did not previously have coverage will receive 
+    coverage for mental health services.
+    
+    B. Comments Regarding the Scope of the Permission
+    
+    Expanding to State Law Prohibitors
+        Comments: We received several comments in response to our question 
+    about whether the permission should be expanded to include State law 
+    prohibitors. Of these, a minority of commenters supported expanding the 
+    proposed rule to permit disclosures of information about individuals 
+    who are subject to State-only mental health prohibitors (i.e., State 
+    prohibitors that have different criteria than the Federal mental health 
+    prohibitor). Several commenters who advocated for the disclosure of 
+    such information for NICS reporting purposes asserted that State law 
+    prohibitors would be effective only if accurate and adequate 
+    information were submitted to the NICS. One of these commenters argued 
+    that State efforts to report disqualifying records to the NICS should 
+    be encouraged, not curtailed by confusion over the applicability of the 
+    HIPAA Privacy Rules. The commenter also argued that it would create 
+    greater confusion not to include the same express permission with 
+    respect to State mental health prohibitor information as was proposed 
+    for the reporting of information related to the Federal mental health 
+    prohibitor.
+        Another commenter who supported a permission to disclose 
+    information about individuals who are subject to State-only mental 
+    health prohibitors argued that increasing the disclosures to the NICS 
+    about individuals who are prohibited by State law (but perhaps not 
+    Federal law) from purchasing firearms could address the situation in 
+    which a person who is subject to a prohibitor in the person's State of 
+    residence enters another State temporarily for the sole purpose of 
+    obtaining a firearm and then returns to the State where ownership is 
+    prohibited with a firearm. This commenter voiced the concern that, if 
+    the State of residence does not provide information about individuals 
+    who are subject to State law prohibitors to the Federal background 
+    check system, a FFL in another State would not know that the individual 
+    is subject to a prohibitor.
+        Several commenters asserted that an express permission to disclose 
+    information about individuals who are subject to State mental health 
+    prohibitors would help to avoid a misinterpretation that HIPAA 
+    prohibits disclosures of PHI relevant to State mental health 
+    prohibitors in circumstances when HIPAA otherwise would not. Another 
+    commenter argued that, as some State law prohibitors were enacted 
+    before HIPAA, State legislators would not have foreseen HIPAA-related 
+    obstacles to disclosure or the resulting need to require reporting to 
+    the NICS by law; as a result, those States may not have laws in place 
+    to require the reporting of State law prohibitors.
+        One commenter who supported extending the permission argued that 
+    the reporting of State mental health prohibitors would be consistent 
+    with congressional intent, as expressed through statutes aimed at 
+    preventing gun violence. The commenter asserted that the NICS was 
+    established under the Brady Gun Law to serve as a central aggregated 
+    database of information regarding the identities of individuals who are 
+    prohibited from possessing firearms under any Federal, State, or local 
+    law.
+        In contrast, a number of commenters, including several associations 
+    of mental health professionals, expressed concern that expanding the 
+    reporting permission to apply to State law mental health prohibitors 
+    would involve more treating health care providers in NICS reporting, 
+    and that individuals would not seek treatment for mental health 
+    problems if they felt that simply by seeking treatment they could be 
+    reported to the NICS.
+        Several commenters, including two mental health professional 
+    associations, expressed concern that State mental health prohibitors 
+    are being expanded in an overly broad manner that will further negative 
+    attitudes and misperceptions about mental illness. The commenters 
+    pointed to an example of a State statute that requires health care 
+    providers to report to the NICS the identities of all individuals with 
+    intellectual disabilities, as well as individuals who voluntarily 
+    commit themselves to a mental institution.
+        The CCDRTF provided additional examples of State law mental health 
+    prohibitors that are significantly broader than the Federal mental 
+    health prohibitor and expressed concern that many of these State 
+    prohibitors apply to individuals without the benefit of an adjudication 
+    by a court, board, commission or other lawful authority, as provided 
+    for under the Federal prohibitor.\28\ This commenter asserted that the 
+    Federal mental health prohibitor forbids the reporting of information 
+    to the NICS about individuals who are subject to broader State mental 
+    health prohibitors due to a lack of equivalent procedural protections 
+    for such individuals; therefore, this commenter argued, to permit 
+    reporting related to State mental health prohibitors would violate the 
+    Supremacy Clause and raise due process concerns.
+    ---------------------------------------------------------------------------
+    
+        \28\ This commenter described laws enacted in four States. 
+    According to the commenter, New York law requires all mental health 
+    professionals to report any person undergoing treatment that is 
+    ``likely to engage in conduct that would result in serious harm to 
+    self or others'' (citing N.Y. Mental Hygiene. Law Sec.  9.46), while 
+    New York's SAFE Act requires mental health treatment providers to 
+    report covered individuals to a state database without an 
+    adjudicatory process (citing N.Y. Mental Hygiene Law Sec.  9.46). In 
+    California, the commenter stated, prohibitors apply to individuals 
+    undergoing voluntary inpatient treatment (citing 30 Cal. Welf. & 
+    Inst. Code Sec.  8100(a)); and apply to individuals involuntarily 
+    held as inpatients under 72-hour holds (citing Cal. Welf. & Inst. 
+    Code Sec.  8103(f) and Cal. Welf. & Inst. Code Sec.  5150) without 
+    the types of adjudications contemplated under the Federal mental 
+    health prohibitor (citing 18 U.S.C. 922(g); U.S. v. Rehlander, 666 
+    F.3d 45, 50 (1st Cir. 2012). Finally, the commenter noted that 
+    Illinois and Hawaii have prohibitors that apply to all individuals 
+    who have received particular diagnoses (citing 31 430 Ill. Comp. 
+    Stat. 65/8(g) (intellectual disability) and (s) (developmental 
+    disability); Haw. Rev. Stat. Ann. Sec.  134-7(c) (persons with 
+    significant DSM diagnosed disorder).
+    ---------------------------------------------------------------------------
+    
+        A number of commenters who opposed the reporting of State mental 
+    health prohibitors expressed concern that the broadest State law 
+    prohibitors would become the de facto national standard if the NICS 
+    were to include State law prohibitors. Others raised concerns about the 
+    increased complexity involved in accurately maintaining the NICS 
+    database with the addition of State law prohibitor records, including 
+    challenges associated with avoiding or identifying duplicate reports, 
+    resulting in less reliability, increased inaccuracy, and improper
+    
+    [[Page 389]]
+    
+    denial of rights, as well as adding complexity to appeals.
+        Response: We share the concerns of commenters that, due to the 
+    breadth of some State law prohibitors, the inclusion of State-only 
+    prohibitors in the permission would increase the involvement of 
+    treating providers in NICS reporting, which could negatively affect 
+    patient-provider treatment relationships and discourage some 
+    individuals from seeking care. While we note that the NICS currently 
+    receives some information on State law prohibitors, given these 
+    concerns and the importance of protecting the patient-provider 
+    relationship, we do not think it is appropriate to expand the 
+    permission with respect to HIPAA covered entities. We agree with the 
+    commenters who stated that the health and safety of individuals and the 
+    public is best served if persons with mental illness obtain appropriate 
+    treatment; by limiting the permission to the narrower Federal mental 
+    health prohibitor, and carefully tailoring the permission in the ways 
+    described throughout this preamble, this final rule is designed to 
+    ensure that such persons are not discouraged from seeking care.
+        With respect to some commenters' concerns about State mental health 
+    prohibitors being ineffective without a HIPAA disclosure permission, we 
+    note that the Privacy Rule does not affect the reporting of State law 
+    prohibitors by non-HIPAA covered entities, which are the entities that 
+    maintain most of the relevant information. Moreover, to the extent that 
+    covered entities maintain relevant State law prohibitor information and 
+    a State wants to ensure that the reporting of this information can 
+    occur, the Privacy Rule provides certain other avenues for disclosure, 
+    as we have described elsewhere. For example, although our balancing of 
+    interests limits this express permission under HIPAA to disclosures 
+    related to the Federal mental health prohibitor, this rule does not 
+    prevent State legislators from differently balancing the privacy, 
+    health, and public safety issues involved with respect to their State 
+    level mental health prohibitors--nor does the Federal mental health 
+    prohibitor itself prohibit reporting to the NICS of State law 
+    prohibitor information, as a commenter asserted. If State legislators 
+    determine that information related to a State-only prohibitor should be 
+    disclosed despite any potential chilling effect on seeking treatment, 
+    they can enact a State law requiring the relevant entities to report 
+    such information. Alternatively, the relevant covered entities can 
+    create a hybrid entity, separating their HIPAA covered health care 
+    functions from their NICS reporting or repository functions, such that 
+    the information maintained by the covered health care component is 
+    subject to the Privacy Rule, while information held by the non-covered 
+    component can be reported without regard to the Privacy Rule.
+        We disagree with the commenters who argued that excluding State-
+    only mental health prohibitor information from the permission will 
+    create confusion. We do not think this will occur because this final 
+    rule clearly indicates that it applies where firearm possession is 
+    prohibited under a specific provision in Federal law. We also note that 
+    the rule delineates the types of covered entities that are permitted to 
+    disclose, the information they are permitted to share, the categories 
+    of individuals covered by the permission, and the entities to which 
+    they can make such disclosures. In addition, we intend to work with DOJ 
+    to develop additional guidance on the categories within the Federal 
+    mental health prohibitor. Moreover, we do not believe this final rule 
+    will create a misperception that HIPAA always prohibits the reporting 
+    to the NICS of individuals who are subject to State-only mental health 
+    prohibitors. As explained elsewhere in this preamble, the Privacy Rule 
+    already permits uses and disclosures of PHI that are required by law, 
+    including State law reporting requirements; also, HIPAA covered 
+    entities that perform both health care and non-health care functions 
+    (e.g., NICS reporting) are permitted to create hybrid entities under 
+    HIPAA so that the Privacy Rule applies only to their health care 
+    functions. This final rule does not change those provisions.
+        Finally, we do not agree that Congress intended for State (or 
+    local) law prohibitor information to be reported to the NICS in all 
+    circumstances, such as where doing so would conflict with 
+    countervailing privacy concerns due to the treatment relationship 
+    between patients and health care providers. Therefore, this final rule 
+    balances a variety of important interests, including protecting the 
+    privacy of individuals' personal health information, ensuring access to 
+    needed mental health care services, and advancing the public safety 
+    interests in ensuring that persons who are prohibited by Federal law 
+    from purchasing or possessing a firearm for mental health reasons do 
+    not gain access to firearms.
+    Entities Permitted To Report
+        Comment: Several commenters, including the AMA and the National 
+    Association of Psychiatric Health Systems, expressed support for the 
+    proposal to limit the permission to only those entities in a State that 
+    are directly involved in the relevant adjudications or maintain records 
+    of them for NICS reporting purposes. These commenters expressed 
+    appreciation for the narrow drafting of the NPRM based on the need to 
+    support provider-patient relationships and encourage individuals with 
+    mental illness to seek appropriate care.
+        However, several advocacy organizations and many individuals argued 
+    that direct treatment providers should not be permitted to report 
+    information about their patients to the NICS under any circumstances 
+    (i.e., even if they are, or are part of, the entity that orders 
+    involuntary commitments or conducts other relevant adjudications, or 
+    serves as a repository of NICS data). Some of these commenters argued 
+    that reports to the NICS database should come only from the judiciary.
+        Finally, we did not receive responses to the question we posed in 
+    the NPRM about whether additional types of covered entities within a 
+    State (other than those identified in the proposed regulatory text) 
+    might be expected, and thus should be permitted under the Privacy Rule, 
+    to report data to the NICS or to a State repository.
+        Response: We agree with the commenters who emphasized the need to 
+    protect the provider-patient relationship, and this final rule 
+    addresses such concerns by limiting the permission to those covered 
+    entities that also perform an adjudicatory or data repository function. 
+    Furthermore, as described more fully elsewhere in this preamble, the 
+    permission does not extend to broader State law prohibitors, which may 
+    not require a formal adjudication or involuntary commitment and whose 
+    inclusion likely would involve more treatment providers in NICS 
+    reporting.
+        In response to comments arguing that only entities in the court 
+    system should be permitted to report to NICS, it is our understanding, 
+    based on public comments and our fact finding, that courts do not 
+    create or maintain records of all of the involuntary commitments or 
+    other adjudications that make individuals subject to the Federal mental 
+    health prohibitor. Therefore, for the NICS database to include reports 
+    of all persons subject to the mental health prohibitor, it is necessary 
+    for certain other entities that create or maintain such information to 
+    be able to report. We believe this permission will help strengthen the 
+    background check system to ensure that individuals who are prohibited 
+    from purchasing or
+    
+    [[Page 390]]
+    
+    possessing firearms are prevented from obtaining them. We also 
+    acknowledge the concerns of commenters who argued that providers should 
+    not be permitted to report information about their patients under any 
+    circumstances. As explained in more detail elsewhere in this preamble, 
+    to address these and other concerns, we have carefully tailored this 
+    final rule to limit the involvement health care providers, and to 
+    prevent disclosures of diagnostic or clinical information for NICS 
+    reporting purposes.
+    Demographic and Certain Other Information Permitted To Be Reported
+        Comment: Many commenters specifically voiced support for the NPRM's 
+    proposal not to permit the disclosure of diagnostic or clinical 
+    information for NICS reporting purposes. (We also noted in the NPRM 
+    that the NICS does not request or contain such information.) For 
+    example, the American Medical Association stated that it strongly 
+    supported restricting the information disclosed to the limited 
+    demographic and other information needed for reporting, as the NPRM 
+    proposed. To support the point that NICS reporting is sufficiently 
+    limited, another commenter pointed out that the information that is 
+    reported to the NICS generally is provided by the individual to a FFL 
+    on the required application for the firearm.
+        In contrast, one commenter asserted that, as written, the proposed 
+    permission would grant discretion to state entities to determine the 
+    scope of ``demographic and certain other information'' to be reported 
+    and argued further that DOJ (specifically ATF), not HHS, has authority 
+    to define the ``minimum'' information required by NICS.
+        In response to our request for comment on whether, and in what 
+    circumstances, entities currently report, or should be permitted to 
+    report, additional data elements needed to confirm an individual's 
+    identity, the Connecticut Department of Mental Health and Addiction 
+    Services (DMHAS) asserted that certain additional data elements are 
+    helpful in confirming whether an individual is appropriately excluded 
+    from gun purchase or possession in cases where multiple individuals 
+    share the same name and date of birth. Several other commenters agreed 
+    that permitting the disclosure of additional data elements for NICS 
+    reporting purposes would allow more accurate verification of an 
+    individual's identity, resulting in fewer erroneous denials, and would 
+    facilitate the correction and updating of NICS entries.
+        The Connecticut DMHAS and others suggested the inclusion of some or 
+    all of the following specific data elements: Social Security number, 
+    place of birth, state of residence, height, weight, eye color, hair 
+    color, and race. Social Security number and race were cited as the most 
+    reliable indicators of an individual's true identity.
+        Response: We agree with the commenters who stated that limiting the 
+    permission to exclude diagnostic and clinical information appropriately 
+    balances individuals' privacy interests and public safety priorities. 
+    We also agree that there may be data elements beyond those needed to 
+    create the NICS record (i.e., the individual's name, sex, and date of 
+    birth; as well as codes identifying (1) the Federal mental health 
+    prohibitor, (2) the record documenting the involuntary commitment or 
+    adjudication, and (3) the entity from which the record initiated) that 
+    may be helpful in verifying identity and excluding false matches. Given 
+    that, the final rule provides some flexibility for States or reporting 
+    entities. We do not specify in the regulatory text which data elements 
+    may be disclosed, but clarify in this preamble that what generally 
+    would be considered the information ``needed for purposes of reporting 
+    to the [NICS]'' in Sec.  164.512(k)(7)(iii)(A) would be the data 
+    elements required to create a NICS record, as well as the following 
+    elements to the extent necessary to exclude false matches: Social 
+    Security number, State of residence, height, weight, place of birth, 
+    eye color, hair color, and race (and we note that the Federal Bureau of 
+    Investigations (FBI) and not ATF has the authority to define the 
+    information required by NICS). As indicated above, these are the same 
+    elements that were identified in the NPRM.
+    
+    C. Comments Regarding the NICS and the Federal Mental Health Prohibitor
+    
+        Comment: Many commenters raised concerns about infringement of 
+    individuals' Second Amendment right to bear arms without due process. A 
+    number of these commenters specifically expressed concern that an 
+    individual could be reported to the NICS without a formal adjudication 
+    through the court system and argued that due process under the 
+    Constitution would require a hearing in a court of law before an 
+    individual could be made subject to the Federal mental health 
+    prohibitor.
+        Response: We acknowledge the views of the commenters. However, as 
+    we explained in the NPRM, these concerns relate to the Federal mental 
+    health prohibitor rather than the HIPAA Privacy Rule or this final 
+    rule, and thus are outside the scope of this rule. This final rule 
+    addresses HIPAA-related barriers to entities reporting certain 
+    information to the NICS about individuals who are subject to the 
+    Federal mental health prohibitor. The rule does not expand the 
+    categories of federally prohibited persons or modify the criteria for 
+    determining that a person is subject to the Federal mental health 
+    prohibitor.
+        Comment: Several disability rights advocates and others asserted 
+    that the rule would not result in a decrease in gun violence because 
+    mental illness alone does not make a person more likely to commit 
+    violence against others. The Consortium for Citizens with Disabilities 
+    Rights Task Force (CCDRTF) cited studies indicating that mental illness 
+    alone is not statistically related to future violence and that even 
+    severe mental illness without drug use or a history of violence is not 
+    linked with future violence.\29\ Several commenters also noted that 
+    persons with mental illness are more likely to be the victims of 
+    violence than its perpetrators. Alternatively, several commenters 
+    argued that, even if there were a link between mental illness and gun 
+    violence, the proposed rule is not needed because mechanisms already 
+    are in place in place to prevent harm from patients who are a threat to 
+    themselves or the public.
+    ---------------------------------------------------------------------------
+    
+        \29\ CCDRTF cited Eric B. Elbogen & Sally C. Johnson, The 
+    Intricate Link Between Violence and Mental Disorder: Results from 
+    the National Epidemiologic Survey on Alcohol and Related Conditions, 
+    66 Arch. Gen. Psychiatry 152, 157 (Feb. 2009); David J. Vinkers, et 
+    al., Proportion of Crimes Attributable to Mental Disorders in the 
+    Netherlands Population, 11 World Psychiatry 134 (June 2012). CCDRTF 
+    also indicated that other studies showed a modest relationship 
+    between serious mental illness and violence, but that other factors 
+    (e.g., substance abuse, age, gender and lower economic status) 
+    contribute more to increasing the likelihood of committing violence 
+    than mental illness alone. They cited R. Van Dorn, et al., Mental 
+    Disorder and Violence: Is There a Relationship Beyond Substance 
+    Use?, 47 Social Psychiatry and Psychiatric Epidemiology 487, 499 
+    (2012).
+    ---------------------------------------------------------------------------
+    
+        Response: We acknowledge the views of the commenters. However, 
+    these commenters address the applicability of the Federal mental health 
+    prohibitor itself. This final rule does not expand the existing 
+    categories of persons prohibited from owning a firearm or modify other 
+    Federal or State laws pertaining to firearms purchases. Therefore, 
+    these comments are beyond the scope of this rule.
+        Comment: Several commenters raised questions about individuals' 
+    ability to correct erroneous NICS reports or to
+    
+    [[Page 391]]
+    
+    have their rights restored when they no longer pose a danger to 
+    themselves or others. A number of commenters recommended assuring that 
+    the appeals process is free of delay, inexpensive, and easy for 
+    individuals to initiate.
+        Other commenters asserted that the expense to remove oneself from 
+    the NICS database is prohibitive for some individuals. As a result, the 
+    commenters said, individuals effectively become subject to a lifelong 
+    restriction on their Second Amendment right to bear arms, even after 
+    they recover from the condition that led to their adjudication and are 
+    eligible to apply for relief from disabilities under the Federal mental 
+    health prohibitor. Similarly, one commenter argued that, once an 
+    individual is reported to the NICS, the ``relief from disabilities'' 
+    process \30\ is inadequate for remediation due to a lack of Federal 
+    funding to support State programs, and wide variability in State 
+    programs to provide relief as a result. Another commenter recommended 
+    allocating additional funding to support State ``relief from 
+    disabilities'' programs.
+    ---------------------------------------------------------------------------
+    
+        \30\ See footnote 13 above.
+    ---------------------------------------------------------------------------
+    
+        Response: These comments are outside the scope of the rule. 
+    However, we acknowledge the commenters' concerns with respect to 
+    opportunities for remediation and note that individuals who believe 
+    they are wrongly denied the purchase of a firearm can visit <https://forms.fbi.gov/nice-appeals-request-form> to find out more information 
+    and appeal their denial. In addition, the NICS Improvement Amendments 
+    Act of 2007 authorized grants for States that implement programs for 
+    ``relief from disabilities'' in accordance with the Act.\31\ These 
+    programs are required to establish processes by which an individual who 
+    is subject to the Federal mental health prohibitor may apply for relief 
+    to the State where the relevant commitment or adjudication occurred. 
+    While States' processes for granting relief vary, the Act requires that 
+    relief be granted if it can be established that the circumstances 
+    regarding the disability and the applicant's record and reputation are 
+    such that the applicant will not be likely to act in a manner dangerous 
+    to public safety, and the granting of relief would not be contrary to 
+    the public interest.\32\
+    ---------------------------------------------------------------------------
+    
+        \31\ The DOJ Bureau of Justice Statistics provides state data on 
+    NICS Act Record Improvement Program (NARIP) Awards (available at 
+    [http://www.bjs.gov/index.cfm?ty=tp&tid;=491#promising](http://www.bjs.gov/index.cfm?ty=tp&tid=491#promising)).
+        \32\ See Public Law 110-180, Section 105.
+    ---------------------------------------------------------------------------
+    
+        Comment: A number of commenters expressed concern that a finding of 
+    mental incompetence by the Veterans Administration (VA), which could 
+    make an individual subject to the Federal mental health prohibitor and 
+    cause the individual to be reported to the NICS, may be based solely on 
+    a determination that the veteran is unable to handle financial affairs, 
+    without regard to dangerousness. The commenters argued that these 
+    veterans do not receive due process before being made subject to the 
+    Federal mental health prohibitor and believed that the proposed rule 
+    would exacerbate this problem.
+        Response: We note that, as a federal agency, the VA is required by 
+    law to report prohibited persons to the Attorney General, who oversees 
+    the NICS.\33\ This final rule does not affect that requirement or 
+    change the procedures relating to adjudications that make individuals 
+    subject to the Federal mental health prohibitor.\34\
+    ---------------------------------------------------------------------------
+    
+        \33\ See NICS Improvement Amendments Act of 2007 Sec. 101, 18 
+    U.S.C. 922 note (2002).
+        \34\ We refer commenters to the VA regulations for information 
+    about the due process afforded to veterans as part of VA competency 
+    determinations. See 38 CFR 3.353 and 38 CFR 3.103.
+    ---------------------------------------------------------------------------
+    
+    D. Other Comments
+    
+        Comment: A few commenters expressed concern that covered entities 
+    would misinterpret the proposed permission as a requirement to report 
+    information about their patients to the NICS. Another commenter 
+    expressed concern that the standards for reporting NICS data will be 
+    adopted by courts as a new standard of care for health care providers, 
+    exposing covered entities that do not report to increased liability. 
+    The commenter requested that the Department clarify that the HIPAA 
+    permission is permissive, not mandatory.
+        Response: This final rule establishes permission for certain HIPAA 
+    covered entities--those with lawful authority to make the adjudications 
+    or commitment decisions that make individuals subject to the Federal 
+    mental health prohibitor, or that serve as repositories of information 
+    for NICS reporting purposes--are permitted to disclose the information 
+    needed for these purposes. The rule does not create a requirement to 
+    disclose. In addition, as explained at length in the NPRM and above, 
+    the rule does not apply to most treating providers, but only to those 
+    covered entities that are responsible for the involuntary commitments 
+    or other adjudications that make individuals subject to the Federal 
+    mental health prohibitor, or that serve as repositories of such data. 
+    However, we note that covered entities have a responsibility to comply 
+    with all applicable laws, and this final rule does not preempt State or 
+    other laws that may require reporting to the NICS.
+        Comment: One commenter recommended that the Department evaluate 
+    whether the rule would have the unintended consequence of permitting 
+    the reporting of individuals based on mere medical findings.
+        Response: As we explain above, the rule does not create a broad 
+    permission for treating providers to report information about their 
+    patients to the NICS. Rather, the rule is narrowly tailored to permit 
+    limited disclosures of information about individuals who are subject to 
+    the Federal mental health prohibitor, which applies only where an 
+    individual has been involuntarily committed or otherwise has received a 
+    relevant adjudication from a court, board, commission, or other lawful 
+    authority.
+        Comment: One commenter recommended training for the workforce 
+    members of reporting entities to ensure that they understand the 
+    applicable reporting protocols sufficiently to avoid making erroneous 
+    reports.
+        Response: We agree that training is generally beneficial to assure 
+    compliance with applicable standards. Further, to the extent that 
+    reporting entities also are HIPAA covered entities, the Privacy Rule 
+    requires those entities to train workforce members on the policies and 
+    procedures with respect to the privacy and security of individuals' 
+    health information. Where applicable, such training would include 
+    ensuring that workforce members have copies of the entity's policies 
+    and procedures implementing this final rule's limited permission for 
+    uses or disclosures of PHI for NICS reporting purposes.
+        Comment: One commenter recommended establishing a mechanism to 
+    inform mental health patients and their caregivers about the patients' 
+    status in the NICS.
+        Response: We decline to provide for such a mechanism in this final 
+    rule because it is outside the scope of the rule. Nothing in this rule, 
+    however, precludes covered entities from informing individuals that 
+    information about them has been provided to the NICS.
+        Comment: Several commenters expressed concern that, by allowing 
+    multiple entities within a State to report to the NICS, the proposed 
+    rule would create complexity, inaccuracy, and delay in processing 
+    appeals, particularly if the FBI refers the individual back to the 
+    reporting entity for resolution.
+        Response: To the extent that the involvement of multiple entities 
+    in NICS reporting may affect the appeals process in a state, this issue 
+    exists apart
+    
+    [[Page 392]]
+    
+    from HIPAA. Each State determines the entity or entities responsible 
+    for reporting NICS data, depending on where the records documenting a 
+    person's status as subject to one or more of the Federal prohibitors 
+    are created or maintained. As a result, a variety of entities, 
+    including judicial, law enforcement, public health, and other entities 
+    in a State, already may be involved in NICS reporting and appeals.
+        Comment: A few commenters expressed concern that, as a result of 
+    the proposed rule, some families may choose not to seek involuntary 
+    commitment proceedings for a family member who needs treatment, but 
+    whose livelihood depends on the ability to possess a firearm (e.g., 
+    first responders and members of the military), because the commitment 
+    would result in a report to the NICS and the loss of the patient's 
+    livelihood.
+        Response: We note that the Federal mental health prohibitor makes 
+    the purchase or possession of firearms by prohibited individuals 
+    unlawful regardless of whether an individual is reported to the NICS, 
+    and this final rule does not change who is subject to the Federal 
+    mental health prohibitor. This final rule also does not affect law 
+    enforcement and military entities' authorities with respect to making 
+    their workforce decisions.
+        Comment: One commenter asked whether covered entities are obligated 
+    to update information they have submitted to the NICS when an 
+    individual's circumstances change.
+        Response: Section 102(c)(1)(B) of the NIAA requires States to 
+    update, correct, modify, or remove a record from the NICS if they 
+    determine that the person is not prohibited or has received ``relief 
+    from disabilities'' under the mental health prohibitor.
+        Comment: A number of commenters argued that the proposed regulation 
+    would contravene congressional intent, arguing that Congress did not 
+    intend to change HIPAA protections for NICS purposes. The commenters 
+    stated that legislation on this topic had been considered and rejected 
+    and specifically cited S. 649 (the ``Fix Gun Checks Act''), which was 
+    considered by the Senate on April 18, 2013, but did not receive a vote.
+        Similarly, some commenters asserted that Congress could have 
+    included any desired changes to HIPAA when it passed the NICS 
+    Improvements Amendments Act, but did not do so. Therefore, the 
+    commenters argued, Congress did not intend to modify HIPAA for NICS 
+    reporting purposes.
+        Response: That Congress did not enact S. 649 does not provide 
+    relevant evidence of congressional intent with respect to the scope of 
+    the HIPAA Privacy Rule. The absence of a provision in the NIAA to 
+    modify HIPAA does not imply that Congress intended to prevent any 
+    revisions of the HIPAA Privacy Rule with respect to the NICS. The HIPAA 
+    statute confers broad authority on the Department to specify the 
+    permitted uses and disclosures of PHI by HIPAA covered entities, and 
+    NIAA does not affect this statutory authority.
+        Comment: Several disability rights organizations asserted that the 
+    proposed rule did not provide sufficient evidence of HIPAA barriers to 
+    reporting in any State to fulfill a requirement of the Administrative 
+    Procedure Act (APA) that there be a rational connection between the 
+    facts found by a Federal agency through the rulemaking process and the 
+    regulatory choice made.\35\
+    ---------------------------------------------------------------------------
+    
+        \35\ 5 U.S.C. Subchapter II.
+    ---------------------------------------------------------------------------
+    
+        Response: We disagree with the commenters. As stated above, we 
+    understand from other comments that at least seven States currently 
+    rely on HIPAA covered entities (such as mental health facilities) to 
+    report Federal mental health prohibitor data to the NICS. These seven 
+    States have laws regarding such reporting, but other States may not. To 
+    the extent that any other State does not require NICS-related 
+    disclosures by law and the State has not enacted legislation addressing 
+    the problem, the Privacy Rule, prior to the effective date of this 
+    final rule, would have prevented such disclosures by HIPAA covered 
+    entities that do not have hybrid entity status.\36\ Therefore, there 
+    are sufficient data demonstrating that HIPAA's disclosure restrictions 
+    can be a barrier to NICS reporting, and thus to the development of an 
+    accurate and comprehensive NICS database. The data support finalizing 
+    this modification to the Privacy Rule, which removes barriers while 
+    limiting the circumstances under which covered entities may disclose 
+    PHI to the NICS and limiting the types of PHI that may be disclosed.
+    ---------------------------------------------------------------------------
+    
+        \36\ We note that at least three states have laws permitting, 
+    but not requiring the disclosure of mental health records to the 
+    NICS: Missouri, New Jersey and West Virginia. See Mo. Rev. Stat. 
+    630.140 (2013); N.J. Stat. Ann. 30:4-24.3 (2013); W.Va. Code 61-7A-3 
+    (2013).
+    ---------------------------------------------------------------------------
+    
+        We know of one State in particular in which the Privacy Rule's 
+    disclosure restrictions posed challenges for NICS reporting. The State 
+    of New York had a statute requiring mental health facilities in the 
+    State to report NICS data to the State mental health agency, the 
+    State's designated repository of NICS data.\37\ As a result, the 
+    Privacy Rule permitted such disclosures to the repository as required-
+    by-law disclosures. However, the statute did not expressly require the 
+    mental health agency, which was a covered entity under HIPAA that did 
+    not have hybrid entity status, to report the data it collected to the 
+    NICS; the Privacy Rule thus did not permit the agency to disclose this 
+    data. Ultimately, the legislature needed to revise the statute to 
+    expressly require the agency to report the data to the NICS.\38\
+    ---------------------------------------------------------------------------
+    
+        \37\ 2008 N.Y. Laws 491, codified at N.Y. Mental Hyg. Sec. Sec.  
+    7.09(j); 13.09(g), 31.11(5), 33.13(b), (c) (2011); N.Y. Jud. Ct. 
+    Acts Sec.  212(q) (2011).
+        \38\ NY Secure Ammunition and Firearms Enforcement (SAFE) Act of 
+    2013.
+    ---------------------------------------------------------------------------
+    
+        In addition to removing barriers, an additional benefit of the rule 
+    as described more fully below is that it provides clarity about the 
+    applicability of the Privacy Rule and its relationship to State law in 
+    this area, as well as provides an avenue for NICS reporting that may 
+    obviate the need to enact legislation at the State level.
+        Comment: One commenter requested that the Department clarify how 
+    HIPAA's preemption provisions would apply to State laws requiring or 
+    prohibiting covered entities' disclosures of NICS data.
+        Response: We clarify that this final rule does not change HIPAA's 
+    existing preemption provisions, which provide that the HIPAA rules 
+    preempt contrary State laws (with certain exceptions, such as where the 
+    contrary provision of State law is more stringent than the HIPAA 
+    provision).\39\ Accordingly, because the Privacy Rule, as modified by 
+    this final rule, only permits (but does not require) the disclosure for 
+    NICS reporting purposes, State laws that prohibit such disclosures are 
+    not contrary to the Privacy Rule, and covered entities in States with 
+    such laws remain subject to any applicable prohibitions against the 
+    disclosures under State law. That is, the covered entity could comply 
+    with both HIPAA and such State law by not disclosing PHI to the NICS.
+    ---------------------------------------------------------------------------
+    
+        \39\ See 45 CFR 160.203.
+    ---------------------------------------------------------------------------
+    
+        Moreover, HIPAA contains an express permission for disclosures that 
+    are required by other law, such as State law. Accordingly, State laws 
+    that require disclosures, for any purposes, remain in effect, as such 
+    laws are not contrary to the Privacy Rule.
+        Comment: One commenter expressed concern that the rule would create 
+    an opportunity for the abuse of private information, for example, by 
+    allowing the government to disarm political dissidents who seek mental 
+    health care,
+    
+    [[Page 393]]
+    
+    or making it possible for medical personnel to abuse their authority 
+    and remove an individual's rights for illegitimate reasons.
+        Response: Concerns about governmental or private actors taking 
+    advantage of this permission to target vulnerable persons are addressed 
+    by the procedural framework built into the statute that established the 
+    Federal mental health prohibitor and its implementing regulations, 
+    which this final rule does not change. As we previously have noted, the 
+    Federal mental health prohibitor, which makes an individual reportable 
+    to the NICS, applies only to the extent that the individual is 
+    involuntarily committed or determined by a court, board, commission, or 
+    other lawful authority to be a danger to self or others, or is unable 
+    to manage his or her own affairs due to a mental illness or condition. 
+    \40\ These involuntary commitments and other adjudications are not made 
+    independently by individual health care providers without any form of 
+    official legal review.
+    ---------------------------------------------------------------------------
+    
+        \40\ 18 U.S.C. 922(g)(4); 27 CFR 478.11.
+    ---------------------------------------------------------------------------
+    
+        Comments: Some commenters expressed concern that, by relaxing 
+    HIPAA's privacy requirements, the proposed rule could result in 
+    increased disclosures of private health information to the government. 
+    Several commenters argued that the Federal government has a poor record 
+    on protecting individuals' privacy and should not be entrusted with 
+    health information. In contrast, another commenter noted that Federal 
+    law, including the Privacy Act, prohibits access to the information in 
+    the NICS database outside of the limited purposes authorized by law, 
+    and information about specific firearms transfers is destroyed the day 
+    after the transaction.
+        Response: We agree that it is important to protect the privacy and 
+    security of the information that is reported to the NICS and we note 
+    that the NICS is subject to specific privacy and security 
+    protections.\41\ In addition, we again emphasize that only very limited 
+    information may be disclosed under this rule, and disclosures of 
+    diagnostic or clinical information are expressly prohibited.
+    ---------------------------------------------------------------------------
+    
+        \41\ See 63 FR 58303 (October 30, 1998), codified at 28 CFR part 
+    25.
+    ---------------------------------------------------------------------------
+    
+        Comment: Finally, one commenter requested clarification on whether, 
+    in States where a covered entity is also a lawful authority that orders 
+    involuntary commitments or conducts other adjudications that make 
+    individuals subject to the Federal mental health prohibitor, there is 
+    intended to be a separation between the covered entity and lawful 
+    authority functions of the entity.
+        Response: We note that, under the Privacy Rule, both before and 
+    after the modification made in this final rule, a covered entity could 
+    provide for such separation by operating as a hybrid entity, and 
+    disclose information through its non-HIPAA covered NICS reporting unit. 
+    However, it is our understanding that some covered entities may be 
+    unable to achieve hybrid entity status for administrative or other 
+    reasons. This is another reason for including the express permission 
+    described in the final rule.
+    
+    VI. Regulatory Analyses
+    
+    A. Introduction
+    
+        We have prepared a regulatory impact statement in compliance with 
+    Executive Order 12866 (September 1993, Regulatory Planning and Review), 
+    Executive Order 13563 (January 2011, Improving Regulation and 
+    Regulatory Review), the Regulatory Flexibility Act (RFA) (September 19, 
+    1980, Pub. L. 96-354), the Unfunded Mandates Reform Act of 1995 (UMRA) 
+    (March 22, 1995, Pub. L. 104-4), and Executive Order 13132 on 
+    Federalism.
+    1. Executive Order 12866 and Executive Order 13563
+        Executive Orders 12866 and 13563 direct agencies to assess all 
+    costs and benefits of available regulatory alternatives and, if 
+    regulation is necessary, to select regulatory approaches that maximize 
+    net benefits (including potential economic, environmental, public 
+    health and safety effects, distributive impacts, and equity). Executive 
+    Order 13563 emphasizes the importance of quantifying both costs and 
+    benefits, of reducing costs, of harmonizing rules, and of promoting 
+    flexibility. This rule has been designated a ``significant regulatory 
+    action'' although not economically significant, under section 3(f) of 
+    Executive Order 12866. Accordingly, this rule has been reviewed by the 
+    Office of Management and Budget.
+        A regulatory impact analysis must be prepared for all major rules 
+    that have economically significant effects ($100 million or more in any 
+    one year) or adversely affect in a material way the economy, a sector 
+    of the economy, productivity, competition, jobs, the environment, 
+    public health or safety, or State, local, or tribal government or 
+    communities (58 FR 51741). Because the final rule does not contain any 
+    new requirements or prohibitions for covered entities, we estimate that 
+    the rule will be cost neutral. We did not receive public comments on 
+    this assumption or information indicating that covered entities will 
+    incur any costs as a result of the rule.
+        Although we expect the economic impact of the rule, including non-
+    quantifiable costs and savings discussed in the regulatory analysis 
+    below, to be less than $100 million annually, we nevertheless conducted 
+    an analysis of the costs of the final rule.
+    2. Entities Subject to the Rule
+        This final rule applies only to covered entities that function as 
+    repositories of information relevant to the Federal mental health 
+    prohibitor on behalf of a State or that are responsible for ordering 
+    the involuntary commitments or other adjudications that make an 
+    individual subject to the Federal mental health prohibitor. We do not 
+    have sufficient data to determine the number of affected entities, but, 
+    based on the information available to us, we believe there would be 
+    very few. Our understanding is that, for the most part, formal 
+    adjudications and repository functions of this nature are conducted by 
+    entities, such as court systems or law enforcement agencies, that are 
+    not covered by HIPAA. In addition, even covered entities in some states 
+    will not be affected because they currently do not face HIPAA barriers 
+    to reporting either because state law requires reporting or they have 
+    created hybrid entities, as described above in the preamble. We did not 
+    receive public comments on the number of covered entities that will be 
+    affected by this rule.
+    
+    B. Why is this rule needed?
+    
+        This final rule is needed to ensure that, where HIPAA covered 
+    entities make adjudications causing individuals to become subject to 
+    the Federal mental health prohibitor, or serve as repositories of 
+    records of such adjudications on behalf of States, those covered 
+    entities can report the identities of those individuals to the NICS. 
+    This rule change can help further the important public safety goal of 
+    strengthening the background check system to ensure that individuals 
+    who are prohibited from purchasing or possessing firearms are not able 
+    to obtain them. Specific permission under the Privacy Rule for these 
+    disclosures is necessary to the extent that some States have not 
+    enacted laws requiring reporting to the NICS, but a covered entity in 
+    the State is nevertheless responsible for such reporting and does not 
+    become a hybrid entity. Importantly, the final rule permits only a 
+    small subset of HIPAA covered entities (i.e.,
+    
+    [[Page 394]]
+    
+    those that perform the relevant mental health adjudications or 
+    repository functions) to use or disclose only limited, non-clinical 
+    information, for NICS purposes. This narrowly tailored permission 
+    permits these important uses or disclosures for public safety to occur 
+    while maintaining a separation between reporting functions and the 
+    mental health treatment a patient might be receiving.
+    
+    C. Qualitative Analysis of Unquantified Costs
+    
+        The rule is cost neutral with respect to HIPAA covered entities. 
+    The rule does not require entities that already have a NICS reporting 
+    process in place to change their current system and does not create new 
+    reporting or recordkeeping requirements for any covered entity. The 
+    small number of covered entities that are newly permitted to report to 
+    the NICS or a State repository under the rule can begin to report and 
+    may need to develop policies and procedures to do so. As the Privacy 
+    Rule only allows the use or disclosure of information, and does not 
+    require it, any resulting burden of reporting and associated procedures 
+    are attributable to the choice made by an entity to report information, 
+    the Federal statutory mental health prohibitor, and the NICS system 
+    itself. See 28 CFR part 25, subpart A. We acknowledge that those 
+    entities that choose to begin reporting may wish to address this change 
+    in their HIPAA policies and procedures, as well as explain their 
+    procedures to office staff. However, the rule does not require any 
+    changes to existing HIPAA policies and procedures. In addition, with 
+    respect to training, the rule does not require workforce training 
+    beyond what is already required under the HIPAA Privacy and Security 
+    Rules. We expect that entities that choose to report under the rule 
+    would also take steps to ensure that their office staff have copies of 
+    the new policies and procedures, which would not involve any 
+    significant additional costs. We did not receive public comments 
+    contradicting these assumptions or estimating the number of entities 
+    that might begin to report to the NICS for the first time, if any.
+        To the extent that the rule permits some covered entities to report 
+    to the NICS for the first time, there may be an increase in the number 
+    of individuals whose identities are newly included in the NICS and who 
+    are denied a firearm transfer as a result. Therefore, there may be a 
+    concomitant increase in applications for ``relief from disabilities'' 
+    in states that provide such a relief program. However, any burden to 
+    individuals completing and submitting the relief application form is 
+    attributable to the Federal mental health prohibitor and the procedures 
+    established by the State where the commitment or adjudication occurred. 
+    The procedures for applying for relief in States that have established 
+    mental health prohibitor ``relief from disabilities'' programs pursuant 
+    to the NICS Improvement Amendments Act of 2007 vary.
+        We received a number of comments on the NPRM asserting that 
+    creating an express permission in the Privacy Rule for NICS reporting 
+    would discourage individuals from seeking needed mental health care. We 
+    appreciate these concerns and agree with commenters who asserted that 
+    individuals' health and the public's safety are best served by 
+    encouraging appropriate treatment. We also recognize that discouraging 
+    treatment could increase the burden of untreated mental conditions to 
+    individuals, in the form of increased suffering and loss of 
+    productivity; to the health care system, when individuals with 
+    untreated mental illness need emergency hospitalization, for example; 
+    and to the public's safety. However, many of these commenters expressed 
+    the mistaken belief that the permission would allow or require most 
+    mental health care providers to report their patients to the NICS.
+        As explained above, we have carefully and narrowly tailored the 
+    final rule to apply only to a small number of covered entities that may 
+    be responsible for the adjudications that make an individual subject to 
+    the Federal mental health prohibitor, or that serve as repositories of 
+    data about such adjudications. The rule generally maintains a 
+    separation between treatment functions and NICS reporting functions. In 
+    addition, the rule does not permit the use or disclosure of any 
+    diagnostic or clinical information, or any other information about an 
+    individual that is not needed for NICS reporting purposes. Because of 
+    these strict limitations on the permitted uses and disclosures, we 
+    believe that individuals will not be dissuaded from seeking needed 
+    mental health care services as a result of the rule.
+        Finally, we recognize the intangible burden to individuals of the 
+    negative attitudes and misperceptions associated with mental health 
+    conditions. We note that the Federal mental health prohibitor does not 
+    apply to all individuals with mental health conditions, but instead to 
+    a subset of individuals who have been involuntarily committed or 
+    determined by a lawful authority to be a danger to themselves or 
+    others, or unable to manage their own affairs, as a result of marked 
+    subnormal intelligence, or mental illness, incompetency, condition, or 
+    disease. This rule permits a limited number of HIPAA covered entities 
+    to report to the NICS the identities of individuals in a particular 
+    subcategory of persons who are currently prohibited by Federal law from 
+    possessing firearms. This permission facilitates the enforcement of 
+    prohibitions that were established by the Gun Control Act. Therefore, 
+    we do not expect that this rule will exacerbate negative attitudes or 
+    misperceptions associated with mental health conditions.
+    
+    D. Qualitative Analysis of Unquantified Benefits
+    
+        While we believe that there may be benefits to public safety as a 
+    result of the rule, we are not able to monetize the value of such 
+    benefits.
+        For example, by removing a barrier to reporting, the rule may 
+    result in increased reporting to the NICS of individuals who may pose a 
+    risk of gun violence related to a serious mental health condition. To 
+    the extent that this rule permits covered entities to report those 
+    individuals' identities for NICS purposes, the rule provides a public 
+    safety benefit. One comment submitted in response to the NPRM noted 
+    that increased reporting could contribute to lowering the substantial 
+    financial costs of gun violence itself, which was estimated at $174 
+    billion in medical and lost productivity expenses in 2010.\42\ However, 
+    we do not have information about whether, or how many, covered entities 
+    would begin to report or increase reporting to the NICS as a result of 
+    the rule, nor do we have a basis for estimating the impact, if any, on 
+    the financial costs associated with gun violence.
+    ---------------------------------------------------------------------------
+    
+        \42\ This comment cited Miller TR. The Cost of Firearm Violence. 
+    Children's Safety Network Economics and Data Analysis Resource 
+    Center, at Pacific Institute for Research and Evaluation, December 
+    2012.
+    ---------------------------------------------------------------------------
+    
+        An additional benefit of the rule is that it provides clarity about 
+    the applicability of the Privacy Rule and its relationship to State 
+    law. Specifically, the rule alleviates the concerns of State lawmakers 
+    who, according to several commenters on the ANPRM, may be reluctant to 
+    pursue State legislation requiring entities to report Federal mental 
+    health prohibitor information for NICS purposes because of a 
+    misconception that the HIPAA Privacy Rule would preempt such 
+    requirements. As explained more fully above, the Privacy Rule permits 
+    uses and disclosures that are required by law, and
+    
+    [[Page 395]]
+    
+    thus would not preempt a State law requiring disclosures to NICS. 
+    However, to the extent that State lawmakers harbor this misconception, 
+    this preamble clarifies HIPAA's preemption provisions and the final 
+    rule provides an avenue for NICS reporting that may obviate the need to 
+    enact legislation at the State level.
+    
+    E. Additional Regulatory Analyses
+    
+    1. Regulatory Flexibility Act
+        The RFA requires agencies to analyze and consider options for 
+    reducing regulatory burden if a rule will impose a significant burden 
+    on a substantial number of small entities. The Act requires the head of 
+    the agency either to certify that the rule will not impose such a 
+    burden or to perform a regulatory flexibility analysis and consider 
+    alternatives to lessen the burden. For the reasons explained more fully 
+    above in the summary of costs and benefits, it is not expected that the 
+    rule will result in compliance costs for covered entities of any size 
+    because the rule does not impose new requirements. Therefore, the 
+    Secretary certifies that the rule will not have a significant impact on 
+    a substantial number of small entities.
+    2. Unfunded Mandates Reform Act
+        Section 202 of the Unfunded Mandates Reform Act of 1995 (UMRA) 
+    requires that agencies assess anticipated costs and benefits before 
+    issuing any rule whose mandates would require spending in any one year 
+    $100 million in 1995 dollars, updated annually for inflation. In 2013, 
+    that threshold is approximately $141 million dollars. UMRA does not 
+    address the total cost of a rule. Rather, it focuses on certain 
+    categories of cost, mainly those ``Federal mandate'' costs resulting 
+    from: (1) Imposing enforceable duties on State, local, or Tribal 
+    governments, or on the private sector; or (2) increasing the stringency 
+    of conditions in, or decreasing the funding of, State, local, or Tribal 
+    governments under entitlement programs. As this rule does not impose 
+    enforceable duties or affect entitlement programs, UMRA does not 
+    require us to prepare an analysis of the costs and benefits of the 
+    rule. Nonetheless, we have done so in accordance with Executive Orders 
+    12866 and 13563, and present this analysis in sections C and D above.
+    3. Federalism
+        Executive Order 13132 establishes certain requirements that an 
+    agency must meet when it promulgates a rule that imposes substantial 
+    direct requirement costs on State and local governments, preempts State 
+    law, or otherwise has Federalism implications.
+        The Federalism implications of the HIPAA Privacy and Security Rules 
+    were assessed as required by Executive Order 13132 and published as 
+    part of the preambles to the final rules on December 28, 2000 (65 FR 
+    82462, 82797) and February 20, 2003 (68 FR 8334, 8373), respectively. 
+    This final rule does not impose requirements, or any associated costs, 
+    on State and local governments. Regarding preemption, the preamble to 
+    the final Privacy Rule explained that the HIPAA statute dictates the 
+    relationship between State law and Privacy Rule requirements. 
+    Therefore, the Privacy Rule's existing preemption provisions do not 
+    raise Federalism issues, and these provisions are not affected by this 
+    rule.
+        One commenter argued that a permission for entities other than 
+    States to report to the NICS would bypass the decisions of the States 
+    regarding the submission of reports and, therefore, raises federalism 
+    implications. In response, we again emphasize that this rule does not 
+    require covered entities to make disclosures that are prohibited by 
+    State law, nor does it prevent disclosures required by State law. 
+    Further, States retain discretion to determine which entities within 
+    the State are authorized to report information to the NICS. For these 
+    reasons, the rule does not have Federalism implications.
+    
+    F. Accounting Statement
+    
+        Whenever a rule is considered a significant rule under Executive 
+    Order 12866, we are required to develop an accounting statement 
+    indicating the costs associated with the rule. As explained above, we 
+    expect that the rule is cost neutral. We did not receive public 
+    comments on any unanticipated costs associated with the rule, including 
+    costs to covered entities that choose to amend written HIPAA policies 
+    and procedures or to provide additional training to staff.
+    
+    VII. Collection of Information Requirements
+    
+        This final rule does not contain requests or requirements to report 
+    information to the government, nor does it impose new requirements for 
+    recordkeeping or disclosures to third-parties or the public. Therefore, 
+    the requirements of the Paperwork Reduction Act with respect to 
+    information collections do not apply.
+    
+    List of Subjects in 45 CFR Part 164
+    
+        Administrative practice and procedure, Computer technology, 
+    Electronic information system, Electronic transactions, Employer 
+    benefit plan, Health, Health care, Health facilities, Health insurance, 
+    Health records, Hospitals, Medicaid, Medical research, Medicare, 
+    Privacy, Reporting and recordkeeping requirements, and Security.
+    
+        For the reasons set forth in the preamble, the Department of Health 
+    and Human Services amends 45 CFR Subtitle A, Subchapter C, part 164, as 
+    set forth below:
+    
+    PART 164--SECURITY AND PRIVACY
+    
+    0
+    1. The authority citation for part 164 continues to read as follows:
+    
+        Authority: 42 U.S.C. 1302(a); 42 U.S.C. 1320d-1320d-9; sec. 264, 
+    Public Law 104-191, 110 Stat. 2033-2034 (42 U.S.C. 1320d-2(note)); 
+    and secs. 13400-13424, Public Law 111-5, 123 Stat. 258-279.
+    
+    
+    0
+    2. Amend Sec.  164.512 by adding paragraph (k)(7) to read as follows:
+    
+    
+    Sec.  164.512  Uses and disclosures for which an authorization or 
+    opportunity to agree or object is not required.
+    
+    * * * * *
+        (k) * * *
+        (7) National Instant Criminal Background Check System. A covered 
+    entity may use or disclose protected health information for purposes of 
+    reporting to the National Instant Criminal Background Check System the 
+    identity of an individual who is prohibited from possessing a firearm 
+    under 18 U.S.C. 922(g)(4), provided the covered entity:
+        (i) Is a State agency or other entity that is, or contains an 
+    entity that is:
+        (A) An entity designated by the State to report, or which collects 
+    information for purposes of reporting, on behalf of the State, to the 
+    National Instant Criminal Background Check System; or
+        (B) A court, board, commission, or other lawful authority that 
+    makes the commitment or adjudication that causes an individual to 
+    become subject to 18 U.S.C. 922(g)(4); and
+        (ii) Discloses the information only to:
+        (A) The National Instant Criminal Background Check System; or
+        (B) An entity designated by the State to report, or which collects 
+    information for purposes of reporting, on behalf of the State, to the 
+    National Instant Criminal Background Check System; and
+        (iii)(A) Discloses only the limited demographic and certain other 
+    information needed for purposes of reporting to the National Instant 
+    Criminal Background Check System; and
+    
+    [[Page 396]]
+    
+        (B) Does not disclose diagnostic or clinical information for such 
+    purposes.
+    * * * * *
+    
+        Dated: December 30, 2015.
+    Sylvia M. Burwell,
+    Secretary.
+    [FR Doc. 2015-33181 Filed 1-4-16; 4:15 pm]
+    BILLING CODE 4153-01-P
+    
+    
+    
+

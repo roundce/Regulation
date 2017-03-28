@@ -1,0 +1,424 @@
+
+    [Federal Register Volume 81, Number 1 (Monday, January 4, 2016)]
+    [Rules and Regulations]
+    [Pages 5-8]
+    From the Federal Register Online via the Government Publishing Office [[www.gpo.gov](http://www.gpo.gov)]
+    [FR Doc No: 2015-33026]
+    
+    
+    =======================================================================
+    -----------------------------------------------------------------------
+    
+    DEPARTMENT OF HEALTH AND HUMAN SERVICES
+    
+    Food and Drug Administration
+    
+    21 CFR Part 176
+    
+    [Docket No. FDA-2015-F-0714]
+    
+    
+    Indirect Food Additives: Paper and Paperboard Components
+    
+    AGENCY: Food and Drug Administration, HHS.
+    
+    ACTION: Final rule.
+    
+    -----------------------------------------------------------------------
+    
+    SUMMARY: The Food and Drug Administration (FDA or we) is amending the 
+    food additive regulations to no longer provide for the use of three 
+    specific perfluoroalkyl ethyl containing food-contact substances (FCSs) 
+    as oil and water repellants for paper and paperboard for use in contact 
+    with aqueous and fatty foods because new data are available as to the 
+    toxicity of substances structurally similar to these compounds that 
+    demonstrate there is no longer a reasonable certainty of no harm from 
+    the food-contact use of these FCSs. This action is in response to a 
+    petition filed by the Natural Resources Defense Council, the Center for 
+    Food Safety, the Breast Cancer Fund, the Center for Environmental 
+    Health, Clean Water Action, the Center for Science in the Public 
+    Interest, Children's Environmental Health Network, Environmental 
+    Working Group, and Improving Kids' Environment.
+    
+    DATES: This rule is effective January 4, 2016. Submit either electronic 
+    or written objections and requests for a hearing by February 3, 2016. 
+    See section VIII for further information on the filing of objections.
+    
+    ADDRESSES: You may submit objections and requests for a hearing as 
+    follows:
+    
+    Electronic Submissions
+    
+        Submit electronic objections in the following way:
+         Federal eRulemaking Portal: <http://www.regulations.gov>. 
+    Follow the instructions for submitting comments. Objections submitted 
+    electronically, including attachments, to <http://www.regulations.gov> 
+    will be posted to the docket unchanged. Because your objection will be 
+    made public, you are solely responsible for ensuring that your 
+    objection does not include any confidential information that you or a 
+    third party may not wish to be posted, such as medical information, 
+    your or anyone else's Social Security number, or confidential business 
+    information, such as a manufacturing process. Please note that if you 
+    include your name, contact information, or other information that 
+    identifies you in the body of your objection, that information will be 
+    posted on <http://www.regulations.gov>.
+         If you want to submit an objection with confidential 
+    information that you do not wish to be made available to the public, 
+    submit the objection as a written/paper submission and in the manner 
+    detailed (see ``Written/Paper Submissions'' and ``Instructions'').
+    
+    Written/Paper Submissions
+    
+        Submit written/paper submissions in the following way:
+         Mail/Hand delivery/Courier (for written/paper 
+    submissions): Division of Dockets Management (HFA-305), Food and Drug 
+    Administration, 5630 Fishers Lane, Rm. 1061, Rockville, MD 20852.
+         For written/paper objections submitted to the Division of 
+    Dockets Management, FDA will post your objection, as well as any 
+    attachments, except for information submitted, marked and identified, 
+    as confidential, if submitted as detailed in ``Instructions.''
+        Instructions: All submissions received must include the Docket No. 
+    FDA-
+    
+    [[Page 6]]
+    
+    2015-F-0714 for ``Indirect Food Additives: Paper and Paperboard 
+    Components.'' Received objections will be placed in the docket and, 
+    except for those submitted as ``Confidential Submissions,'' publicly 
+    viewable at <http://www.regulations.gov> or at the Division of Dockets 
+    Management between 9 a.m. and 4 p.m., Monday through Friday.
+         Confidential Submissions--To submit an objection with 
+    confidential information that you do not wish to be made publicly 
+    available, submit your objections only as a written/paper submission. 
+    You should submit two copies total. One copy will include the 
+    information you claim to be confidential with a heading or cover note 
+    that states ``THIS DOCUMENT CONTAINS CONFIDENTIAL INFORMATION.'' The 
+    Agency will review this copy, including the claimed confidential 
+    information, in its consideration of comments. The second copy, which 
+    will have the claimed confidential information redacted/blacked out, 
+    will be available for public viewing and posted on <http://www.regulations.gov>. Submit both copies to the Division of Dockets 
+    Management. If you do not wish your name and contact information to be 
+    made publicly available, you can provide this information on the cover 
+    sheet and not in the body of your comments and you must identify this 
+    information as ``confidential.'' Any information marked as 
+    ``confidential'' will not be disclosed except in accordance with 21 CFR 
+    10.20 and other applicable disclosure law. For more information about 
+    FDA's posting of comments to public dockets, see 80 FR 56469, September 
+    18, 2015, or access the information at: <http://www.fda.gov/regulatoryinformation/dockets/default.htm>.
+        Docket: For access to the docket to read background documents or 
+    the electronic and written/paper comments received, go to <http://www.regulations.gov> and insert the docket number, found in brackets in 
+    the heading of this document, into the ``Search'' box and follow the 
+    prompts and/or go to the Division of Dockets Management, 5630 Fishers 
+    Lane, Rm. 1061, Rockville, MD 20852.
+    
+    FOR FURTHER INFORMATION CONTACT: Paul Honigfort, Center for Food Safety 
+    and Applied Nutrition (HFS-275), Food and Drug Administration, 5100 
+    Paint Branch Pkwy., College Park, MD 20740-3835, 240-402-1206.
+    
+    SUPPLEMENTARY INFORMATION: 
+    
+    I. Background
+    
+        In a notice published in the Federal Register on March 16, 2015 (80 
+    FR 13508), we announced that we filed a food additive petition (FAP 
+    4B4809) submitted by the Natural Resources Defense Council, 1152 15th 
+    St. NW., Suite 300, Washington, DC 20005; the Center for Food Safety, 
+    303 Sacramento St., Second Floor, San Francisco, CA 94111; Clean Water 
+    Action, 1444 Eye St. NW., Suite 400, Washington, DC 20005; the Center 
+    for Science in the Public Interest, 1220 L St. NW., Suite 300, 
+    Washington, DC 20005; Children's Environmental Health Network, 110 
+    Maryland Ave. NE., Suite 404, Washington, DC 20002; the Breast Cancer 
+    Fund, 1388 Sutter St., Suite 400, San Francisco, CA 94109-5400; the 
+    Center for Environmental Health, 2201 Broadway, Suite 302, Oakland, CA 
+    94612; Environmental Working Group, 1436 U St. NW., Suite 100, 
+    Washington, DC 20009; and Improving Kids' Environment, 1915 West 18th 
+    St., Indianapolis, IN 46202.
+        The petition proposed to amend Sec.  176.170 (21 CFR 176.170) to no 
+    longer provide for the use of three perfluoroalkyl ethyl containing 
+    FCSs as oil and water repellants for paper and paperboard for use in 
+    contact with aqueous and fatty foods. The three FCSs which are the 
+    subjects of this petition are as follows:
+    
+        1. Diethanolamine salts of mono- and bis (1H,1H,2H,2H 
+    perfluoroalkyl) phosphates where the alkyl group is even-numbered in 
+    the range C8-C18 and the salts have a fluorine content of 52.4 
+    percent to 54.4 percent as determined on a solids basis;
+        2. Pentanoic acid, 4,4-bis [(gamma-omega-perfluoro-C8-20-
+    alkyl)thio] derivatives, compounds with diethanolamine (CAS Reg. No. 
+    71608-61-2); and
+        3. Perfluoroalkyl substituted phosphate ester acids, ammonium 
+    salts formed by the reaction of 2,2-bis[([gamma], [omega]-perfluoro 
+    C4-20 alkylthio) methyl]-1,3-propanediol, polyphosphoric acid and 
+    ammonium hydroxide.
+    
+    II. Evaluation of Safety
+    
+        The three subject FCSs are regulated as food additives under the 
+    Federal Food, Drug, and Cosmetic Act (the FD&C; Act). Section 409 of the 
+    FD&C; Act (21 U.S.C. 348) sets forth the statutory requirements for food 
+    additives. Section 201(s) of the FD&C; Act (21 U.S.C. 321(s)) includes 
+    substances intended for use in producing, manufacturing, packing, 
+    processing, preparing, treating, packaging, transporting, or holding 
+    food among the substances defined as food additives, provided the 
+    intended use results or may reasonably be expected to result in it 
+    becoming a component of food and those uses were not sanctioned prior 
+    to 1958 or are not generally recognized as safe among experts qualified 
+    by scientific training and experience to evaluate its safety.
+        Under section 402(a)(2)(c)(1) of the FD&C; Act (21 U.S.C. 
+    342(a)(2)(c)(1)), food shall be deemed to be adulterated if it is or if 
+    it bears or contains any food additive that is unsafe within the 
+    meaning of section 409 of the FD&C; Act. A food additive shall be deemed 
+    to be unsafe under section 409 of the FD&C; Act, in relevant part, 
+    unless its use conforms to a food additive regulation or an effective 
+    food contact notification. Section 409(i) of the FD&C; Act states that 
+    the procedure for amending or repealing a regulation shall conform to 
+    the procedure for the promulgation of such regulations. FDA's 
+    regulations specific to the administrative actions for food additives 
+    provide that the Commissioner, either on his own initiative or on the 
+    petition of any interested person, may propose the issuance of a 
+    regulation amending or repealing a regulation pertaining to a food 
+    additive (Sec.  171.130(a) (21 CFR 171.130(a)). These regulations 
+    further provide that any such petition must include an assertion of 
+    facts, supported by data, showing that new information exists with 
+    respect to the food additive or that new uses have been developed or 
+    old uses abandoned, that new data are available as to toxicity of the 
+    chemical, or that experience with the existing regulation or exemption 
+    may justify its amendment or appeal. New data must be furnished in the 
+    form specified in Sec.  171.1 (21 CFR 171.1) and 21 CFR 171.100 for 
+    submitting petitions (see Sec.  171.130(b)). Under these regulations, a 
+    petitioner may propose that we amend a food additive regulation if the 
+    petitioner can demonstrate that new data are available as to the 
+    toxicity of the food additive that may justify amendment of the food 
+    additive regulation.
+        Under section 409(c)(3) of the FD&C; Act we will not establish a 
+    regulation for the use of a food additive if a fair evaluation of the 
+    data fails to establish that the proposed use of the food additive, 
+    under the conditions of use to be specified in the regulation, will be 
+    safe. Our regulations, at 21 CFR 170.3(h)(i), define safety as ``a 
+    reasonable certainty in the minds of competent scientists that the 
+    substance is not harmful under the intended conditions of use.'' In 
+    order for FDA to grant a petition that seeks an amendment to a food 
+    additive regulation based upon new data concerning the toxicity of the 
+    food additive, such data must be adequate for FDA to conclude that 
+    there is no longer
+    
+    [[Page 7]]
+    
+    a reasonable certainty of no harm for the intended use of the 
+    substance.
+        The petition asserts that publically available information on long-
+    chain perfluorinated compounds as a chemical class, which has become 
+    available after the food contact use of the three FCSs was approved, 
+    demonstrates that there is no longer a reasonable certainty of no harm 
+    from the food contact use of the three FCSs as listed in Sec.  176.170.
+        All three of the FCSs subject to the petition contain extended 
+    alkyl chains where all of the hydrogens are replaced by fluorine (hence 
+    the FCSs are ``perfluorinated''). The toxicological profile of extended 
+    perfluorinated alkyl chains varies with chain length: On a general 
+    basis, those with extended perfluorinated alkyl chains greater than or 
+    equal to eight carbons in length demonstrate biopersistence in chronic 
+    feeding studies, while those with extended perfluorinated alkyl chains 
+    less than eight carbons in length do not (Ref. 1). Biopersistence is 
+    defined as persistence and accumulation of a material in a biological 
+    tissue due to preferential deposition of the material in the tissue 
+    combined with resistance of the material to removal from the tissue by 
+    natural clearance mechanisms (Ref. 2). As such, compounds containing 
+    extended perfluorinated alkyl chains are often classified as long- 
+    (i.e., >= eight carbons in length) or short-chain perfluorinated 
+    compounds, with implications for toxicology analysis including 
+    consideration of biopersistence. All three of the FCSs contain extended 
+    perfluorinated alkyl chains >= eight carbons in length and as such are 
+    long-chain perfluorinated compounds (PFCs).
+        The petition cites a 2010 FDA comprehensive review memorandum on 
+    the available literature for long-chain PFCs (Ref. 3). This memorandum 
+    noted that available data on long-chain perfluorocarboxylic acids and 
+    fluorotelomer alcohols, both of which are subsets of long-chain PFCs, 
+    demonstrate reproductive and developmental toxicity in animal models. 
+    The FDA memorandum determined that, based on structural similarity to 
+    long-chain perfluorocarboxylic acids and fluorotelomer alcohols, and in 
+    the absence of contradictory data, data demonstrating reproductive and 
+    developmental toxicity for long-chain perfluorocarboxylic acids and 
+    fluorotelomer alcohols was applicable to long-chain PFCs on a general 
+    basis. The petition asserts that, as the three subject FCSs are long-
+    chain PFCs, the concern for reproductive and developmental toxicity for 
+    long-chain PFCs as determined in FDA's 2010 comprehensive review 
+    memorandum is applicable to these three FCSs. The petition also 
+    provides the results of an updated comprehensive literature search, 
+    which the petition asserts reinforces the concern for reproductive and 
+    developmental toxicity for long-chain PFCs. The petition also asserts 
+    that the updated literature search did not discover any information 
+    which would contradict FDA's 2010 determination that data demonstrating 
+    reproductive and developmental toxicity for long-chain 
+    perfluorocarboxylic acids and fluorotelomer alcohols was applicable to 
+    long-chain PFCs on a general basis.
+        Upon review of the available information, FDA has confirmed our 
+    2010 determination that data demonstrating reproductive and 
+    developmental toxicity for long-chain perfluorocarboxylic acids and 
+    fluorotelomer alcohols are applicable to long-chain PFCs on a general 
+    basis (Ref. 4). FDA's updated review noted that there are no available 
+    toxicological studies conducted with the three FCSs that address the 
+    endpoints of reproductive or developmental toxicity. As all three FCSs 
+    are long-chain PFCs, and in the absence of data specific to the three 
+    FCSs to address these endpoints, FDA utilized the available data 
+    demonstrating reproductive and developmental toxicity for long-chain 
+    perfluorocarboxylic acids and fluorotelomer alcohols to assess the 
+    safety of the approved food-contact use of the FCSs. FDA's updated 
+    review noted deficiencies in the available information used to 
+    determine migration of the FCSs into food as a result of their approved 
+    food-contact use (Ref. 5). For this reason FDA was unable to calculate 
+    consumer exposure to the FCSs in a manner which would allow a 
+    quantitative assessment of the safety of that exposure in the context 
+    of the available data demonstrating reproductive and developmental 
+    toxicity for long-chain perfluorocarboxylic acids and fluorotelomer 
+    alcohols. However, FDA's review noted that available data demonstrate 
+    that long-chain perfluorocarboxylic acids and fluorotelomer alcohols 
+    biopersist in animals and that this biopersistence also occurs in 
+    humans (Ref. 4). Although available migration information does not 
+    allow a quantitative assessment of the safety of exposure to these 
+    FCSs, the reproductive and development toxicity of the three FCSs can 
+    be qualitatively assessed in the context of biopersistence and the 
+    expectation that chronic dietary exposure to these FCSs would result in 
+    a systemic exposure to the FCSs or their metabolic by-products at 
+    levels higher than their daily dietary exposure (Ref. 4).
+    
+    III. Comments on the Filing Notice
+    
+        We received very few comments on the petition. These comments 
+    stated that the use of the three FCSs as listed in Sec.  176.170 has 
+    been abandoned.
+        The basis for the action requested in the petition is that new data 
+    are available as to the toxicity of substances structurally similar to 
+    the subject FCSs that justify amending Sec.  176.170. The petition is 
+    not based on abandonment of the approved food contact use of these 
+    three FCSs. We have made a determination that the information provided 
+    in the petition and other publicly available relevant data demonstrates 
+    that there is no longer a reasonable certainty of no harm for the food 
+    contact use of the three FCS.
+    
+    IV. Conclusion
+    
+        We reviewed the data and information in the petition and other 
+    available relevant material to evaluate whether new data are available 
+    as to the toxicity of the subject FCSs that justify amendment of Sec.  
+    176.170. As a result of this review, we concluded that data for subsets 
+    of long-chain PFCs (demonstrating biopersistence and reproductive and 
+    developmental toxicity) are applicable to long-chain PFCs on a general 
+    basis and that this data raises significant questions as to the safety 
+    of the authorized uses of the three FCSs subject to the petition (Ref. 
+    4). We also concluded that there is a lack of data specific to the 
+    three subject FCSs subject to the petition to address these questions 
+    (Ref. 4). For these reasons, in the absence of data specific to the 
+    three FCSs to address reproductive and developmental toxicity, adequate 
+    migration data to determine dietary exposure to the FCSs from the food-
+    contact use, and sufficient data to account for a consumer's systemic 
+    exposure resulting from chronic dietary exposure to these FCSs, we 
+    conclude that there is no longer a reasonable certainty of no harm for 
+    the food contact use of these FCSs. Therefore, we are amending part 176 
+    as set forth in this document. Upon the effective date (see DATES), 
+    these food additive uses are no longer authorized.
+    
+    V. Public Disclosure
+    
+        In accordance with Sec.  171.1(h), the petition and the documents 
+    that we considered and relied upon in reaching our decision to approve 
+    the petition will
+    
+    [[Page 8]]
+    
+    be made available for public disclosure (see FOR FURTHER INFORMATION 
+    CONTACT). As provided in Sec.  171.1(h), we will delete from the 
+    documents any materials that are not available for public disclosure.
+    
+    VI. Environmental Impact
+    
+        We have considered the environmental effects of this rule. As 
+    stated in the March 16, 2015, Federal Register notice of petition for 
+    FAP 4B4809 (80 FR 13508), we have determined, under 21 CFR 25.15(c), 
+    that this action ``is of a type that does not individually or 
+    cumulatively have a significant effect on the human environment'' such 
+    that neither an environmental assessment nor an environmental impact 
+    statement is required, as set forth in 21 CFR 25.32(m). We have not 
+    received any new information or comments that would affect our previous 
+    determination.
+    
+    VII. Paperwork Reduction Act of 1995
+    
+        This final rule contains no collection of information. Therefore, 
+    clearance by the Office of Management and Budget under the Paperwork 
+    Reduction Act of 1995 is not required.
+    
+    VIII. Objections
+    
+        If you will be adversely affected by one or more provisions of this 
+    regulation, you may file with the Division of Dockets Management (see 
+    ADDRESSES) either electronic or written objections. You must separately 
+    number each objection, and within each numbered objection you must 
+    specify, with particularity, the provision(s) to which you object and 
+    the grounds for your objection. Within each numbered objection, you 
+    must specifically state whether you are requesting a hearing on the 
+    particular provision that you specify in that numbered objection. If 
+    you do not request a hearing for any particular objection, you waive 
+    the right to a hearing on that objection. If you request a hearing, 
+    your objection must include a detailed description and analysis of the 
+    specific factual information you intend to present in support of the 
+    objection in the event that a hearing is held. If you do not include 
+    such a description and analysis for any particular objection, you waive 
+    the right to a hearing on the objection.
+        Any objections received in response to the regulation may be seen 
+    in the Division of Dockets Management between 9 a.m. and 4 p.m., Monday 
+    through Friday, and will be posted to the docket at <http://www.regulations.gov>. We will publish notice of the objections that we 
+    have received or lack thereof in the Federal Register.
+    
+    IX. References
+    
+        The following references have been placed on display in the 
+    Division of Dockets Management (see ADDRESSES) and are available for 
+    viewing by interested persons between 9 a.m. and 4 p.m., Monday through 
+    Friday; they are also available electronically at <http://www.regulations.gov>. FDA has verified the Web site addresses, as of the 
+    date this document publishes in the Federal Register, but Web sites are 
+    subject to change over time.
+    
+        1. Rice, P.A. ``C6-Perfluorinated Compounds: The New 
+    Greaseproofing Agents in Food Packaging,'' Current Environmental 
+    Health Reports, 2:1, pp. 33-40, 2015.
+        2. International Agency for Research on Cancer, <http://monographs.iarc.fr/ENG/Monographs/vol81/mono81-8.pdf>.
+        3. FDA Memorandum from P. Rice to P. Honigfort, September 30, 
+    2010.
+        4. FDA Memorandum from P. Rice to P. Honigfort, July 27, 2015.
+        5. FDA Memorandum from J. Cooper to P. Honigfort, July 23, 2015.
+    
+    List of Subjects in 21 CFR Part 176
+    
+        Food additives, Food packaging.
+    
+        Therefore, under the Federal Food, Drug, and Cosmetic Act and under 
+    authority delegated to the Commissioner of Food and Drugs and re-
+    delegated to the Director, Center for Food Safety and Applied 
+    Nutrition, 21 CFR part 176 is amended as follows:
+    
+    PART 176--INDIRECT FOOD ADDITIVES: PAPER AND PAPERBOARD COMPONENTS
+    
+    0
+    1. The authority citation for 21 CFR part 176 continues to read as 
+    follows:
+    
+        Authority: 21 U.S.C. 321, 342, 346, 348, 379e.
+    
+    
+    Sec.  176.170  [Amended]
+    
+    0
+    2. Amend Sec.  176.170 in the table in paragraph (a)(5) by removing the 
+    entries for ``Diethanolamine salts of mono- and bis,'' ``Pentanoic 
+    acid,'' and ``Perfluoroalkyl substituted phosphate ester acids.''
+    
+        Dated: December 29, 2015.
+    Susan Bernard,
+    Director, Office of Regulations, Policy and Social Sciences, Center for 
+    Food Safety and Applied Nutrition.
+    [FR Doc. 2015-33026 Filed 12-31-15; 8:45 am]
+     BILLING CODE 4164-01-P
+    
+    
+    
+

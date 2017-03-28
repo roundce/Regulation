@@ -1,0 +1,718 @@
+
+    [Federal Register Volume 81, Number 4 (Thursday, January 7, 2016)]
+    [Rules and Regulations]
+    [Pages 727-732]
+    From the Federal Register Online via the Government Publishing Office [[www.gpo.gov](http://www.gpo.gov)]
+    [FR Doc No: 2015-33258]
+    
+    
+    -----------------------------------------------------------------------
+    
+    DEPARTMENT OF TRANSPORTATION
+    
+    Federal Aviation Administration
+    
+    14 CFR Part 91
+    
+    [Docket No.: FAA-2015-8672; Amdt. No. 91-340]
+    RIN 2120-AK72
+    
+    
+    Prohibition Against Certain Flights in Specified Areas of the 
+    Sanaa (OYSC) Flight Information Region (FIR)
+    
+    AGENCY: Federal Aviation Administration (FAA), Department of 
+    Transportation (DOT).
+    
+    ACTION: Final rule.
+    
+    -----------------------------------------------------------------------
+    
+    SUMMARY: On May 22, 2015, the FAA issued a Notice to Airmen (NOTAM) 
+    prohibiting certain flight operations in specified areas of the Sanaa 
+    (OYSC) Flight Information Region (FIR) by all U.S. air carriers; U.S. 
+    commercial operators; persons exercising the privileges of a U.S. 
+    airman certificate, except when such persons are operating a U.S.-
+    registered aircraft for a foreign air carrier; and operators of U.S.-
+    registered civil aircraft, except when such operators are foreign air 
+    carriers. The FAA found this action necessary to address the hazardous 
+    situation created by the risks to U.S. civil aviation from ongoing 
+    military operations, political instability, violence from competing 
+    armed groups, and the continuing terrorism threat from extremist 
+    elements associated with the fighting and instability in Yemen. The 
+    prohibition contained in the May 22, 2015 NOTAM was continued in a 
+    subsequent NOTAM issued on November 25, 2015 that used a new 
+    accountability code for NOTAMs that announce FAA flight advisories or 
+    prohibitions for U.S. civil aviation operations in airspace for which 
+    the FAA is not the air navigation service provider. This action 
+    incorporates the flight prohibition contained in the November 25, 2015, 
+    NOTAM into the Code of Federal Regulations.
+    
+    DATES: This final rule is effective on January 7, 2016.
+    
+    FOR FURTHER INFORMATION CONTACT: For technical questions concerning 
+    this action, contact Michael Filippell, Air Transportation Division, 
+    AFS-220, Flight Standards Service, Federal Aviation Administration, 800 
+    Independence Avenue SW., Washington, DC 20591; telephone 202-267-8166; 
+    email [michael.e.filippell@faa.gov](mailto:michael.e.filippell@faa.gov).
+    
+    SUPPLEMENTARY INFORMATION: 
+    
+    I. Executive Summary
+    
+        This action prohibits flight operations in the Sanaa (OYSC) FIR, 
+    excluding that airspace east and southeast of a line drawn direct from 
+    KAPET (163322N 0530614E) to NODMA (152603N 0533359E), then direct from 
+    NODMA to PAKER (115500N 0463500E), by all U.S. air carriers; U.S. 
+    commercial operators; persons exercising the privileges of a U.S. 
+    airman certificate, except when such persons are operating a U.S.-
+    registered aircraft for a foreign air carrier; and operators of U.S.-
+    registered civil aircraft, except when such operators are foreign air 
+    carriers. The FAA finds this action necessary to prevent a hazard to 
+    persons and aircraft engaged in such flight operations.
+    
+    II. Good Cause for Immediate Adoption
+    
+        Section 553(b)(3)(B) of title 5, U.S. Code, authorizes agencies to 
+    dispense with notice and comment procedures for rules when the agency 
+    for ``good cause'' finds that those procedures are ``impracticable, 
+    unnecessary, or contrary to the public interest.'' In this instance, 
+    the FAA finds that notice and public comment to this immediately 
+    adopted final rule, as well as any delay in the effective date of this 
+    rule, are contrary to the public interest due to the immediate need to 
+    address the hazard to U.S. civil aviation that now exists in specified 
+    areas of the Sanaa (OYSC) FIR, as described in the Background section 
+    of this rule.
+    
+    III. Authority for This Rulemaking
+    
+        The FAA is responsible for the safety of flight in the U.S. and the 
+    safety of U.S. civil operators, U.S.-registered civil aircraft, and 
+    U.S.-certificated airmen throughout the world. The FAA's authority to 
+    issue rules on aviation safety is found in title 49, U.S. Code. 
+    Subtitle I, section 106(f), describes the authority of the FAA 
+    Administrator. Subtitle VII of title 49, Aviation Programs, describes 
+    in more detail the scope of the agency's authority. Section 40101(d)(1) 
+    provides that the Administrator shall consider in the public interest, 
+    among other matters, assigning, maintaining, and enhancing safety an 
+    security as the highest priorities in air commerce. Section 
+    40105(b)(1)(A) requires the Administrator to exercise his authority 
+    consistently with the obligations of the U.S. Government under 
+    international agreements.
+        This rulemaking is promulgated under the authority described in 
+    Subtitle VII, Part A, subpart III, section 44701, General requirements. 
+    Under that section, the FAA is charged broadly with promoting safe 
+    flight of civil aircraft in air commere by prescribing, among other 
+    things, regulations and minimum standards for practices, methods, and 
+    procedures that the Administrator finds necessary for safety in air 
+    commerce an national security. This regulation is within the scope of 
+    that authority, because it prohibits the persons subject to paragraph 
+    (a) of Special Federal Aviation Regulation (SFAR) No. 115, Sec.  
+    91.1611, from conducting flight operations in the Sanaa (OYSC) FIR due 
+    to the hazard to the safety of such persons' flight operations, as 
+    described in the Background section of this rule.
+    
+    IV. Background
+    
+        On March 26, 2015 (FDC 5/8051), the FAA issued a NOTAM prohibiting 
+    flight operations in the entire Sanaa (OYSC) FIR by all U.S. air 
+    carriers; U.S. commercial operators; persons exercising the privileges 
+    of a U.S. airman certificate, except when such persons were operating a 
+    U.S.-registered aircraft for a foreign air carrier; and operators of 
+    U.S.-registered civil aircraft, except when such operators were foreign 
+    air carriers. The FAA took this action because it had determined that 
+    there was an unacceptable risk to U.S. civil aviation operating in the 
+    Sanaa (OYSC) FIR due to the hazardous situation faced by U.S. civil 
+    aviation from ongoing military operations, political instability, 
+    violence from competing armed groups, and the continuing terrorism 
+    threat from extremist elements associated with the fighting and 
+    instability in Yemen.
+        After issuing the March 26, 2015, NOTAM, the FAA continued to 
+    monitor the risks to U.S. civil aviation in the Sanaa (OYSC) FIR. On 
+    May 22, 2015, after evaluating available information regarding the 
+    safety of certain air traffic routes over the high seas in the Sanaa 
+    (OYSC) FIR, including B400, B403 and B404, given current military 
+    operations and other threats to U.S. civil aviation in the region, the 
+    FAA determined that U.S. civil aviation operations could operate safely 
+    in part of the Sanaa (OYSC) FIR. The FAA issued a new NOTAM (FDC 5/
+    5575), which allowed U.S. civil aviation operations to resume in 
+    specified areas of the Sanaa (OYSC) FIR. Specifically, the May 22, 
+    2015, NOTAM permitted U.S. civil aviation operations to resume in the 
+    Sanaa (OYSC) FIR in that airspace east and southeast of a line drawn 
+    direct from
+    
+    [[Page 728]]
+    
+    KAPET (163322N 0530614E) to NODMA (152603N 0533359E), then direct from 
+    NODMA to PAKER (115500N 0463500E). However, the FAA continued to have 
+    serious concerns about the safety of U.S. civil aviation in the rest of 
+    the Sanaa (OYSC) FIR, as described in the remaining paragraphs of this 
+    Background section, and U.S. civil aviation operations in that airspace 
+    west and northwest of the line described in the preceding sentence 
+    remained prohibited.
+        On November 25, 2015, KICZ NOTAM A0036/15 replaced FDC NOTAM 5/5575 
+    (A0019/15). The new NOTAM was published as the FAA transitioned from 
+    using Flight Data Center NOTAMs to the new KICZ accountability code for 
+    NOTAMS that announce FAA flight advisories or prohibitions for U.S. 
+    civil aviation operations in airspace for which the FAA is not the air 
+    navigation service provider. The details of the FAA's flight 
+    prohibition remained unchanged. This final rule incorporates the 
+    prohibition contained in the November 25, 2015, NOTAM into the Code of 
+    Federal Regulations.
+        The FAA has determined that there is an unacceptable risk to U.S. 
+    civil aviation operating in the Sanaa (OYSC) FIR, excluding that 
+    airspace east and southeast of a line drawn direct from KAPET (163322N 
+    0530614E) to NODMA (152603N 0533359E), then direct from NODMA to PAKER 
+    (115500N 0463500E), due to the hazardous situation faced by U.S. civil 
+    aviation from ongoing military operations, political instability, 
+    violence from competing armed groups, and the continuing terrorism 
+    threat from extremist elements associated with the fighting and 
+    instability in Yemen.
+        International civil air routes that transit the specified areas of 
+    the Sanaa (OYSC) FIR and aircraft operating to and from Yemeni airports 
+    are at risk from terrorist and militant groups potentially employing 
+    anti-aircraft weapons, including Man-Portable Air Defense Systems 
+    (MANPADS), surface-to-air missiles (SAMs), small-arms fire, and 
+    indirect fire from mortars and rockets. Due to the fighting and 
+    instability, there is a risk of possible loss of state control over 
+    more advanced anti-aircraft weapons to terrorist and militant groups, 
+    and some of these weapons have the capability to target aircraft at 
+    higher altitudes and/or during approach and departure and have weapon 
+    ranges that could extend into the near off-shore areas along Yemen's 
+    coastline. U.S. civil aviation is also at risk from combat operations 
+    and other military-related activity associated with the fighting and 
+    instability. There is also an ongoing threat of terrorism. Al-Qa'ida in 
+    the Arabian Peninsula (AQAP) is active in Yemen and has demonstrated 
+    the capability and intent to target U.S. and Western aviation 
+    interests.
+        Attacks against aircraft in flight or Yemeni airports can occur 
+    with little or no warning. Various Yemeni airports have been attacked 
+    during the fighting, including Sanaa International Airport (OYSN) and 
+    Aden International Airport (OYAA), resulting in damage to airport 
+    facilities and temporary closure of the airports. In recent years, 
+    Sanaa International Airport (OYSN) has been shut down on numerous 
+    occasions due to indirect fire and threats of attack against the 
+    airport and aircraft at low altitudes during approach and/or departure.
+        There is also a risk to U.S. civil aviation from potential 
+    strategic SAM systems. Some of these air defense SAMs pose a threat to 
+    civil aviation out to 40 nautical miles and can reach altitudes above 
+    the normal cruising levels for civil air traffic. On March 28, 2015, a 
+    probable SAM missile was launched from the vicinity of Al Hudaydah, 
+    Yemen along the Red Sea.
+        Given the uncertainty about when the above-described hazards to 
+    U.S. civil aviation will abate sufficiently to allow for safe U.S. 
+    civil aviation operations in the specified areas of the Sanaa (OYSC) 
+    FIR, this new SFAR follows up on the November 25, 2015, NOTAM and 
+    incorporates the flight prohibition contained in the November 25, 2015, 
+    NOTAM into the Code of Federal Regulations.
+        The FAA will continue to actively evaluate the area to determine to 
+    what extent U.S. civil aviation may be able to safely operate therein. 
+    Adjustments to this SFAR may be appropriate if the risk to aviation 
+    safety and security changes. The FAA may amend or rescind this SFAR as 
+    necessary prior to its expiration date.
+        Because the circumstances described herein warrant immediate action 
+    by the FAA, I find that notice and public comment under 5 U.S.C. 
+    553(b)(3)(B) are impracticable and contrary to the public interest. 
+    Further, I find that good cause exists under 5 U.S.C. 553(d) for making 
+    this rule effective immediately upon issuance. I also find that this 
+    action is fully consistent with the obligation under 49 U.S.C. 40105 to 
+    ensure that I exercise my duties consistently with the obligations of 
+    the United States under international agreements.
+    
+    V. Approval Based on Authorization Request of an Agency of the United 
+    States Government
+    
+        If a department, agency, or instrumentality of the U.S. Government 
+    determines that it has a critical need to engage any person covered 
+    under SFAR No. 115, Sec.  91.1611, including a U.S. air carrier or a 
+    U.S. commercial operator, to conduct a charter to transport civilian or 
+    military passengers or cargo or other operations in the specified areas 
+    of the Sanaa (OYSC) FIR, that department, agency, or instrumentality 
+    may request that the FAA approve persons covered under SFAR No. 115, 
+    Sec.  91.1611, to conduct such operations. An approval request must be 
+    made directly by the requesting department, agency, or instrumentality 
+    of the U.S. Government to the FAA's Associate Administrator for 
+    Aviation Safety (AVS-1) in a letter signed by an appropriate senior 
+    official of the requesting department, agency, or instrumentality. 
+    Requests for approval submitted to the FAA by anyone other than the 
+    requesting department, agency, or instrumentality will not be accepted 
+    and will not be processed. In addition, the senior official signing the 
+    letter requesting FAA approval on behalf of the requesting department, 
+    agency, or instrumentality must be sufficiently highly placed within 
+    his or her organization to demonstrate that the senior leadership of 
+    the requesting department, agency, or instrumentality supports the 
+    request for approval and is committed to taking all necessary steps to 
+    minimize operational risks to the proposed flights. The senior official 
+    must also be in a position to: (1) Attest to the accuracy of all 
+    representations made to the FAA in the request for approval and (2) 
+    ensure that any support from the requesting U.S. government department, 
+    agency, or instrumentality described in the request for approval is in 
+    fact brought to bear and is maintained over time. Unless justified by 
+    exigent circumstances, requests for approval must be submitted to the 
+    FAA no less than 30 calendar days before the date on which the 
+    requesting department, agency, or instrumentality wishes the proposed 
+    operations, if approved by the FAA, to commence.
+        The letter must be sent by the requesting department, agency, or 
+    instrumentality to the Associate Administrator for Aviation Safety 
+    (AVS-1), Federal Aviation Administration, 800 Independence Avenue SW., 
+    Washington, DC 20591. Electronic submissions are acceptable, and the 
+    requesting entity may request that the FAA notify it electronically as
+    
+    [[Page 729]]
+    
+    to whether the approval request is granted. If a requestor wishes to 
+    make an electronic submission to the FAA, the requestor should contact 
+    the Air Transportation Division, Flight Standards Service, at (202) 
+    267-8166 to obtain the appropriate email address. A single letter may 
+    request approval from the FAA for multiple persons covered under SFAR 
+    No. 115, Sec.  91.1611, and/or for multiple flight operations. To the 
+    extent known, the letter must identify the person(s) covered under the 
+    SFAR on whose behalf the U.S. Government department, agency, or 
+    instrumentality seeks FAA approval, and it must describe--
+         The proposed operation(s), including the nature of the 
+    mission being supported;
+         The service to be provided by the person(s) covered by the 
+    SFAR;
+         To the extent known, the specific locations in the 
+    specified areas of the Sanaa (OYSC) FIR where the proposed operation(s) 
+    will be conducted, including, but not limited to, the flight path and 
+    altitude of the aircraft while operating in the specified areas of the 
+    Sanaa (OYSC) FIR and the airports, airfields and/or landing zones at 
+    which the aircraft will take-off and land; and
+         The method by which the department, agency, or 
+    instrumentality will provide, or how the operator will otherwise 
+    obtain, current threat information and an explanation of how the 
+    operator will integrate this information into all phases of the 
+    proposed operations (e.g., pre-mission planning and briefing, in-
+    flight, and post-flight).
+        The request for approval must also include a list of operators with 
+    whom the U.S. Government department, agency, or instrumentality 
+    requesting FAA approval has a current contract(s), grant(s), or 
+    cooperative agreement(s) (or with whom its prime contractor has a 
+    subcontract(s)) for specific flight operations in the specified areas 
+    of the Sanaa (OYSC) FIR. Additional operators may be identified to the 
+    FAA at any time after the FAA approval is issued. However, all 
+    additional operators must be identified to the FAA, and must obtain the 
+    necessary operations specification (OpsSpec) or letter of authorization 
+    (LOA), as applicable, from the FAA, before such operators commence 
+    operations in the specified areas of the Sanaa (OYSC) FIR. Updated 
+    lists should be sent to the email address to be obtained from the Air 
+    Transportation Division by calling (202) 267-8166.
+        If an approval request includes classified information, requestors 
+    may contact Aviation Safety Inspector Michael Filippell for 
+    instructions on submitting it to the FAA. His contact information is 
+    listed in the For Further Information Contact section of this final 
+    rule.
+        FAA approval of an operation under SFAR No. 115, Sec.  91.1611, 
+    does not relieve persons subject to this SFAR of their responsibility 
+    to comply with all applicable FAA rules and regulations. Operators of 
+    civil aircraft must also comply with the conditions of their 
+    certificate, OpsSpecs, and LOAs, as applicable. Operators must further 
+    comply with all rules and regulations of other U.S. Government 
+    departments and agencies that may apply to the proposed operation, 
+    including, but not limited to, the Transportation Security Regulations 
+    issued by the Transportation Security Administration, Department of 
+    Homeland Security.
+    
+    Approval Conditions
+    
+        If the FAA approves the request, the FAA's Aviation Safety 
+    Organization (AVS) will send an approval letter to the requesting 
+    department, agency, or instrumentality informing it that the FAA's 
+    approval is subject to all of the following conditions:
+        (1) The approval will stipulate those procedures and conditions 
+    that limit, to the greatest degree possible, the risk to the operator, 
+    while still allowing the operator to achieve its operational 
+    objectives.
+        (2) Before any approval takes effect, the operator must submit to 
+    the FAA:
+        (a) A written release of the U.S. Government from all damages, 
+    claims, and liabilities, including without limitation legal fees and 
+    expenses, and
+        (b) The operator's agreement to indemnify the U.S. Government with 
+    respect to any and all third-party damages, claims, and liabilities, 
+    including without limitation legal fees and expenses, relating to any 
+    event arising from or related to the approved operations in the 
+    specified areas of the Sanaa (OYSC) FIR; and
+        (3) Other conditions that the FAA may specify, including those that 
+    may be imposed in OpsSpecs or LOAs, as applicable.
+        The release and agreement to indemnify do not preclude an operator 
+    from raising a claim under an applicable non-premium war risk insurance 
+    policy issued by the FAA under chapter 443 of title 49, United States 
+    Code.
+        If the proposed operation or operations are approved, the FAA will 
+    issue an OpsSpec or an LOA, as applicable, to the operator authorizing 
+    the operation or operations, and will notify the department, agency, or 
+    instrumentality that requested the FAA's approval of any additional 
+    conditions beyond those contained in the approval letter. The 
+    requesting department, agency, or instrumentality must have a contract, 
+    grant, or cooperative agreement (or its prime contractor must have a 
+    subcontract) with the person(s) described in paragraph (a) of this SFAR 
+    No. 115, Sec.  91.1611, on whose behalf the department, agency, or 
+    instrumentality requests FAA approval.
+    
+    VI. Requests for Exemption
+    
+        Any operations not conducted under the approval process set forth 
+    previously must be conducted under an exemption from SFAR No. 115, 
+    Sec.  91.1611. A request by any person covered under SFAR No. 115, 
+    Sec.  91.1611, for an exemption must comply with 14 CFR part 11, and 
+    will require exceptional circumstances beyond those contemplated by the 
+    approval process set forth previously. In addition to the information 
+    required by 14 CFR 11.81, at a minimum, the requestor must describe in 
+    its submission to the FAA--
+         The proposed operation(s), including the nature of the 
+    operation;
+         The service to be provided by the person(s) covered by the 
+    SFAR;
+         The specific locations in the specified areas of the Sanaa 
+    (OYSC) FIR where the proposed operation(s) will be conducted, 
+    including, but not limited to, the flight path and altitude of the 
+    aircraft while operating in the specified areas of the Sanaa FIR and 
+    the airports, airfields and/or landing zones at which the aircraft will 
+    take-off and land; and
+         The method by which the operator will obtain current 
+    threat information, and an explanation of how the operator will 
+    integrate this information into all phases of its proposed operations 
+    (e.g., the pre-mission planning and briefing, in-flight, and post-
+    flight phases).
+        Additionally, the release and agreement to indemnify, as referred 
+    to above, will be required as a condition of any exemption that may be 
+    issued under SFAR No. 115, Sec.  91.1611.
+        The FAA recognizes that operations that may be affected by SFAR No. 
+    115, Sec.  91.1611, may be planned for the governments of other 
+    countries with the support of the U.S. Government. While these 
+    operations will not be permitted through the approval process, the FAA 
+    will process exemption requests for such operations on an expedited 
+    basis and prior to any private exemption requests.
+    
+    VII. Regulatory Notices and Analyses
+    
+    A. Regulatory Evaluation
+    
+        Changes to Federal regulations must undergo several economic 
+    analyses.
+    
+    [[Page 730]]
+    
+    First, Executive Orders 12866 and 13563 direct that each Federal agency 
+    shall propose or adopt a regulation only upon a reasoned determination 
+    that the benefits of the intended regulation justify its costs. Second, 
+    the Regulatory Flexibility Act of 1980 (Pub. L. 96-354), as codified in 
+    5 U.S.C. 603 et seq., requires agencies to analyze the economic impact 
+    of regulatory changes on small entities. Third, the Trade Agreements 
+    Act of 1979 (Pub. L. 96-39), as amended, 19 U.S.C. Chapter 13, 
+    prohibits agencies from setting standards that create unnecessary 
+    obstacles to the foreign commerce of the United States. In developing 
+    U.S. standards, the Trade Agreements Act requires agencies to consider 
+    international standards and, where appropriate, that they be the basis 
+    of U.S. standards. Fourth, the Unfunded Mandates Reform Act of 1995 
+    (Pub. L. 104-4), as codified in 2 U.S.C. Chapter 25, requires agencies 
+    to prepare a written assessment of the costs, benefits, and other 
+    effects of proposed or final rules that include a Federal mandate 
+    likely to result in the expenditure by State, local, or tribal 
+    governments, in the aggregate, or by the private sector, of $100 
+    million or more annually (adjusted for inflation with a base year of 
+    1995). This portion of the preamble summarizes the FAA's analysis of 
+    the economic impacts of this final rule.
+        Department of Transportation (DOT) Order 2100.5 prescribes policies 
+    and procedures for simplification, analysis, and review of regulations. 
+    If the expected cost impact is so minimal that a proposed or final rule 
+    does not warrant a full evaluation, this order permits a statement to 
+    that effect and the basis for it to be included in the preamble if a 
+    full regulatory evaluation of the cost and benefits is not prepared. 
+    Such a determination has been made for this final rule. The reasoning 
+    for this determination follows:
+        This SFAR No. 115, Sec.  91.1611, prohibits flight operations by 
+    persons described in paragraph (a) in the specified areas of the Sanaa 
+    (OYSC) FIR due to the significant hazards to civil aviation described 
+    in the Background section of this rule. This regulation incorporates 
+    into the Code of Federal Regulations the prohibition on flight 
+    operations issued by the FAA in FDC NOTAM 5/5575 on May 22, 2015, and 
+    continued in KICZ NOTAM A0036/15, which was issued on November 25, 
+    2015. An FAA review, conducted in April 2015, of 56 part 121, 121/135, 
+    135, 125, 125M, and 91K operators that held an OpsSpec B450 for Yemen, 
+    with 49 responding, found just four operators that had overflown Yemen 
+    since January 1, 2015; two of the four operators overflew Yemen just 
+    once. None of the responding operators had flown into or out of Yemen 
+    since January 1, 2015. A search of FAA and Bureau of Transportation 
+    Statistics (BTS) operations records in May 2015 showed no additional 
+    activity by U.S. civil operators in the Sanaa (OYSC) FIR. Moreover, 
+    under this final rule, a U.S. Government department, agency, or 
+    instrumentality may apply on an operator's behalf for FAA approval to 
+    conduct operations under a contract or subcontract, grant, or 
+    cooperative agreement with that department, agency, or instrumentality. 
+    Accordingly, the FAA believes the incremental costs of this final rule 
+    will be minimal. These minimal costs will be exceeded by the benefits 
+    of avoiding the deaths or property damage that could result from a U.S. 
+    operator's aircraft being shot down (or otherwise damaged) while 
+    operating in the specified areas of the Sanaa (OYSC) FIR.
+        In conducting these analyses, FAA has determined that this final 
+    rule is a ``significant regulatory action,'' as defined in section 3(f) 
+    of Executive Order 12866, because it raises novel policy issues 
+    contemplated under that executive order. The rule is also 
+    ``significant'' as defined in DOT's Regulatory Policies and Procedures. 
+    The final rule will not have a significant economic impact on a 
+    substantial number of small entities, will not create unnecessary 
+    obstacles to international trade and will not impose an unfunded 
+    mandate on State, local, or tribal governments, or on the private 
+    sector.
+    
+    B. Regulatory Flexibility Analysis
+    
+        The Regulatory Flexibility Act of 1980 (Pub. L. 96-354, ``RFA''), 5 
+    U.S.C. 601 et seq., establishes ``as a principle of regulatory issuance 
+    that agencies shall endeavor, consistent with the objectives of the 
+    rule and of applicable statutes, to fit regulatory and informational 
+    requirements to the scale of the businesses, organizations, and 
+    governmental jurisdictions subject to regulation. To achieve this 
+    principle, agencies are required to solicit and consider flexible 
+    regulatory proposals and to explain the rationale for their actions to 
+    assure that such proposals are given serious consideration.'' The RFA 
+    covers a wide range of small entities, including small businesses, not-
+    for-profit organizations, and small governmental jurisdictions.
+        Agencies must perform a review to determine whether a rule will 
+    have a significant economic impact on a substantial number of small 
+    entities. If the agency determines that it will, the agency must 
+    prepare a regulatory flexibility analysis as described in the RFA. 
+    However, if an agency determines that a rule is not expected to have a 
+    significant economic impact on a substantial number of small entities, 
+    section 605(b) of the RFA provides that the head of the agency may so 
+    certify and a regulatory flexibility analysis is not required. The 
+    certification must include a statement providing the factual basis for 
+    this determination, and the reasoning should be clear.
+        Based on the above-referenced FAA review and additional FAA check 
+    of FAA and BTS operations records, the FAA finds the rule will impose 
+    no more than minimal costs. Therefore, as provided in section 605(b), 
+    the head of the FAA certifies that this rulemaking will not result in a 
+    significant economic impact on a substantial number of small entities.
+    
+    C. International Trade Impact Assessment
+    
+        The Trade Agreements Act of 1979 (Pub. L. 96-39), as amended, 
+    prohibits Federal agencies from establishing standards or engaging in 
+    related activities that create unnecessary obstacles to the foreign 
+    commerce of the United States. Pursuant to this Act, the establishment 
+    of standards is not considered an unnecessary obstacle to the foreign 
+    commerce of the United States, so long as the standard has a legitimate 
+    domestic objective, such as the protection of safety, and does not 
+    operate in a manner that excludes imports that meet this objective. The 
+    statute also requires consideration of international standards and, 
+    where appropriate, that they be the basis for U.S. standards.
+        The FAA has assessed the effect of this final rule and determined 
+    that its purpose is to protect U.S. civil aviation from a hazard 
+    outside the U.S. Therefore, the rule is in compliance with the Trade 
+    Agreements Act.
+    
+    D. Unfunded Mandates Assessment
+    
+        Title II of the Unfunded Mandates Reform Act of 1995 (Pub. L. 104-
+    4) requires each Federal agency to prepare a written statement 
+    assessing the effects of any Federal mandate in a proposed or final 
+    agency rule that may result in an expenditure of $100 million or more 
+    (in 1995 dollars) in any one year by State, local, and tribal 
+    governments, in the aggregate, or by the private sector; such a mandate 
+    is deemed to be a ``significant regulatory action.'' The FAA currently 
+    uses an inflation-adjusted value of $155.0 million in lieu of $100 
+    million.
+    
+    [[Page 731]]
+    
+        This final rule does not contain such a mandate; therefore, the 
+    requirements of Title II of the Act do not apply.
+    
+    E. Paperwork Reduction Act
+    
+        The Paperwork Reduction Act of 1995 (44 U.S.C. 3507(d)) requires 
+    that the FAA consider the impact of paperwork and other information 
+    collection burdens imposed on the public. The FAA has determined that 
+    there is no new requirement for information collection associated with 
+    this final rule.
+    
+    F. International Compatibility and Cooperation
+    
+        In keeping with U.S. obligations under the Convention on 
+    International Civil Aviation, it is FAA policy to conform to 
+    International Civil Aviation Organization (ICAO) Standards and 
+    Recommended Practices to the maximum extent practicable. The FAA has 
+    determined that there are no ICAO Standards and Recommended Practices 
+    that correspond to this regulation.
+    
+    G. Environmental Analysis
+    
+        FAA Order 1050.1F identifies FAA actions that are categorically 
+    excluded from preparation of an environmental assessment or 
+    environmental impact statement under the National Environmental Policy 
+    Act (NEPA) in the absence of extraordinary circumstances. The FAA has 
+    determined this rulemaking action qualifies for the categorical 
+    exclusion identified in paragraph 5-6.6f of this order and involves no 
+    extraordinary circumstances.
+        The FAA has reviewed the implementation of this SFAR and determined 
+    it is categorically excluded from further environmental review 
+    according to FAA Order 1050.1F, ``Environmental Impacts: Policies and 
+    Procedures,'' paragraph 5-6.6f. The FAA has examined possible 
+    extraordinary circumstances and determined that no such circumstances 
+    exist. After careful and thorough consideration of the action, the FAA 
+    finds that this Federal action does not require preparation of an 
+    Environmental Assessment or Environmental Impact Statement in 
+    accordance with the requirements of NEPA, Council on Environmental 
+    Quality (CEQ) regulations, and FAA Order 1050.1F.
+    
+    VIII. Executive Order Determinations
+    
+    A. Executive Order 13132, Federalism
+    
+        The FAA has analyzed this immediately adopted final rule under the 
+    principles and criteria of Executive Order 13132, Federalism. The 
+    agency has determined that this action would not have a substantial 
+    direct effect on the States, or the relationship between the Federal 
+    Government and the States, or on the distribution of power and 
+    responsibilities among the various levels of government, and, 
+    therefore, would not have Federalism implications.
+    
+    B. Executive Order 13211, Regulations That Significantly Affect Energy 
+    Supply, Distribution, or Use
+    
+        The FAA analyzed this immediately adopted final rule under 
+    Executive Order 13211, Actions Concerning Regulations that 
+    Significantly Affect Energy Supply, Distribution, or Use (May 18, 
+    2001). The agency has determined that this rule would not be a 
+    ``significant energy action'' under the executive order and would not 
+    be likely to have a significant adverse effect on the supply, 
+    distribution, or use of energy.
+    
+    C. Executive Order 13609, Promoting International Regulatory 
+    Cooperation
+    
+        Executive Order 13609, Promoting International Regulatory 
+    Cooperation, (77 FR 26413, May 4, 2012) promotes international 
+    regulatory cooperation to meet shared challenges involving health, 
+    safety, labor, security, environmental, and other issues and to reduce, 
+    eliminate, or prevent unnecessary differences in regulatory 
+    requirements. The FAA has analyzed this action under the policies and 
+    agency responsibilities of Executive Order 13609, and has determined 
+    that this action would have no effect on international regulatory 
+    cooperation.
+    
+    IX. Additional Information
+    
+    A. Availability of Rulemaking Documents
+    
+        An electronic copy of rulemaking documents may be obtained from the 
+    Internet by--
+         Searching the Federal eRulemaking Portal (<http://www.regulations.gov>);
+         Visiting the FAA's Regulations and Policies Web page at 
+    <http://www.faa.gov/regulations_policies>; or
+         Accessing the Government Publishing Office's Web page at 
+    <http://www.fdsys.gov>.
+        Copies may also be obtained by sending a request (identified by 
+    amendment or docket number of this rulemaking) to the Federal Aviation 
+    Administration, Office of Rulemaking, ARM-1, 800 Independence Avenue 
+    SW., Washington, DC 20591, or by calling (202) 267-9677.
+        Except for classified material, all documents the FAA considered in 
+    developing this rule, including economic analyses and technical 
+    reports, may be accessed from the Internet through the Federal 
+    eRulemaking Portal referenced above.
+    
+    B. Small Business Regulatory Enforcement Fairness Act
+    
+        The Small Business Regulatory Enforcement Fairness Act of 1996 
+    (SBREFA) requires FAA to comply with small entity requests for 
+    information or advice about compliance with statutes and regulations 
+    within its jurisdiction. A small entity with questions regarding this 
+    document may contact its local FAA official, or the person listed under 
+    the FOR FURTHER INFORMATION CONTACT heading at the beginning of the 
+    preamble. To find out more about SBREFA on the Internet, visit <http://www.faa.gov/regulations_policies/rulemaking/sbre_act/>.
+    
+    List of Subjects in 14 CFR Part 91
+    
+        Air traffic control, Aircraft, Airmen, Airports, Aviation safety, 
+    Freight, Yemen.
+    
+    The Amendment
+    
+        In consideration of the foregoing, the Federal Aviation 
+    Administration amends chapter I of title 14, Code of Federal 
+    Regulations, as follows:
+    
+    PART 91--GENERAL OPERATING AND FLIGHT RULES
+    
+    0
+    1. The authority citation for part 91 continues to read as follows:
+    
+        Authority:  49 U.S.C. 106(f), 106(g), 1155, 40101, 40103, 40105, 
+    40113, 40120, 44101, 44111, 44701, 44704, 44709, 44711, 44712, 
+    44715, 44716, 44717, 44722, 46306, 46315, 46316, 46504, 46506-46507, 
+    47122, 47508, 47528-47531, 47534, articles 12 and 29 of the 
+    Convention on International Civil Aviation (61 Stat. 1180), (126 
+    Stat. 11).
+    
+    
+    0
+    2. In part 91, subpart M, add Sec.  91.1611 to read as follows:
+    
+    
+    Sec.  91.1611  Special Federal Aviation Regulation No. 115--Prohibition 
+    Against Certain Flights in Specified Areas of the Sanaa (OYSC) Flight 
+    Information Region (FIR).
+    
+        (a) Applicability. This Special Federal Aviation Regulation (SFAR) 
+    applies to the following persons:
+        (1) All U.S. air carriers and U.S. commercial operators;
+        (2) All persons exercising the privileges of an airman certificate 
+    issued by the FAA, except when such persons are operating U.S.-
+    registered aircraft for a foreign air carrier; and
+        (3) All operators of U.S.-registered civil aircraft, except where 
+    the operator of such aircraft is a foreign air carrier.
+        (b) Flight prohibition. Except as provided in paragraphs (c) and 
+    (d) of
+    
+    [[Page 732]]
+    
+    this section, no person described in paragraph (a) of this section may 
+    conduct flight operations in the Sanaa (OYSC) Flight Information Region 
+    (FIR), excluding that airspace east and southeast of a line drawn 
+    direct from KAPET (163322N 0530614E) to NODMA (152603N 0533359E), then 
+    direct from NODMA to PAKER (115500N 0463500E).
+        (c) Permitted operations. This section does not prohibit persons 
+    described in paragraph (a) of this section from conducting flight 
+    operations in the Sanaa (OYSC) FIR in that airspace west and northwest 
+    of a line drawn direct from KAPET (163322N 0530614E) to NODMA (152603N 
+    0533359E), then direct from NODMA to PAKER (115500N 0463500E), provided 
+    that such flight operations are conducted under a contract, grant, or 
+    cooperative agreement with a department, agency, or instrumentality of 
+    the U.S. government (or under a subcontract between the prime 
+    contractor of the department, agency, or instrumentality, and the 
+    person subject to paragraph (a)), with the approval of the FAA, or 
+    under an exemption issued by the FAA. The FAA will process requests for 
+    approval or exemption in a timely manner, with the order of preference 
+    being: first, for those operations in support of U.S. government-
+    sponsored activities; second, for those operations in support of 
+    government-sponsored activities of a foreign country with the support 
+    of a U.S. government department, agency, or instrumentality; and third, 
+    for all other operations.
+        (d) Emergency situations. In an emergency that requires immediate 
+    decision and action for the safety of the flight, the pilot in command 
+    of an aircraft may deviate from this section to the extent required by 
+    that emergency. Except for U.S. air carriers and commercial operators 
+    that are subject to the requirements of 14 CFR part 119, 121, 125, or 
+    135, each person who deviates from this section must, within 10 days of 
+    the deviation, excluding Saturdays, Sundays, and Federal holidays, 
+    submit to the nearest FAA Flight Standards District Office (FSDO) a 
+    complete report of the operations of the aircraft involved in the 
+    deviation, including a description of the deviation and the reasons for 
+    it.
+        (e) Expiration. This SFAR will remain in effect until January 7, 
+    2018. The FAA may amend, rescind, or extend this SFAR as necessary.
+    
+        Issued in Washington, DC, under the authority of 49 U.S.C. 
+    106(f), 40101(d)(1), 40105(b)(1)(A), and 44701(a)(5), on December 
+    24, 2015.
+    Michael P. Huerta,
+    Administrator.
+    [FR Doc. 2015-33258 Filed 1-6-16; 8:45 am]
+    BILLING CODE 4910-13-P
+    
+    
+    
+

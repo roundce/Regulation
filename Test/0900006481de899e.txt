@@ -1,0 +1,1248 @@
+
+    [Federal Register Volume 81, Number 2 (Tuesday, January 5, 2016)]
+    [Rules and Regulations]
+    [Pages 173-183]
+    From the Federal Register Online via the Government Publishing Office [[www.gpo.gov](http://www.gpo.gov)]
+    [FR Doc No: 2015-32757]
+    
+    
+    =======================================================================
+    -----------------------------------------------------------------------
+    
+    FEDERAL COMMUNICATIONS COMMISSION
+    
+    47 CFR Part 20
+    
+    [WT Docket No. 07-250; FCC 15-155]
+    
+    
+    Hearing Aid-Compatible Mobile Handsets
+    
+    AGENCY: Federal Communications Commission.
+    
+    ACTION: Final rule.
+    
+    -----------------------------------------------------------------------
+    
+    SUMMARY: In this document, the Federal Communications Commission 
+    (Commission) modernizes its wireless hearing aid compatibility rules. 
+    The Commission adopts these rules to ensure that people with hearing 
+    loss have full access to innovative handsets and technologies.
+    
+    DATES: Effective February 4, 2016.
+    
+    FOR FURTHER INFORMATION CONTACT: Michael Rowan, Wireless 
+    Telecommunications Bureau, (202) 418-1883, email [Michael.Rowan@fcc.gov](mailto:Michael.Rowan@fcc.gov), 
+    or Eli Johnson, Wireless Telecommunications Bureau (202) 418-1395, 
+    email [Eli.Johnson@fcc.gov](mailto:Eli.Johnson@fcc.gov).
+    
+    SUPPLEMENTARY INFORMATION: This is a summary of the Commission's Fourth 
+    Report and Order in WT Docket Nos. 15-285 and 07-250; FCC 15-155, 
+    adopted November 19, 2015, and released on November 20, 2015. This 
+    summary should be read with its companion document, the Notice of 
+    Proposed Rulemaking summary published elsewhere in this issue of the 
+    Federal Register. The full text of the Fourth Report and Order is 
+    available for inspection and copying during business hours in the FCC 
+    Reference Information Center, Portals II, 445 12th Street SW., Room CY-
+    A257, Washington, DC 20554. The complete item is also available on the 
+    Commission's Web site at <http://www.fcc.gov>.
+    
+    Synopsis of the Fourth Report and Order
+    
+    I. Introduction
+    
+        1. After review of the record and consideration of both the 
+    requirements of section 710 as amended by the Twenty-First Century 
+    Communications and Video Accessibility Act of 2010 (CVAA) and the 
+    previous actions taken in this proceeding, the Commission revises the 
+    scope of the wireless hearing aid compatibility rules largely as 
+    proposed in the 2010 Further Notice of Proposed Rulemaking (FNPRM), 75 
+    FR 54546, Sept. 8, 2010. Specifically, the Commission broadens the 
+    scope of the wireless hearing aid compatibility rules, which have until 
+    now covered only handsets that are used with CMRS networks meeting 
+    specified characteristics enabling frequency reuse and seamless 
+    handoff. The Commission now extends the scope to cover handsets (that 
+    is, devices with a built-in speaker held to the ear in any of their 
+    ordinary uses) used with any terrestrial mobile service that enables 
+    two-way real-time voice communications among members of the public or a 
+    substantial portion of the public, including both interconnected and 
+    non-interconnected Voice over Internet Protocol (VoIP) services 
+    provided through pre-installed software applications. In doing so, the
+    
+    [[Page 174]]
+    
+    Commission establishes a comprehensive hearing aid compatibility 
+    requirement that ensures consumers with hearing loss will have access 
+    to the same rapidly evolving voice technology options available to 
+    other consumers. To ensure testability under the currently approved 
+    technical standard, the Commission will require compliance only to the 
+    extent these handsets are used in connection with voice communication 
+    services in bands covered by Commission-approved standards for hearing 
+    aid compatibility. Section 20.19(a) is limited to mobile handsets 
+    consistent with the scope of ANSI Standard C63.19, and remains so under 
+    the expanded scope. The Commission therefore affirms that cordless 
+    telephones remain subject to section 68.4 of the Commission's rules, 
+    including the hearing aid compatibility requirements applicable to 
+    telephones under Part 68, and are not affected by the change in scope.
+        2. While the Commission has taken steps previously to bring such 
+    emerging voice services under the rules, these steps are necessary to 
+    complete the process. The Third Report and Order adopted a technical 
+    standard that can be applied to test VoLTE, Wi-Fi-based calling, and 
+    other IP-based voice capabilities for hearing aid compatibility, and 
+    indicated an expectation that handsets that support covered CMRS voice 
+    communications services over IP-based air interfaces such as LTE would 
+    indeed be subject to the hearing aid compatibility requirements as a 
+    result. The Third Report and Order did not expand the scope provision 
+    of the rule beyond covered CMRS, or clarify the extent to which the new 
+    IP-based voice technologies and air interfaces constituted covered CMRS 
+    services. Consistent with the provisions of the CVAA that expressly 
+    extend section 710 to both interconnected and non-interconnected VoIP 
+    services, adopting the expanded scope will ensure that the wireless 
+    hearing aid compatibility requirements apply to handsets used for such 
+    services regardless of how the services are classified for other 
+    regulatory purposes, and without regard to the network architecture 
+    over which the services are provided. The Commission thus resolves any 
+    uncertainty regarding the extent to which IP-based voice services 
+    covered by the 2011 ANSI Standard are also within the scope of the 
+    hearing aid compatibility rules.
+        3. Its actions also ensure that the hearing aid compatibility rules 
+    cover modes of voice communications access that are increasingly 
+    available to the public as well as those that may develop in the 
+    future. For example, the expanded scope will cover handsets that enable 
+    voice communications through VoIP software applications installed by 
+    the manufacturer or service provider regardless of whether the calling 
+    functionality provides interconnection to the public switched telephone 
+    network. It will also cover advances in voice technology that have 
+    rendered obsolete some of the current rule's limitations on scope, such 
+    as provisions that apply hearing aid compatibility requirements only to 
+    services that involve frequency reuse and cell site handoff. Unlike the 
+    current scope, the expanded scope will also apply to a voice 
+    communications service over Wi-Fi that does not utilize an in-network 
+    switching facility that enables reuse of frequencies and seamless hand-
+    off.
+    
+    1. Statutory Analysis of Expanded Scope
+    
+        4. The Commisson first finds that section 710, as amended by the 
+    CVAA, provides authority to require hearing aid compatibility in any 
+    device that meets the Commission's definition of handset and that is 
+    used in whole or in part for the delivery of services within the new 
+    scope of the rule. The CVAA expressly extended section 710 to cover 
+    mobile devices used with advanced communications services, including 
+    interconnected and non-interconnected VoIP services, to the extent that 
+    such devices are designed to provide two-way voice communication via a 
+    built-in speaker intended to be held to the ear in a manner 
+    functionally equivalent to a telephone. Thus, as amended by the CVAA, 
+    section 710 clearly supports expanding the scope of section 20.19 to 
+    cover the full range of handsets used to provide consumers with voice 
+    communications services, including IP-based services and voice 
+    communications software.
+        5. Similarly, the CVAA amendments to section 710 confirm the 
+    Commission's prior determination that obligations should extend to 
+    cover a broad range of mobile handsets, and not merely those used 
+    exclusively as telephones. For example, these amendments make clear 
+    that covered devices used with public mobile services and private radio 
+    services include devices used ``in whole or in part'' to provide those 
+    services. While the Commission has recognized that engineering hearing 
+    aid compatibility for multi-use handsets may require adjustments to 
+    non-voice-communication features, the statute provides that equipment 
+    must meet hearing aid compatibility standards without any specific 
+    limitation based on non-communication adjustments. The Commission 
+    reaffirms that the hearing aid compatibility rules apply to a multi-use 
+    handset that can function as a telephone even though it may serve 
+    additional purposes or have another primary intended purpose.
+        6. The Commission further finds that, in deciding whether to extend 
+    the scope of the wireless hearing aid compatibility obligations, the 
+    Commission must determine whether the statutory criteria for lifting 
+    the wireless exemption are satisfied, as it did in 2003 when it first 
+    modified the exemption for wireless telephones. The Commission examines 
+    each of the four criteria for lifting the exemption below, and 
+    determine that each criterion has been satisfied. The Commission finds 
+    that (1) individuals with hearing loss would be adversely affected 
+    absent the expansion of the rule's scope; (2) compliance with the 
+    Commission's hearing aid compatibility rules for the handsets within 
+    the expanded scope is technologically feasible; (3) compliance would 
+    not increase costs to such an extent that such equipment could not be 
+    successfully marketed; and (4) in consideration of these factors, and 
+    the costs and benefits of the rule change, expanding the scope of the 
+    hearing aid compatibility rules beyond covered CMRS is in the public 
+    interest.
+        7. The Commission emphasizes that the Commission's analysis of the 
+    four criteria for lifting the exemption is not restricted to voice 
+    communications services that are deployed in the 698 MHz to 6 GHz band, 
+    and that the Commission finds that the criteria for lifting the 
+    exemption are met for such services in any frequency band, including 
+    frequencies outside the band covered by the ANSI 2011 Standard. 
+    Consistent with prior Commission determinations, however, the 
+    Commission retains the current restriction in the scope of the rule to 
+    the 698 MHz to 6 GHz band at this time, so that compliance under the 
+    rule is required only for operations in spectrum bands for which there 
+    is an approved technical standard. As new frequencies are deployed for 
+    comparable voice services and standards for them approved, however, 
+    incorporating such frequencies into the rule early in their deployment 
+    will better facilitate access to handsets using such frequencies when 
+    they are rolled out to the public. For example, the Incentive Auction 
+    scheduled to begin in early 2016 will involve new, flexible-use 
+    licenses in the 600 MHz Band that are suitable for providing mobile 
+    broadband services. The Commission expects that the
+    
+    [[Page 175]]
+    
+    technical standards needed for any such frequencies will be developed 
+    in timely fashion. To the extent that a manufacturer believes that 
+    compliance is not technically feasible or would prevent marketability 
+    for devices used with a future public mobile service--such as one that 
+    operates in the 600 MHz Band--the manufacturer may apply for a waiver 
+    under section 710(b)(3) for the applicable ``new telephones, or 
+    telephone associated with a new technology or service.'' By addressing 
+    the statutory exemption as it applies to additional frequencies now, 
+    the Commission ensures that it need not engage in a similar statutory 
+    analysis each time ANSI adopts a revision to cover an additional 
+    frequency range, which will help to expedite incorporation of such 
+    revisions into the rules and therefore speed the testing and offering 
+    of new hearing aid-compatible technologies to consumers. The 
+    Commission's determinations in this Fourth Report and Order should 
+    remove any doubt that, as new frequencies are deployed for comparable 
+    voice services and corresponding hearing aid compatibility standards 
+    are developed, the Commission intends to incorporate them into the 
+    Commission's requirements. This will advance the Commission's goal that 
+    the Commission's rules provide people who use hearing aids and cochlear 
+    implants with continuing access to the most advanced and innovative 
+    technologies as they develop.
+        8. Adverse Effect on People with Hearing Loss. In the FNPRM, the 
+    Commission proposed to find that failure to extend hearing aid 
+    compatibility requirements broadly to handsets used for voice 
+    communications with members of the public or a substantial portion of 
+    the public, including those operating over new and developing 
+    technologies, would have an adverse effect on people with hearing loss 
+    and deny such consumers an opportunity to use advanced functionalities 
+    and services becoming commonplace in society. The Commission further 
+    suggested that the inability to access such innovative technologies as 
+    they develop would have an adverse effect on individuals with hearing 
+    loss, and that a broad scope could address that concern by encouraging 
+    manufacturers to consider hearing aid compatibility at the earliest 
+    stages of the product design process.
+        9. Consumer Groups and ASHA comment that people with hearing loss 
+    who use hearing aids need access to mobile phone services just like 
+    every other American, including at home, work, school, and in emergency 
+    situations, and that updated regulations can help to ensure that these 
+    people can be fully integrated into society. TIA comments that 
+    manufacturers have made gains to enhance access by deaf or hard of 
+    hearing individuals to new technologies and hearing aid-compliant 
+    products, while CTIA contends that the current rules for hearing aid 
+    compatibility have been highly effective in ensuring that a wide 
+    variety of compliant wireless handsets are available to the public.
+        10. Consistent with the Commission's proposed findings, the 
+    Commission concludes that failure to adopt the expanded scope would 
+    adversely affect people with hearing loss. Absent the amended scope, 
+    mobile VoIP services would be covered only to the extent that they were 
+    determined to both satisfy the definition of CMRS and involve the use 
+    of ``an in-network switching facility that enables the provider to 
+    reuse frequencies and accomplish seamless hand-offs of subscriber 
+    calls.'' Those limitations, the Commission finds, would materially 
+    impede the ability of people with hearing loss to use many advanced 
+    devices and networks, and the Commission notes that ongoing innovation 
+    would likely amplify this harmful impact over time. If handsets 
+    encompassing these emerging technologies are not broadly made hearing 
+    aid-compatible, consumers with hearing loss who use hearing aids or 
+    cochlear implants could be left without full access to new technologies 
+    and networks that are used increasingly by members of the public to 
+    communicate with one another at home, at work, and as they travel, 
+    including for communications in critical emergencies. The Commission 
+    notes that mobile technologies generally are increasingly important to 
+    members of the public. According to the National Center for Health 
+    Statistics, the percentage of adults living in households with only 
+    wireless telephones has been steadily increasing with about 44.1 
+    percent of adults (about 106 million adults) living in wireless-only 
+    households as of the last six months of 2014; in addition, as of the 
+    last six months of 2014, 54.1 percent of all children (nearly 40 
+    million children) lived in households that only used wireless 
+    telephones. Having access to emerging IP-based voice technologies such 
+    as High Definition Voice may prove particularly important to 
+    individuals with hearing loss. In addition, as these emerging handsets 
+    evolve to encompass a wide and growing range of computing and other 
+    functions, a lack of hearing aid-compatible handsets may force 
+    individuals with hearing loss to choose between limiting their voice 
+    communications or limiting their access to many of the other features 
+    that these new handsets offer.
+        11. In broadening the scope of the rule, the Commission is mindful 
+    that it is important to ensure hearing aid-compatible access to 
+    handsets, voice technologies, and networks not only once they are 
+    established but also as they develop in the future. The Commission 
+    anticipates ongoing innovation in mobile voice technologies that will 
+    lead to more services for consumers to communicate that do not use the 
+    North American Numbering Plan or involve the cellular system 
+    architecture reflected in the current rule. By making clear that 
+    hearing aid compatibility requirements apply not only to currently 
+    available technologies such as VoLTE but to all mobile terrestrial 
+    services that enable two-way, real-time voice communications among 
+    members of the public, the Commission ensures that new consumer 
+    devices--that might be developed or emerge in the future--will be 
+    covered as technical standards become available, regardless of 
+    regulatory classification or network architecture, unless a waiver is 
+    granted. The Commission expects manufacturers to take hearing aid 
+    compatibility into account during the early stages of product 
+    development.
+        12. Technological Feasibility. In the FNPRM, the Commission sought 
+    comment on whether handsets that are currently on the market or are 
+    planned for introduction that fall within the coverage of the proposed 
+    rule, but are not covered by the existing rule, would meet the existing 
+    ANSI standard or a similar performance standard, for frequency bands 
+    and air interfaces that are not addressed by the existing standard. 
+    Given that hearing aid compatibility standards were already being met 
+    for handsets that operate on a variety of 2G and 3G air interfaces over 
+    two frequency bands, the Commission stated that, absent evidence to the 
+    contrary, it was likely that such standards could be met for handsets 
+    not within the class of covered CMRS but that provide similar services. 
+    The Commission further indicated that commenters arguing that 
+    compliance was not feasible should provide specific engineering 
+    evidence related to a defined class of handsets.
+        13. TIA comments that the Commission should not expand the 
+    application of the hearing aid compatibility requirements beyond the 
+    scope of consumer wireless handsets with CMRS functionality until there 
+    is a better understanding of the obstacles
+    
+    [[Page 176]]
+    
+    in making the products and expanding services, and argues that issues 
+    relating to applying the rules to VoLTE and Wi-Fi with CMRS capability 
+    illustrate that emerging technologies create new and previously 
+    unanticipated technical challenges.
+        14. The Commission concludes that it is technologically feasible to 
+    manufacture newly covered handsets so they meet the minimum ratings for 
+    hearing aid compatibility under the current technical standard or, to 
+    the extent they may be deployed in frequencies not addressed under the 
+    2011 ANSI Standard, under a similar performance standard. Since the 
+    Commission proposed its analysis in 2010, subsequent developments have 
+    only confirmed that compliance with the hearing aid compatibility 
+    requirements will generally be feasible for consumer mobile voice 
+    technologies. Indeed, manufacturers are already successfully testing 
+    and rating VoLTE operations for both T- and M-rating compliance, and 
+    they are also successfully testing and rating CMRS-enabled voice 
+    communications over Wi-Fi (hereinafter ``Wi-Fi Calling'') for M-rating 
+    compliance, demonstrating empirically that compliance in those areas is 
+    technologically feasible. In addition, OET's Laboratory Division issued 
+    guidance in October 2013 describing the technical parameters related in 
+    part to testing VoLTE and Wi-Fi Calling functionalities for both M-
+    ratings and T-ratings, and did not identify any challenges related to 
+    technological feasibility. While the 2013 guidance did observe that the 
+    equipment needed to test for T-coil compliance for Wi-Fi Calling ``may 
+    not be readily available'' and therefore excluded such operations from 
+    the testing obligation, nothing in the record suggests that the 
+    availability of testing equipment remains a challenge, and perhaps more 
+    significantly, this limitation does not bear on technological 
+    feasibility.
+        15. The Commission finds that any technical challenges to achieving 
+    hearing aid compatibility in handsets will not differ significantly 
+    from those that manufacturers have already addressed in achieving 
+    hearing aid compatibility in the broad range of mobile handsets noted 
+    above. Indeed, because the specifications for new air interface 
+    technologies (such as the Fifth Generation or 5G wireless technology) 
+    will now be developed with the expectation that hearing aid 
+    compatibility requirements will apply, the Commission anticipates that 
+    the need to meet such requirements will be taken into account early in 
+    the design process, which should help to ensure that compatibility for 
+    such technologies is feasible. The Commission notes that industry 
+    commenters have provided no example of developing technology within the 
+    adopted scope for which achieving hearing aid compatibility was found 
+    to be infeasible, and the Commission knows of no reason that consumer 
+    handsets that operate over systems within the expanded scope could not 
+    achieve these ratings. As the Commission noted in 2010, to the extent 
+    the Commission is presented with the rare case of a new technology that 
+    cannot feasibly meet the requirements, or cannot do so in full, section 
+    710 expressly provides for a waiver.
+        16. Marketability. In the FNPRM, the Commission stated that based 
+    on the number of hearing aid-compatible models that were already being 
+    successfully marketed across multiple air interfaces and frequency 
+    bands, it anticipated, in the absence of convincing evidence to the 
+    contrary, that other telephones offering similar capabilities and 
+    meeting the same or comparable compliance standards could also be 
+    successfully marketed. The Commission sought comment on this statement 
+    and on whether there is any class of handsets for which the cost of 
+    achieving compliance would preclude successful marketing. The 
+    Commission sought comment on whether, for reasons of technological 
+    infeasibility or prohibitive costs, any rule provisions could not be 
+    applied to any class of handsets.
+        17. Generally, aside from the impact relating to satellite phones, 
+    commenters did not address in detail whether compliance would increase 
+    costs to such an extent that equipment could not be successfully 
+    marketed. TIA argues that an open-ended application of the rules to 
+    other types of wireless handsets with voice capability but which are 
+    not typically held to the ear would, among other matters, impose undue 
+    financial burdens. HIA comments that in terms of costs, compatibility 
+    with other devices is already a factor in hearing aid design, and thus 
+    does not anticipate that a ``to the ear'' standard it supports would 
+    impose additional costs on its members.
+        18. In order to expand the scope of section 20.19, the Commission 
+    must also find that compliance would not increase costs to a degree 
+    that would prevent successfully marketing of the equipment. As 
+    discussed above in the Commission's analysis of technological 
+    feasibility, manufacturers already offer numerous hearing aid-
+    compatible handsets with differing features and physical 
+    characteristics over a variety of air interfaces, including a number of 
+    models certified as hearing aid-compatible over LTE. Further, while 
+    Iridium and Inmarsat raise concerns about the impact of hearing aid 
+    compatibility requirements on the marketability of satellite phones, no 
+    commenter raises any concerns about marketability with respect to 
+    handsets and operations within the expanded scope the Commission adopts 
+    in this Fourth Report and Order. Considering the absence of anything in 
+    the record demonstrating compliance costs that would depart materially 
+    from the costs for handsets that already comply, the Commission 
+    anticipates that handsets offering comparable voice communications 
+    capabilities to the public will similarly be marketable. The Commission 
+    therefore finds that requiring hearing aid compatibility for handsets 
+    newly within the scope of the requirements will not undermine their 
+    marketability. To the extent the Commission is presented with the rare 
+    case of a new technology for which compliance would increase costs to 
+    the extent that the technology could not be successfully marketed, 
+    section 710 expressly provides that the Commission may waive the 
+    requirements.
+        19. Public Interest. In the FNPRM, the Commission proposed to find 
+    that expanding the scope of the hearing aid compatibility requirements 
+    to reach handsets using new technologies would serve the public 
+    interest. In seeking comments on this proposal, the Commission stated 
+    that its policy ``is to encourage manufacturers to consider hearing aid 
+    compatibility at the earliest stages of the product design process.'' 
+    The Commission further stated that the Hearing Aid Compatibility Act 
+    makes clear that consumers with hearing loss should be afforded equal 
+    access to communications networks to the fullest extent feasible. The 
+    Commission stated that commenters should address the proposed finding 
+    that further modification of the exemption to reach handsets using new 
+    technologies is in the public interest.
+        20. Consumer Groups argue that there are millions of Americans with 
+    hearing loss, technological innovations help people with disabilities, 
+    and they need access to their mobile phones in different settings. ASHA 
+    and Lintz note the importance of wireless phones to those who suffer 
+    from hearing loss.
+        21. The Commission concludes, in light of the consideration of the 
+    costs and benefits to all telephone users, that applying the hearing 
+    aid compatibility requirements to all handsets and services within the 
+    expanded scope, including current and emerging IP-based voice services, 
+    will serve the
+    
+    [[Page 177]]
+    
+    public interest. Most notably, an expanded scope will ensure that the 
+    country's approximately 36 million individuals with hearing loss have 
+    access to the advances in communications and related technology that 
+    are becoming increasingly essential to participation in our society. 
+    The expanded scope makes it more likely that individuals with hearing 
+    loss will have access to the latest technology in mobile handsets since 
+    technological innovations will generally have to be considered in the 
+    design stage for the handsets. The Commission further finds that 
+    enabling access to the full--and growing--range of handsets available 
+    to all other consumers will provide both social and economic benefits 
+    to consumers with hearing loss. Access to mobile handsets with 
+    innovative technologies as they develop can benefit not just an 
+    employee with hearing loss who uses his or her own mobile phone but the 
+    employer and co-workers as well, by facilitating the full participation 
+    and valuable input of employees with hearing loss who otherwise may be 
+    restricted in their ability to fully communicate with their colleagues. 
+    Members of the public will also generally benefit from being able to 
+    communicate with people with hearing loss as fully and robustly as 
+    possible. The Commission also notes that the wireless industry's 
+    comments demonstrate broad support for covering advanced services. For 
+    example, in its comments to the 2010 FNPRM, TIA supports ``expand[ing] 
+    the scope of the hearing aid compatibility rules to advanced 
+    communications technologies'' guided by the Commission's Policy 
+    Statement and consistent with section 710 of the Act. For these 
+    reasons, the Commission finds that expanding the scope of section 20.19 
+    as discussed herein advances the public interest.
+        22. Public Safety and Private Enterprise Networks. The Commission 
+    declines, at this time, to extend the hearing aid compatibility rules 
+    to handsets used exclusively with services that are not available to 
+    the public, such as services over public safety or private enterprise 
+    networks (meaning those networks that are designed and deployed to meet 
+    a business's specific communications needs). For example, the 
+    Commission does not extend hearing aid compatibility requirements to 
+    state, local, and Tribal public safety radio systems used by police, 
+    fire, or emergency medical personnel for dispatch and emergency 
+    response. Consistent with this determination, the Commission further 
+    clarifies that the incorporation of a VoIP functionality operating over 
+    Wi-Fi in a public safety or private enterprise device does not bring 
+    the device under the expanded scope of the rule. Rather, The expanded 
+    scope will cover only devices used with the provision of a service 
+    available to the public or a substantial portion of the public.
+        23. In the past, the Commission's decisions to lift the exemption 
+    for devices used with some wireless services, and particularly the 
+    Commission's determination that doing so is in the public interest, 
+    have been based in part on the Commission's findings that these devices 
+    and services have become part of the mass market for communications. 
+    Generally, handsets for network services such as public safety or 
+    private enterprise networks are designed for a specialized market with 
+    a limited set of users. Based on the record before us, there is little 
+    evidence on the extent that these specialized public safety and private 
+    enterprise devices would satisfy the criteria of technical feasibility 
+    and marketability. Rather, the record supports the Commission's 
+    tentative conclusion in the FNPRM that the different market 
+    circumstances for public safety or private enterprise networks and the 
+    absence of an existing universe of hearing aid-compatible handsets 
+    would increase the burden of meeting the hearing aid compatibility 
+    requirements. In addition, although the Commission recognizes there are 
+    benefits to ensuring accessibility to public safety or private 
+    enterprise devices, the record reflects that the typical weight, shape, 
+    and other aspects of the physical design of public safety and private 
+    enterprise devices are such that the radios conventionally are not held 
+    up to the ear but rather used with audio that emanates from a 
+    loudspeaker with adjustable volume control rather than from a telephone 
+    earpiece. As such, the Commission finds that these devices are 
+    generally not comparable in their typical use to the wireless handsets 
+    covered by the hearing aid compatibility obligations. The Commission 
+    also finds that the public interest requires that the Commission 
+    proceeds with caution in order to avoid requirements that may 
+    discourage, delay, or increase the cost of equipment where public 
+    safety or critical infrastructure operations are directly at stake. 
+    Taking these factors into consideration, the record precludes us from 
+    finding that the benefit associated with expanding the rule to public 
+    safety and private enterprise networks would outweigh the cost. 
+    Accordingly, the Commission finds, at this time, that the statutory 
+    requirements are not met in order to expand the scope of the hearing 
+    aid compatibility rules to include these devices. The Commission 
+    continues to be sensitive to the needs of those individuals with 
+    hearing loss, however, and will consider re-visiting this issue if it 
+    comes to the Commission's attention that the benefits associated with 
+    expanding the rule come to outweigh the costs.
+        24. Non-terrestrial Networks. Based on the existing record, the 
+    Commission is unable to find that the statutory criteria for lifting 
+    the hearing aid compatibility exemption have been satisfied for radio 
+    communication devices operating over non-terrestrial networks, such as 
+    those operating in the MSS. As Iridium has explained, MSS handsets 
+    operate at significantly higher power levels than mass market devices 
+    and must communicate with stations over a dramatically greater distance 
+    than comparable terrestrial technologies. Iridium also notes that lower 
+    sales volumes, in-house product development, and longer product 
+    development and marketing cycles due to infrequent product replacements 
+    pose additional impediments to achieving hearing aid compatibility. 
+    Even if such challenges could be overcome, the record supports the 
+    conclusion that each MSS provider would need to develop its own 
+    solution, and the Commission is concerned that the increased costs 
+    associated with complying with the rules in those circumstances, and 
+    the MSS industry's need to recover those costs over a relatively 
+    limited market, would prevent the successful marketing of MSS handsets 
+    or discourage further innovation in such handsets. Further, because MSS 
+    providers offer a specialized service over customized technology to a 
+    small customer base that is focused on government, critical 
+    infrastructure, and other large enterprise users, and not the public at 
+    large, the Commission finds that extending hearing aid compatibility 
+    requirements to the MSS raises concerns similar to those noted above 
+    regarding public safety and private enterprise networks. Indeed, the 
+    Commission found last year that these characteristics justified not 
+    extending to MSS the text-to-911 requirements that the Commission 
+    otherwise imposed broadly on CMRS providers and all other providers of 
+    interconnected text-messaging applications. Although there could be 
+    benefits to individuals with hearing loss from extending the scope of 
+    the hearing aid compatibility rules to cover such
+    
+    [[Page 178]]
+    
+    devices and services, the current differences between MSS and 
+    terrestrial services, as well as concerns and uncertainty regarding the 
+    marketability and technological feasibility of hearing aid-compatible 
+    MSS devices, do not allow us at this time to make the determinations 
+    necessary to lift the exemption for these devices. The Commission will 
+    reevaluate in the future whether the MSS should remain exempt from the 
+    scope of the hearing aid compatibility rules.
+    
+    2. Voice Capability Provided Through Software
+    
+        25. Background. When the Commission first promulgated hearing aid 
+    compatibility rules, applications that enable voice communications 
+    through third-party software did not exist. If a digital handset 
+    enabled voice communications, it could do so only through the native 
+    voice capabilities of the service provider's network technology relying 
+    on a voice coder-decoder (codec) embedded in the hardware. Today, 
+    mobile voice communications can be enabled in a variety of ways, 
+    including: Applications pre-installed by the manufacturer, its 
+    operating system software partner, or a service provider; applications 
+    downloaded by the end user from the manufacturer's store; or 
+    applications that the end user obtains from an independent source. 
+    While third-party voice applications may rely on a voice codec built 
+    into the operating system or hardware of the device, they may also use 
+    their own proprietary codec. While seeking comment in the 2010 FNPRM on 
+    expanding the scope of the hearing aid compatibility rules beyond 
+    covered CMRS, the Commission also sought comment on how its hearing aid 
+    compatibility rules should address circumstances where voice capability 
+    may be enabled on a handset by a party other than the manufacturer.
+        26. AT&T;, ATIS, Consumer Groups, CTIA, MetroPCS, Motorola, TIA, and 
+    T-Mobile agree that manufacturers and service providers should not be 
+    required to ensure compliance for voice communication capabilities 
+    added to a handset by consumers or third parties after original 
+    purchase. In connection with this argument, AT&T;, CTIA, and TIA cite 
+    section 2(a) of the CVAA, which they claim limits liability for certain 
+    third-party activities, as support for exempting them from compliance 
+    responsibility for third party actions. These commenters oppose 
+    subjecting manufacturers and service providers to testing requirements 
+    for third party applications unless the manufacturer and service 
+    provider have themselves affirmatively incorporated the application 
+    into a device, arguing, in the main, that manufacturers and providers 
+    lack control over third party applications installed in the device by 
+    someone else. In contrast, HIA argues that hearing aid compatibility 
+    should be ensured both ``at the time of sale'' and upon ``installation 
+    of a voice feature.'' As an alternative approach, Consumer Groups urge 
+    the Commission to require manufacturers and service providers to 
+    include provisions in their licensing agreements or contracts with 
+    software application developers to ensure that software maintains the 
+    hearing aid compatibility of a device.
+        27. Discussion. After consideration of the record, the Commission 
+    agrees with those commenters that argue against applying the hearing 
+    aid compatibility requirements to voice applications added by consumers 
+    after their purchase of the device. The record demonstrates that 
+    testing a device for hearing aid compatibility for all possible 
+    applications is infeasible at this time because manufacturers and 
+    service providers are unable to predict what third-party software a 
+    consumer may choose to install. The Commission believes it would create 
+    incentives to restrict the open development of new voice applications 
+    if the Commission holds manufacturers and service providers responsible 
+    for hearing aid compatibility compliance for all third-party voice 
+    applications. Certifying a handset for hearing aid compatibility does 
+    not require testing software-based voice functions except to the extent 
+    that such software applications are installed by the manufacturer or 
+    service provider, or at their direction, for use by a consumer over a 
+    given air interface. The Commission requires that, when testing a 
+    device's operations over a given air interface, manufacturers must 
+    ensure the hearing aid compatibility of all voice communication 
+    functionality they provide over that interface whether such 
+    functionality is provided through software, hardware, or both. The 
+    Commission declines to limit responsibility to the subset of such 
+    software installed prior to certification, as suggested by TIA. Such a 
+    restriction would not ensure compatibility of software that 
+    manufacturers or service providers install after certification, and the 
+    Commission sees no reason not to require compatibility of such 
+    software. Because, under the Commission's approach, manufacturers and 
+    service providers need only ensure the compatibility of the software-
+    based voice operations that are installed by the manufacturer or 
+    service provider or at their direction, and such operations are 
+    necessarily within their control, the Commission finds that testing any 
+    software-based voice functionality is technically feasible, not unduly 
+    burdensome, and beneficial to consumers with hearing loss who may wish 
+    to use such operations.
+        28. Previously, the Commission has permitted manufacturers and 
+    service providers to obtain hearing aid compatibility certification for 
+    handsets that are capable of supporting additional voice capability 
+    without testing for such operations, including the operations addressed 
+    above, but has required them to disclose to consumers that not all of 
+    the handsets' operations have been tested and rated for hearing aid 
+    compatibility. While the Commission now establishes a requirement to 
+    test and rate software applications installed under the circumstances 
+    specified above in order to obtain hearing aid compatibility 
+    certification, the Commission finds it appropriate to provide a period 
+    of time during which manufacturers may continue to certify handsets 
+    based on disclosure rather than testing. The Commission anticipates 
+    that implementing the requirement to test and rate software-based voice 
+    functionality will require additional guidance on testing parameters, 
+    the development of new systems capable of testing the applicable codec/
+    air interface combinations, as well as coordination between 
+    manufacturers, service providers, and third-party application 
+    providers. Given these implementation issues, the Commission provides 
+    that during the transition period for applying deployment benchmarks, 
+    manufacturers may continue to obtain hearing aid compatibility ratings 
+    for a device's operation on a given air interface without testing and 
+    rating software-enabled voice functions, as long as they disclose to 
+    consumers that certain operations have not been tested and rated for 
+    hearing aid compatibility, consistent with the disclosure required in 
+    section 20.19(f)(2)(i). The Commission notes again that ANSI ASC 
+    C63[supreg]-EMC, at its November 2015 meeting, formally approved a 
+    project to revise the ANSI C63.19 standard for hearing aid 
+    compatibility to address a number of topics, including some 
+    technologies not covered in the current version of the standard. The 
+    application of the transition period to software-based voice operations 
+    reflects, in part, the Commission's expectation that industry groups 
+    will work through the standards process to finalize all necessary 
+    guidance well before the end
+    
+    [[Page 179]]
+    
+    of the transition period. If manufacturers and service providers come 
+    to conclude that such guidance is not available sufficiently far in 
+    advance of the transition date to allow parties to come into 
+    compliance, they may seek an extension of the transition deadline by 
+    petitioning the Commission for a waiver of this regulatory deadline 
+    under the Commission's waiver rules (e.g., sections 1.3 and/or 1.925, 
+    as appropriate). As part of its review of any petitions to waive this 
+    regulatory deadline, the Commission will consider possible impacts on 
+    consumers with hearing loss.
+    
+    3. Transition Period for Applying Existing Deployment Benchmarks
+    
+        29. Background. To ensure that a wide selection of digital wireless 
+    handset models is available to consumers with hearing loss, the 
+    Commission's hearing aid compatibility rules require both manufacturers 
+    and service providers to meet defined benchmarks for deploying hearing 
+    aid-compatible wireless handsets. Specifically, manufacturers and 
+    service providers are required to offer minimum numbers or percentages 
+    of handset models that meet the technical standards for compatibility 
+    with hearing aids operating in modes for acoustic coupling (M-rating) 
+    and inductive coupling (T-rating). These benchmarks apply separately to 
+    each air interface for which the manufacturer or service provider 
+    offers handsets.
+        30. In the 2010 FNPRM, the Commission sought comment on the 
+    appropriate transition period before applying these hearing aid 
+    compatibility deployment benchmarks to lines of handsets that are 
+    ``outside the subset of CMRS that is currently covered by section 
+    20.19(a).'' In this regard, the Communications Act, as amended by the 
+    CVAA, directs the Commission to ``use appropriate timetables or 
+    benchmarks to the extent necessary (1) due to technical feasibility, or 
+    (2) to ensure the marketability or availability of new technologies to 
+    users.''
+        31. In their comments, Clearwire, CTIA, T-Mobile, and Motorola 
+    support a two-year transition as adequate for many handsets to come 
+    into compliance with existing benchmarks. RWA, Blooston, and RTG 
+    support longer time frames of up to an additional 12 months for small, 
+    rural, and/or Tier III service providers who, these commenters contend, 
+    do not have the same access to new handsets as Tier I providers. While 
+    it did not propose any specific time period, HIA states that the 
+    transition period should be no longer than the minimum amount of time 
+    needed for a new product design cycle.
+        32. Discussion. Based on the record in this proceeding, the 
+    Commission finds it in the public interest to adopt a January 1, 2018 
+    transition date (for manufacturers and Tier I carriers) and an April 1, 
+    2018 transition date (for other service providers) for applying section 
+    20.19's deployment benchmarks and related requirements to newly covered 
+    air interfaces, i.e., those air interfaces that operate outside the 
+    former scope of the hearing aid compatibility rules due to either 
+    regulatory status or network architecture issues. The Commission will 
+    begin enforcing the benchmarks for these newly covered air interfaces 
+    once the applicable transition period expires. After the transition is 
+    complete, the M- and T-rating deployment benchmarks for handsets 
+    supporting any newly covered operations will be the same as those used 
+    for currently covered operations in handsets, and the Commission will 
+    apply the same benchmark requirements (including the de minimis rules) 
+    to all handsets, including newly covered operations, that a 
+    manufacturer or a service provider offers. In this regard, the 
+    Commission notes that TIA argues that the Commission should extend the 
+    de minimis exception to handsets offered over air interfaces that a 
+    manufacturer or service provider is phasing out of its portfolio. This 
+    comment appears to go to the exception's operation generally and not to 
+    its application after a possible transition, and therefore it is 
+    outside the scope of the FNPRM.
+        33. The Commission finds that a January 1, 2018 transition date is 
+    appropriate for both manufacturers and Tier I service providers. When 
+    the Commission adopted its initial hearing aid compatibility rules in 
+    2003, it gave manufacturers and Tier I carriers 24 months to comply 
+    with acoustic coupling requirements. Similarly, in 2012, OET and WTB 
+    adopted a 24-month transition period for covered CMRS operations that 
+    use frequency bands and air interfaces that can be tested under the 
+    2011 ANSI Standard. As discussed above, the Commission finds that any 
+    challenges related to technical feasibility and marketability will not 
+    be significantly different for newly covered handsets than for handsets 
+    that are currently being made hearing aid-compatible under the rule. 
+    The Commission finds that a similar transition period provides adequate 
+    time to adjust handset portfolios to ensure compliance with the 
+    benchmarks that apply independently to each air interface, regardless 
+    of whether the voice communications functionality is network-based or 
+    software-based. This transition period affords manufacturers a 
+    reasonable amount of time to implement requirements to test and rate 
+    software-based voice functionality. Although HIA argues that the 
+    transition period should be limited to the length of a typical product 
+    design cycle, the Commission has previously determined that two years 
+    is an appropriate period to accommodate the typical handset industry 
+    product development cycle, and the record in this proceeding further 
+    supports that conclusion. The Commission finds that a January 1, 2018 
+    transition date for manufacturers and Tier I service providers is an 
+    appropriate timetable to account for any issues of technical 
+    feasibility and marketability.
+        34. The Commission affords an additional three months for non-Tier 
+    I service providers to meet the deployment benchmarks and related 
+    requirements for handsets newly subject to the hearing aid 
+    compatibility rules. In allowing additional time until the April 1, 
+    2018 transition date, the Commission recognizes that non-Tier I service 
+    providers often have difficulty obtaining the newest handset models. 
+    While some commenters argue that the transition period should be longer 
+    in certain instances, the record does not demonstrate a need for an 
+    even greater transition period for non-Tier I service providers nor any 
+    reason to depart from prior hearing aid compatibility transitions in 
+    which the Commission afforded non-Tier I providers an additional three 
+    months beyond the transition period provided to Tier I service 
+    providers.
+        35. Given that many manufacturers and service providers began 
+    meeting benchmarks in 2014 for handsets with operations over the 
+    additional air interfaces and frequency bands covered by the 2011 ANSI 
+    Standard, including in the case of the LTE air interface, the 
+    Commission anticipates that these parties will continue to meet 
+    existing benchmarks during the transition. The Commission finds this 
+    expectation reasonable for any IP-based voice services, including VoLTE 
+    and Wi-Fi Calling, given that affected parties are already meeting 
+    deployment benchmarks for VoLTE operations, and the record reflects 
+    that manufacturers and service providers are in some cases already 
+    widely complying with hearing aid compatibility requirements.
+        36. The Commission notes that, due to a lack of testing equipment 
+    availability, manufacturers are currently permitted to obtain 
+    certification of handset models for inductive coupling capability under
+    
+    [[Page 180]]
+    
+    the 2011 ANSI Standard without testing and rating any present VoLTE or 
+    Wi-Fi Calling operations, subject to a disclosure that such handsets 
+    have not been tested and rated for all of their operations. The 
+    Commission emphasizes that, at the January 1, 2018 transition date, 
+    parties will need to meet requirements to test and rate for inductive 
+    coupling capability, including for VoLTE and Wi-Fi Calling if such 
+    services are included in the handset, in order to certify such handsets 
+    as hearing aid-compatible and meet applicable deployment requirements. 
+    During the transition, however, the Commission will continue the 
+    interim process permitting disclosure instead of inductive coupling 
+    testing and rating for VoLTE and Wi-Fi Calling when used to provide 
+    CMRS-based voice services. The Commission notes that some newer VoLTE-
+    enabled handsets have been tested and rated for inductive coupling 
+    capability. The record reflects an industry understanding that the 
+    current process allowing for disclosure instead of testing and rating 
+    for inductive coupling capability in all modes of operation is 
+    temporary. Indeed, the industry has had notice for over a year that 
+    Commission staff are reassessing how long the Commission should use the 
+    current process as testing equipment and protocols become increasingly 
+    available. Thus, the Commission finds that the January 1, 2018 
+    transition date is a reasonable point in time at which the Commission 
+    will require full inductive coupling testing and rating of handsets 
+    with VoLTE and Wi-Fi Calling functionality before certifying these 
+    handsets so manufacturers and service providers can meet their 
+    deployment benchmarks.
+    
+    II. Procedural Matters
+    
+    A. Final Regulatory Flexibility Analysis
+    
+        37. As required by the Regulatory Flexibility Act of 1980, as 
+    amended (RFA), the Federal Communications Commission (Commission) 
+    included an Initial Regulatory Flexibility Analysis (IRFA) of the 
+    possible significant economic impact on a substantial number of small 
+    entities of the rules considered in the FNPRM in WT Docket 07-250. The 
+    Commission sought written public comments on the FNPRM in this docket, 
+    including comment on the IRFA. Because the Commission amends its rules 
+    in the Fourth Report and Order, the Commission has included this Final 
+    Regulatory Flexibility Analysis (FRFA) which conforms to the RFA. To 
+    the extent that any statement contained in this FRFA is perceived as 
+    creating ambiguity with respect to the Commission's rules, or 
+    statements made in preceding sections of this Fourth Report and Order, 
+    the rules and statements set forth in those preceding sections shall be 
+    controlling.
+    1. Need for, and Objectives of, the Fourth Report and Order
+        38. Until now, the hearing aid compatibility rules have generally 
+    been limited only to handsets used with two-way switched voice or data 
+    services classified as Commercial Mobile Radio Service (CMRS), and only 
+    to the extent they are provided over networks meeting certain 
+    architectural requirements that enable frequency reuse and seamless 
+    handoff. In the Fourth Report and Order, the Commission expands the 
+    scope of these rules to cover the emerging wireless technologies of 
+    today and tomorrow. The rules adopted here eliminate uncertainty about 
+    the scope of the Commission's hearing aid compatibility requirements 
+    and ensure that emerging voice services will be covered regardless of 
+    their classification for other regulatory purposes and without 
+    restriction to a particular network architecture. The rules now extend 
+    to handsets (those mobile device that contain a built-in speaker and 
+    are typically held to the ear in any of their ordinary uses) used with 
+    any terrestrial mobile service that enables two-way real-time voice 
+    communications among members of the public or a substantial portion of 
+    the public, including through the use of pre-installed software 
+    applications. The Commission also adopts a transition period that 
+    ensures industry stakeholders will be able to comply with these rules 
+    while continuing to innovate and invest. By expanding the scope of the 
+    Commission's rules to those consumer mobile devices that are typically 
+    held to the ear, are heavily relied on for voice communications, and 
+    operate in bands covered by approved standards--and only where 
+    compliance is technically feasible--we target the Commission's efforts 
+    to those situations where Commission action can make a significant 
+    impact and best serve the public interest. In this regard, the 
+    Commission has been mindful of its obligation to expand hearing aid 
+    compatibility requirements only in those instances where the record 
+    supports the necessary statutory findings mandated by the Hearing Aid 
+    Compatibility Act. This action will require that future technologies 
+    comply with the Commission's hearing aid compatibility rules, ensuring 
+    that consumers with hearing loss are not always trying to catch up to 
+    technology and providing industry with additional regulatory certainty.
+    2. Summary of Significant Issues Raised by Public Comments in Response 
+    to the IRFA
+        39. There were no comments filed that specifically addressed the 
+    rules and policies proposed in the IRFA.
+    3. Description and Estimate of the Number of Small Entities to Which 
+    the Proposed Rules Would Apply
+        40. The RFA directs agencies to provide a description of, and where 
+    feasible, an estimate of the number of small entities that may be 
+    affected by proposed rules. The RFA generally defines the term ``small 
+    entity'' as having the same meaning as the terms ``small business,'' 
+    ``small organization,'' and ``small governmental jurisdiction.'' In 
+    addition, the term ``small business'' has the same meaning as the term 
+    ``small business concern'' under the Small Business Act. A ``small 
+    business concern'' is one which: (1) Is independently owned and 
+    operated; (2) is not dominant in its field of operation; and (3) 
+    satisfies any additional criteria established by the Small Business 
+    Administration (``SBA'').
+        41. Small Businesses, Small Organizations, and Small Governmental 
+    Jurisdictions. The Commission's action may, over time, affect small 
+    entities that are not easily categorized at present. The Commission 
+    therefore describes here, at the outset, three comprehensive, statutory 
+    small entity size standards. First, nationwide, there are a total of 
+    approximately 27.5 million small businesses, according to the SBA. In 
+    addition, a ``small organization'' is generally ``any not-for-profit 
+    enterprise which is independently owned and operated and is not 
+    dominant in its field.'' Nationwide, as of 2007, there were 
+    approximately 1,621,315 small organizations. Finally, the term ``small 
+    governmental jurisdiction'' is defined generally as ``governments of 
+    cities, towns, townships, villages, school districts, or special 
+    districts, with a population of less than fifty thousand.'' Census 
+    Bureau data for 2011 indicate that there were 89,476 local governmental 
+    jurisdictions in the United States. The Commission estimates that, of 
+    this total, as many as 88,506 entities may qualify as ``small 
+    governmental jurisdictions.'' Thus, the Commission estimates that most 
+    governmental jurisdictions are small.
+        42. Radio and Television Broadcasting and Wireless Communications 
+    Equipment Manufacturing. The Census Bureau defines this category as 
+    follows: ``This
+    
+    [[Page 181]]
+    
+    industry comprises establishments primarily engaged in manufacturing 
+    radio and television broadcast and wireless communications equipment. 
+    Examples of products made by these establishments are: Transmitting and 
+    receiving antennas, cable television equipment, GPS equipment, pagers, 
+    cellular phones, mobile communications equipment, and radio and 
+    television studio and broadcasting equipment.'' The SBA has developed a 
+    small business size standard for Radio and Television Broadcasting and 
+    Wireless Communications Equipment Manufacturing, which is: All such 
+    firms having 750 or fewer employees. According to Census Bureau data 
+    for 2007, there were a total of 939 establishments in this category 
+    that operated for part or all of the entire year. Of this total, 912 
+    had less than 500 employees. Thus, under this size standard, the 
+    majority of firms can be considered small.
+        43. Part 15 Handset Manufacturers. The Commission has not developed 
+    a definition of small entities applicable to unlicensed communications 
+    handset manufacturers. Therefore, the Commission will utilize the SBA 
+    definition applicable to Radio and Television Broadcasting and Wireless 
+    Communications Equipment Manufacturing. The Census Bureau defines this 
+    category as follows: ``This industry comprises establishments primarily 
+    engaged in manufacturing radio and television broadcast and wireless 
+    communications equipment. Examples of products made by these 
+    establishments are: Transmitting and receiving antennas, cable 
+    television equipment, GPS equipment, pagers, cellular phones, mobile 
+    communications equipment, and radio and television studio and 
+    broadcasting equipment.'' The SBA has developed a small business size 
+    standard for Radio and Television Broadcasting and Wireless 
+    Communications Equipment Manufacturing, which is: All such firms having 
+    750 or fewer employees. According to Census Bureau data for 2007, there 
+    were a total of 939 establishments in this category that operated for 
+    part or all of the entire year. Of this total, 912 had less than 500 
+    employees. Thus, under this size standard, the majority of firms can be 
+    considered small.
+        44. Wireless Telecommunications Carriers (except satellite). The 
+    Census Bureau defines this category as follows: ``This industry 
+    comprises establishments engaged in operating and maintaining switching 
+    and transmission facilities to provide communications via the airwaves. 
+    Establishments in this industry have spectrum licenses and provide 
+    services using that spectrum, such as cellular phone services, paging 
+    services, wireless Internet access, and wireless video services.'' The 
+    appropriate size standard under SBA rules is for the category Wireless 
+    Telecommunications Carriers (except Satellite). In this category, a 
+    business is small if it has 1,500 or fewer employees. For this 
+    category, census data for 2007 show that there were 1,383 firms that 
+    operated for the entire year. Of this total, 1,368 firms had employment 
+    of 999 or fewer employees and 15 had employment of 1000 employees or 
+    more. According to Commission data, 413 carriers reported that they 
+    were engaged in the provision of wireless telephony, including cellular 
+    service, PCS, and Specialized Mobile Radio (SMR) telephony services. Of 
+    these, an estimated 261 have 1,500 or fewer employees and 152 have more 
+    than 1,500 employees. The Commission estimates that approximately half 
+    or more of these firms can be considered small. Thus, using available 
+    data, the Commission estimates that the majority of wireless firms can 
+    be considered small.
+        45. Internet Service Providers. The 2007 Economic Census places 
+    these firms, whose services might include Voice over Internet Protocol 
+    (VoIP), in one of three categories. The first refers to whether the 
+    service is provided over the provider's own telecommunications 
+    facilities (e.g., cable and DSL ISPs), or over client-supplied 
+    telecommunications connections (e.g., dial-up ISPs). This type of ISP 
+    is classified by the Commission in the category of Wired 
+    Telecommunications Carriers. Wired Telecommunications Carriers comprise 
+    establishments primarily engaged in operating or providing access to 
+    transmission facilities or infrastructure that they own and/or lease 
+    for the transmission of voice, data, sound, and video using wired 
+    telecommunications networks. Transmission facilities may be based on a 
+    single technology or on a combination of technologies. Establishments 
+    in this industry use the wired telecommunications network facilities to 
+    provide a variety of services, such as wired telephony services, 
+    including VoIP services, wired cable audio and video programming 
+    distribution, and wired broadband Internet services. By exception, 
+    establishments providing satellite distribution services using 
+    facilities and infrastructure that they operate are included in this 
+    industry. Wired Telecommunications Carriers have an SBA small business 
+    size standard under which an establishment having 1,500 or fewer 
+    employees is small. The second type of ISP is classified in the 
+    category of Wireless Telecommunications Carriers (except satellite). 
+    This industry comprises establishments engaged in operating and 
+    maintaining switching and transmission facilities to provide 
+    communications via the airwaves. Establishments in this service have 
+    spectrum licenses and provide services using that spectrum, such as 
+    cellular phone services, wireless Internet access, and wireless video 
+    services. The size standard for Wireless Telecommunications Carriers 
+    (except satellite) is the same as for Wired Telecommunications 
+    Carriers. The third type of ISP is classified under All Other 
+    Telecommunications. This industry comprises establishments primarily 
+    engaged in providing specialized telecommunications services, such as 
+    satellite tracking, communications telemetry, and radar station 
+    operation. This industry also includes establishments primarily engaged 
+    in providing satellite terminal stations and associated facilities 
+    connected with one or more terrestrial systems and capable of 
+    transmitting telecommunications to, and receiving telecommunications 
+    from, satellite systems. Establishments providing Internet services or 
+    VoIP services via client-supplied telecommunications connections are 
+    also included in this industry. The SBA size standard for this industry 
+    states that all establishments in this category whose annual receipts 
+    are $32.5 million or less are small.
+        46. For purpose of this rulemaking, the Commission is concerned 
+    only with those ISPs that are classified either in the category of 
+    Wireless Communications Carriers (except satellite) or are classified 
+    in the category of All Other Telecommunications. The type of handsets 
+    which are the subject of the proposed rulemaking herein is primarily, 
+    if not exclusively, concerned with wireless handsets. ISPs which are 
+    classified under Wired Telecommunications are not relevant in the 
+    context of this particular rulemaking.
+        47. United States census data for 2007 show that there were 1,383 
+    Wireless Telecommunications Carriers (except satellite) firms that 
+    operated for the entire year. Of this total, 1,368 firms had employment 
+    of 999 or fewer employees. According to Commission data, 413 carriers 
+    reported that they were engaged in the provision of wireless telephony, 
+    including cellular service, PCS, and Specialized Mobile Radio (SMR) 
+    telephony services. Of these, an estimated 261 have 1,500 or fewer
+    
+    [[Page 182]]
+    
+    employees and 152 have more than 1,500 employees. Consequently, the 
+    Commission estimates that approximately half or more of these firms can 
+    be considered small. Thus, using available data, the Commission 
+    estimates that the majority of wireless telecommunications carriers can 
+    be considered small.
+        48. With regard to the category of All Other Telecommunications, 
+    U.S. Census data for 2007 state that 2,383 firms were operational 
+    during that year. Of that number, 2,346 had annual receipts of less 
+    than $25 million. The Commission estimates that the majority of ISP 
+    firms in this category are small entities.
+        49. All Other Information Services. The Census Bureau defines this 
+    industry as including ``establishments primarily engaged in providing 
+    other information services (except news syndicates, libraries, 
+    archives, Internet publishing and broadcasting, and Web search 
+    portals).'' VoIP services over wireless technologies could be provided 
+    by entities that provide other services such as email, online gaming, 
+    web browsing, video conferencing, instant messaging, and other, similar 
+    IP-enabled services. The SBA has developed a small business size 
+    standard for this category; that size standard is $27.5 million or less 
+    in average annual receipts. According to Census Bureau data for 2007, 
+    there were 367 firms in this category that operated for the entire 
+    year. Of these, 354 had annual receipts of under $25 million. The 
+    Commission estimates that the majority of these firms are small 
+    entities that may be affected by the Commission's action.
+    4. Description of Projected Reporting, Recordkeeping, and Other 
+    Compliance Requirements for Small Entities
+        50. The current hearing aid compatibility regulations impose a 
+    number of obligations on covered CMRS providers and the manufacturers 
+    of handsets used with those services, including: (1) Requirements to 
+    deploy a certain number or percentage of handset models that meet 
+    hearing aid compatibility standards, (2) ``refresh'' requirements on 
+    manufacturers to meet their hearing aid-compatible handset deployment 
+    benchmarks in part using new models, (3) a requirement that service 
+    providers offer hearing aid-compatible handsets with varying levels of 
+    functionality, (4) a requirement that service providers make their 
+    hearing aid-compatible models available to consumers for testing at 
+    their owned or operated stores, (5) point of sale disclosure 
+    requirements, (6) requirements to make consumer information available 
+    on the manufacturer's or service provider's Web site, and (7) annual 
+    reporting requirements.
+        51. The Fourth Report and Order expands the scope of the hearing 
+    aid compatibility rules to cover handsets used with any terrestrial 
+    mobile service that enables two-way real-time voice communications 
+    among members of the public or a substantial portion of the public, 
+    including through the use of pre-installed software applications and 
+    other Internet Protocol (IP)-based technologies. After the transition 
+    period, the rules the Commission adopts will extend to providers of 
+    wireless voice communications among members of the public or a 
+    substantial portion of the public using equipment that contains a 
+    built-in speaker and is typically held to the ear, and to the 
+    manufacturers of such equipment, the same hearing aid compatibility 
+    rules that currently apply to a defined category of CMRS. The 
+    Commission also clarifies that testing a handset for hearing aid 
+    compatibility does not require testing software voice functions except 
+    to the extent that such functionality is installed by the manufacturer 
+    or service provider or at their direction, for use by a consumer over a 
+    given interface. The Commission provides that the existing deployment 
+    benchmarks and related requirements will apply to newly covered 
+    handsets and air interfaces beginning January 1, 2018, with an 
+    additional three months allowed for handsets offered by non-Tier I 
+    service providers. The Commission further provides that, during this 
+    transition period, manufacturers may continue to obtain a hearing aid 
+    compatibility rating for a handset's operation on a given interface 
+    without testing software-enabled voice functions provided they meet 
+    applicable disclosure requirements.
+    5. Steps Taken To Minimize Significant Economic Impact on Small 
+    Entities, and Significant Alternatives Considered
+        52. The RFA requires an agency to describe any significant, 
+    specifically small business alternatives that it has considered in 
+    reaching its proposed approach, which may include the following four 
+    alternatives (among others): ``(1) the establishment of differing 
+    compliance or reporting requirements or timetables that take into 
+    account the resources available to small entities; (2) the 
+    clarification, consolidation, or simplification of compliance or 
+    reporting requirements under the rule for small entities; (3) the use 
+    of performance, rather than design, standards; and (4) exemption from 
+    coverage of the rule, or any part thereof, for small entities.''
+        53. In adopting the Fourth Report and Order, the Commission expands 
+    the scope of the wireless hearing aid compatibility rules to cover 
+    handsets used with any terrestrial mobile service that enables two-way 
+    real-time voice communications among members of the public or a 
+    substantial portion of the public, including through the use of pre-
+    installed software applications. The change in scope ensures that 
+    handsets with emerging voice technologies are subject to hearing aid 
+    compatibility requirements. At the same time, the new scope eases 
+    burdens on manufacturers and service providers, including small 
+    entities, by permitting handsets already certified to continue to be 
+    treated as hearing aid-compatible without any need for recertification 
+    after the expanded scope of the hearing aid compatibility rules goes 
+    into effect. The new scope also eases burdens for small entities by 
+    applying the same de minimis exception rules when the existing M- and 
+    T-rating deployment benchmarks begin to apply to all handsets, 
+    including newly covered operations, that a manufacturer or a service 
+    provider offers.
+        54. The Commission adopts a transition period in order to reduce 
+    burdens on small entities and others. The Commission finds it in the 
+    public interest to adopt a January 1, 2018 transition date (for 
+    manufacturers and Tier I carriers) and an April 1, 2018 transition date 
+    (for other service providers) for applying section 20.19's deployment 
+    benchmarks and related requirements to newly covered operations. Some 
+    commenters support longer time frames of up to an additional 12 months 
+    for small, rural, and/or Tier III service providers who, these 
+    commenters contend, do not have the same access to new handsets as Tier 
+    I providers. The Commission considered this alternative proposal and 
+    decided to afford an additional three months for non-Tier I service 
+    providers to meet the deployment benchmarks and related requirements 
+    for handsets newly subject to the hearing aid compatibility rules. In 
+    allowing additional time until the April 1, 2018 transition date, the 
+    Commission recognizes that non-Tier I service providers often have 
+    difficulty obtaining the newest handset models. The Commission 
+    determined that the record does not demonstrate a need for a longer 
+    transition period for non-Tier I service providers (including small 
+    entities) nor provide any reason to depart from prior hearing aid 
+    compatibility transitions in which the Commission afforded non-Tier I 
+    providers an additional three months beyond the transition period
+    
+    [[Page 183]]
+    
+    provided to Tier I service providers because, in part, a shorter period 
+    would better meet the needs of consumers with hearing loss.
+    6. Report to Congress
+        55. The Commission will send a copy of the Fourth Report and Order, 
+    including this FRFA, in a report to be sent to Congress pursuant to the 
+    Congressional Review Act. In addition, the Commission will send a copy 
+    of the Fourth Report and Order, including this FRFA, to the Chief 
+    Counsel for Advocacy of the SBA. A copy of the Fourth Report and Order 
+    and FRFA (or summaries thereof) will also be published in the Federal 
+    Register.
+    
+    B. Final Paperwork Reduction Act Analysis
+    
+        56. The Fourth Report and Order does not contain substantive new or 
+    modified information collection requirements subject to the Paperwork 
+    Reduction Act of 1995 (PRA), Public Law 104-13. It does not contain any 
+    substantive new or modified information collection burden for small 
+    business concerns with fewer than 25 employees, pursuant to the Small 
+    Business Paperwork Relief Act of 2002, Public Law 107-198, see 44 
+    U.S.C. 3506(c)(4).
+    
+    C. Congressional Review Act
+    
+        57. The Commission will include a copy of this Fourth Report and 
+    Order and Notice of Proposed Rulemaking in a report to be sent to 
+    Congress and the Government Accountability Office pursuant to the 
+    Congressional Review Act, see 5 U.S.C. 801(a)(1)(A).
+    
+    III. Ordering Clauses
+    
+        58. It is ordered, pursuant to sections 4(i), 303(r), and 710 of 
+    the Communications Act of 1934, as amended, 47 U.S.C. 154(i), 303(r), 
+    and 610, this Fourth Report and Order is hereby adopted.
+        59. It is further ordered that the rule amendments will become 
+    effective 30 days after their publication in the Federal Register.
+        60. It is further ordered that the Commission's Consumer & 
+    Governmental Affairs Bureau, Reference Information Center, shall send a 
+    copy of this Fourth Report and Order, including the Final Regulatory 
+    Flexibility Analysis, to the Chief Counsel for Advocacy of the Small 
+    Business Administration.
+    
+    List of Subjects in 47 CFR Part 20
+    
+        Communications common carriers, Communications equipment, 
+    Incorporation by reference, Radio.
+    
+    
+    Federal Communications Commission.
+    Gloria J. Miles,
+    Federal Register Liaison Officer, Office of the Secretary.
+    
+    Final Rules
+    
+        For the reasons discussed in the preamble, the Federal 
+    Communications Commission amends 47 CFR part 20 as follows:
+    
+    PART 20--COMMERCIAL MOBILE SERVICES
+    
+    0
+    1. The authority citation for part 20 is revised to read as follows:
+    
+        Authority: 47 U.S.C. 151, 152(a) 154(i), 157, 160, 201, 214, 
+    222, 251(e), 301, 302, 303, 303(b), 303(r), 307, 307(a), 309, 
+    309(j)(3), 316, 316(a), 332, 610, 615, 615a, 615b, 615c, unless 
+    otherwise noted.
+    
+    
+    0
+    2. Section 20.19 is amended by revising paragraphs (a)(1) and (2), 
+    (a)(3)(iv), and (b)(3)(i) to read as follows:
+    
+    
+    Sec.  20.19  Hearing aid-compatible mobile handsets.
+    
+        (a) * * *
+        (1) Service providers. (i) On or after January 1, 2018 for Tier I 
+    carriers and April 1, 2018 for service providers other than Tier I 
+    carriers, the hearing aid compatibility requirements of this section 
+    apply to providers of digital mobile service in the United States to 
+    the extent that they offer terrestrial mobile service that enables two-
+    way real-time voice communications among members of the public or a 
+    substantial portion of the public, including both interconnected and 
+    non-interconnected VoIP services, and such service is provided over 
+    frequencies in the 698 MHz to 6 GHz bands.
+        (ii) Prior to January 1, 2018 for Tier I carriers and April 1, 2018 
+    for service providers other than Tier I carriers, the hearing aid 
+    compatibility requirements of this section apply to providers of 
+    digital CMRS in the United States to the extent that they offer real-
+    time, two-way switched voice or data service that is interconnected 
+    with the public switched network and utilizes an in-network switching 
+    facility that enables the provider to reuse frequencies and accomplish 
+    seamless hand-offs of subscriber calls, and such service is provided 
+    over frequencies in the 698 MHz to 6 GHz bands.
+        (2) Manufacturers. On or after January 1, 2018, the requirements of 
+    this section also apply to the manufacturers of the wireless handsets 
+    that are used in delivery of the services specified in paragraph 
+    (a)(1)(i) of this section. Prior to January 1, 2018, the requirements 
+    of this section also apply to the manufacturers of the wireless 
+    handsets that are used in delivery of the services specified in 
+    paragraph (a)(1)(ii) of this section.
+        (3) * * *
+        (iv) Service provider refers to a provider of digital mobile 
+    service to which the requirements of this section apply.
+    * * * * *
+        (b) * * *
+        (3) * * *
+        (i) Except as provided in paragraph (b)(3)(ii) of this section, a 
+    wireless handset used for digital mobile service only over the 698 MHz 
+    to 6 GHz frequency bands is hearing aid-compatible with regard to radio 
+    frequency interference or inductive coupling if it meets the applicable 
+    technical standard set forth in paragraph (b)(1) or (b)(2) of this 
+    section for all frequency bands and air interfaces over which it 
+    operates, and the handset has been certified as compliant with the test 
+    requirements for the applicable standard pursuant to Sec.  2.1033(d) of 
+    this chapter. A wireless handset that incorporates operations outside 
+    the 698 MHz to 6 GHz frequency bands is hearing aid-compatible if the 
+    handset otherwise satisfies the requirements of this paragraph (b).
+    * * * * *
+    [FR Doc. 2015-32757 Filed 1-4-16; 8:45 am]
+     BILLING CODE 6712-01-P
+    
+    
+    
+

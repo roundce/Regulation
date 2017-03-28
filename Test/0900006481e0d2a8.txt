@@ -1,0 +1,311 @@
+
+    [Federal Register Volume 81, Number 9 (Thursday, January 14, 2016)]
+    [Rules and Regulations]
+    [Pages 1882-1884]
+    From the Federal Register Online via the Government Publishing Office [[www.gpo.gov](http://www.gpo.gov)]
+    [FR Doc No: 2016-00340]
+    
+    
+    -----------------------------------------------------------------------
+    
+    ENVIRONMENTAL PROTECTION AGENCY
+    
+    40 CFR Part 52
+    
+    [EPA-R09-OAR-2015-0673; FRL-9941-13-Region 9]
+    
+    
+    Partial Approval and Disapproval of Nevada Air Plan Revisions, 
+    Clark County
+    
+    AGENCY: Environmental Protection Agency (EPA).
+    
+    ACTION: Final rule.
+    
+    -----------------------------------------------------------------------
+    
+    SUMMARY: The Environmental Protection Agency (EPA) is finalizing a 
+    partial approval and partial disapproval of revisions to the Clark 
+    County portion of the Nevada State Implementation Plan (SIP). The SIP 
+    revisions include rescission of four local rules that collectively 
+    apply to sources that emit volatile organic compounds (VOCs), oxides of 
+    sulfur (SOX), and particulate matter (PM). In this final 
+    action, the EPA is approving the rescission of two of the rules and 
+    disapproving the rescission of the other two rules. Approval of the 
+    rescission of the two local rules removes them from the Nevada SIP. The 
+    two rules for which the EPA is disapproving rescission remain in the 
+    Nevada SIP.
+    
+    DATES: This rule is effective on February 16, 2016.
+    
+    ADDRESSES: The EPA has established docket number EPA-R09-OAR-2015-0673 
+    for this action. Generally, documents in the docket for this action are 
+    available electronically at <http://www.regulations.gov> or in hard copy 
+    at EPA Region IX, 75 Hawthorne Street, San Francisco, California 94105-
+    3901. While all documents in the docket are listed at <http://www.regulations.gov>, some information may be publicly available only at 
+    the hard copy location (e.g., copyrighted material, large maps, multi-
+    volume reports), and some may not be available in either location 
+    (e.g., confidential business information (CBI)). To inspect the hard 
+    copy materials, please schedule an appointment during normal business 
+    hours with the contact listed in the FOR FURTHER INFORMATION CONTACT 
+    section.
+    
+    FOR FURTHER INFORMATION CONTACT: Kevin Gong, EPA Region IX, (415) 972-
+    3073, [Gong.Kevin@epa.gov](mailto:Gong.Kevin@epa.gov).
+    
+    SUPPLEMENTARY INFORMATION: Throughout this document, ``we,'' ``us'' and 
+    ``our'' refer to the EPA.
+    
+    Table of Contents
+    
+    I. Proposed Action
+    
+    [[Page 1883]]
+    
+    II. Public Comments and EPA Responses
+    III. EPA Action
+    IV. Statutory and Executive Order Reviews
+    
+    I. Proposed Action
+    
+        On November 5, 2015 (80 FR 68486), under section 110(k)(3) of the 
+    Clean Air Act (CAA or ``Act''), the EPA proposed a partial approval and 
+    partial disapproval of the rescission of four local rules submitted by 
+    the Nevada Division of Environmental Protection (NDEP) on November 20, 
+    2014 as a revision to the Clark County portion of the Nevada SIP.
+        Table 1 lists the rule rescissions that the EPA is approving in 
+    today's action, as currently ordered in the Nevada SIP.\1\
+    ---------------------------------------------------------------------------
+    
+        \1\ Unless otherwise specified, all references to CCAQR Sections 
+    in this document are to those sections in their entirety.
+    
+                                           Table 1--Approved Rule Rescissions
+    ----------------------------------------------------------------------------------------------------------------
+       Rule Section of the Clark
+    County Air Quality Regulations           Title           Local effective     SIP approval        FR citation
+                (CCAQR)                                            date              date
+    ----------------------------------------------------------------------------------------------------------------
+    Section 29....................  Sulfur Contents of      December 29, 1978  August 27, 1981.  46 FR 43141
+                                     Fuel Oil.
+    Section 30, subsections 30.1-   Incinerators..........  December 29, 1978  August 27, 1981.  46 FR 43141
+     30.7 (excluding subsection
+     30.4).
+    Section 30, subsection 30.4...  [exemptions for         September 3, 1981  June 18, 1982...  47 FR 26386
+                                     certain types of
+                                     incinerators].
+    Section 30, subsection 30.8...  [related to maximum     September 3, 1981  June 18, 1982...  47 FR 26386
+                                     allowable emission
+                                     rates].
+    ----------------------------------------------------------------------------------------------------------------
+    
+        Table 2 lists the rule rescissions that the EPA is disapproving in 
+    today's action, as currently ordered in the Nevada SIP.
+    
+                                          Table 2--Disapproved Rule Rescissions
+    ----------------------------------------------------------------------------------------------------------------
+                                                             Local effective     SIP approval
+       Rule Section of the CCAQR             Title                 date              date            FR citation
+    ----------------------------------------------------------------------------------------------------------------
+    Section 52, subsections 52.1-   Handling of Gasoline    December 28, 1978  April 14, 1981..  46 FR 21758
+     52.10 (excluding subsections    at Service Stations,
+     52.4.2.3 and 52.7.2).           Airports and Storage
+                                     Tanks.
+    Section 52, subsections         [related to vapor       September 3, 1981  June 18, 1982...  47 FR 26386
+     52.4.2.3 and 52.7.2.            recovery and sales
+                                     information].
+    Section 60 (excluding           Evaporation and         June 28, 1979....  April 14, 1981..  46 FR 21758
+     subsections 60.4.2-60.4.3).     Leakage.
+    Section 60, subsection 60.4.2.  [General prohibition    September 3, 1981  March 20, 1984..  49 FR 10259
+                                     on the use of cutback
+                                     asphalt].
+    Section 60, subsection 60.4.3.  [Exceptions to          September 3, 1981  June 18, 1982...  47 FR 26386
+                                     subsection 60.4.2].
+    ----------------------------------------------------------------------------------------------------------------
+    
+        We proposed approval of the rescission of CCAQR sections 29 and 30, 
+    as approved into the SIP, based on our conclusion that these rules were 
+    not specifically required under the CAA and that rescission would be 
+    consistent with section 110(l) of the CAA, i.e., the rescission of the 
+    two rules would not interfere with attainment or maintenance of any of 
+    the national ambient air quality standards (NAAQS). We proposed to 
+    disapprove the rescission of CCAQR sections 52 and 60, as approved into 
+    the SIP, because rescission would be inconsistent with section 110(l) 
+    of the CAA. More specifically, we concluded that rescission of sections 
+    52 and 60 would allow for an increase in VOC emissions and thus would 
+    not be protective of the 2008 ozone NAAQS. Our conclusion in this 
+    regard derives from the following findings:
+        1. The rescission of Section 52 would allow an increase in VOC 
+    emissions from gasoline dispensing facilities that would not be 
+    controlled by other regulations.
+        2. The rescission of Section 60 would allow an increase in VOC 
+    emissions from the allowance of cutback asphalt use during summer 
+    months that would not be controlled by other regulations.
+        Our proposed action contains more information on the basis for this 
+    rulemaking and on our evaluation of the submittal.
+    
+    II. Public Comments and EPA Responses
+    
+        The EPA's proposed action provided a 30-day public comment period. 
+    During this period, we received no comments.
+    
+    III. EPA Action
+    
+        Under section 110(k)(3) of the Act, the EPA is finalizing a partial 
+    approval and partial disapproval of the SIP revision submitted by NDEP 
+    on November 20, 2014. More specifically, we are approving the 
+    rescission of CCAQR Sections 29 and 30 from the Nevada SIP and we are 
+    disapproving the rescission of CCAQR Sections 52 and 60. Rescission of 
+    CCAQR Sections 29 and 30 means the removal of the rules from the Nevada 
+    SIP. Disapproval of the rescission of CCAQR Sections 52 and 60 means 
+    that the rules remain in the Nevada SIP.
+        This final partial disapproval does not trigger sanctions or a 
+    Federal Implementation Plan (FIP) clock. Sanctions will not be imposed 
+    under CAA section 179(b) because the SIP submittal that we are 
+    partially disapproving is not a required SIP submittal. The EPA will 
+    not promulgate a FIP in this instance under CAA section 110(c)(1) 
+    because the partial disapproval of the SIP revision retains existing 
+    SIP rules and does not reveal a deficiency in the SIP for the area that 
+    a FIP must correct.
+    
+    [[Page 1884]]
+    
+    IV. Statutory and Executive Order Reviews
+    
+        Additional information about these statutes and Executive Orders 
+    can be found at <http://www2.epa.gov/laws-regulations/laws-and-executive-orders>.
+    
+    A. Executive Order 12866: Regulatory Planning and Review and Executive 
+    Order 13563: Improving Regulation and Regulatory Review
+    
+        This action is not a significant regulatory action and was 
+    therefore not submitted to the Office of Management and Budget (OMB) 
+    for review.
+    
+    B. Paperwork Reduction Act (PRA)
+    
+        This action does not impose an information collection burden under 
+    the PRA because this action does not impose additional requirements 
+    beyond those imposed by state law.
+    
+    C. Regulatory Flexibility Act (RFA)
+    
+        I certify that this action will not have a significant economic 
+    impact on a substantial number of small entities under the RFA. This 
+    action will not impose any requirements on small entities beyond those 
+    imposed by state law.
+    
+    D. Unfunded Mandates Reform Act (UMRA)
+    
+        This action does not contain any unfunded mandate as described in 
+    UMRA, 2 U.S.C. 1531-1538, and does not significantly or uniquely affect 
+    small governments. This action does not impose additional requirements 
+    beyond those imposed by state law. Accordingly, no additional costs to 
+    state, local, or tribal governments, or to the private sector, will 
+    result from this action.
+    
+    E. Executive Order 13132: Federalism
+    
+        This action does not have federalism implications. It will not have 
+    substantial direct effects on the states, on the relationship between 
+    the national government and the states, or on the distribution of power 
+    and responsibilities among the various levels of government.
+    
+    F. Executive Order 13175: Coordination With Indian Tribal Governments
+    
+        This action does not have tribal implications, as specified in 
+    Executive Order 13175, because the SIP is not approved to apply on any 
+    Indian reservation land or in any other area where the EPA or an Indian 
+    tribe has demonstrated that a tribe has jurisdiction, and will not 
+    impose substantial direct costs on tribal governments or preempt tribal 
+    law. Thus, Executive Order 13175 does not apply to this action.
+    
+    G. Executive Order 13045: Protection of Children From Environmental 
+    Health Risks and Safety Risks
+    
+        The EPA interprets Executive Order 13045 as applying only to those 
+    regulatory actions that concern environmental health or safety risks 
+    that the EPA has reason to believe may disproportionately affect 
+    children, per the definition of ``covered regulatory action'' in 
+    section 2-202 of the Executive Order. This action is not subject to 
+    Executive Order 13045 because it does not impose additional 
+    requirements beyond those imposed by state law.
+    
+    H. Executive Order 13211: Actions That Significantly Affect Energy 
+    Supply, Distribution, or Use
+    
+        This action is not subject to Executive Order 13211, because it is 
+    not a significant regulatory action under Executive Order 12866.
+    
+    I. National Technology Transfer and Advancement Act (NTTAA)
+    
+        Section 12(d) of the NTTAA directs the EPA to use voluntary 
+    consensus standards in its regulatory activities unless to do so would 
+    be inconsistent with applicable law or otherwise impractical. The EPA 
+    believes that this action is not subject to the requirements of section 
+    12(d) of the NTTAA because application of those requirements would be 
+    inconsistent with the CAA.
+    
+    J. Executive Order 12898: Federal Actions To Address Environmental 
+    Justice in Minority Populations and Low-Income Population
+    
+        The EPA lacks the discretionary authority to address environmental 
+    justice in this rulemaking.
+    
+    K. Congressional Review Act (CRA)
+    
+        This action is subject to the CRA, and the EPA will submit a rule 
+    report to each House of the Congress and to the Comptroller General of 
+    the United States. This action is not a ``major rule'' as defined by 5 
+    U.S.C. 804(2).
+    
+    L. Petitions for Judicial Review
+    
+        Under section 307(b)(1) of the Clean Air Act, petitions for 
+    judicial review of this action must be filed in the United States Court 
+    of Appeals for the appropriate circuit by March 14, 2016. Filing a 
+    petition for reconsideration by the Administrator of this final rule 
+    does not affect the finality of this rule for the purposes of judicial 
+    review nor does it extend the time within which a petition for judicial 
+    review may be filed, and shall not postpone the effectiveness of such 
+    rule or action. This action may not be challenged later in proceedings 
+    to enforce its requirements (see section 307(b)(2)).
+    
+    List of Subjects in 40 CFR Part 52
+    
+        Environmental protection, Air pollution control, Incorporation by 
+    reference, Intergovernmental relations, Nitrogen dioxide, Ozone, 
+    Particulate matter, Reporting and recordkeeping requirements, Sulfur 
+    dioxide, Volatile organic compounds.
+    
+        Dated: December 24, 2015.
+    Alexis Strauss,
+    Acting Regional Administrator, Region IX.
+    
+        Part 52, Chapter I, Title 40 of the Code of Federal Regulations is 
+    amended as follows:
+    
+    PART 52--APPROVAL AND PROMULGATION OF IMPLEMENTATION PLANS
+    
+    0
+    1. The authority citation for part 52 continues to read as follows:
+    
+        Authority: 42 U.S.C. 7401 et seq.
+    
+    Subpart DD--Nevada
+    
+    
+    Sec.  52.1470  [Amended]
+    
+    0
+    2. In Sec.  52.1470 in paragraph (c), Table 3 is amended by removing 
+    the entries for ``Section 29,'' ``Section 30: Subsections 30.1-30.7 
+    (excluding subsection 30.4),'' ``Section 30 (Incinerators): Subsection 
+    30.4,'' and ``Section 30 (Incinerators): Subsection 30.8.''
+    
+    [FR Doc. 2016-00340 Filed 1-13-16; 8:45 am]
+     BILLING CODE 6560-50-P
+    
+    
+    
+

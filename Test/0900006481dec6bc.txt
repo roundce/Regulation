@@ -1,0 +1,163 @@
+
+    [Federal Register Volume 81, Number 3 (Wednesday, January 6, 2016)]
+    [Rules and Regulations]
+    [Pages 396-397]
+    From the Federal Register Online via the Government Publishing Office [[www.gpo.gov](http://www.gpo.gov)]
+    [FR Doc No: 2015-33241]
+    
+    
+    =======================================================================
+    -----------------------------------------------------------------------
+    
+    FEDERAL COMMUNICATIONS COMMISSION
+    
+    47 CFR Part 1
+    
+    [GN Docket No. 12-268; WT Docket Nos. 14-70, 05-211; RM-11395; FCC 15-
+    80]
+    
+    
+     Updating Competitive Bidding Rules
+    
+    AGENCY: Federal Communications Commission.
+    
+    ACTION: Final rule; announcement of effective date.
+    
+    -----------------------------------------------------------------------
+    
+    SUMMARY: In this document, the Commission announces that on December 
+    10, 2015, the Office of Management and Budget (OMB) approved, on an 
+    emergency basis, for a period for six months, a revision to an approved 
+    information collection to implement a modified collection requirement 
+    under 47 CFR 1.2105(c)(4) contained in the Part 1 Report and Order, 
+    Updating Competitive Bidding Rules, FCC 15-80. This document is 
+    consistent with the Part 1 Report and Order, which stated that the 
+    Commission would publish a document in the Federal Register announcing 
+    OMB approval and the effective date of the rule and requirement.
+    
+    DATES: 47 CFR 1.2105(c)(4), published at 80 FR 56764 on September 18, 
+    2015, is effective on January 6, 2016.
+    
+    FOR FURTHER INFORMATION CONTACT: Contact Cathy Williams, 
+    [Cathy.Williams@fcc.gov](mailto:Cathy.Williams@fcc.gov), (202) 418-2918.
+    
+    SUPPLEMENTARY INFORMATION: This document announces that, on December 
+    10, 2015, OMB approved, on an emergency basis, a revision to an 
+    approved information collection to implement a modified information 
+    collection requirement under 47 CFR 1.2105(c)(4), published at 80 FR 
+    56764 on September 18, 2015. The OMB Control Number is 3060-0995. The 
+    Commission publishes this document as an announcement of the effective 
+    date of the rule and requirement. If you have any comments on the 
+    burden estimates listed below, or how the Commission can improve the 
+    collections and reduce any burdens caused thereby, please contact Cathy 
+    Williams, Federal Communications Commission, Room 1-C823, 445 12th 
+    Street SW., Washington, DC 20554. Please include the OMB Control 
+    Number, 3060-0995, in your correspondence. The Commission will also 
+    accept your comments via the Internet if you send them to [PRA@fcc.gov](mailto:PRA@fcc.gov).
+        To request materials in accessible formats for people with 
+    disabilities (Braille, large print, electronic files, audio format), 
+    send an email to [fcc504@fcc.gov](mailto:fcc504@fcc.gov) or call the Consumer and Governmental 
+    Affairs Bureau at (202) 418-0530 (voice), (202) 418-0432 (TTY).
+    
+    Synopsis
+    
+        As required by the Paperwork Reduction Act of 1995 (44 U.S.C. 
+    3507), the Commission is notifying the public that it received 
+    emergency approval from OMB on December 10, 2015 for the revised 
+    information collection requirements contained in the information 
+    collection 3060-0995, Section 1.2105(c), Bidding Application and 
+    Certification Procedures; Sections 1.2105(c) and Section 1.2205, 
+    Prohibition of Certain Communications.
+        Under 5 CFR 1320, an agency may not conduct or sponsor a collection 
+    of information unless it displays a current, valid OMB Control Number.
+        No person shall be subject to any penalty for failing to comply 
+    with a collection of information subject to the Paperwork Reduction Act 
+    that does not display a current, valid OMB Control Number. The OMB 
+    Control Number is 3060-0995. The foregoing document is required by the 
+    Paperwork Reduction Act of 1995, Pub. L. 104-13, October 1, 1995, and 
+    44 U.S.C. 3507.
+        The total annual reporting burdens and costs for the respondents 
+    are as follows:
+        OMB Control Number: 3060-0995.
+        OMB Approval Date: December 10, 2015.
+        OMB Expiration Date: June 30, 2016.
+        Title: Section 1.2105(c), Bidding Application and Certification 
+    Procedures; Sections 1.2105(c) and Section 1.2205, Prohibition of 
+    Certain Communications.
+        Form No.: N/A.
+        Respondents: Business or other for-profit entities; Not-for-profit 
+    institutions; State, local or Tribal government.
+        Number of Respondents and Responses: 10 respondents; 10 responses.
+        Estimated Time per Response: 1.5 hours to 2 hours.
+        Frequency of Response: On occasion reporting requirement.
+        Obligation to Respond: Required to obtain or retain benefits. The 
+    statutory authority for this information collection is contained in 
+    sections 154(i), 309(j), and 1452(a)(3) of the Communications Act of 
+    1934, as amended, 47 U.S.C. 4(i), 309(j)(5), and 1452(a)(3), and 
+    section 1.2105(c)(4) of the Commission's rules, 47 CFR 1.2105(c)(4).
+        Total Annual Burden: 50 hours.
+        Total Annual Cost: $9,000.
+        Privacy Act Impact Assessment: No impact(s).
+        Nature and Extent of Confidentiality: The Commission will take all 
+    reasonable steps to protect the confidentiality of all Commission-held 
+    data of a reverse auction applicant consistent with the confidentiality 
+    requirements of the Spectrum Act and the Commission's rules. See 47 
+    U.S.C. 1452(a)(3); 47 CFR 1.2206. In addition, to the extent necessary, 
+    a full power or Class A television broadcast licensee may request 
+    confidential treatment of any report of a prohibited communication 
+    submitted to the Commission that is not already being treated as 
+    confidential pursuant to section 0.459 of the Commission's rules. See 
+    47 CFR 0.459. Forward auction applicants are entitled to request 
+    confidentiality in accordance with section 0.459 of the Commission's 
+    rules, 47 CFR 0.459.
+        Needs and Uses: In the Broadcast Incentive Auction Report and 
+    Order, Expanding the Economic and Innovation Opportunities of Spectrum 
+    Through Incentive Auctions, FCC 14-50, the Commission adopted a new 
+    rule for forward auction applicants prohibiting certain communications 
+    in the context of the television broadcast incentive auction (BIA), and 
+    amended an existing rule to require forward auction applicants that 
+    make or receive a communication that is prohibited under the new rule 
+    to file a report of such a communication with the Commission. See 47 
+    CFR 1.2105(c)(4), 1.2105(c)(6). Subsequently, as a result of amendments 
+    to various other provisions in section 1.2105(c) adopted in the Part 1 
+    Report and Order, the new rule for forward auction applicants 
+    prohibiting certain communications in the context of the BIA and the 
+    amended reporting requirement for forward auction applicants were 
+    redesignated as 1.2105(c)(4) and 1.2105(c)(6), respectively, without 
+    any changes to the scope or substance of either rule. See 47 CFR 
+    1.2105(c)(4), 1.2105(c)(6). The Commission's rules prohibiting certain 
+    communications in Commission auctions are designed to reinforce 
+    existing antitrust laws, facilitate detection of collusive conduct, and 
+    deter anticompetitive behavior, without being so strict as to 
+    discourage procompetitive arrangements between
+    
+    [[Page 397]]
+    
+    auction participants. They also help assure participants that the 
+    auction process will be fair and objective, and not subject to 
+    collusion. The revised information collection implements the modified, 
+    BIA-specific rule in section 1.2105(c)(4) by making clear the 
+    responsibility of parties who receive information that potentially 
+    violates the rules to promptly submit a report notifying the 
+    Commission, thereby helping the Commission enforce the prohibition on 
+    covered parties, and further assuring incentive auction participants 
+    that the auction process will be fair and competitive. The prohibited 
+    communication reporting requirement required of covered parties will 
+    enable the Commission to ensure that no bidder gains an unfair 
+    advantage over other bidders in its auctions and thus enhances the 
+    competitiveness and fairness of Commission's auctions. The information 
+    collected will be reviewed and, if warranted, referred to the 
+    Commission's Enforcement Bureau for possible investigation and 
+    administrative action. The Commission may also refer allegations of 
+    anticompetitive auction conduct to the Department of Justice for 
+    investigation.
+    
+    Federal Communications Commission.
+    Sheryl Todd,
+    Deputy Secretary, Office of the Secretary.
+    [FR Doc. 2015-33241 Filed 1-5-16; 8:45 am]
+     BILLING CODE 6712-01-P
+    
+    
+    
+

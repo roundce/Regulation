@@ -1,0 +1,272 @@
+
+    [Federal Register Volume 81, Number 1 (Monday, January 4, 2016)]
+    [Rules and Regulations]
+    [Pages 8-10]
+    From the Federal Register Online via the Government Publishing Office [[www.gpo.gov](http://www.gpo.gov)]
+    [FR Doc No: 2015-33012]
+    
+    
+    =======================================================================
+    -----------------------------------------------------------------------
+    
+    DEPARTMENT OF DEFENSE
+    
+    Department of the Navy
+    
+    32 CFR Part 706
+    
+    
+    Certifications and Exemptions Under the International Regulations 
+    for Preventing Collisions at Sea, 1972
+    
+    AGENCY: Department of the Navy, DoD.
+    
+    ACTION: Final rule.
+    
+    -----------------------------------------------------------------------
+    
+    SUMMARY: The Department of the Navy (DoN) is amending its 
+    certifications and exemptions under the International Regulations for 
+    Preventing Collisions at Sea, 1972, as amended (72 COLREGS), to reflect 
+    that the Deputy Assistant Judge Advocate General (DAJAG)(Admiralty and 
+    Maritime Law) has determined that USS ZUMWALT (DDG 1000) is a vessel of 
+    the Navy which, due to its special construction and purpose, cannot 
+    fully comply with certain provisions of the 72 COLREGS without 
+    interfering with its special function as a naval ship. The intended 
+    effect of this rule is to warn mariners in waters where 72 COLREGS 
+    apply.
+    
+    DATES: This rule is effective January 4, 2016 and is applicable 
+    beginning November 18, 2015.
+    
+    FOR FURTHER INFORMATION CONTACT: Commander Theron R. Korsak, (Admiralty 
+    and Maritime Law), Office of the Judge Advocate General, Department of 
+    the Navy, 1322 Patterson Ave. SE., Suite 3000, Washington Navy Yard, DC 
+    20374-5066, telephone 202-685-5040.
+    
+    SUPPLEMENTARY INFORMATION: Pursuant to the authority granted in 33 
+    U.S.C. 1605, the DoN amends 32 CFR part 706.
+        This amendment provides notice that the DAJAG (Admiralty and 
+    Maritime Law), under authority delegated by the Secretary of the Navy, 
+    has certified that USS ZUMWALT (DDG 1000) is a vessel of the Navy 
+    which, due to its special construction and purpose, cannot fully comply 
+    with the following specific provisions of 72 COLREGS without 
+    interfering with its special function as a naval ship: Annex I 
+    paragraph 2 (a)(i), pertaining to the location of the forward masthead 
+    light at a height not less than 6 meters above the hull; Annex I, 
+    paragraph 2(g) pertaining to the placement of sidelights above the hull 
+    of the vessel; Annex I, paragraph 2(i)(iii), pertaining to the equally 
+    spaced vertical separation of three task lights; and Annex I, paragraph 
+    2(k) as described in Rule 30 (a)(i), pertaining to the vertical 
+    separation between anchor lights, and the location of the forward 
+    anchor light at a height of not less than 6 meters above the hull; 
+    Annex I, paragraph 3(a), pertaining to the location of the forward
+    
+    [[Page 9]]
+    
+    masthead light in the forward quarter of the ship, and the horizontal 
+    distance between the forward and after masthead lights; Annex I, 
+    paragraph 3(c), pertaining to the task lights placed at a horizontal 
+    distance of not less than 2 meters from the fore and aft centerline of 
+    the vessel. The DAJAG (Admiralty and Maritime Law) has also certified 
+    that the lights involved are located in closest possible compliance 
+    with the applicable 72 COLREGS requirements.
+        Moreover, it has been determined, in accordance with 32 CFR parts 
+    296 and 701, that publication of this amendment for public comment 
+    prior to adoption is impracticable, unnecessary, and contrary to public 
+    interest since it is based on technical findings that the placement of 
+    lights on this vessel in a manner differently from that prescribed 
+    herein will adversely affect the vessel's ability to perform its 
+    military functions.
+    
+    List of Subjects in 32 CFR Part 706
+    
+        Marine safety, Navigation (water), Vessels.
+    
+        For the reasons set forth in the preamble, the DoN amends part 706 
+    of title 32 of the Code of Federal Regulations as follows:
+    
+    PART 706--CERTIFICATIONS AND EXEMPTIONS UNDER THE INTERNATIONAL 
+    REGULATIONS FOR PREVENTING COLLISIONS AT SEA, 1972
+    
+    0
+    1. The authority citation for part 706 continues to read as follows:
+    
+        Authority: 33 U.S.C. 1605.
+    
+    
+    0
+    2. Section 706.2 is amended by:
+    0
+    a. In Table One, adding, in alpha numerical order, by vessel number, an 
+    entry for USS ZUMWALT (DDG 1000);
+    0
+    b. In Table Three, adding, in alpha numerical order, by vessel number, 
+    an entry for USS ZUMWALT (DDG 1000);
+    0
+    c. In Table Four, under paragraph 15, adding, in alpha numerical order, 
+    by vessel number, an entry for USS ZUMWALT (DDG 1000);
+    0
+    d. In Table Four, under paragraph 19, adding, in alpha numerical order, 
+    by vessel number, an entry for USS ZUMWALT (DDG 1000);
+    0
+    e. In Table Four, under paragraph 22, adding, in alpha numerical order, 
+    by vessel number, an entry for USS ZUMWALT (DDG 1000); and
+    0
+    f. In Table Five, adding, in alpha numerical order, by vessel number, 
+    an entry for USS ZUMWALT (DDG 1000).
+    
+    
+    Sec.  706.2  Certifications of the Secretary of the Navy Under 
+    Executive Order 11964 and 33 U.S.C. 1605.
+    
+    * * * * *
+    
+                                    Table One
+    ------------------------------------------------------------------------
+                                                       Distance in meters of
+                                                          forward masthead
+                Vessel                    Number        light below minimum
+                                                        required height Sec.
+                                                           2(a)(i) Annex 1
+    ------------------------------------------------------------------------
+     
+                                  * * * * * * *
+    USS ZUMWALT...................  DDG 1000.........  2.55
+     
+                                  * * * * * * *
+    ------------------------------------------------------------------------
+    
+    * * * * *
+    
+                                                                                               Table Three
+    ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                                                                                          Side lights      Stern light,
+                                                                     Masthead lights                                        distance         distance     Forward  anchor        Anchor lights
+                                                                          arc of      Side lights arc  Stern light arc     inboard of       forward of     light, height      relationship  of aft
+                    Vessel                          Number             visibility;     of visibility;   of visibility;  ship's sides in      stern in      above hull in    light to  forward light
+                                                                        rule 21(a)       rule 21(b)       rule 21(c)      meters 3(b)      meters; rule     meters; 2(K)     in meters 2(K) annex 1
+                                                                                                                            annex 1           21(c)           annex 1
+    ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    USS ZUMWALT..........................  DDG 1000................  ...............  ...............  ...............  ...............  ...............             5.3   2.99 below.
+     
+                                                                                              * * * * * * *
+    ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    
+    * * * * *
+    * * * * *
+        15. * * *
+    
+                                   Table Four
+    ------------------------------------------------------------------------
+                                                        Horizontal distance
+                                                       from the fore and aft
+                Vessel                    Number         centerline of the
+                                                           vessel in the
+                                                       athwartship direction
+    ------------------------------------------------------------------------
+     
+                                  * * * * * * *
+    USS ZUMWALT...................  DDG 1000.........  FWD Lower: \1\ 0.31
+                                                        meters.
+                                                       FWD Middle: \1\ 0.31
+                                                        meters.
+                                                       FWD Upper: \1\ 0.29
+                                                        meters.
+                                                       AFT Lower: \1\ 1.04
+                                                        meters.
+                                                       AFT Middle: \1\ 1.05
+                                                        meters.
+                                                       AFT Upper: \1\ 1.06
+                                                        meters.
+     
+    
+    [[Page 10]]
+    
+     
+                                  * * * * * * *
+    ------------------------------------------------------------------------
+    \1\ On DDG 1000, the ship does not have a traditional mast. To achieve
+      the effect of a ``single, all-around light,'' multiple sets of task
+      lights are embedded into each of the four faces of the ship's
+      superstructure. Except when viewing the ship from dead ahead, dead
+      astern or broadside, two deckhouse surfaces are visible; consequently,
+      two sets of task lights are visible simultaneously. Because the
+      deckhouse surfaces are sloped, unless the lights are viewed dead-on,
+      the three task lights do not present as being in a vertical line.
+    
+    * * * * *
+        19. * * *
+    
+    ------------------------------------------------------------------------
+                                                       Distance in meters of
+                                                          sidelights above
+                Vessel                    Number          maximum allowed
+                                                               height
+    ------------------------------------------------------------------------
+    USS ZUMWALT...................  DDG 1000.........  2.55 PORT.
+                                                       2.52 STBD.
+     
+                                  * * * * * * *
+    ------------------------------------------------------------------------
+    
+    * * * * *
+        22. * * *
+    
+    ------------------------------------------------------------------------
+                                                        Vertical Separation
+                                                         of the task light
+                                                        array is not equally
+                                                            spaced, the
+                                                         separation between
+                Vessel                    Number        the middle and lower
+                                                       task light exceed the
+                                                         separation between
+                                                        the upper and middle
+                                                              light by
+    ------------------------------------------------------------------------
+     
+                                  * * * * * * *
+    USS ZUMWALT...................  DDG 1000.........  FWD: 0.01 meter.
+                                                       AFT: 0.178 meter.
+                                                       PORT: 0.64 meter.
+                                                       STBD: 0.01 meter.
+     
+                                  * * * * * * *
+    ------------------------------------------------------------------------
+    
+    * * * * *
+    
+                                                                           Table Five
+    --------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                                                                                             After masthead
+                                                                                          Masthead lights      Forward      light less than
+                                                                                            not over all    masthead light    \1/2\ ship's      Percentage
+                                                                                            other lights    not in forward   length aft of      horizontal
+                         Vessel                                     Number                      and           quarter of        forward         separation
+                                                                                           obstructions.    ship. annex I,  masthead light.      attained
+                                                                                           annex I, sec.      sec. 3(a)         annex I,
+                                                                                                2(f)                            sec.3(a)
+    --------------------------------------------------------------------------------------------------------------------------------------------------------
+     
+                                                                          * * * * * * *
+    USS ZUMWALT.....................................  DDG 1000..........................               X                X                X            76.94
+     
+                                                                          * * * * * * *
+    --------------------------------------------------------------------------------------------------------------------------------------------------------
+    
+    
+        Approved: November 18, 2015.
+     A.B. Fischer,
+    Captain, JAGC, U.S. Navy, Deputy Assistant Judge Advocate, General 
+    (Admiralty and Maritime Law).
+        Dated: December 10, 2015.
+    N.A. Hagerty-Ford,
+    Commander, Judge Advocate General's Corps, U.S. Navy, Federal Register 
+    Liaison Officer.
+    [FR Doc. 2015-33012 Filed 12-31-15; 8:45 am]
+    BILLING CODE 3810-FF-P
+    
+    
+    
+

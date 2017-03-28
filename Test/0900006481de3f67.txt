@@ -1,0 +1,708 @@
+
+    [Federal Register Volume 81, Number 1 (Monday, January 4, 2016)]
+    [Rules and Regulations]
+    [Pages 13-19]
+    From the Federal Register Online via the Government Publishing Office [[www.gpo.gov](http://www.gpo.gov)]
+    [FR Doc No: 2015-32760]
+    
+    
+    =======================================================================
+    -----------------------------------------------------------------------
+    
+    ENVIRONMENTAL PROTECTION AGENCY
+    
+    40 CFR Part 141
+    
+    [EPA-HQ-OW-2012-0155; FRL-9940-64-OW]
+    
+    
+    Announcement of Final Regulatory Determinations for Contaminants 
+    on the Third Drinking Water Contaminant Candidate List
+    
+    AGENCY: Environmental Protection Agency (EPA).
+    
+    ACTION: Final regulatory determinations.
+    
+    -----------------------------------------------------------------------
+    
+    SUMMARY: The U.S. Environmental Protection Agency (EPA) is announcing 
+    final regulatory determinations not to issue national primary drinking 
+    water regulations for four of the 116 contaminants listed on the Third 
+    Contaminant Candidate List. The Safe Drinking Water Act, as amended in 
+    1996, requires the EPA to make regulatory determinations every five 
+    years on at least five unregulated contaminants. A regulatory 
+    determination is a decision about whether or not to begin the process 
+    to propose and promulgate a national primary drinking water regulation 
+    for an unregulated contaminant. On October 20, 2014, the agency 
+    published its preliminary determinations not to regulate dimethoate, 
+    1,3-dinitrobenzene, terbufos, terbufos sulfone and begin the process to 
+    regulate strontium. The agency requested public comment on the 
+    determinations, process, rationale and supporting technical 
+    information. The agency received comments from 14 individuals or 
+    organizations on the preliminary regulatory determinations. After 
+    careful review and consideration of the public comments, the agency is 
+    making a final determination not to regulate dimethoate, 1,3-
+    dinitrobenzene, terbufos and terbufos sulfone. The agency, however, is 
+    delaying the final regulatory determination on strontium in order to 
+    consider additional data and decide whether there is a meaningful 
+    opportunity for health risk reduction by regulating strontium in 
+    drinking water.
+    
+    DATES: In accordance with 40 CFR 23.7 for purposes of judicial review, 
+    the regulatory determinations in this document are issued as of January 
+    4, 2016.
+    
+    FOR FURTHER INFORMATION CONTACT: Zeno Bain, Standards and Risk 
+    Management Division, Office of Ground Water and Drinking Water, Office 
+    of Water (Mailcode 4607M), Environmental Protection Agency, 1200 
+    Pennsylvania Ave. NW., Washington, DC 20460; telephone number: (202) 
+    564-5970; email address: [bain.zeno@epa.gov](mailto:bain.zeno@epa.gov). For general information, 
+    contact the Safe Drinking Water Hotline, telephone number: (800) 426-
+    4791. The Safe Drinking Water Hotline is open Monday through Friday, 
+    excluding legal holidays, from 10 a.m. to 4 p.m., eastern time.
+    
+    SUPPLEMENTARY INFORMATION: 
+    
+    I. General Information
+    
+    A. Does this action apply to me?
+    
+        These final regulatory determinations will not impose any 
+    requirements on anyone. Instead, this action notifies interested 
+    parties of the EPA's final regulatory determinations for four 
+    contaminants and provides a summary of the major comments received on 
+    the October 20, 2014, preliminary determinations (USEPA, 2014c).
+    
+    B. How can I get copies of this document and other related information?
+    
+        Docket: The EPA has established a docket for this action under 
+    Docket ID No. EPA-HQ-OW-2012-0155. Publicly available docket materials 
+    are available either electronically at <http://www.regulations.gov> or in 
+    hard copy at the Water Docket, EPA/DC, EPA West, Room 3334, 1301 
+    Constitution Ave. NW., Washington, DC. The Water Docket Public Reading 
+    Room is open from 8:30 a.m. to 4:30 p.m., Monday through Friday, 
+    excluding legal holidays. The telephone number for the Public Reading 
+    Room is (202) 566-1744, and the telephone number for the Water Docket 
+    is (202) 566-2426.
+        Electronic Access: You may access this Federal Register document 
+    electronically from the Government Printing Office under the ``Federal 
+    Register'' listings at <http://www.gpo.gov/fdsys/browse/collection.action?collectionCode=FR>.
+    
+    Abbreviations Used in This Document
+    
+    CCL Contaminant Candidate List
+    CCL 3 Third Contaminant Candidate List
+    CFR Code of Federal Regulations
+    EPA Environmental Protection Agency
+    FR Federal Register
+    HRL Health Reference Level
+    MCL Maximum Contaminant Level
+    MCLG Maximum Contaminant Level Goal
+    MRL Minimum Reporting Limit
+    
+    [[Page 14]]
+    
+    NPDWR National Primary Drinking Water Regulation
+    PWS Public Water System
+    RD Regulatory Determination
+    RD 3 Third Regulatory Determination
+    RSC Relative Source Contribution
+    SDWA Safe Drinking Water Act
+    STORET Storage and Retrieval Data System
+    UCMR Unregulated Contaminant Monitoring Regulation
+    UCMR 1 First Unregulated Contaminant Monitoring Regulation
+    UCMR 2 Second Unregulated Contaminant Monitoring Regulation
+    UCMR 3 Third Unregulated Contaminant Monitoring Regulation
+    USDA United States Department of Agriculture
+    USGS United States Geological Survey
+    [mu]g/L micrograms per Liter
+    
+    Table of Contents
+    
+    I. General Information
+        A. Does this action apply to me?
+        B. How can I get copies of this document and other related 
+    information?
+    II. Purpose and Background
+        A. What is the purpose of this action?
+        B. What are the statutory requirements for the Contaminant 
+    Candidate List (CCL) and regulatory determinations?
+        C. What contaminants did the EPA consider for regulations?
+    III. What process did the EPA use to make the regulatory 
+    determinations?
+    IV. Summary of the EPA's Findings on the Four Contaminants With 
+    Final Regulatory Determinations
+        A. Dimethoate
+        1. Description
+        2. Agency Findings
+        B. 1,3-Dinitrobenzene
+        1. Description
+        2. Agency Findings
+        C. Terbufos and Terbufos Sulfone
+        1. Description
+        2. Agency Findings
+        D. Public Comments on Four Contaminants With Final Regulatory 
+    Determinations
+    V. Summary of Public Comments on Strontium and the Agency's 
+    Responses
+        A. Background on Strontium and the EPA's Preliminary 
+    Determination
+        B. What comments did the EPA receive on strontium?
+    VI. Next Steps
+    VII. References
+    
+    II. Purpose and Background
+    
+    A. What is the purpose of this action?
+    
+        The purpose of this action is to present a summary of the EPA's 
+    findings related to the final regulatory determinations for four 
+    contaminants listed on the Third Contaminant Candidate List (CCL 3) 
+    (USEPA, 2009). The four contaminants include: Dimethoate, 1,3-
+    dinitrobenzene, terbufos and terbufos sulfone. Today's action briefly 
+    summarizes the statutory requirements for targeting drinking water 
+    contaminants for regulatory determination, provides an overview of the 
+    contaminants the agency considered for regulation and describes the 
+    approach used to make the final regulatory determinations. In addition, 
+    today's action summarizes the public comments received on the agency's 
+    preliminary determinations and the agency's responses to those 
+    comments, including the status of the EPA's evaluation of strontium.
+    
+    B. What are the statutory requirements for the Contaminant Candidate 
+    List (CCL) and regulatory determinations?
+    
+        The specific statutory requirements for the CCL and regulatory 
+    determinations can be found in the Safe Drinking Water Act (SDWA), 
+    section 1412(b)(1). The 1996 SDWA Amendments require the EPA to publish 
+    the CCL every five years. The CCL is a list of contaminants that are 
+    not subject to any proposed or promulgated national primary drinking 
+    water regulations (NPDWRs), are known or anticipated to occur in public 
+    water systems (PWSs) and may require regulation under SDWA. The 1996 
+    SDWA Amendments also direct the agency to determine whether to regulate 
+    at least five contaminants from the CCL every five years. SDWA requires 
+    the agency to publish a Maximum Contaminant Level Goal (MCLG) \1\ and 
+    promulgate an NPDWR \2\ for a contaminant if the Administrator 
+    determines that:
+    ---------------------------------------------------------------------------
+    
+        \1\ The MCLG is the ``maximum level of a contaminant in drinking 
+    water at which no known or anticipated adverse effect on the health 
+    of persons would occur, and which allows an adequate margin of 
+    safety. Maximum contaminant level goals are nonenforceable health 
+    goals'' (40 CFR 141.2).
+        \2\ An NPDWR is a legally enforceable standard that applies to 
+    public water systems. An NPDWR sets a legal limit (called a maximum 
+    contaminant level or MCL) or specifies a certain treatment technique 
+    for public water systems for a specific contaminant or group of 
+    contaminants.
+    ---------------------------------------------------------------------------
+    
+        (a) The contaminant may have an adverse effect on the health of 
+    persons;
+        (b) The contaminant is known to occur or there is a substantial 
+    likelihood that the contaminant will occur in public water systems with 
+    a frequency and at levels of public health concern; and
+        (c) In the sole judgment of the Administrator, regulation of such 
+    contaminant presents a meaningful opportunity for health risk reduction 
+    for persons served by public water systems.
+        If the agency determines that all three of these statutory criteria 
+    are met, it makes a determination that a national primary drinking 
+    water regulation is needed. In that case, the agency has 24 months to 
+    publish a proposed MCLG and NPDWR. After the proposal, the agency has 
+    18 months to publish a final MCLG and promulgate a final NPDWR (SDWA 
+    section 1412(b)(1)(E)).\3\
+    ---------------------------------------------------------------------------
+    
+        \3\ The statute authorizes up to a nine-month extension of this 
+    promulgation date.
+    ---------------------------------------------------------------------------
+    
+    C. What contaminants did the EPA consider for regulation?
+    
+        On October 20, 2014, the EPA published preliminary regulatory 
+    determinations for five contaminants on the third Contaminant Candidate 
+    List (CCL 3) that had sufficient information to support a regulatory 
+    determination (USEPA, 2014c). The five contaminants are 1,3-
+    dinitrobenzene, dimethoate, terbufos, terbufos sulfone and strontium. 
+    The agency is making final regulatory determinations not to regulate 
+    dimethoate, 1,3-dinitrobenzene, terbufos and terbufos sulfone. The 
+    agency is not making a final regulatory determination for strontium at 
+    this time. The agency's decision to delay a final determination for 
+    strontium is based on public comments received and the plan to further 
+    evaluate scientific information that became available after publication 
+    of the preliminary regulatory determinations. The agency is currently 
+    conducting additional scientific analyses to determine if there is a 
+    need to develop a national drinking water regulation for strontium. For 
+    more information about the comments the agency received on strontium 
+    and the analyses that are underway, see section V.A of this notice.
+        Information on the five contaminants can be found in the Regulatory 
+    Determinations 3 Support Document (USEPA, 2014b). More information is 
+    available at the Water Docket (Docket ID No. EPA-HQ-OW-2012-0155) and 
+    also on EPA's Regulatory Determination 3 Web site at <http://www2.epa.gov/ccl/regulatory-determination-3>.
+    
+    III. What process did the EPA use to make the regulatory 
+    determinations?
+    
+        This section gives a summary of the regulatory determination 
+    process the agency followed to identify and evaluate contaminants for 
+    the Third Regulatory Determination. For more detailed information on 
+    the process and the analyses performed, please refer to the ``Protocol 
+    for the Regulatory Determination 3'' document (USEPA, 2014a) and the 
+    Federal Register notice for the Preliminary Regulatory Determinations 
+    for Contaminants on CCL 3 (USEPA, 2014c).
+        The CCL 3 identified 116 contaminants that are currently not 
+    subject to any proposed or promulgated national drinking water 
+    regulation, are known or anticipated to occur in public water systems, 
+    and may require
+    
+    [[Page 15]]
+    
+    regulation under SDWA (USEPA, 2009). Since some of the CCL 3 
+    contaminants do not have adequate health and/or occurrence data to 
+    evaluate against the three statutory criteria (see section II.B of this 
+    notice), the agency used a three-phase process to identify which of the 
+    contaminants are candidates for regulatory determinations. Priority was 
+    given to identifying contaminants known to occur or with substantial 
+    likelihood to occur at frequencies and levels of public health concern.
+        The three phases of the Third Regulatory Determination process are 
+    (1) the Data Availability Phase, (2) the Data Evaluation Phase and (3) 
+    the Regulatory Determination Assessment Phase. The overall process is 
+    displayed in Exhibit 1.
+    BILLING CODE 6560-50-P
+    [GRAPHIC] [TIFF OMITTED] TR04JA16.000
+    
+    BILLING CODE 6560-50-C
+        The purpose of the first phase, the Data Availability Phase, is to 
+    determine if the agency ``may have'' sufficient data to characterize 
+    the potential health effects and known or likely occurrence in drinking 
+    water. Although contaminants must have sufficient data to evaluate the 
+    statutory criteria in Phase 3, the agency does not want to rule out any 
+    contaminants too early in the process; therefore, if sufficient health 
+    and occurrence data are likely available, the contaminants are 
+    considered in the Data Evaluation Phase, the second phase of the 
+    regulatory determination process. From the 116 CCL 3 contaminants, the 
+    agency identified 37 contaminants (35 CCL 3 contaminants and two non-
+    CCL 3 contaminants \4\) to further evaluate in the second phase.
+    ---------------------------------------------------------------------------
+    
+        \4\ The non-CCL 3 contaminants, N-Nitroso-di-n-butylamine (NDBA) 
+    and N-Nitrosomethylethylamine (NMEA), were included because they are 
+    part of a larger group (nitrosamines) that also includes a number of 
+    CCL 3 contaminants.
+    ---------------------------------------------------------------------------
+    
+        During the second phase, the agency further evaluates each 
+    contaminant on the short list to identify those that have sufficient 
+    data (or are expected to have sufficient data within the timeframe 
+    allotted for the second phase) for the EPA to assess the three 
+    statutory criteria. As part of the second phase, the agency 
+    specifically focuses its efforts on identifying those contaminants or 
+    contaminant groups that are occurring or have substantial likelihood to 
+    occur at levels and frequencies of public health concern, based on the 
+    best available peer reviewed data. If the agency finds that sufficient 
+    data are not available or not likely to be available to evaluate the 
+    three statutory criteria during the first and second phases, then the 
+    contaminant is not considered a candidate for making a regulatory 
+    determination.
+        If sufficient data are available for a contaminant to characterize 
+    the potential health effects and known or likely occurrence in drinking 
+    water, the contaminant is evaluated against the three statutory 
+    criteria in the Regulatory Determination Assessment Phase, which is the 
+    third phase of the process. Of the 37 contaminants that were evaluated 
+    under Phase 2, 12 were designated for further evaluation in Phase 3.
+    
+    [[Page 16]]
+    
+        Of the 12 contaminants that were evaluated in Phase 3, the agency 
+    did not make preliminary regulatory determinations for seven 
+    contaminants. The seven contaminants include chlorate and six 
+    nitrosamines. Chlorate and the six nitrosamines are disinfection 
+    byproducts, and the agency is further evaluating these contaminants as 
+    part of the regulatory review of existing Microbial and Disinfection 
+    Byproduct regulations, as announced in the Preliminary Regulatory 
+    Determination 3 Federal Register notice published on October 20, 2014 
+    (USEPA, 2014c).
+        After evaluating the five remaining CCL 3 contaminants (dimethoate, 
+    1,3-dinitrobenzene, terbufos, terbufos sulfone and strontium) against 
+    the three statutory criteria and considering other relevant information 
+    (such as level and frequency of occurrence, population exposed and 
+    information on sensitive populations and lifestages), the agency made 
+    preliminary regulatory determinations to regulate strontium and to not 
+    regulate the remaining four contaminants. These preliminary 
+    determinations, with their supporting analyses and documentation, were 
+    published in the Federal Register on October 20, 2014, for public 
+    comment (USEPA, 2014c).
+        The EPA received comments from 14 organizations and individuals on 
+    the October 20, 2014, Federal Register notice. These 14 organizations 
+    and individuals include four environmental organizations, six industry 
+    groups, one state association and three anonymous individuals. The 
+    agency prepared a Response to Comments document for this action that is 
+    available in the Public Docket at [www.regulations.gov](http://www.regulations.gov) under Docket ID 
+    No. EPA-HQ-OW-2012-0155. Comments on specific contaminants, and the 
+    EPA's responses, are briefly summarized in the sections below.
+    
+    IV. Summary of the EPA's Findings on the Four Contaminants With Final 
+    Regulatory Determinations
+    
+        After considering the public comments, the EPA is making final 
+    regulatory determinations not to regulate dimethoate, 1,3-
+    dinitrobenzene, terbufos and terbufos sulfone.
+        This notice provides a brief description of the agency findings on 
+    these contaminants. Details on the background, health and occurrence 
+    information and analyses used to evaluate and make final determinations 
+    for these contaminants can be found in the Regulatory Determinations 3 
+    Support Document (USEPA, 2015b) and the Federal Register notice for the 
+    Preliminary Regulatory Determination 3 (USEPA, 2014c).
+        For each contaminant, the agency evaluated the available human and 
+    toxicological data, derived a health reference level (HRL),\5\ 
+    evaluated the potential and/or likely occurrence and examined the 
+    likely exposed population for the contaminant in public water systems. 
+    The agency also considered whether information was available on 
+    sensitive populations. The agency used the findings from these 
+    evaluations to determine whether the three SDWA statutory criteria are 
+    satisfied. Table 1 gives a summary of the health and occurrence 
+    information for the four contaminants with final determinations under 
+    RD 3.
+    ---------------------------------------------------------------------------
+    
+        \5\ HRLs are risk derived concentrations against which to 
+    evaluate the occurrence data to determine if contaminants may occur 
+    at levels of public health concern. They are not the level of a 
+    contaminant in drinking water that must not be exceeded to protect 
+    any particular population (i.e., an HRL is not an MCL).
+    
+                                 Table 1--Summary of the Health and Occurrence Information and the Final Determinations for Four of the Contaminants Considered for RD 3
+    ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                      Health                                             Occurrence findings from primary data sources
+                                    reference ----------------------------------------------------------------------------------------------------------------------------------
+           RD 3 contaminants          level                                                 Population served by PWSs                                Population served by PWSs          Final
+                                      (HRL)        Primary        PWSs with at least 1     with at least 1  detection      PWSs with at least 1     with at least 1  detection      determination
+                                    ([mu]g/L)     database       detection >=\1/2\ HRL             >=\1/2\ HRL               detection >=HRL                   >=HRL
+    ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    Dimethoate....................       15.4  UCMR 2........  0% (0 of 4140)...........  0% (0 of 229M)..............  0% (0 of 4140)...........  0% (0 of 229M)..............  Do not regulate.
+    1,3-Dinitrobenzene............        0.7  UCMR 2........  0% (0 of 4139)...........  0% (0 of 229M)..............  0% (0 of 4139)...........  0% (0 of 229M)..............  Do not regulate.
+    Terbufos......................       0.35  UCMR 1........  0% (0 of 295)............  0% (0 of 41M)...............  0% (0 of 295)............  0% (0 of 41M)...............  Do not regulate
+    Terbufos sulfone..............       0.35  UCMR 2........  0.02% (1 of 4140)........  0.01% (44.6K of 229M).......  0.02% (1 of 4140)........  0.01% (44.6K of 229M).......  Do not regulate.
+    ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    
+    A. Dimethoate
+    
+    1. Description
+        Dimethoate is an organophosphate pesticide, commonly used as an 
+    insecticide on field crops (e.g., wheat, alfalfa, corn and cotton), 
+    orchard crops, vegetable crops and in forestry. Synonyms for dimethoate 
+    include dimethogen, dimeton, dimevur and cygon (HSDB, 2010; USEPA, 
+    2007). Dimethoate is considered highly mobile and relatively non-
+    persistent in the environment (USEPA, 2007).
+    2. Agency Findings
+        The agency is making a determination not to regulate dimethoate 
+    with an NPDWR. It does not occur at levels and frequencies of public 
+    health concern. As a result, the agency finds that an NPDWR does not 
+    present a meaningful opportunity for health risk reduction.
+        The primary data for dimethoate are the 2008-2010 nationally 
+    representative drinking water monitoring data, generated through the 
+    EPA's Second Unregulated Contaminant Monitoring Regulation (UCMR 2). 
+    Dimethoate was not detected in any of the 32,150 UCMR 2 samples 
+    collected by 4,140 PWSs (serving ~230 million people) at levels greater 
+    than the \1/2\ HRL (7.7 [mu]g/L), the HRL (15.4 [mu]g/L), or the 
+    minimum reporting level (MRL) (0.7 [mu]g/L) (USEPA, 2015c). Based on 
+    the results of the UCMR 2 samples, the estimated population exposed to 
+    dimethoate at levels of public health concern is 0%.
+        Other supplementary sources of finished water data from the State 
+    of California, the U.S. Department of Agriculture (USDA) and the U.S. 
+    Geologic Survey (USGS) indicate that the occurrence of dimethoate in 
+    PWSs is likely to be low to non-existent. Dimethoate occurrence data 
+    for ambient water from the USGS and the Storage and Retrieval (STORET) 
+    Data System are consistent with those for finished water. These data 
+    sources are discussed in the October 2014 Federal Register notice of 
+    the Preliminary Regulatory Determination 3 (USEPA, 2014c).
+    
+    [[Page 17]]
+    
+    B. 1,3-Dinitrobenzene
+    
+    1. Description
+        1,3-Dinitrobenzene is a nitro aromatic compound that is used as an 
+    industrial chemical and formed as a by-product in the manufacture of 
+    munitions, as well as in the production of other substances (HSDB, 
+    2009). There are no known natural sources of 1,3-dinitrobenzene. 1,3-
+    Dinitrobenzene appears to be moderately persistent in environmental 
+    media and moderately mobile in soil and water, although in soils with 
+    high clay content it will be less mobile (USEPA, 2015b).
+    2. Agency Findings
+        The agency is making a determination not to regulate 1,3-
+    dinitrobenzene with an NPDWR. It does not occur at levels and 
+    frequencies of public health concern. As a result, the agency finds 
+    that an NPDWR does not present a meaningful opportunity for health risk 
+    reduction.
+        The primary data for 1,3-dinitrobenzene are the 2008-2010 
+    nationally representative drinking water monitoring data generated 
+    through the EPA's UCMR 2 (USEPA, 2015c). UCMR 2 is the only dataset 
+    with finished water data for this contaminant. UCMR 2 collected 32,152 
+    samples from 4,139 PWSs for 1,3-dinitrobenzene and it was not detected 
+    above the MRL (0.8 [mu]g/L), which is only slightly higher than the HRL 
+    (0.7 [mu]g/L). Based on the results of the UCMR 2 samples, the 
+    estimated population exposed to 1,3-dinitrobenzene at or above the MRL 
+    is 0%.
+        Findings from the available ambient water data for 1,3-
+    dinitrobenzene are consistent with the results in finished water. 
+    Ambient water data in STORET included no measured results above 0.33 
+    [mu]g/L in 143 samples from 70 sites (USEPA, 2012). It should be noted 
+    that some occurrence above the HRL may have gone undetected since 
+    reporting levels are not documented. These data sources are discussed 
+    in the October 2014 Federal Register notice of the Preliminary 
+    Regulatory Determination 3 (USEPA, 2014c).
+    
+    C. Terbufos and Terbufos Sulfone
+    
+    1. Description
+        Terbufos is a phosphorodithioate pesticide (i.e., an 
+    organophosphate) used as an insecticide-nematicide to control a variety 
+    of insect pests, primarily used on corn and sugar beets (USEPA, 2006). 
+    Terbufos sulfone is a degradate of terbufos. Total toxic residues of 
+    terbufos and degradates are highly mobile and persistent in the 
+    environment, with terbufos sulfone being more mobile and substantially 
+    more persistent than terbufos (USEPA, 2006).
+    2. Agency Findings
+        The agency is making determinations not to regulate terbufos and 
+    terbufos sulfone with NPDWRs. They do not occur at levels and 
+    frequencies of public health concern. As a result, the agency finds 
+    that an NPDWR does not present a meaningful opportunity for health risk 
+    reduction.
+        The primary data for terbufos are from the First Unregulated 
+    Contaminant Monitoring Regulation (UCMR 1) screening survey (2001-2003) 
+    (USEPA, 2008). The UCMR 1 screening survey collected 2,301 finished 
+    water samples from 295 PWSs for terbufos and it was not detected at 
+    levels at or above the MRL (0.5 [mu]g/L), which is slightly higher than 
+    the HRL (0.35 [mu]g/L) (USEPA, 2008). Based on the results of the UCMR 
+    1 screening survey, the estimated population exposed to terbufos at or 
+    above the MRL is 0%.
+        The primary data for terbufos sulfone are nationally representative 
+    finished water monitoring data generated through the EPA's UCMR 2 
+    (2008-2010) (USEPA, 2015c). UCMR 2 collected 32,149 finished water 
+    samples from 4,140 PWSs (serving ~230 million people) for terbufos 
+    sulfone and it was detected in only one sample, at a concentration of 
+    0.42 [mu]g/L. The MRL is 0.4 [mu]g/L, which is slightly higher than the 
+    HRL (0.35 [mu]g/L) (USEPA, 2015c). Based on the results of the UCMR 2 
+    samples, the estimated population exposed to terbufos sulfone at a 
+    level of public health concern (based on the HRL for terbufos) is 
+    44,600 (0.02% of the population served by PWSs).
+        Finished water data for terbufos and terbufos sulfone from 
+    California, Iowa, USDA and USGS are consistent with the UCMR 1 and UCMR 
+    2 data. Terbufos and (very limited) terbufos sulfone occurrence data 
+    for ambient water from the EPA, STORET and several USGS programs or 
+    studies are also consistent with those for finished water. These data 
+    sources are discussed in the October 2014 Federal Register notice of 
+    the Preliminary Regulatory Determination 3 (USEPA, 2014c).
+    
+    D. Public Comments on Four Contaminants With Final Regulatory 
+    Determinations
+    
+        The agency received comments in support of the agency's preliminary 
+    determinations not to regulate dimethoate, 1,3-dinitrobenzene, terbufos 
+    and terbufos sulfone. The agency did not receive any comments to the 
+    contrary.
+        Agency Response: EPA agrees with the comments and, as previously 
+    explained, is making final determinations not to regulate dimethoate, 
+    1,3-dinitrobenzene, terbufos and terbufos sulfone.
+    
+    V. Summary of Public Comments on Strontium and the Agency's Responses
+    
+    A. Background on Strontium and the EPA's Preliminary Determination
+    
+        Strontium is a naturally occurring element (atomic number 38) and a 
+    member of the alkaline earth metals (ANL, 2007). There are several 
+    radioactive strontium isotopes formed by nuclear fission of uranium or 
+    plutonium. Since drinking water contamination by radioactive isotopes, 
+    including beta particle emitters, is covered under the existing 
+    Radionuclides Rule, this section describes the stable \88\Sr isotope.
+        In October 2014, the agency made a preliminary determination to 
+    regulate strontium with an NPDWR after evaluating the available health, 
+    occurrence and other related information against the three SDWA 
+    statutory criteria. Specifically, EPA made a preliminary determination 
+    that (a) strontium may have an adverse effect on the health of persons, 
+    (b) it is known to occur or there is substantial likelihood that 
+    strontium will occur in public water systems with a frequency and at 
+    levels of public health concern and (c) regulation of strontium with an 
+    NPDWR presents a meaningful opportunity to reduce health risks for 
+    persons served by PWSs. EPA describes the underlying science in support 
+    of these criteria in the Federal Register notice of the Preliminary 
+    Regulatory Determination 3 (USEPA, 2014c).
+        In the Federal Register notice of the Preliminary Regulatory 
+    Determination 3, EPA calculated a non-cancer HRL of 1500 [micro]g/L for 
+    strontium using the reference dose of 0.3 mg/kg/day, a default Relative 
+    Source Contribution (RSC) of 20% and age-specific exposure factors 
+    (i.e., drinking water intake expressed as liters per kg of body weight) 
+    for the sensitive population of birth through 18 years to reflect the 
+    most active period of bone growth and development. The RSC is the level 
+    of exposure believed to result from drinking water when compared to 
+    other sources (e.g., food, ambient air). In the Preliminary Regulatory 
+    Determination 3 EPA used the default 20% RSC to calculate the HRL. For 
+    more detailed information see the October 20, 2014, Federal Register 
+    notice of the
+    
+    [[Page 18]]
+    
+    Preliminary Regulatory Determination 3 (USEPA, 2014c).
+        After consideration of public comments on the preliminary 
+    regulatory determination for strontium (see Section V.B.), the agency 
+    is delaying the final determination for strontium in order to consider 
+    additional scientific data and decide whether there is a meaningful 
+    opportunity for health risk reduction by regulating strontium in 
+    drinking water.
+    
+    B. What comments did the EPA receive on strontium?
+    
+        Some commenters supported the preliminary determination to regulate 
+    strontium. These commenters supported a regulation due to the adverse 
+    effect on bone growth and/or the potential for elevated levels of 
+    strontium in the environment as a result of spills and disposal of 
+    waste products related to gas production.
+        Many comments called upon the agency to delay the final 
+    determination, collect more data and perform additional analyses before 
+    making a final determination for strontium. Specifically, the comments 
+    were focused on the following areas: The relationship between 
+    occurrence and health risk, the RSC of strontium, the costs and 
+    benefits of a potential strontium regulation and the feasibility of 
+    treating strontium.
+        Three commenters questioned whether enough water systems show 
+    strontium at levels and frequency of concern that a meaningful 
+    reduction in health risk can be achieved through a national regulation. 
+    Two of these commenters suggested conducting an epidemiology study that 
+    evaluates whether adverse human health effects are occurring and at 
+    what drinking water concentrations (and frequency of occurrence) to 
+    determine whether there is a meaningful opportunity for health risk 
+    reduction of a regulation.
+        Two commenters indicated the agency should quantify the RSC or 
+    provide stronger justification for using an RSC of 20%. One commenter 
+    stated the RSC has a significant impact on the reference dose. One 
+    commenter stated that defaults of 20% and 80% have utility in 
+    relatively simple circumstances where it is accepted that the drinking 
+    water component is either very small or large. The commenter indicated 
+    that it is essential to analyze and quantify the RSC when it is 
+    intermediate and there are data to perform a meaningful estimate. The 
+    commenter asserted that it is essential because the impact on the MCLG 
+    and ultimately the MCL and compliance costs can become significant.
+        Several commenters indicated concerns with the costs and benefits 
+    of a potential strontium regulation. One commenter urged the agency to 
+    update the current affordability standard under SDWA before 
+    promulgating any new NPDWRs in order to allow rural and small 
+    communities to utilize the most economical and safe treatment options. 
+    One commenter stated that the agency failed to estimate the social 
+    benefits and social costs in its analysis for the strontium 
+    determination, specifically the additional energy usage and its 
+    externalities. Several commenters compared the cost of a potential 
+    strontium regulation to that of the arsenic regulation, based on the 
+    percentage and type of systems with strontium occurrence at levels of 
+    concern.
+        Several commenters supported the agency's commitment to conducting 
+    more extensive treatment research prior to promulgating a regulation 
+    for strontium. Two commenters indicated that the treatment technology 
+    to remove strontium may remove beneficial alkaline earth metals, such 
+    as calcium, that partially counter the uptake of strontium.
+        Agency Response: The agency is delaying the final determination for 
+    strontium in order to consider additional scientific data and decide 
+    whether there is a meaningful opportunity for health risk reduction by 
+    regulating strontium in drinking water.
+        Strontium is known to occur in food, ambient air and soil. While 
+    data on levels in those media and estimates of intake from those 
+    sources were limited when EPA made the preliminary determination to 
+    regulate strontium, the EPA is evaluating recent additions to the 
+    exposure database to determine if the agency can develop a data-derived 
+    RSC rather than using a default 20% RSC in the calculation of the HRL. 
+    In the absence of this type of relevant exposure information, the 
+    agency supports the use of the default RSC and may ultimately use the 
+    default 20% RSC in the final regulatory determination for strontium and 
+    for other compounds in the future. The agency selects the default RSCs 
+    for regulatory determinations based on the Methodology for Deriving 
+    Ambient Water Quality Criteria for the Protection of Human Health 
+    (USEPA, 2000).
+        If the agency makes a final determination to regulate strontium, 
+    the EPA will conduct tests on treatment technologies for strontium 
+    prior to developing a regulation. The agency understands that strontium 
+    may co-occur with beneficial calcium in some drinking water systems and 
+    treatment technologies that remove strontium may also remove calcium. 
+    The agency is evaluating the effectiveness of treatment technologies 
+    under different water conditions, including calcium concentrations. The 
+    agency will continue to work with stakeholders in evaluating treatment 
+    technologies for strontium.
+        At this time, the agency does not plan to initiate any longer term 
+    health effect studies, including human epidemiological studies on the 
+    relationship of skeletal effects and strontium exposure levels through 
+    consumption of drinking water and foods. The agency will continue to 
+    evaluate new health studies related to strontium exposure, including 
+    any epidemiology studies. It should be noted that while the agency is 
+    not precluded from conducting epidemiological studies, the agency is 
+    not required to do so to support the decision to regulate a 
+    contaminant.
+        An evaluation of the costs and benefits of a potential strontium 
+    regulation is outside the scope of the regulatory determination 
+    process. If the agency decides to regulate strontium, as part of the 
+    regulation development process, the agency will conduct a health risk 
+    reduction and cost analysis, including an evaluation of the costs and 
+    benefits of regulating strontium.
+    
+    VI. Next Steps
+    
+        Prior to making a final regulatory determination for strontium, the 
+    agency will consider additional data gathered and analyses completed 
+    after publication of the preliminary determination (for further 
+    information, see discussion in section V.B. of this notice). The agency 
+    published the Draft Contaminant Candidate List 4 (CCL 4) on February 4, 
+    2015 (USEPA, 2015a) and will issue a Final CCL 4 after consideration of 
+    public comments received. The agency will evaluate and consider 
+    contaminants on the Final CCL 4 for the Fourth Regulatory 
+    Determination.
+    
+    VII. References
+    
+    Argonne National Laboratory (ANL). 2007. Radiological and Chemical 
+    Fact Sheets to Support Health Risk Analyses for Contaminated Areas. 
+    Environmental Science Division. Available on the Internet at: <http://www.gfxtechnology.com/ArgonneRadFacts.pdf>.
+    HSDB. 2010. Available on the Internet at: <http://toxnet.nlm.nih.gov/cgi-bin/sis/htmlgen?HSDB>. Accessed September 2010.
+    USEPA. 2000. Methodology for Deriving Ambient Water Quality Criteria 
+    for the
+    
+    [[Page 19]]
+    
+    Protection of Human Health (2000). EPA 822-B-00-004.
+    USEPA. 2006. Reregistration Eligibility Decision for Terbufos. 
+    Office of Pesticide Programs. Available on the Internet at: <http://archive.epa.gov/pesticides/reregistration/web/pdf/terbufos_red.pdf>. 
+    Accessed Oct 2015.
+    USEPA. 2007. Revised Interim Reregistration Decision for Dimethoate. 
+    Available on the Internet at: <http://archive.epa.gov/pesticides/reregistration/web/pdf/dimethoate_ired_revised.pdf>. Accessed October 
+    2015.
+    USEPA. 2008. The Analysis of Occurrence Data from the First 
+    Unregulated Contaminant Monitoring Regulation (UCMR 1) in Support of 
+    Regulatory Determinations for the Second Drinking Water Contaminant 
+    Candidate List. EPA 815-R-08-012. June 2008.
+    USEPA. 2009. Drinking Water Contaminant Candidate List 3--Final. 
+    Federal Register. Vol. 74, No. 194, p. 51850. October 8, 2009.
+    USEPA. 2012. Storage and Retrieval (STORET) Data Warehouse. 
+    Available on the Internet at: <http://www.epa.gov/storet/index.html>. 
+    Data Warehouse. Accessed March 2012.
+    USEPA. 2014a. Protocol for the Regulatory Determinations 3. 
+    Including Appendices A-F. EPA 815-R14-005. April 2014.
+    USEPA. 2014b. Regulatory Determinations 3 Support Document. EPA 815-
+    R14-003. April 2014.
+    USEPA. 2014c. Announcement of the Preliminary Regulatory 
+    Determinations for Contaminants on the Third Drinking Water 
+    Contaminant Candidate List; Proposed Rule. Federal Register. Vol. 
+    79, No. 202, p. 62716. October 20, 2014.
+    USEPA. 2015a. Drinking Water Contaminant Candidate List 4--Draft. 
+    Federal Register. Vol. 80, No. 23, p. 6076. February 4, 2015.
+    USEPA. 2015b. Regulatory Determinations 3 Support Document (Final). 
+    EPA 815-R15-014. December 2015.
+    USEPA. 2015c. Occurrence Data from the Second Unregulated 
+    Contaminant Monitoring Regulation (UCMR 2). EPA 815-R15-013. 
+    December 2015.
+    
+        Dated: December 22, 2015.
+    Gina McCarthy,
+    Administrator.
+    [FR Doc. 2015-32760 Filed 12-31-15; 8:45 am]
+     BILLING CODE 6560-50-P
+    
+    
+    
+

@@ -1,0 +1,333 @@
+
+    [Federal Register Volume 81, Number 6 (Monday, January 11, 2016)]
+    [Rules and Regulations]
+    [Pages 1116-1118]
+    From the Federal Register Online via the Government Publishing Office [[www.gpo.gov](http://www.gpo.gov)]
+    [FR Doc No: 2016-163]
+    
+    
+    
+    [[Page 1116]]
+    
+    =======================================================================
+    -----------------------------------------------------------------------
+    
+    NUCLEAR REGULATORY COMMISSION
+    
+    10 CFR Part 72
+    
+    [NRC-2015-0134]
+    RIN 3150-AJ62
+    
+    
+    List of Approved Spent Fuel Storage Casks: Holtec International, 
+    HI-STORM Flood/Wind Multipurpose Storage System, Certificate of 
+    Compliance No. 1032, Amendment No. 0, Revision 1
+    
+    AGENCY: Nuclear Regulatory Commission.
+    
+    ACTION: Direct final rule; confirmation of effective date.
+    
+    -----------------------------------------------------------------------
+    
+    SUMMARY: The U.S. Nuclear Regulatory Commission (NRC) is confirming the 
+    effective date of April 25, 2016, for the direct final rule that was 
+    published in the Federal Register on September 28, 2015. This direct 
+    final rule amended the NRC's spent fuel storage regulations by revising 
+    the Holtec International (Holtec), HI-STORM (Holtec International 
+    Storage Module) Flood/Wind (FW) Multipurpose Canister Storage (MPC) 
+    Storage System listing within the ``List of approved spent fuel storage 
+    casks'' to add Amendment No. 0, Revision 1, to Certificate of 
+    Compliance (CoC) No. 1032. This revision corrects the CoC's expiration 
+    date (editorial change), clarifies heat load limits for helium backfill 
+    ranges, clarifies the wording for the Limiting Condition for Operation 
+    (LCO) on vent blockage, and revises the vacuum drying system heat load.
+    
+    DATES: Effective date: The effective date of April 25, 2016, for the 
+    direct final rule published September 28, 2015 (80 FR 58195), is 
+    confirmed.
+    
+    ADDRESSES: Please refer to Docket ID NRC-2015-0134 when contacting the 
+    NRC about the availability of information for this action. You may 
+    obtain publicly-available information related to this action by any of 
+    the following methods:
+         Federal Rulemaking Web site: Go to <http://www.regulations.gov> and search for Docket ID NRC-2015-0134. Address 
+    questions about NRC dockets to Carol Gallagher; telephone: 301-415-
+    3463; email: [Carol.Gallagher@nrc.gov](mailto:Carol.Gallagher@nrc.gov). For technical questions, contact 
+    the individual listed in the FOR FURTHER INFORMATION CONTACT section of 
+    this document.
+         NRC's Agencywide Documents Access and Management System 
+    (ADAMS): You may obtain publicly-available documents online in the 
+    ADAMS Public Documents collection at <http://www.nrc.gov/reading-rm/adams.html>. To begin the search, select ``ADAMS Public Documents'' and 
+    then select ``Begin Web-based ADAMS Search.'' For problems with ADAMS, 
+    please contact the NRC's Public Document Room (PDR) reference staff at 
+    1-800-397-4209, 301-415-4737, or by email to [pdr.resource@nrc.gov](mailto:pdr.resource@nrc.gov).
+         NRC's PDR: You may examine and purchase copies of public 
+    documents at the NRC's PDR, Room O-1F21, One White Flint North, 11555 
+    Rockville Pike, Rockville, Maryland 20852.
+    
+    FOR FURTHER INFORMATION CONTACT: Solomon Sahle, Office of Nuclear 
+    Material Safety and Safeguards, U.S. Nuclear Regulatory Commission, 
+    Washington, DC 20555-0001; telephone: 301-415-3781; email: 
+    [Solomon.Sahle@nrc.gov](mailto:Solomon.Sahle@nrc.gov).
+    
+    SUPPLEMENTARY INFORMATION: 
+    
+    I. Discussion
+    
+        On September 28, 2015 (80 FR 58195), the NRC published a direct 
+    final rule amending its regulations in Sec.  72.214 of Title 10 of the 
+    Code of Federal Regulations by revising the Holtec HI-STORM FW MPC 
+    Storage System listing within the ``List of approved spent fuel storage 
+    casks'' to add Amendment No. 0, Revision 1, to CoC No. 1032. This 
+    revision corrects the CoC's expiration date (editorial change), 
+    clarifies heat load limits for helium backfill ranges, clarifies the 
+    wording for the LCO on vent blockage, and revises the vacuum drying 
+    system heat load.
+    
+    II. Public Comments on Companion Proposed Rule
+    
+        In the direct final rule, the NRC stated that if no significant 
+    adverse comments were received, the direct final rule would become 
+    effective on April 25, 2016. The NRC received public comments from 
+    private citizens on the companion proposed rule (80 FR 58222). 
+    Electronic copies of these comments can be obtained from the Federal 
+    Rulemaking Web site, <http://www.regulations.gov>, by searching for 
+    Docket ID NRC-2015-0134. The comments also are available in ADAMS under 
+    Accession Nos. ML15296A243, ML15296A241, ML15296A242, ML15299A281, 
+    ML15307A612, ML15307A615, ML15307A608, ML15307A609, ML15307A610, and 
+    ML15307A611. For the reasons discussed in more detail in Section III, 
+    ``Public Comment Analysis,'' of this document, none of the comments 
+    received are considered significant adverse comments.
+    
+    III. Public Comment Analysis
+    
+        The NRC received comments on the proposed rule, many raising 
+    multiple and overlapping issues. As explained in the September 28, 
+    2015, direct final rule, the NRC would withdraw the direct final rule 
+    only if it received a ``significant adverse comment.'' This is a 
+    comment where the commenter explains why the rule would be 
+    inappropriate, including challenges to the rule's underlying premise or 
+    approach, or would be ineffective or unacceptable without a change.
+        In this instance, the NRC determined that none of the comments 
+    submitted on the proposed rule are significant adverse comments. The 
+    comments were either beyond the scope of this rulemaking or already 
+    addressed by the NRC staff's safety evaluation report (SER) (ADAMS 
+    Accession No. ML15124A644). The NRC has not made any changes to the 
+    direct final rule as a result of the public comments. However, the NRC 
+    is taking this opportunity to respond to the comments in an effort to 
+    clarify information about the 10 CFR part 72 CoC rulemaking process, 
+    and the limited nature of this revision.
+        For rulemakings amending or revising a CoC, the scope of the 
+    rulemaking is limited to the specific changes requested by the 
+    applicant in the request for the amendment or revision. Therefore, 
+    comments about the system, or spent fuel storage in general that are 
+    not applicable to the changes requested by the applicant, are outside 
+    the scope of this rulemaking. Comments about details of the particular 
+    system that is the subject of the rulemaking, but that are not being 
+    addressed by the specific changes requested, have already been resolved 
+    in prior rulemakings. Persons who have questions or concerns about 
+    prior rulemakings and the resulting final rules may consider the NRC's 
+    petition for rulemaking process under 10 CFR 2.802. Additionally, 
+    safety concerns about any NRC-regulated activity may be reported to the 
+    NRC in accordance with the guidance posted on the NRC's public Web site 
+    at <http://www.nrc.gov/about-nrc/regulatory/allegations/safety-concern.html>. This Web site provides information on how to notify the 
+    NRC of emergency or non-emergency issues.
+        The NRC identified the following issues raised in the comments, and 
+    the NRC's responses to these issues follow.
+    
+    Comment 1
+    
+        Two comments received from one commenter requested the NRC deny 
+    this revision request, expressing concern with the thickness of the 
+    canisters. The commenter stated that European systems have a more 
+    robust design and that NRC should require the same. The commenter 
+    expressed concern that the
+    
+    [[Page 1117]]
+    
+    NRC's approval would not be protective of public health and safety.
+    
+    NRC Response
+    
+        The comment is out of scope for this revision. It is a general 
+    comment recommending that United States' manufacturers utilize some 
+    design features used in some European systems. The European systems 
+    cited are designed for a different application than dry cask storage 
+    systems authorized by 10 CFR 72 Subpart K, ``General License for 
+    Storage of Spent Fuel at Power Reactor Sites.'' The HI-STORM FW MPC 
+    Storage System was evaluated by the NRC staff to acceptably protect the 
+    public health and safety on July 14, 2011 (ADAMS Accession No. 
+    ML111950103). The Revision 1 changes were evaluated by the NRC staff to 
+    ensure that the HI-STORM FW MPC Storage System will continue to protect 
+    the public health and safety. These evaluations were performed in 
+    accordance with the NRC's existing part 72 regulations. Requests to 
+    revise the underlying part 72 requirements are beyond the scope of this 
+    revision request.
+    
+    Comment 2
+    
+        Two comments, which read ``good'', appeared to indicate support for 
+    the rule.
+    
+    NRC Response
+    
+        The NRC acknowledges the comments. Because the comments appear to 
+    support the rule, the comments are not considered significant adverse 
+    comments.
+    
+    Comment 3
+    
+        Two commenters expressed concern regarding the vent size, stating 
+    that the vents are disproportionately small for such large casks, and 
+    poorly located. The commenters also stated that 50% blockage of the 
+    vents is unacceptable regardless of temperature, and that, instead, 
+    vents should be totally unblocked to be considered operable. The 
+    commenters also expressed concern with the protocols for vents that are 
+    not operable within 24 hours. The commenters also objected to a 
+    perceived inconsistent application of ASME code standards to the CoC.
+    
+    NRC Response
+    
+        The HI-STORM FW MPC Storage System design, including the vent size 
+    and location, were evaluated by the NRC staff in the initial approval 
+    (ADAMS Accession No. ML111950103). The system was ultimately determined 
+    to be acceptable because the applicant demonstrated that the system 
+    could maintain the spent nuclear fuel below regulatory limits with up 
+    to 50% blockage of the inlet and out vents for an indefinite time as 
+    long as the spent fuel storage cask heat removal system remains 
+    operable. Although this revision includes clarifying changes to the LCO 
+    vent blockage language, there are no changes in this revision that 
+    impact the underlying analysis evaluated in the initial approval. 
+    Additionally, there is no specific information in the comment that 
+    would cause the NRC to reevaluate this analysis. Therefore, this 
+    comment is not considered a significant adverse comment.
+    
+    Comment 4
+    
+        One commenter requested withdrawal of the revision due to concerns 
+    that the environmental assessment (EA) that accompanied the rule was 
+    inadequate. The commenter expressed concern that, because the EA for 
+    this rule tiered off of an EA performed for the 1990 rulemaking that 
+    added the general license for storage of spent fuel at power reactor 
+    sites, the EA is outdated. The commenter noted that using an outdated 
+    EA raises the question of whether the EA is valid in light of the 
+    Fukushima disaster that occurred in Japan on March 11, 2011. In 
+    addition to withdrawal of the rule, the commenter also requested that a 
+    new environmental impact assessment be commissioned, and that all 
+    current projects meet at least the minimum standards employed at 
+    Fukushima.
+    
+    NRC Response
+    
+        This comment is not a significant adverse comment as it fails to 
+    present any specific challenge to the EA performed in support of this 
+    rule. As noted in the comment, the NRC performed an EA in support of 
+    this revision. That EA tiered off of an earlier EA completed to support 
+    changes to the part 72 rule that added the general license provisions, 
+    but considered environmental impacts specific to this revision. Both of 
+    these EAs concluded with a finding of no significant environmental 
+    impact. This comment does not provide any specific environmental 
+    information relating to the storage of spent fuel at Fukushima that 
+    would invalidate the finding of no significant impact in this EA or the 
+    earlier EA or that would cause the NRC to reevaluate the environmental 
+    impacts associated with this revision to this CoC. Moreover, the staff 
+    is unaware of any information that would challenge the findings made in 
+    these EAs.
+    
+    Comment 5
+    
+        Comments were also received which neither supported nor opposed the 
+    rule, but instead, contained numerous questions about this CoC system 
+    and other similar CoC systems. Although these comments are not 
+    significant adverse comments, and in many instances fall outside the 
+    scope of this specific rulemaking, the NRC is taking this opportunity 
+    to attempt to address the questions received.
+        One commenter asked about temperature values included in the 
+    Appendix A Technical Specifications (TS) page 3.1.2-2. The commenter 
+    noted that a previous CoC included one temperature value as 137 degrees 
+    F, while this CoC TS identifies it as 139 degrees F, but does not 
+    reflect it as a revision. The commenter asked which temperature value 
+    is correct and the implication of the temperature difference. The 
+    commenter also asked how relevant ambient air temperature is to 
+    underground systems such as the Holtec HI-STORM UMAX system.
+    
+    NRC Response
+    
+        The temperature addressed in the comment is correctly listed as 139 
+    degrees F which is applicable to CoC 1032, Amendment No. 0. This 
+    temperature was changed to 137 degrees F in CoC 1032, Amendment No. 1. 
+    The HI-STORM UMAX is a different system from the HI-STORM FW MPC 
+    Storage System and as such has a different thermal design.
+    
+    Comment 6
+    
+        Another commenter requested an explanation as to the vendor's 
+    statement in the application regarding additional flexibility 
+    associated with the limits to the use of vacuum drying to casks at 
+    lower heat loads.
+    
+    NRC Response
+    
+        In the application for this revision, the applicant contends that 
+    lowering this temperature limit provides additional conservatism 
+    (margin) that would allow the applicant the flexibility to implement 
+    some changes under the 10 CFR 72.48 process rather than through the 
+    amendment process. The NRC staff evaluated the lower temperature limit 
+    in its preliminary SER (ADAMS Accession No. ML15124A644), and found the 
+    lower limit acceptable.
+    
+    Comment 7
+    
+        Finally, there were several questions asked about the relationship 
+    between this revision and the HI-STORM UMAX system and/or the 
+    implications of the changes proposed here to potential uses at the San 
+    Onofre Generating Station
+    
+    [[Page 1118]]
+    
+    (SONGS). Questions included whether this change addresses the impacts 
+    of using the HI-STORM FW system MPC-37 in the HI-STORM UMAX system, and 
+    whether it involves ``the proposed San Onofre configuration of only 
+    installing \1/2\ underground.'' The commenter questioned what CoC is 
+    approved for use in the HI-STORM UMAX system. Another question asked 
+    was whether this change allows ``MPC-37 canister thickness increases 
+    (such as a change from 0.5'' to 0.625'' proposed for San Onofre) 
+    without requiring a license amendment.''
+    
+    NRC Response
+    
+        There is no relationship between this revision and the HI-STORM 
+    UMAX system. Each system is separately reviewed and certified in 
+    accordance with 10 CFR part 72. General licensees may use the certified 
+    systems identified in 10 CFR 72.214 subject to meeting certain 
+    requirements in 10 CFR part 72. Therefore, the changes in this revision 
+    are applicable only to the HI-STORM FW MPC system, CoC No. 1032, and 
+    are not applicable to the HI-STORM UMAX system that is intended to be 
+    used at SONGS. Nothing in this revision impacts anything associated 
+    with the HI-STORM UMAX system; therefore, this revision does not impact 
+    the thickness of the canisters in the HI-STORM UMAX system, or the 
+    placement of the UMAX system. Additionally, although this rule is a 
+    revision to the HI-STORM FW MPC system, nothing in this revision 
+    impacts the thickness of the canisters in the HI-STORM FW MPC system.
+        For these reasons, the NRC staff has concluded that the comments 
+    received on the companion proposed rule for the Holtec HI-STORM FW MPC 
+    Storage System listing within the ``List of approved spent fuel storage 
+    casks'' to add Amendment No. 0, Revision 1, to CoC No. 1032, are not 
+    significant adverse comments as defined in NUREG/BR-0053, Revision 6, 
+    ``United States Nuclear Regulatory Commission Regulations Handbook'' 
+    (ADAMS Accession No. ML052720461). Therefore, this rule will become 
+    effective as scheduled.
+    
+        Dated at Rockville, Maryland, this 31st day of December 2015.
+    
+        For the Nuclear Regulatory Commission.
+    Cindy Bladey,
+    Chief, Rules, Announcements, and Directives Branch, Division of 
+    Administrative Services, Office of Administration.
+    [FR Doc. 2016-163 Filed 1-8-16; 8:45 am]
+     BILLING CODE 7590-01-P
+    
+    
+    
+

@@ -1,0 +1,4 @@
+code used to convert html to text
+
+%done after reaching the target directory
+for i in $(echo *.html); do html2text $i > $(echo $i | sed -e 's#.html#.txt#g'); done

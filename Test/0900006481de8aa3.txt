@@ -1,0 +1,409 @@
+
+    [Federal Register Volume 81, Number 2 (Tuesday, January 5, 2016)]
+    [Rules and Regulations]
+    [Pages 147-150]
+    From the Federal Register Online via the Government Publishing Office [[www.gpo.gov](http://www.gpo.gov)]
+    [FR Doc No: 2015-33013]
+    
+    
+    -----------------------------------------------------------------------
+    
+    DEPARTMENT OF TRANSPORTATION
+    
+    Federal Aviation Administration
+    
+    14 CFR Part 39
+    
+    [Docket No. FAA-2014-0335; Directorate Identifier 2013-SW-021-AD; 
+    Amendment 39-18358; AD 2015-26-10]
+    RIN 2120-AA64
+    
+    
+    Airworthiness Directives; Sikorsky Aircraft Corporation 
+    Helicopters
+    
+    AGENCY: Federal Aviation Administration (FAA), DOT.
+    
+    ACTION: Final rule.
+    
+    -----------------------------------------------------------------------
+    
+    SUMMARY: We are adopting a new airworthiness directive (AD) for certain 
+    Sikorsky Aircraft Corporation (Sikorsky) Model S-76A, S-76B, and S-76C 
+    helicopters. This AD requires inspecting the main gearbox (MGB) lower 
+    housing jet bores for leaks, paint or caulk blistering, and liner 
+    protrusion. This AD was prompted by several reports of MGB low oil 
+    pressure warnings which were determined to be the result of unsecured 
+    jet bore liners that had protruded. The actions are intended to prevent 
+    failure of the MGB from loss of oil, which could result in subsequent 
+    loss of control of the helicopter.
+    
+    [[Page 148]]
+    
+    
+    DATES: This AD is effective February 9, 2016.
+        The Director of the Federal Register approved the incorporation by 
+    reference of a certain document listed in this AD as of February 9, 
+    2016.
+    
+    ADDRESSES: For service information identified in this final rule, 
+    contact Sikorsky Aircraft Corporation, Customer Service Engineering, 
+    124 Quarry Road, Trumbull, Connecticut 06611; telephone 1-800-Winged-S 
+    or 203-416-4299; email [sikorskywcs@sikorsky.com](mailto:sikorskywcs@sikorsky.com). You may review a copy 
+    of the referenced service information at the FAA, Office of the 
+    Regional Counsel, Southwest Region, 10101 Hillwood Pkwy., Room 6N-321, 
+    Fort Worth, Texas 76177.
+    
+    Examining the AD Docket
+    
+        You may examine the AD docket on the Internet at <http://www.regulations.gov> by searching for or locating Docket No. FAA-2014-
+    0335; or in person at the Docket Operations Office between 9 a.m. and 5 
+    p.m., Monday through Friday, except Federal holidays. The AD docket 
+    contains this AD, any incorporated-by-reference service information, 
+    the economic evaluation, any comments received, and other information. 
+    The street address for the Docket Operations Office (phone: 800-647-
+    5527) is U.S. Department of Transportation, Docket Operations Office, 
+    M-30, West Building Ground Floor, Room W12-140, 1200 New Jersey Avenue 
+    SE., Washington, DC 20590.
+    
+    FOR FURTHER INFORMATION CONTACT: Kirk Gustafson, Aviation Safety 
+    Engineer, Boston Aircraft Certification Office, Engine & Propeller 
+    Directorate, 12 New England Executive Park, Burlington, Massachusetts 
+    01803; telephone (781) 238-7190; email [kirk.gustafson@faa.gov](mailto:kirk.gustafson@faa.gov).
+    
+    SUPPLEMENTARY INFORMATION:
+    
+    Discussion
+    
+        On June 2, 2014, at 79 FR 31231, the Federal Register published our 
+    notice of proposed rulemaking (NPRM), which proposed to amend 14 CFR 
+    part 39 by adding an AD that would apply to Sikorsky Model S-76A, S-
+    76B, and S-76C helicopters with a MGB installed that has undergone 
+    certain repairs. The NPRM proposed to require, within 50 hours time-in-
+    service (TIS), inspecting the MGB for leaks, paint or caulk blistering, 
+    and liner protrusion. If there is oil leakage or protrusion of a jet 
+    bore liner, the NPRM proposed to require replacing the MGB before 
+    further flight. The NPRM also proposed to require, within 1,500 hours 
+    TIS, replacing the MGB with an MGB that was not subject to the 
+    applicability of the NPRM unless it had been repaired in accordance 
+    with a later overhaul and repair procedure.
+        The NPRM was prompted by four reports of protruding jet bore liners 
+    on Sikorsky S-76 helicopters with a MGB, part number (P/N) 76351-09000 
+    series, 76351-09500 series, and 76351-09600 series. During an overhaul 
+    of the MGB, the jet bore liner retaining pins were not adequately 
+    drilled into the liner, allowing the jet bore liner to move in the 
+    housing, because the overhaul and repair instruction (ORI) did not 
+    adequately describe procedures and housing wall thickness limitations 
+    for installing the retaining pins. Movement of the jet bore liner into 
+    the housing allows oil to leak between the liner and the housing, 
+    possibly resulting in loss of oil in the MGB, which could result in 
+    failure of the MGB and subsequent loss of control of the helicopter.
+        At the time we issued the NPRM, we understood these repairs had 
+    been made in accordance with Sikorsky ORI No. 76350-065, Revisions A 
+    through E. However, the incident MGBs had only been repaired in 
+    accordance with Sikorsky ORI No. 76350-065, Revision A or earlier. 
+    Sikorsky ORI 76350-065, Revisions B through F, resolve the unsafe 
+    condition by clarifying the retaining pin installation instructions. 
+    This AD now reflects that clarification.
+    
+    Comments
+    
+        After our NPRM (79 FR 31231, June 2, 2014) was published, we 
+    received comments from one commenter.
+    
+    Request
+    
+        Sikorsky stated the proposed requirement to overhaul the affected 
+    MGBs within 1,500 hours TIS is overly conservative because the daily 
+    visual inspection is adequate to ensure safety until the next overhaul 
+    period. Sikorsky further commented that the 1,500 hour compliance time 
+    would be burdensome to operators and not cost effective. When asked for 
+    additional information to support this comment, Sikorsky stated that 
+    its maintenance program has a major inspection, and not a MGB overhaul, 
+    every 1,500 hours. The major inspection does not require removal of the 
+    MGB. Overhaul of the MGB for Model S76A helicopters occurs every 3,250 
+    hours and for Model S76B/C helicopters occurs every 3,750 hours.
+        We agree. We intended the proposed requirement to provide a 
+    terminating action that coincides with overhaul of the MGB. We 
+    incorrectly understood the 1,500-hour major inspection involved 
+    removing the MGB from the helicopter. We agree that due to the gradual 
+    loss of oil, safety is maintained with the repetitive inspections until 
+    the MGB is replaced or overhauled when specified in the maintenance 
+    program. We have revised paragraph (e)(2) of this AD to require 
+    replacement of the MGB ``within 3,750 hours TIS'' instead of ``within 
+    1,500 hours TIS.''
+        Sikorsky also commented that limiting acceptable repairs to those 
+    performed in accordance with Sikorksy ORI 76350-065 Revision F was 
+    unnecessary because Revision B and subsequent revisions provide 
+    installation details that are structurally equivalent to Revision F. 
+    When asked for additional information to support this comment, Sikorsky 
+    stated the changes in Revision B clarified the pin retention 
+    instructions sufficiently to resolve the oil leakage issue. Although 
+    Revision F provides for the installation of an additional pin, Sikorsky 
+    stated that this is not a significant change. Sikorsky confirmed that 
+    all reports of oil leakage involved repairs using the procedures in 
+    Revision A or earlier.
+        We agree. We reexamined Sikorsky ORI No. 76350-065 and its 
+    revisions and found Revisions B through F structurally equivalent with 
+    only minor changes and improvements. We have changed paragraphs (a) and 
+    (e) of this AD to reference the appropriate revisions of Sikorsky ORI 
+    No. 76350-065.
+    
+    FAA's Determination
+    
+        We have reviewed the relevant information, considered the comments 
+    received, and determined that an unsafe condition exists and is likely 
+    to exist or develop on other products of these same type designs and 
+    that air safety and the public interest require adopting the AD 
+    requirements as proposed with the changes described previously. These 
+    changes are consistent with the intent of the proposals in the NPRM (79 
+    FR 31231, June 2, 2014), and will not increase the economic burden on 
+    any operator nor increase the scope of this AD.
+    
+    Related Service Information Under 1 CFR Part 51
+    
+        Sikorsky issued Alert Service Bulletin (ASB) 76-66-50, Basic Issue, 
+    dated January 14, 2013 (ASB 76-66-50) for Model S-76A, S-76B, and S-76C 
+    helicopters with an MGB P/N 76351-09000 series, 76351-09500 series, and 
+    76351-09600 series, which have been repaired in accordance with ORI No. 
+    76350-065 or ORI No. 76350-065, Revision A. ASB 76-66-50 describes 
+    procedures for inspecting each MGB lower housing jet bore for leaking 
+    oil, paint or caulk blistering, and liner protrusion. If there is any 
+    liner protrusion or leaking oil between the
+    
+    [[Page 149]]
+    
+    liner and the housing, the ASB requires replacing the MGB. If there is 
+    paint or caulk blistering, the ASB requires further inspecting for 
+    leaking oil by replacing the jet bore packing, performing a ground run 
+    of the main rotor for 30 minutes, and re-inspecting the jet bore for 
+    leaking oil.
+        This information is reasonably available because the interested 
+    parties have access to it through their normal course of business or by 
+    the means identified in the ADDRESSES section.
+    
+    Other Related Service Information
+    
+        We also reviewed Sikorsky ORI No. 76350-065, Revision B, dated June 
+    10, 2011; Revision C, dated June 27, 2011; Revision D, dated January 
+    20, 2012; Revision E, dated January 27, 2012; and Revision F, dated May 
+    10, 2012. This service information describes procedures for repairing 
+    the retaining ring groove areas of the MGB jet bores and installing 
+    retaining pins in the jet bore liners.
+    
+    Differences Between This AD and the Service Information
+    
+        The ASB specifies compliance by a specific calendar date, while the 
+    compliance time in this AD is in hours TIS. The ASB does not specify a 
+    terminating action for the recurring inspections of the MGB jet bores; 
+    while this AD does specify a terminating action for the recurring 
+    inspections.
+    
+    Costs of Compliance
+    
+        We estimate that this AD affects 53 helicopters of U.S. Registry. 
+    We estimate that operators may incur the following costs in order to 
+    comply with this AD. At an average labor rate of $85 per work-hour, 
+    inspecting the jet bore liners requires about 1.1 work-hours, for a 
+    cost per helicopter of $94 and a total cost to US operators of $4,982 
+    per inspection cycle. If required, repairing a jet bore liner requires 
+    about 14 work-hours, and required parts cost $200, for a cost per 
+    helicopter of $1,390. If required, replacing the MGB requires about 134 
+    work-hours, and required parts cost $994,000, for a cost per helicopter 
+    of $1,005,390.
+    
+    Authority for This Rulemaking
+    
+        Title 49 of the United States Code specifies the FAA's authority to 
+    issue rules on aviation safety. Subtitle I, section 106, describes the 
+    authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
+    describes in more detail the scope of the Agency's authority.
+        We are issuing this rulemaking under the authority described in 
+    Subtitle VII, Part A, Subpart III, Section 44701: ``General 
+    requirements.'' Under that section, Congress charges the FAA with 
+    promoting safe flight of civil aircraft in air commerce by prescribing 
+    regulations for practices, methods, and procedures the Administrator 
+    finds necessary for safety in air commerce. This regulation is within 
+    the scope of that authority because it addresses an unsafe condition 
+    that is likely to exist or develop on products identified in this 
+    rulemaking action.
+    
+    Regulatory Findings
+    
+        This AD will not have federalism implications under Executive Order 
+    13132. This AD will not have a substantial direct effect on the States, 
+    on the relationship between the national government and the States, or 
+    on the distribution of power and responsibilities among the various 
+    levels of government.
+        For the reasons discussed above, I certify that this AD:
+        (1) Is not a ``significant regulatory action'' under Executive 
+    Order 12866;
+        (2) Is not a ``significant rule'' under DOT Regulatory Policies and 
+    Procedures (44 FR 11034, February 26, 1979);
+        (3) Will not affect intrastate aviation in Alaska to the extent 
+    that it justifies making a regulatory distinction; and
+        (4) Will not have a significant economic impact, positive or 
+    negative, on a substantial number of small entities under the criteria 
+    of the Regulatory Flexibility Act.
+        We prepared an economic evaluation of the estimated costs to comply 
+    with this AD and placed it in the AD docket.
+    
+    List of Subjects in 14 CFR Part 39
+    
+        Air transportation, Aircraft, Aviation safety, Incorporation by 
+    reference, Safety.
+    
+    Adoption of the Amendment
+    
+        Accordingly, under the authority delegated to me by the 
+    Administrator, the FAA amends 14 CFR part 39 as follows:
+    
+    PART 39--AIRWORTHINESS DIRECTIVES
+    
+    0
+    1. The authority citation for part 39 continues to read as follows:
+    
+        Authority:  49 U.S.C. 106(g), 40113, 44701.
+    
+    
+    Sec.  39.13  [Amended]
+    
+    0
+    2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+    directive (AD):
+    
+    2015-26-10 Sikorsky Aircraft Corporation (Sikorsky): Amendment 39-
+    18358; Docket FAA-2014-0335; Directorate Identifier 2013-SW-021-AD.
+    
+    (a) Applicability
+    
+        This AD applies to Sikorsky Model S-76A, S-76B, and S-76C 
+    helicopters with a main gearbox (MGB) part number (P/N) 76351-09000 
+    series, 76351-09500 series, and 76351-09600 series installed that 
+    has been repaired in accordance with Sikorsky Overhaul and Repair 
+    Instruction (ORI) No. 76350-065, dated November 12, 1982 (ORI 76350-
+    065), or ORI No. 76350-065, Revision A, dated September 21, 1984 
+    (ORI 76350-065A), certificated in any category.
+    
+    (b) Unsafe Condition
+    
+        This AD defines the unsafe condition as an unsecured MGB lower 
+    housing jet bore liner. This condition may cause the liner to move 
+    out of place, allowing oil to leak from the MGB, resulting in MGB 
+    failure and subsequent loss of control of the helicopter.
+    
+    (c) Effective Date
+    
+        This AD becomes effective February 9, 2016.
+    
+    (d) Compliance
+    
+        You are responsible for performing each action required by this 
+    AD within the specified compliance time unless it has already been 
+    accomplished prior to that time.
+    
+    (e) Required Actions
+    
+        (1) Within 50 hours time-in-service (TIS), and thereafter at 
+    intervals not to exceed 6 hours TIS, inspect each MGB lower housing 
+    jet bore (jet bore), as depicted in Figures 3 and 4 of Sikorsky S-76 
+    Alert Service Bulletin 76-66-50, Basic Issue, dated January 14, 2013 
+    (ASB 76-66-50), for liner protrusion or movement, paint or caulk 
+    blistering, or oil leakage.
+        (i) If there is any liner protrusion or movement, before further 
+    flight, replace the MGB with an MGB that has not been repaired in 
+    accordance with ORI 76350-065 or ORI 76350-065A, unless it has been 
+    subsequently repaired in accordance with Sikorsky ORI No. 76350-065, 
+    Revision B, dated June 10, 2011 (ORI 76350-065B); Sikorsky ORI No. 
+    76350-065, Revision C, dated June 27, 2011 (ORI 76350-065C); 
+    Sikorsky ORI No. 76350-065, Revision D, dated January 20, 2012 (ORI 
+    76350-065D); Sikorsky ORI No. 76350-065, Revision E, dated January 
+    27, 2012 (ORI 76350-065E); or Sikorsky ORI No. 76350-065, Revision 
+    F, dated May 10, 2012 (ORI 76350-065F).
+        (ii) If there is any oil leakage or paint or caulk blistering, 
+    inspect the jet bore for liner protrusion and perform a leakage 
+    check by following the Accomplishment Instructions, Paragraphs 
+    3.C.(1) through 3.C.(6)(a), of ASB 76-66-50.
+        (iii) If any moisture or droplets of MGB oil are visible on a 
+    jet bore after accomplishing the leakage check specified in 
+    paragraph 3.C.(6)(a) of ASB 76-66-50, repeat paragraphs 3.C(4) 
+    through 3.C(6) of ASB 76-66-50. If any moisture or droplets of MGB 
+    oil are still visible, before further flight, replace the MGB with 
+    an MGB that has not been repaired in accordance with ORI 76350-065 
+    or ORI 76350-065A, unless it has been subsequently repaired in 
+    accordance with ORI 76350-065B, ORI 76350-065C, ORI 76350-065D, ORI 
+    76350-065E, or ORI 76350-065F.
+    
+    [[Page 150]]
+    
+        (2) Within 3,750 hours TIS, replace the MGB with an MGB that has 
+    not been repaired in accordance with ORI 76350-065 or ORI 76350-
+    065A, unless it has been subsequently repaired in accordance with 
+    ORI 76350-065B, ORI 76350-065C, ORI 76350-065D, ORI 76350-065E, or 
+    ORI 76350-065F. This is terminating action for the repetitive 
+    inspections required by this AD.
+    
+    (f) Alternative Methods of Compliance (AMOCs)
+    
+        (1) The Manager, Boston Aircraft Certification Office, FAA, may 
+    approve AMOCs for this AD. Send your proposal to: Kirk Gustafson, 
+    Aviation Safety Engineer, Boston Aircraft Certification Office, 
+    Engine & Propeller Directorate, 12 New England Executive Park, 
+    Burlington, Massachusetts 01803; telephone (781) 238-7190; email 
+    [kirk.gustafson@faa.gov](mailto:kirk.gustafson@faa.gov).
+        (2) For operations conducted under a 14 CFR part 119 operating 
+    certificate or under 14 CFR part 91, subpart K, we suggest that you 
+    notify your principal inspector, or lacking a principal inspector, 
+    the manager of the local flight standards district office or 
+    certificate holding district office before operating any aircraft 
+    complying with this AD through an AMOC.
+    
+    (g) Additional Information
+    
+        Sikorsky Overhaul and Repair Instruction No. 76350-065, dated 
+    November 12, 1982; Revision A, dated September 21, 1984; Revision B, 
+    dated June 10, 2011; Revision C, dated June 27, 2011; Revision D, 
+    dated January 20, 2012; Revision E, dated January 27, 2012; and 
+    Revision F, dated May 10, 2012, which are not incorporated by 
+    reference, contain additional information about the subject of this 
+    AD. You may review a copy of this service information at the FAA, 
+    Office of the Regional Counsel, Southwest Region, 10101 Hillwood 
+    Pkwy., Room 6N-321, Fort Worth, Texas 76177.
+    
+    (h) Subject
+    
+        Joint Aircraft Service Component (JASC) Code: 6320, Main Rotor 
+    Gearbox.
+    
+    (i) Material Incorporated by Reference
+    
+        (1) The Director of the Federal Register approved the 
+    incorporation by reference of the service information listed in this 
+    paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+        (2) You must use this service information as applicable to do 
+    the actions required by this AD, unless the AD specifies otherwise.
+        (i) Sikorsky S-76 Alert Service Bulletin 76-66-50, Basic Issue, 
+    dated January 14, 2013.
+        (ii) Reserved.
+        (3) For Sikorsky service information identified in this final 
+    rule, contact Sikorsky Aircraft Corporation, Customer Service 
+    Engineering, 124 Quarry Road, Trumbull, Connecticut 06611; telephone 
+    1-800-Winged-S or 203-416-4299; email [sikorskywcs@sikorsky.com](mailto:sikorskywcs@sikorsky.com).
+        (4) You may view this service information at FAA, Office of the 
+    Regional Counsel, Southwest Region, 10101 Hillwood Pkwy., Room 6N-
+    321, Fort Worth, Texas 76177. For information on the availability of 
+    this material at the FAA, call (817) 222-5110.
+        (5) You may view this service information that is incorporated 
+    by reference at the National Archives and Records Administration 
+    (NARA). For information on the availability of this material at 
+    NARA, call (202) 741-6030, or go to: <http://www.archives.gov/federal-register/cfr/ibr-locations.html>.
+    
+        Issued in Fort Worth, Texas, on December 23, 2015.
+    John Hardie,
+    Acting Manager, Rotorcraft Directorate, Aircraft Certification Service.
+    [FR Doc. 2015-33013 Filed 1-4-16; 8:45 am]
+     BILLING CODE 4910-13-P
+    
+    
+    
+

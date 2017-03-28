@@ -1,0 +1,237 @@
+
+    [Federal Register Volume 81, Number 6 (Monday, January 11, 2016)]
+    [Rules and Regulations]
+    [Pages 1118-1120]
+    From the Federal Register Online via the Government Publishing Office [[www.gpo.gov](http://www.gpo.gov)]
+    [FR Doc No: 2015-32958]
+    
+    
+    =======================================================================
+    -----------------------------------------------------------------------
+    
+    DEPARTMENT OF COMMERCE
+    
+    National Oceanic and Atmospheric Administration
+    
+    15 CFR Part 950
+    
+    [Docket No. 150202106-5999-03]
+    RIN 0648-BE86
+    
+    
+    Schedule of Fees for Access to NOAA Environmental Data, 
+    Information, and Related Products and Services; Correction
+    
+    AGENCY: National Environmental Satellite, Data and Information Service 
+    (NESDIS), National Oceanic and Atmospheric Administration (NOAA), 
+    Department of Commerce.
+    
+    ACTION: Final rule; correcting amendment.
+    
+    -----------------------------------------------------------------------
+    
+    SUMMARY: This action corrects the NESDIS FY 2016 schedule of fees for 
+    the sale of its data, information, and related products and services to 
+    users. NESDIS is authorized under the United States Code to assess 
+    fees, up to fair market value, for access to environmental data, 
+    information, and products derived from, collected, and/or archived by 
+    NOAA. This action corrects one user fee, titled the Department of 
+    Commerce Certification. In the October 22, 2015, final rule, the fee 
+    was incorrectly listed as $16.00. The correct user fee should be 
+    $116.00.
+    
+    DATES: Effective January 11, 2016.
+    
+    FOR FURTHER INFORMATION CONTACT: James Lewis (301) 713-7073.
+    
+    SUPPLEMENTARY INFORMATION: 
+    
+    Background
+    
+        NESDIS operates NOAA's National Center for Environmental 
+    Information (NCEI). Through NCEI, NESDIS provides and ensures timely 
+    access to global environmental data from satellites and other sources, 
+    provides information services, and develops science products. NESDIS 
+    maintains some 1,300 databases containing over 2,400 environmental 
+    variables at NCEI and seven World Data Centers. These centers respond 
+    to over 2,000,000 requests for these data and products annually from 
+    over 70 countries. This collection of environmental data and products 
+    is growing rapidly, both in size and sophistication, and as a result 
+    the associated costs have increased.
+        Users have the ability to access the data offline, online and 
+    through the NESDIS e-Commerce System (NeS) online store. Our ability to 
+    provide data, information, products and services depends on user fees.
+    
+    New Fee Schedule
+    
+        In an October 22, 2015, final rule (80 FR 63914), NESDIS 
+    established a new schedule of fees for the sale of its data, 
+    information, and related products and services to users (``October 2015 
+    Fee Schedule Rule''). NESDIS revised the fee schedule that has been in 
+    effect since 2013 to ensure that the fees accurately reflect the costs 
+    of providing access to the environmental data, information, and related 
+    products and services. The new fee schedule lists both the current fee 
+    charged for each item and the new fee to be charged to users that took 
+    effect beginning November 23, 2015. The schedule applies to the listed 
+    services provided by NESDIS on or after this date, except for products 
+    and services covered by a subscription agreement in effect as of this 
+    date that extends beyond this date. In those cases, the increased fees 
+    will apply upon renewal of the subscription agreement or at the 
+    earliest amendment date provided by the agreement.
+        NESDIS will continue to review the user fees periodically, and will 
+    revise such fees as necessary. Any future changes in the user fees and 
+    their effective date will be announced through notice in the Federal 
+    Register.
+    
+    Need for Correction
+    
+        The October 2015 Fee Schedule Rule contains one fee--which appears 
+    in a table in Appendix A to Part 950--that was reported incorrectly. 
+    The Department of Commerce Certification Fee was listed as $16.00. The 
+    last rule had the rate incorrectly listed. The correct fee for this 
+    service is $116.00. We now are setting out the entire table with the 
+    corrected fee to provide clarity for the public.
+    
+    Classification
+    
+        The correction this action makes is minor and merely updates a 
+    typographical error within the original final rule. This rule has been 
+    determined to be not significant for purposes of E.O. 12866.
+        The provisions of the Administrative Procedure Act (5 U.S.C. 553) 
+    requiring notice of proposed rulemaking and the opportunity for public 
+    comment are inapplicable because this rule falls within the public 
+    property exception of subparagraph (a)(2) of section 553, as it relates 
+    only to the assessment of fees, as authorized by 15 U.S.C. 1534, that 
+    accurately reflect the costs of providing access to publicly available 
+    environmental data, information, and related products. Further, no 
+    other law requires that a notice of proposed rulemaking and an 
+    opportunity for
+    
+    [[Page 1119]]
+    
+    public comment be given for this rule. Because a notice of proposed 
+    rulemaking and an opportunity for public comment are not required to be 
+    given for this rule under 5 U.S.C. 553 or by any other law, the 
+    requirements of the Regulatory Flexibility Act (5 U.S.C. 601 et seq.) 
+    are not applicable. Accordingly, no Regulatory Flexibility Analysis is 
+    required and none has been prepared.
+    
+    List of Subjects in 15 CFR Part 950
+    
+        Organization and functions (Government agencies).
+    
+        Dated: December 17, 2015.
+    Cherish Johnson,
+    Chief, Financial Officer (CFO/CAO).
+    
+        For the reasons set forth above, 15 CFR part 950 is corrected by 
+    making the following correcting amendment:
+    
+    PART 950--ENVIRONMENTAL DATA AND INFORMATION
+    
+    0
+    1. The authority citation for part 950 continues to read as follows:
+    
+        Authority: (5 U.S.C. 552, 553). Reorganization Plan No. 4 of 
+    1970.
+    
+    
+    0
+    2. Appendix A to part 950 is revised to read as follows:
+    
+    Appendix A to Part 950--Schedule of User Fees for Access to NOAA 
+    Environmental Data
+    
+    ------------------------------------------------------------------------
+        Name of product/Data/Publication/
+               Information/Service              Current fee       New fee
+    ------------------------------------------------------------------------
+    NOAA National Center for Environmental
+     Information:
+        Department of Commerce Certification          $86.00         $116.00
+        General Certification...............           72.00           92.00
+        Paper Copy..........................            2.00            3.00
+        Data Poster.........................           18.00           18.00
+        Shipping Service....................            4.00            8.00
+        Rush Order Fee......................           60.00           60.00
+        Super Rush Order Fee................          100.00          100.00
+        Foreign Handling Fee................           67.00           43.00
+        NEXRAD Doppler Radar Color Prints...           14.00           21.00
+        Paper Copy from Electronic Media....            6.00            8.00
+        Offline In-Situ Digital Data........          124.00          175.00
+        Microfilm Copy (roll to paper) per             14.00           20.00
+         frame from existing film...........
+        Satellite Image Product.............           73.00           92.00
+        Offline Satellite, Radar, and Model           615.00          753.00
+         Digital Data (average unit size is
+         1 terabyte)........................
+        Conventional CD-ROM/DVD.............           60.00          110.00
+        Specialized CD-ROM/DVD..............          131.00          208.00
+        CD-ROM/DVD Copy, Offline............           30.00           43.00
+        CD-ROM/DVD Copy, Online Store.......           15.00           16.00
+        Facsimile Service...................           78.00           89.00
+        Order Handling......................            8.00           11.00
+        Non-Digital Order Consultation......            6.00           10.00
+        Digital Order Consultation..........           18.00           28.00
+        Non-Serial Publications.............           27.00           32.00
+        Non-Standard Data; Select/Copy to              59.00           77.00
+         CD, DVD or Electronic Transfer,
+         Specialized, Offline...............
+        Digital and Non-Digital Off-the-                9.00           13.00
+         Shelf Products, Online.............
+        Digital and Non-Digital Off-the-               11.00           17.00
+         Shelf Products, Offline............
+        Order Consultation Fee..............            2.00            4.00
+        Handling and Packing Fee............            8.00           12.00
+        World Ocean Database-World Ocean               15.00             (*)
+         Atlas 2009 DVDs....................
+        Mini Poster.........................            1.00            2.00
+        Icosahedron Globe...................            1.00            1.00
+        Convert Data to Standard Image......            6.00            8.00
+        Single Orbit OLS & Subset...........           18.00           19.00
+        Single Orbit OLS & Subset,                      5.00            6.00
+         Additional Orbits..................
+        Geolocated Data.....................           47.00           50.00
+        Subset of Pre-existing Geolocated              28.00           32.00
+         Data...............................
+        Global Nighttime Lights Annual             74,032.00       74,924.00
+         Composite from One Satellite.......
+        Most Recent DMSP-OLS Thermal Band/            259.00             (*)
+         Cloud Cover Mosaics from Multiple
+         Satellites.........................
+        Daily or Nightly Global Mosaics               241.00          332.00
+         (visible & thermal band, single
+         spectral band or environmental
+         data)..............................
+        Global Nighttime Lights Lunar Cycle.        6,531.00        8,259.00
+        Radiance Calibrated Global DMSP-OLS        82,075.00             (*)
+         Nighttime Lights Annual Composite
+         from One Satellite.................
+        Research Data Series CD-ROM/DVD.....           25.00           25.00
+        Custom Analog Plotter Prints........           60.00             (*)
+        NOS Bathymetric Maps and                        7.00            8.00
+         Miscellaneous Archived Publication
+         Inventory..........................
+        Global Annual Composite of Nighttime        8,305.00       10,794.00
+         Lights in Monthly Increments From
+         One Satellite......................
+        High Definition Geomagnetic Model...       20,060.00       20,262.00
+        Provision of Global Nighttime VIIRS   ..............       55,727.00
+         day/night band data in geotiff
+         format.............................
+        Provision of Global Nighttime VIIRS   ..............       27,888.00
+         day/night band data in HDF5 Format.
+        Provision of regional data from the   ..............      14,306.00
+         VIIRS instrument on a daily basis..
+    ------------------------------------------------------------------------
+    * Reflects a product no longer offered.
+    
+    
+    [[Page 1120]]
+    
+    [FR Doc. 2015-32958 Filed 1-8-16; 8:45 a.m.]
+     BILLING CODE 3510-22-P
+    
+    
+    
+
